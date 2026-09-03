@@ -1,1 +1,6668 @@
-(function(_0x4b6feb,_0x33d406){const _0x53c24d={_0x5b8cd0:0x1a6,_0x2e2d75:0x1d7,_0x5d54c7:0x1ae,_0x38fb87:0x1cc,_0x4a9919:0x1b0,_0x455f1f:0x1ce,_0x4f122f:0xab,_0x5ca31d:0xff,_0x333de6:0x209,_0x14de9a:0xda,_0x3226c7:0x10e,_0x10b3fa:0x109,_0x372c42:0x85};function _0x2bf3fd(_0x5ad892,_0x4d9399){return _0x243a(_0x5ad892- -0x34a,_0x4d9399);}const _0x5f1a8a=_0x4b6feb();function _0x3b5f3a(_0x23012b,_0x57585d){return _0x243a(_0x23012b- -0x99,_0x57585d);}while(!![]){try{const _0x172375=-parseInt(_0x2bf3fd(-_0x53c24d._0x5b8cd0,-0x169))/0x1*(parseInt(_0x2bf3fd(-0x1aa,-0x1e5))/0x2)+parseInt(_0x2bf3fd(-0x240,-0x233))/0x3*(parseInt(_0x2bf3fd(-0x210,-_0x53c24d._0x2e2d75))/0x4)+parseInt(_0x2bf3fd(-0x1cd,-_0x53c24d._0x5d54c7))/0x5*(-parseInt(_0x2bf3fd(-0x1dd,-0x19c))/0x6)+-parseInt(_0x2bf3fd(-_0x53c24d._0x38fb87,-0x1f9))/0x7+-parseInt(_0x2bf3fd(-_0x53c24d._0x4a9919,-_0x53c24d._0x455f1f))/0x8*(parseInt(_0x3b5f3a(_0x53c24d._0x4f122f,_0x53c24d._0x5ca31d))/0x9)+parseInt(_0x2bf3fd(-_0x53c24d._0x333de6,-0x248))/0xa*(-parseInt(_0x3b5f3a(_0x53c24d._0x14de9a,0xbd))/0xb)+-parseInt(_0x3b5f3a(_0x53c24d._0x3226c7,_0x53c24d._0x10b3fa))/0xc*(-parseInt(_0x3b5f3a(_0x53c24d._0x372c42,0x2e))/0xd);if(_0x172375===_0x33d406)break;else _0x5f1a8a['push'](_0x5f1a8a['shift']());}catch(_0x38da43){_0x5f1a8a['push'](_0x5f1a8a['shift']());}}}(_0x5da2,0xdfe81));const _0x521acc=(function(){const _0x1ada10={_0x1f59ef:0x290,_0x3a603e:0x1f8,_0x123d18:0x113,_0x2019e7:0x12d,_0x4470a1:0x126},_0x572b2d={_0x6a96c7:0x477,_0x10dcbc:0x405,_0x3f0f27:0x40b};let _0x2d2e83=!![];return function(_0xd17294,_0x249e9a){function _0x5ae7ff(_0x170830,_0x18dfbc){return _0x243a(_0x170830- -0x54,_0x18dfbc);}function _0x276fe7(_0x413406,_0x28bc58){return _0x243a(_0x28bc58- -0x3b2,_0x413406);}if(_0x276fe7(-_0x1ada10._0x1f59ef,-0x239)!==_0x276fe7(-_0x1ada10._0x3a603e,-0x239))void 0x0!==_0x17c18c[_0x276fe7(-0x24b,-0x238)]&&void 0x0!==_0x1fb617[_0x5ae7ff(_0x1ada10._0x123d18,_0x1ada10._0x2019e7)]?_0x4a0efb(_0x1732ff[_0x5ae7ff(_0x1ada10._0x4470a1,0x141)],_0x5412e7['warehousePlace'],_0x31a26e):_0x3dbcba(_0x39d7b9);else{const _0x56377d=_0x2d2e83?function(){function _0x367873(_0x5e4b46,_0x382a73){return _0x243a(_0x5e4b46-0x3a1,_0x382a73);}function _0x2f9be6(_0x106bda,_0x70759d){return _0x243a(_0x70759d-0x302,_0x106bda);}if(_0x249e9a){if(_0x367873(0x4e7,0x4c9)===_0x2f9be6(_0x572b2d._0x6a96c7,0x448)){const _0x33c20b=_0x249e9a[_0x367873(0x4eb,0x4d0)](_0xd17294,arguments);return _0x249e9a=null,_0x33c20b;}else _0x80bd50=_0x4fc134,_0x2970f7?_0x51cb61(_0x18dd52[_0x2f9be6(_0x572b2d._0x10dcbc,_0x572b2d._0x3f0f27)][_0x1ea9d0]):_0xb615d4(!0x1);}}:function(){};return _0x2d2e83=![],_0x56377d;}};}()),_0x16dbb8=_0x521acc(this,function(){const _0x389747={_0x4d59ed:0x9a,_0xbec6c8:0x8a,_0x378473:0x6f},_0x13ee0b={_0x3ac2a5:0xb3},_0x56fd70={_0x1b6a4d:0x19e};function _0x33ecf7(_0xe62335,_0x4517f8){return _0x243a(_0xe62335- -_0x56fd70._0x1b6a4d,_0x4517f8);}function _0x4c1dbd(_0x4975bd,_0x1af5b4){return _0x243a(_0x4975bd- -_0x13ee0b._0x3ac2a5,_0x1af5b4);}return _0x16dbb8[_0x4c1dbd(0x70,0x24)]()[_0x4c1dbd(0x6f,_0x389747._0x4d59ed)](_0x33ecf7(-0x15,0x22))['toString']()[_0x4c1dbd(_0x389747._0xbec6c8,0x4a)](_0x16dbb8)[_0x4c1dbd(_0x389747._0x378473,0x82)](_0x33ecf7(-0x15,-0x18));});_0x16dbb8();let second_cam,last_cam=null;function SwitchCamVector(_0x14dfd8){const _0x8b5b43={_0x718a58:0x43f,_0x285423:0x2f1,_0x2374d9:0x4b4,_0x59e9c6:0x473,_0x281167:0x469,_0x140c1b:0x448,_0x52c8ca:0x304,_0x44e6d1:0x301,_0xcf2baa:0x4ec,_0x55caa4:0x527,_0x58cd6d:0x4c4,_0x4c0aac:0x2c1,_0x1701a3:0x29e,_0x574aab:0x2c9,_0x42c799:0x24f,_0xf9f7e6:0x27e,_0x1ef8ba:0x310,_0x1ebaf5:0x4c9,_0x28d114:0x46f,_0x3abb4b:0x295,_0x35e93a:0x28a,_0x402ebd:0x443,_0x43e0e0:0x285,_0x51f36c:0x2a3,_0x5d2029:0x221,_0x2d1529:0x262};function _0x4d82f3(_0x5e0c10,_0x202564){return _0x243a(_0x5e0c10-0x33c,_0x202564);}function _0x422d26(_0x455585,_0x1dfde2){return _0x243a(_0x1dfde2-0x151,_0x455585);}localplayer[_0x4d82f3(_0x8b5b43._0x718a58,0x450)](!0x0),null!=localcamera&&(localcamera[_0x422d26(_0x8b5b43._0x285423,0x2b1)](),localcamera=null),null!=second_cam&&(second_cam[_0x422d26(0x2f1,0x2b1)](),second_cam=null),null!=last_cam&&last_cam!=_0x14dfd8&&(second_cam=mp[_0x422d26(0x2d6,0x29e)][_0x4d82f3(_0x8b5b43._0x2374d9,_0x8b5b43._0x59e9c6)](_0x4d82f3(_0x8b5b43._0x281167,_0x8b5b43._0x140c1b),new mp[(_0x422d26(_0x8b5b43._0x52c8ca,_0x8b5b43._0x44e6d1))](CamFocuses[campos][last_cam][0x0],CamFocuses[campos][last_cam][0x1],CamFocuses[campos][last_cam][0x2]),new mp[(_0x4d82f3(_0x8b5b43._0xcf2baa,_0x8b5b43._0x55caa4))](0x0,0x0,0x0),0x28),second_cam[_0x4d82f3(0x47a,_0x8b5b43._0x58cd6d)](CamFocuses[campos][last_cam][0x3],CamFocuses[campos][last_cam][0x4],CamFocuses[campos][last_cam][0x5])),localcamera=mp[_0x422d26(_0x8b5b43._0x4c0aac,_0x8b5b43._0x1701a3)][_0x422d26(_0x8b5b43._0x574aab,0x2c9)](_0x422d26(_0x8b5b43._0x42c799,_0x8b5b43._0xf9f7e6),new mp[(_0x422d26(_0x8b5b43._0x1ef8ba,0x301))](CamFocuses[campos][_0x14dfd8][0x0],CamFocuses[campos][_0x14dfd8][0x1],CamFocuses[campos][_0x14dfd8][0x2]),new mp[(_0x4d82f3(_0x8b5b43._0xcf2baa,_0x8b5b43._0x1ebaf5))](0x0,0x0,0x0),0x28),localcamera[_0x4d82f3(0x47a,_0x8b5b43._0x28d114)](CamFocuses[campos][_0x14dfd8][0x3],CamFocuses[campos][_0x14dfd8][0x4],CamFocuses[campos][_0x14dfd8][0x5]),localcamera[_0x422d26(0x31e,0x2db)](!0x0),null!=last_cam&&last_cam!=_0x14dfd8?(localcamera[_0x422d26(_0x8b5b43._0x3abb4b,_0x8b5b43._0x35e93a)](second_cam[_0x4d82f3(_0x8b5b43._0x402ebd,0x411)],0x3e8,0x0,0x0),mp[_0x422d26(0x2c7,_0x8b5b43._0x43e0e0)][_0x4d82f3(0x44d,0x415)][_0x4d82f3(_0x8b5b43._0x59e9c6,0x43d)](!0x0,!0x1,0x0,!0x1,!0x1),0x0==campos?localplayer['setRotation'](0x0,0x0,354.6534118652344,0x2,!0x0):0x1==campos&&localplayer['setRotation'](0x0,0x0,118.65088653564453,0x2,!0x0)):mp[_0x422d26(_0x8b5b43._0x51f36c,0x285)][_0x422d26(_0x8b5b43._0x5d2029,_0x8b5b43._0x2d1529)][_0x4d82f3(_0x8b5b43._0x59e9c6,0x4b9)](!0x0,!0x0,0x0,!0x0,!0x0),last_cam=_0x14dfd8;}function SetClothesShopOutfit(_0x1fd6db,_0x365379,_0x125d7c,_0x8d1501=!0x1){const _0x18783e={_0x109a3a:0xae,_0xba05b4:0x36e,_0x87a1f9:0x378},_0x414317={_0x203f04:0x20d};function _0x1b705a(_0x4e10d8,_0x39cc0e){return _0x243a(_0x39cc0e- -0x243,_0x4e10d8);}function _0x294c6a(_0x540a81,_0x262b6f){return _0x243a(_0x540a81-_0x414317._0x203f04,_0x262b6f);}mp[_0x1b705a(-0xcb,-_0x18783e._0x109a3a)][_0x294c6a(_0x18783e._0xba05b4,_0x18783e._0x87a1f9)](_0x294c6a(0x3b2,0x3b0),_0x1fd6db,_0x365379,_0x125d7c,_0x8d1501);}global[_0x44680f(0x3b0,0x374)]=!0x1,global[_0x4d8ca0(0x2df,0x2b5)]=function(){const _0x3a6553={_0x471d18:0x2cf,_0x457ab5:0x17a,_0x190ddf:0x1d0,_0x52c04f:0x1ac},_0x23e574={_0x538616:0x19b},_0x567ed1={_0x4670a3:0x1a};function _0x1cd95a(_0x37f51c,_0x55d087){return _0x243a(_0x37f51c-_0x567ed1._0x4670a3,_0x55d087);}function _0x1c68e9(_0x3eac89,_0x26f2fb){return _0x243a(_0x3eac89-_0x23e574._0x538616,_0x26f2fb);}InClothesShop&&loggedin&&!chatActive&&(CloseClothesMenu(),mp[_0x1c68e9(_0x3a6553._0x471d18,0x2e6)][_0x1c68e9(0x2ac,0x25a)][_0x1cd95a(0x151,0x1a7)](!0x1,!0x0,0x7d0,!0x0,!0x1),localcamera&&(localcamera[_0x1cd95a(_0x3a6553._0x457ab5,0x1bd)](),localcamera=void 0x0),InteractiveCamera[_0x1cd95a(0x175,0x180)](),InClothesShop=!0x1,mp[_0x1cd95a(0x1af,_0x3a6553._0x190ddf)][_0x1cd95a(0x17b,_0x3a6553._0x52c04f)](_0x1cd95a(0x14c,0x100)),HintClose());};const Jew_CamFocuses=[[-625.249267578125,-225.2531280517578,38.77696990966797,-624.9817504882812,-224.25254821777344,38.41535949707031],[-624.1485595703125,-224.44760131835938,38.09893035888672,-624.5930786132812,-224.12164306640625,38.06435775756836],[-625.024,-224.57,38.702,-624.957,-224.247,38.702]];global[_0x4d8ca0(0x289,0x253)]=!0x1;let jew_mod=0x0;const male_top_offset=0x0,male_legs_offset=0x0,male_boots_offset=0x0,female_top_offset=0x0,female_legs_offset=0x0,female_boots_offset=0x0;function SwitchJewCamVector(_0x5e4e58){const _0x10ecfc={_0x2cb790:0x103,_0xb33613:0xc8,_0x5409f4:0x403,_0x574fe5:0x428,_0x124b7e:0xd8,_0x13b017:0x43e,_0x351fe3:0x410,_0x4fd9ba:0xb9,_0x5cf9b0:0x129,_0xfc014:0x42d,_0x3ef275:0x3dc,_0x131fbc:0x418,_0x4223a3:0xf5,_0x51c6a0:0xcf,_0x4a42a3:0xea,_0x5622a5:0xa0,_0x572cc3:0xbd,_0x4aa1c9:0x98,_0x19599c:0x3da},_0x50a777={_0x316b7d:0x2a3};function _0x1a9257(_0x45f813,_0xb8db7c){return _0x243a(_0x45f813- -0x206,_0xb8db7c);}function _0x2db6a8(_0xabbee6,_0xddff02){return _0x243a(_0xabbee6-_0x50a777._0x316b7d,_0xddff02);}localplayer[_0x1a9257(-_0x10ecfc._0x2cb790,-_0x10ecfc._0xb33613)](!0x0),null!=localcamera&&(localcamera[_0x1a9257(-0xa6,-0xb9)](),localcamera=null),null!=second_cam&&(second_cam[_0x2db6a8(_0x10ecfc._0x5409f4,_0x10ecfc._0x574fe5)](),second_cam=null),null!=last_cam&&last_cam!=_0x5e4e58&&(second_cam=mp[_0x1a9257(-0xb9,-_0x10ecfc._0x124b7e)][_0x2db6a8(0x41b,_0x10ecfc._0x13b017)](_0x1a9257(-0xd9,-0xb5),new mp['Vector3'](Jew_CamFocuses[last_cam][0x0],Jew_CamFocuses[last_cam][0x1],Jew_CamFocuses[last_cam][0x2]),new mp[(_0x2db6a8(0x453,0x41d))](0x0,0x0,0x0),0x28),second_cam[_0x2db6a8(0x3e1,_0x10ecfc._0x351fe3)](Jew_CamFocuses[last_cam][0x3],Jew_CamFocuses[last_cam][0x4],Jew_CamFocuses[last_cam][0x5])),localcamera=mp[_0x1a9257(-_0x10ecfc._0x4fd9ba,-0xff)][_0x1a9257(-0x8e,-0x5c)](_0x1a9257(-0xd9,-_0x10ecfc._0x5cf9b0),new mp[(_0x1a9257(-0x56,-0xa0))](Jew_CamFocuses[_0x5e4e58][0x0],Jew_CamFocuses[_0x5e4e58][0x1],Jew_CamFocuses[_0x5e4e58][0x2]),new mp[(_0x2db6a8(0x453,0x417))](0x0,0x0,0x0),0x28),localcamera[_0x2db6a8(0x3e1,0x38b)](Jew_CamFocuses[_0x5e4e58][0x3],Jew_CamFocuses[_0x5e4e58][0x4],Jew_CamFocuses[_0x5e4e58][0x5]),localcamera[_0x2db6a8(_0x10ecfc._0xfc014,0x412)](!0x0),null!=last_cam&&last_cam!=_0x5e4e58?(localcamera[_0x2db6a8(_0x10ecfc._0x3ef275,_0x10ecfc._0x131fbc)](second_cam[_0x1a9257(-0xff,-0xe8)],0x3e8,0x0,0x0),mp[_0x1a9257(-0xd2,-0xb5)][_0x1a9257(-_0x10ecfc._0x4223a3,-0x131)][_0x1a9257(-_0x10ecfc._0x51c6a0,-_0x10ecfc._0x4a42a3)](!0x0,!0x1,0x0,!0x1,!0x1),localplayer[_0x1a9257(-_0x10ecfc._0x5622a5,-_0x10ecfc._0x572cc3)](0x0,0x0,166.254,0x2,!0x0)):mp[_0x1a9257(-0xd2,-_0x10ecfc._0x4aa1c9)][_0x2db6a8(0x3b4,0x3fe)][_0x2db6a8(_0x10ecfc._0x19599c,0x3a3)](!0x0,!0x0,0x7d0,!0x0,!0x0),last_cam=_0x5e4e58;}function _0x44680f(_0x53039e,_0x5a2a81){const _0xc9f324={_0x235511:0x297};return _0x243a(_0x53039e-_0xc9f324._0x235511,_0x5a2a81);}function GetRendersForClothes(_0x37615a){const _0x1ac240={_0x11aa73:0x105,_0x557b08:0x14a,_0x11b3fc:0x159,_0x5e091d:0xf8,_0x4b7114:0x10b,_0x5072b6:0xce,_0x2ea2a2:0x105,_0x730602:0x116,_0xa42a09:0x218,_0x48cdb4:0x233,_0xe664c3:0x102,_0x4d9c83:0xac,_0x3e24a4:0x1ef,_0x3ea74c:0x1c2,_0x16ae6b:0x121,_0x54b872:0xaa,_0x282133:0x1f0,_0x487c29:0x225,_0x1f5e49:0xdc,_0x3e285a:0xcc,_0x8d3bd5:0x1d6,_0x54bd04:0x1ca,_0x2455ec:0x1e9,_0x592748:0x131,_0x12fa6b:0x218,_0x24dcae:0x205,_0x42c0d6:0xc6,_0x16f836:0xd3,_0x9881a5:0xb5},_0x25a299={_0x185167:0x7a},_0x5de19c={_0x37e540:0x36e};let _0x4d273b='';function _0x3b7c8f(_0x10e34e,_0xf8deaa){return _0x243a(_0x10e34e- -_0x5de19c._0x37e540,_0xf8deaa);}function _0x8695ea(_0x2055e0,_0x23133d){return _0x243a(_0x2055e0- -_0x25a299._0x185167,_0x23133d);}return InventoryItems[_0x37615a[0x0][_0x8695ea(_0x1ac240._0x11aa73,_0x1ac240._0x557b08)]][0x8]>0x0&&(_0x4d273b=0x0==InventoryItems[_0x37615a[0x0][_0x8695ea(0x105,_0x1ac240._0x11b3fc)]][0x9]?_0x3b7c8f(-0x1f7,-0x208):_0x8695ea(_0x1ac240._0x5e091d,0x147),_0x37615a[0x0][_0x8695ea(_0x1ac240._0x4b7114,_0x1ac240._0x5072b6)]=_0x4d273b+InventoryItems[_0x37615a[0x0][_0x8695ea(_0x1ac240._0x2ea2a2,_0x1ac240._0x730602)]][0x8]+'_'+_0x37615a[0x0][_0x3b7c8f(-_0x1ac240._0xa42a09,-_0x1ac240._0x48cdb4)]+_0x8695ea(_0x1ac240._0xe664c3,_0x1ac240._0x4d9c83)),InventoryItems[_0x37615a[0x1][_0x3b7c8f(-_0x1ac240._0x3e24a4,-_0x1ac240._0x3ea74c)]][0x8]>0x0&&(_0x4d273b=0x0==InventoryItems[_0x37615a[0x1][_0x8695ea(0x105,_0x1ac240._0x16ae6b)]][0x9]?_0x8695ea(0xe8,_0x1ac240._0x54b872):_0x8695ea(0x8b,0xb5),_0x37615a[0x1][_0x3b7c8f(-0x1e9,-_0x1ac240._0x282133)]=_0x4d273b+InventoryItems[_0x37615a[0x1][_0x3b7c8f(-0x1ef,-_0x1ac240._0x487c29)]][0x8]+'_'+_0x37615a[0x1][_0x8695ea(_0x1ac240._0x1f5e49,_0x1ac240._0x3e285a)]+_0x3b7c8f(-0x1f2,-_0x1ac240._0x8d3bd5)),InventoryItems[_0x37615a[0x2][_0x3b7c8f(-0x1ef,-0x1e9)]][0x8]>0x0&&(_0x4d273b=0x0==InventoryItems[_0x37615a[0x2][_0x3b7c8f(-0x1ef,-_0x1ac240._0x54bd04)]][0x9]?'male/6/':'female/6/',_0x37615a[0x2][_0x3b7c8f(-_0x1ac240._0x2455ec,-0x225)]=_0x4d273b+InventoryItems[_0x37615a[0x2][_0x8695ea(0x105,_0x1ac240._0x592748)]][0x8]+'_'+_0x37615a[0x2][_0x3b7c8f(-_0x1ac240._0x12fa6b,-_0x1ac240._0x24dcae)]+_0x3b7c8f(-0x1f2,-_0x1ac240._0x3ea74c)),_0x37615a[0x0][_0x8695ea(0x105,_0x1ac240._0x42c0d6)]=0x0,_0x37615a[0x1][_0x8695ea(0x105,_0x1ac240._0x16f836)]=0x0,_0x37615a[0x2][_0x8695ea(0x105,_0x1ac240._0x9881a5)]=0x0,_0x37615a;}mp[_0x4d8ca0(0x2c4,0x2b3)][_0x44680f(0x3b6,0x365)](_0x4d8ca0(0x237,0x286),(_0x20dbac,_0x330cb1)=>{const _0x611ade={_0x1dabc5:0x244,_0x119a25:0x2a7},_0x146878={_0x259022:0x1d7},_0x54b11c={_0x5a8ff4:0x3d9};if(EndConversationFinally(),0x1==GlobalCheck())return;function _0x103ef2(_0x33ed09,_0x17dd92){return _0x243a(_0x17dd92- -_0x54b11c._0x5a8ff4,_0x33ed09);}mp[_0x103ef2(-0x288,-_0x611ade._0x1dabc5)][_0x103ef2(-_0x611ade._0x119a25,-0x278)](_0x103ef2(-0x246,-0x245)),InJewellery=!0x0;function _0x11817d(_0x4272b4,_0x5e6077){return _0x243a(_0x5e6077-_0x146878._0x259022,_0x4272b4);}let _0xa99de8=0x1;switch(_0x330cb1){case 0x0:_0xa99de8=0x1;break;case 0x1:_0xa99de8=0.9;break;case 0x2:_0xa99de8=0.75;break;case 0x3:_0xa99de8=0.5;}ShowNewClothesMenu(0x2,_0xa99de8);}),mp[_0x4d8ca0(0x296,0x2b3)][_0x4d8ca0(0x26e,0x23d)](_0x4d8ca0(0x259,0x24c),()=>{SwitchJewCamVector(0x0);}),global[_0x44680f(0x432,0x41c)]=function(){const _0x80e284={_0x185954:0x9a,_0x2518d3:0xb0,_0x2285a2:0x45e,_0x3206d5:0x478,_0x49a541:0xdc,_0x35f4d6:0x84,_0x30aa5a:0x4a1,_0x3f07ec:0x4a7,_0x18b935:0xa3,_0x452243:0x4f,_0x2b6d0a:0x481},_0x27c922={_0xc97da8:0x341};function _0x456f4e(_0x5e32b4,_0x53524e){return _0x243a(_0x5e32b4-_0x27c922._0xc97da8,_0x53524e);}function _0x2d96f1(_0x279176,_0x5c7f20){return _0x243a(_0x5c7f20- -0x1e4,_0x279176);}InJewellery&&loggedin&&!chatActive&&(CloseNewClothesMenu(),mp[_0x2d96f1(-_0x80e284._0x185954,-_0x80e284._0x2518d3)][_0x456f4e(0x452,_0x80e284._0x2285a2)][_0x456f4e(_0x80e284._0x3206d5,0x42b)](!0x1,!0x0,0x7d0,!0x0,!0x1),null!=localcamera&&(localcamera[_0x2d96f1(-_0x80e284._0x49a541,-_0x80e284._0x35f4d6)](),localcamera=null),null!=second_cam&&(second_cam[_0x456f4e(_0x80e284._0x30aa5a,_0x80e284._0x3f07ec)](),second_cam=null),last_cam=null,InJewellery=!0x1,mp[_0x2d96f1(-_0x80e284._0x18b935,-_0x80e284._0x452243)][_0x2d96f1(-0xb1,-0x83)](_0x456f4e(0x44e,_0x80e284._0x2b6d0a)));},mp[_0x4d8ca0(0x2c3,0x2b3)][_0x4d8ca0(0x207,0x23d)](_0x4d8ca0(0x299,0x2cb),()=>{const _0x542822={_0x1c66b6:0xd4,_0x24b857:0xcd,_0x5f577b:0xb5,_0x2ca3a8:0x91,_0x4e088e:0x5e},_0xa2359f={_0x5e06c1:0x35c};function _0x4e4fc7(_0x2a6687,_0x33b3d8){return _0x243a(_0x2a6687- -0x21f,_0x33b3d8);}function _0x347d89(_0x2acc6c,_0x5f3ff5){return _0x243a(_0x2acc6c-_0xa2359f._0x5e06c1,_0x5f3ff5);}localplayer[_0x4e4fc7(-0x111,-_0x542822._0x1c66b6)]('amb@world_human_guard_patrol@male@base',_0x4e4fc7(-0x91,-0x6b),0x8,0x1,-0x1,0x1,0x0,!0x1,!0x1,!0x1),localplayer[_0x4e4fc7(-_0x542822._0x24b857,-0xd7)](_0x4e4fc7(-0xfe,-_0x542822._0x5f577b),_0x4e4fc7(-_0x542822._0x2ca3a8,-_0x542822._0x4e088e),0x0);}),mp[_0x4d8ca0(0x2e4,0x2b3)][_0x4d8ca0(0x1ea,0x23d)](_0x44680f(0x442,0x415),_0x2fafae=>{const _0x3ba511={_0x3f9274:0x3c9,_0x242d84:0x3e};if(!(InJewellery||InNewClothesShop||InBarberShop||at_clothes_change||InClothesShop))return;function _0x4d2da2(_0x47dea8,_0x3f5583){return _0x243a(_0x3f5583- -0x1a4,_0x47dea8);}function _0x9c651f(_0x4743ce,_0xe3c962){return _0x243a(_0xe3c962-0x25b,_0x4743ce);}let _0x29ad75=localplayer[_0x9c651f(_0x3ba511._0x3f9274,0x3e1)](0x2);0x1==_0x2fafae?_0x29ad75['z']+=0x5:_0x29ad75['z']-=0x5,localplayer[_0x4d2da2(-0x7f,-_0x3ba511._0x242d84)](0x0,0x0,_0x29ad75['z'],0x2,!0x0);}),global[_0x4d8ca0(0x2d6,0x288)]=!0x1,mp[_0x4d8ca0(0x264,0x2b3)][_0x4d8ca0(0x273,0x23d)]('Client_OpenExclusiveItemShop',_0x31f4da=>{const _0x3eaa40={_0x2ebb10:0x575,_0x3c175a:0x554,_0x39572e:0x4e9,_0x5c4f92:0x572,_0x11e938:0x4f3,_0x2e349d:0x4f6,_0x332ac:0x1cf,_0x2c47b5:0x520,_0x3e606b:0x20d,_0x2f771a:0x1b7,_0x14f3b3:0x1ee,_0x1324e1:0x1dc,_0x2e42f2:0x182,_0x207e84:0x17e,_0x1ba9ab:0x15f,_0x12bbe0:0x530,_0x21aed5:0x53c,_0x478118:0x142,_0xd3d3cb:0x161},_0x1933ca={_0x567349:0x2b};if(EndConversationFinally(),0x1==GlobalCheck())return;mp[_0x4397ef(0x57e,_0x3eaa40._0x2ebb10)][_0x4397ef(_0x3eaa40._0x3c175a,0x541)](_0x4397ef(_0x3eaa40._0x39572e,0x528)),mp[_0x4397ef(_0x3eaa40._0x5c4f92,0x575)][_0x4397ef(_0x3eaa40._0x11e938,0x4f0)](_0x4397ef(0x542,_0x3eaa40._0x2e349d)),inexclusiveclothes=!0x0;function _0x4397ef(_0x3b5063,_0x4114b5){return _0x243a(_0x4114b5-0x3e0,_0x3b5063);}function _0x322f0d(_0x20fcd8,_0x28155c){return _0x243a(_0x28155c-_0x1933ca._0x567349,_0x20fcd8);}const _0x416b21=_0x322f0d(_0x3eaa40._0x332ac,0x1d3)+JSON[_0x4397ef(_0x3eaa40._0x2c47b5,0x511)](_0x31f4da)+_0x322f0d(_0x3eaa40._0x3e606b,_0x3eaa40._0x2f771a);main_browser[_0x322f0d(_0x3eaa40._0x14f3b3,_0x3eaa40._0x1324e1)](_0x322f0d(_0x3eaa40._0x2e42f2,0x1b8)+_0x416b21),ChangeHudState(!0x1),mp[_0x322f0d(_0x3eaa40._0x207e84,_0x3eaa40._0x1ba9ab)]['ui'][_0x4397ef(_0x3eaa40._0x12bbe0,0x555)](!0x1),mp[_0x4397ef(0x51f,_0x3eaa40._0x21aed5)][_0x322f0d(_0x3eaa40._0x478118,_0x3eaa40._0xd3d3cb)][_0x322f0d(0x144,0x157)](!0x0,!0x0);}),mp[_0x4d8ca0(0x27a,0x2b3)]['add'](_0x44680f(0x3ef,0x42f),_0x71cd47=>{const _0x1fe410={_0x2fa7e0:0x43f,_0x5b0715:0x424,_0x23976c:0x495,_0x16fd79:0x41d,_0x3c425f:0x464},_0x2a5a1b={_0x2fd57e:0x300};function _0x3bf78d(_0x3d6f94,_0x7bc5e2){return _0x243a(_0x3d6f94-0x2bc,_0x7bc5e2);}function _0x1bb5ad(_0x11bfda,_0x287bd2){return _0x243a(_0x11bfda-_0x2a5a1b._0x2fd57e,_0x287bd2);}inexclusiveclothes&&loggedin&&!chatActive&&(new Date()[_0x3bf78d(0x43f,0x3e8)]()-lastCheck<0x12c||(lastCheck=new Date()[_0x3bf78d(_0x1fe410._0x2fa7e0,_0x1fe410._0x5b0715)](),mp[_0x1bb5ad(_0x1fe410._0x23976c,_0x1fe410._0x2fa7e0)][_0x3bf78d(_0x1fe410._0x16fd79,0x440)](_0x1bb5ad(_0x1fe410._0x3c425f,0x413),_0x71cd47)));}),mp[_0x44680f(0x42c,0x463)][_0x4d8ca0(0x27d,0x23d)](_0x44680f(0x3ac,0x3a8),_0x7b8a80=>{const _0x12bc91={_0x32c4d7:0xf5,_0x206389:0x3b0,_0x16030d:0x3b5},_0xdd2f8e={_0x2983e3:0x27f},_0x3b1c90={_0x154219:0x2a6};function _0x568363(_0xce27da,_0x2c88ee){return _0x243a(_0xce27da- -_0x3b1c90._0x154219,_0x2c88ee);}function _0x41f841(_0x24979b,_0x5bd665){return _0x243a(_0x24979b-_0xdd2f8e._0x2983e3,_0x5bd665);}inexclusiveclothes&&loggedin&&!chatActive&&main_browser[_0x568363(-_0x12bc91._0x32c4d7,-0x11d)](_0x568363(-0x18b,-0x182)+JSON[_0x41f841(_0x12bc91._0x206389,_0x12bc91._0x16030d)](_0x7b8a80)+';');}),global[_0x44680f(0x41e,0x451)]=function(_0x51e9f9=0x0){const _0xf5941d={_0x56c922:0x134,_0x2e5446:0x164,_0x1f4fe5:0x16a,_0xb55d08:0xb7,_0x596b8a:0xf3,_0x53df65:0xd2,_0x5e8280:0x119,_0x4f1143:0x157,_0x49f656:0x18c,_0x3546d8:0x16e,_0x404dee:0x15c,_0x2c299a:0xf2,_0x3a08ff:0x10e,_0x1f7c38:0x177,_0x224026:0x163},_0x2a6b07={_0x3bc65f:0x30},_0x2a6d95={_0x571226:0x1e};function _0xbd04b0(_0x3ac9cc,_0x39f4a8){return _0x243a(_0x39f4a8- -_0x2a6d95._0x571226,_0x3ac9cc);}function _0x592c50(_0x22aeee,_0x5b7f63){return _0x243a(_0x22aeee-_0x2a6b07._0x3bc65f,_0x5b7f63);}inexclusiveclothes&&loggedin&&!chatActive&&(main_browser[_0xbd04b0(0x1d9,0x193)](_0x592c50(0x16f,0x15d)),localplayer[_0xbd04b0(_0xf5941d._0x56c922,0xe5)](!0x1),is_freezed=!0x1,mp[_0x592c50(_0xf5941d._0x2e5446,_0xf5941d._0x1f4fe5)][_0xbd04b0(_0xf5941d._0xb55d08,_0xf5941d._0x596b8a)][_0xbd04b0(_0xf5941d._0x53df65,_0xf5941d._0x5e8280)](!0x1,!0x0,0x7d0,!0x0,!0x1),inexclusiveclothes=!0x1,0x0==hudswitch&&(ChangeHudState(!0x0),mp['game']['ui'][_0xbd04b0(0x130,_0xf5941d._0x4f1143)](!0x0)),mp[_0x592c50(_0xf5941d._0x49f656,_0xf5941d._0x3546d8)]['cursor'][_0x592c50(_0xf5941d._0x404dee,0x157)](!0x1,!0x1),mp[_0x592c50(0x1c5,0x1c1)][_0xbd04b0(0xfe,_0xf5941d._0x2c299a)](_0xbd04b0(_0xf5941d._0x3a08ff,0xfc)),_0x51e9f9&&mp[_0xbd04b0(_0xf5941d._0x1f4fe5,_0xf5941d._0x1f7c38)][_0xbd04b0(0x172,0x143)](_0x592c50(0x157,_0xf5941d._0x224026)));},mp[_0x44680f(0x42c,0x47c)][_0x4d8ca0(0x1ed,0x23d)](_0x44680f(0x426,0x401),(_0x21f287,_0x4d2531)=>{const _0x1b754b={_0x2054d9:0x25,_0x2b6906:0x560,_0x2158b4:0x42,_0x446bb9:0x48,_0x525e4e:0x71},_0x1fb99b={_0x735c9:0x3cb};function _0x5cd803(_0x2dd801,_0x43477a){return _0x243a(_0x2dd801- -0x15e,_0x43477a);}function _0x3167bf(_0x2b85ac,_0x2a5479){return _0x243a(_0x2b85ac-_0x1fb99b._0x735c9,_0x2a5479);}inexclusiveclothes&&(new Date()['getTime']()-lastCheck<0x1f4||(lastCheck=new Date()[_0x5cd803(_0x1b754b._0x2054d9,0x13)](),mp[_0x3167bf(_0x1b754b._0x2b6906,0x5ae)][_0x5cd803(0x3,-_0x1b754b._0x2158b4)](_0x5cd803(_0x1b754b._0x446bb9,_0x1b754b._0x525e4e),_0x21f287,_0x4d2531)));}),mp[_0x44680f(0x42c,0x47a)][_0x4d8ca0(0x276,0x23d)](_0x4d8ca0(0x2b4,0x26a),(_0x26c5e8,_0x207c23)=>{const _0x46b118={_0xac5e10:0x68,_0x37f632:0x278,_0x427f7c:0x215},_0x240845={_0x2d867b:0x10b};function _0x3b759a(_0x1a7aa3,_0x362fac){return _0x243a(_0x362fac- -0x3bf,_0x1a7aa3);}function _0x251cec(_0xa64531,_0x11aa71){return _0x243a(_0xa64531- -_0x240845._0x2d867b,_0x11aa71);}inexclusiveclothes&&(new Date()['getTime']()-lastCheck<0x1f4||(lastCheck=new Date()[_0x251cec(0x78,_0x46b118._0xac5e10)](),mp[_0x3b759a(-_0x46b118._0x37f632,-0x22a)][_0x3b759a(-_0x46b118._0x427f7c,-0x25e)]('Server_GetExclusiveClothes',_0x26c5e8,_0x207c23)));}),mp[_0x44680f(0x42c,0x418)][_0x44680f(0x3b6,0x3ad)](_0x44680f(0x3ec,0x3fc),_0x34dc03=>{const _0xf2324d={_0x3f0dd9:0x4b5,_0x4c2c7f:0x496,_0x396bd8:0x482,_0x46b972:0x4f8,_0x405aff:0x4f0};function _0x48bf89(_0x3ac3aa,_0x1f82d3){return _0x243a(_0x1f82d3-0x33f,_0x3ac3aa);}function _0x2570a6(_0x1533cc,_0x30d61f){return _0x243a(_0x1533cc-0x185,_0x30d61f);}0x0!=inexclusiveclothes&&(PlayAudioSound(_0x48bf89(_0xf2324d._0x3f0dd9,_0xf2324d._0x4c2c7f),_0x48bf89(0x48e,_0xf2324d._0x396bd8)),main_browser[_0x48bf89(_0xf2324d._0x46b972,_0xf2324d._0x405aff)](_0x48bf89(0x517,0x4dd)+_0x34dc03+_0x2570a6(0x2ce,0x316)));}),global[_0x4d8ca0(0x2b4,0x28a)]=!0x1,mp[_0x44680f(0x42c,0x400)][_0x44680f(0x3b6,0x3f5)](_0x44680f(0x407,0x42c),()=>{const _0x1f5867={_0x4a817a:0x20,_0x5de901:0x2a8,_0x2742ad:0x2e8,_0x4d99ae:0x1d,_0x48c166:0x312,_0x1dd9dc:0x49,_0x1a23c0:0x325,_0x4f2cd2:0x6d,_0x43513d:0x89,_0x2a70dd:0x328,_0xc3bf3b:0x325,_0x15f284:0x80,_0x4ce01a:0x2bd,_0x1cbf54:0x5c,_0x29f16e:0x288,_0x46cd7f:0x7,_0x226d7d:0x4d},_0x5ab6ff={_0x65e6a3:0x188},_0x39acef={_0x1dac18:0x130};function _0x265600(_0x3e721d,_0x22472c){return _0x243a(_0x3e721d- -_0x39acef._0x1dac18,_0x22472c);}function _0x395e40(_0x4a984b,_0x2c9f19){return _0x243a(_0x2c9f19-_0x5ab6ff._0x65e6a3,_0x4a984b);}0x0!=inexclusiveclothes&&(main_browser[_0x395e40(0x322,0x339)](_0x265600(0xf,_0x1f5867._0x4a817a)),exclusiveclothesinteract=!0x0,localcamera&&(localcamera[_0x395e40(_0x1f5867._0x5de901,_0x1f5867._0x2742ad)](),localcamera=void 0x0),localcamera=mp[_0x265600(_0x1f5867._0x4d99ae,0x61)]['new'](_0x395e40(0x27a,0x2b5)),localcamera[_0x395e40(0x339,_0x1f5867._0x48c166)](!0x0),InteractiveCamera[_0x265600(0x5b,_0x1f5867._0x1dd9dc)](localcamera,new mp[(_0x395e40(0x337,0x338))](localplayer[_0x395e40(0x2ee,_0x1f5867._0x1a23c0)]['x'],localplayer[_0x265600(_0x1f5867._0x4f2cd2,_0x1f5867._0x43513d)]['y'],localplayer[_0x395e40(_0x1f5867._0x2a70dd,0x325)]['z']),new mp[(_0x265600(0x80,0x34))](localplayer[_0x395e40(0x33d,0x325)]['x'],localplayer[_0x395e40(0x2ff,_0x1f5867._0xc3bf3b)]['y'],localplayer[_0x395e40(0x374,_0x1f5867._0x1a23c0)]['z']),new mp[(_0x265600(_0x1f5867._0x15f284,0x4c))](0x0,0x1,0x0),localplayer[_0x395e40(_0x1f5867._0x4ce01a,0x2ac)](),[0x0,0x0],[-0.3,0.5],0x5),mp[_0x265600(0x4,_0x1f5867._0x1cbf54)][_0x395e40(_0x1f5867._0x29f16e,0x299)][_0x265600(_0x1f5867._0x46cd7f,-_0x1f5867._0x226d7d)](!0x0,!0x1,0xbb8,!0x0,!0x1));}),global[_0x44680f(0x446,0x401)]=function(){const _0x1d7b6d={_0x3d0017:0x401,_0x516fec:0x57e,_0x32bc62:0x566,_0x50129e:0x3ae};function _0x47ea14(_0x202a57,_0x12c6c0){return _0x243a(_0x12c6c0-0x2a6,_0x202a57);}function _0x353881(_0x3c6d61,_0x577371){return _0x243a(_0x3c6d61-0x3cd,_0x577371);}exclusiveclothesinteract&&(exclusiveclothesinteract=!0x1,InteractiveCamera[_0x47ea14(0x3c2,_0x1d7b6d._0x3d0017)](),main_browser[_0x353881(_0x1d7b6d._0x516fec,_0x1d7b6d._0x32bc62)](_0x47ea14(0x359,_0x1d7b6d._0x50129e)));},global[_0x44680f(0x443,0x45c)]=!0x1,global[_0x4d8ca0(0x256,0x26f)]=function(){const _0x4048c5={_0x172ce4:0x165,_0x586433:0xcd,_0x5f3019:0xf9,_0x482db9:0x110,_0x53f733:0x33c,_0x5eca29:0x12a,_0xb31511:0xe0,_0x41be94:0xce};function _0x2ff368(_0x51f267,_0x421644){return _0x243a(_0x421644- -0x4c,_0x51f267);}function _0x46f46e(_0x374713,_0x44502a){return _0x243a(_0x374713-0x206,_0x44502a);}OpenedClothesSkill&&(OpenedClothesSkill=!0x1,main_browser[_0x2ff368(0x151,_0x4048c5._0x172ce4)](_0x2ff368(_0x4048c5._0x586433,_0x4048c5._0x5f3019)),0x0==hudswitch&&(ChangeHudState(!0x0),mp[_0x2ff368(_0x4048c5._0x482db9,0xe8)]['ui'][_0x46f46e(0x37b,0x366)](!0x0)),mp[_0x46f46e(0x362,0x390)][_0x46f46e(_0x4048c5._0x53f733,0x33d)][_0x2ff368(_0x4048c5._0x5eca29,_0x4048c5._0xb31511)](!0x1,!0x1),mp[_0x2ff368(0x1a1,0x149)][_0x46f46e(0x316,0x303)](_0x2ff368(0xc2,_0x4048c5._0x41be94)));},mp[_0x44680f(0x42c,0x3dc)][_0x44680f(0x3b6,0x398)](_0x4d8ca0(0x237,0x27d),(_0x4f3aa7,_0xcc4668,_0x2b4214)=>{const _0x26dba3={_0x21a428:0xb,_0x31eb15:0x27,_0x5615a3:0x3b,_0x5b2c59:0x131,_0x18d068:0x183},_0x479fec={_0x3fe80e:0x334};function _0x46c044(_0x5bf677,_0x26dbec){return _0x243a(_0x26dbec- -0x152,_0x5bf677);}function _0x1e7c2a(_0x393a87,_0x449799){return _0x243a(_0x449799- -_0x479fec._0x3fe80e,_0x393a87);}OpenedClothesSkill&&(_0x2b4214=GetRendersForClothes(_0x2b4214),main_browser[_0x46c044(0xab,0x5f)](_0x46c044(-_0x26dba3._0x21a428,0x29)+JSON[_0x46c044(-_0x26dba3._0x31eb15,-0x21)](_0x2b4214)),main_browser[_0x1e7c2a(-0x1d0,-0x183)](_0x46c044(-0x88,-_0x26dba3._0x5615a3)+_0x4f3aa7),main_browser[_0x1e7c2a(-_0x26dba3._0x5b2c59,-_0x26dba3._0x18d068)](_0x46c044(-0x97,-0x4e)+_0xcc4668));}),global[_0x4d8ca0(0x29f,0x277)]=!0x1;let StoneBigBox={'blip':void 0x0};mp[_0x44680f(0x42c,0x469)][_0x44680f(0x3b6,0x379)](_0x44680f(0x3f4,0x410),_0x5d0daa=>{const _0x465c19={_0x3ee886:0x2c8,_0x5acfad:0x29c,_0x3f7d6a:0xcd,_0xcda794:0x29b,_0x2077a3:0x29c};function _0x4ada8b(_0x3131b6,_0x150537){return _0x243a(_0x150537- -0x59,_0x3131b6);}function _0x116ec0(_0x3b6c84,_0x1fde48){return _0x243a(_0x1fde48-0xeb,_0x3b6c84);}0x1==_0x5d0daa?(main_browser[_0x116ec0(_0x465c19._0x3ee886,_0x465c19._0x5acfad)](_0x116ec0(0x22d,0x23a)),PlayAudioSound(_0x4ada8b(_0x465c19._0x3f7d6a,0x110),_0x116ec0(0x22d,0x283))):main_browser[_0x116ec0(_0x465c19._0xcda794,_0x465c19._0x2077a3)]('APPS.state.hud.interact\x20=\x20false;'),at_stone_bigbox=_0x5d0daa;}),mp[_0x4d8ca0(0x290,0x2b3)][_0x44680f(0x3b6,0x40a)](_0x44680f(0x3de,0x3bb),(_0x400063,_0x5dc4f1,_0x5285b1,_0x431632)=>{const _0x402155={_0x3bb189:0x12,_0x346cec:0x366,_0x968029:0x314,_0x4e7575:0x333,_0x4acd58:0x375,_0x3ae94e:0x348,_0x227375:0x366,_0x1e8e4e:0x388,_0x2d791d:0x35c,_0x1ba642:0x33a,_0x19a927:0x383,_0x1f53e5:0x3d8,_0xeb72b0:0x30b,_0x1d22e2:0x2cc,_0x255dfd:0x366,_0x492e51:0x3b1,_0x1c48b4:0x2fc},_0x4a39fc={_0x4cbc12:0x1d3};function _0x120040(_0x4981a2,_0x5197ac){return _0x243a(_0x4981a2-_0x4a39fc._0x4cbc12,_0x5197ac);}function _0x4f3bec(_0xc16404,_0x30949d){return _0x243a(_0x30949d- -0x199,_0xc16404);}StoneBigBox[_0x4f3bec(_0x402155._0x3bb189,-0x6)]&&(StoneBigBox[_0x120040(_0x402155._0x346cec,_0x402155._0x968029)][_0x120040(_0x402155._0x4e7575,_0x402155._0x4acd58)](),StoneBigBox[_0x120040(0x366,_0x402155._0x3ae94e)]=void 0x0),StoneBigBox[_0x120040(_0x402155._0x227375,_0x402155._0x1e8e4e)]=mp[_0x120040(_0x402155._0x4acd58,_0x402155._0x2d791d)][_0x120040(0x34b,_0x402155._0x1ba642)](0x269,new mp[(_0x120040(_0x402155._0x19a927,_0x402155._0x1f53e5))](_0x400063,_0x5dc4f1,_0x5285b1),{'name':language[_0x120040(_0x402155._0xeb72b0,_0x402155._0x1d22e2)][curr_lang],'color':0x2==_0x431632?0x2:0x1b}),StoneBigBox[_0x120040(_0x402155._0x255dfd,_0x402155._0x492e51)][_0x120040(_0x402155._0x1c48b4,0x33c)](!0x0);}),mp[_0x44680f(0x42c,0x47f)][_0x44680f(0x3b6,0x3ff)](_0x4d8ca0(0x25c,0x271),()=>{const _0x5d2f5a={_0x2f82fd:0x1ed,_0x2e36fb:0x1d7,_0x186489:0x390,_0x98cbf8:0x373},_0x43f356={_0x4ac661:0x44};function _0x25ae6c(_0x247468,_0x3d1d53){return _0x243a(_0x3d1d53-_0x43f356._0x4ac661,_0x247468);}function _0x5473f8(_0x29c24e,_0x2ef1a4){return _0x243a(_0x2ef1a4-0x1fd,_0x29c24e);}StoneBigBox[_0x25ae6c(_0x5d2f5a._0x2f82fd,_0x5d2f5a._0x2e36fb)]&&(StoneBigBox[_0x5473f8(0x38a,_0x5d2f5a._0x186489)][_0x5473f8(_0x5d2f5a._0x98cbf8,0x35d)](),StoneBigBox[_0x25ae6c(0x1f2,0x1d7)]=void 0x0);}),global['fakeArmy']=!0x1,global[_0x44680f(0x3e5,0x42a)]=function(_0x501ae4,_0x2d5762=0x0,_0x4072ad=0x0){const _0x3a2e2e={_0x45e520:0x2be,_0x7fe304:0x16e,_0x1f9dad:0x147,_0x327c25:0x27d,_0x1948c6:0x23f,_0x4af198:0x25d,_0x1582d8:0xd0,_0x3f8e51:0x20b,_0x57a056:0x22c,_0x2cbce9:0x285,_0x59e128:0x21d,_0x2d5795:0x25f,_0xa6ec56:0x21c,_0x2ff7e0:0x2da,_0x5672e3:0x148,_0x21abae:0x25a};function _0x57e89c(_0x2121f7,_0x1023dc){return _0x243a(_0x1023dc- -0x257,_0x2121f7);}ChangeHudState(!0x1),mp[_0x1f83c9(0x288,_0x3a2e2e._0x45e520)][_0x57e89c(-_0x3a2e2e._0x7fe304,-_0x3a2e2e._0x1f9dad)](_0x1f83c9(_0x3a2e2e._0x327c25,_0x3a2e2e._0x1948c6)),mp[_0x1f83c9(0x209,_0x3a2e2e._0x4af198)]['ui'][_0x57e89c(-_0x3a2e2e._0x1582d8,-0xe2)](!0x1),localplayer[_0x1f83c9(_0x3a2e2e._0x3f8e51,_0x3a2e2e._0x57a056)](!0x0),mp[_0x1f83c9(0x252,_0x3a2e2e._0x2cbce9)][_0x1f83c9(_0x3a2e2e._0x59e128,_0x3a2e2e._0x2d5795)][_0x1f83c9(0x2a8,0x255)](!0x0,!0x0),is_freezed=!0x0;function _0x1f83c9(_0xf3c7df,_0x106b3a){return _0x243a(_0x106b3a-0x129,_0xf3c7df);}let _0x47448a={'maximumSlider':_0x4072ad,'price':_0x2d5762,'type':_0x501ae4,'texture_id':0x0,'clothes_id':0x0,'show':!0x0};0x4==_0x501ae4&&(_0x47448a[_0x1f83c9(_0x3a2e2e._0xa6ec56,0x23c)]=0x705e61f2!=localplayer[_0x57e89c(-0x12d,-0x13f)]?0x0:0x1),main_browser[_0x1f83c9(0x28f,_0x3a2e2e._0x2ff7e0)](_0x57e89c(-_0x3a2e2e._0x5672e3,-0x14b)+JSON[_0x1f83c9(0x279,_0x3a2e2e._0x21abae)](_0x47448a));},global['CloseClothesMenu']=function(){const _0x110924={_0x4fb398:0x22e,_0x33617b:0x1a9,_0x1e63d5:0x1a6,_0x32e62f:0x1e3,_0x4021e1:0x1d7,_0x239138:0x484,_0xd6dc6a:0x1d9,_0x5f0151:0x1d0,_0x167ecb:0x1b3,_0xf24ade:0x1bd,_0x5c34d4:0x204,_0x4a46a3:0x1d2};function _0x4ec190(_0x102dbf,_0x44ee53){return _0x243a(_0x44ee53-0xa3,_0x102dbf);}function _0x30b84a(_0x5e5d40,_0x1e5f1a){return _0x243a(_0x5e5d40-0x30f,_0x1e5f1a);}main_browser[_0x30b84a(0x4c0,0x4cf)](_0x4ec190(_0x110924._0x4fb398,0x1ee)),localplayer[_0x4ec190(_0x110924._0x33617b,_0x110924._0x1e63d5)](!0x1),is_freezed=!0x1,0x0==hudswitch&&(ChangeHudState(!0x0),mp[_0x4ec190(_0x110924._0x32e62f,_0x110924._0x4021e1)]['ui'][_0x30b84a(_0x110924._0x239138,0x4db)](!0x0)),mp['gui'][_0x4ec190(0x1d0,_0x110924._0xd6dc6a)][_0x4ec190(_0x110924._0x5f0151,0x1cf)](!0x1,!0x1),mp[_0x30b84a(0x4a4,0x471)][_0x4ec190(0x162,_0x110924._0x167ecb)](_0x4ec190(0x19c,_0x110924._0xf24ade)),cameraControl&&(fakeArmy=!0x0,destroyLocalCameraAndAnimBack(),ShowNotification(language[_0x4ec190(_0x110924._0x5c34d4,_0x110924._0x4a46a3)][curr_lang],0x2));},mp[_0x4d8ca0(0x200,0x23b)]['bind'](0x58,!0x0,function(){const _0x1cc6b7={_0x3a40fa:0x249,_0x58e7f1:0x20a,_0x3541eb:0x29c},_0x1c28b0={_0x345685:0x3de};function _0x1a6f06(_0x2a00d6,_0x35f20d){return _0x243a(_0x35f20d- -0x267,_0x2a00d6);}function _0x5699bb(_0x1c4cc3,_0x336810){return _0x243a(_0x1c4cc3- -_0x1c28b0._0x345685,_0x336810);}fakeArmy&&mp[_0x5699bb(-_0x1cc6b7._0x3a40fa,-_0x1cc6b7._0x58e7f1)][_0x5699bb(-0x27d,-0x288)](_0x5699bb(-_0x1cc6b7._0x3541eb,-0x2a3));}),mp['events'][_0x4d8ca0(0x26d,0x23d)](_0x4d8ca0(0x237,0x229),()=>{function _0x2528a9(_0x389705,_0x5941f4){return _0x243a(_0x389705-0x14d,_0x5941f4);}fakeArmy=!0x1,gpsblip&&(gpsblip[_0x2528a9(0x2ad,0x2f7)](),gpsblip=void 0x0),gpscolshape&&(gpscolshape['destroy'](),gpscolshape=void 0x0);});let clothes_menu={};mp[_0x4d8ca0(0x2a3,0x2b3)][_0x4d8ca0(0x1ed,0x23d)](_0x44680f(0x441,0x46d),(_0x5b57c5,_0x2778a2,_0x373107)=>{const _0x51c9eb={_0x4e41de:0x100};if(EndConversationFinally(),0x1==GlobalCheck())return;mp[_0x2aec4f(_0x51c9eb._0x4e41de,0xd0)][_0x2aec4f(0xcc,0xac)]('OpenClothesShopCorrectly'),InNewClothesShop=!0x0,lastClothType=0x1,campos=_0x5b57c5;function _0x40ea1a(_0x371121,_0x505a6a){return _0x243a(_0x505a6a- -0x52,_0x371121);}function _0x2aec4f(_0x1fcdc2,_0x8a6ddc){return _0x243a(_0x1fcdc2- -0x95,_0x8a6ddc);}let _0x283b4b=0x1;switch(_0x2778a2){case 0x0:_0x283b4b=0x1;break;case 0x1:_0x283b4b=0.9;break;case 0x2:_0x283b4b=0.75;break;case 0x3:_0x283b4b=0.5;}ShowNewClothesMenu(0x6,_0x283b4b,_0x373107);}),mp[_0x4d8ca0(0x2d3,0x2b3)][_0x4d8ca0(0x282,0x23d)](_0x4d8ca0(0x28f,0x248),(_0x25a77d,_0x42528f,_0x6818e1,_0x267cda=0x0)=>{const _0x49c83f={_0x5f5c91:0xb4,_0x17a945:0x295,_0x4b4dab:0x24c,_0x44df31:0xaa},_0x4aeaf={_0x22b3c6:0x134};function _0xff3f75(_0x1305e5,_0x97f8da){return _0x243a(_0x97f8da-_0x4aeaf._0x22b3c6,_0x1305e5);}function _0x3a691(_0x315a25,_0x13ac8f){return _0x243a(_0x315a25- -0xb5,_0x13ac8f);}if(InNewClothesShop&&loggedin){if(mp[_0x3a691(0xe0,_0x49c83f._0x5f5c91)][_0xff3f75(0x252,_0x49c83f._0x17a945)]('Server_ClothesShopChangeItem',_0x42528f,_0x6818e1,_0x267cda),lastClothType!=_0x42528f&&0x6!=_0x42528f)lastClothType=_0x42528f,changeClothesCam(_0x42528f);else{if(0x6==_0x42528f){lastClothType=_0x42528f;const _0x40f588=0x705e61f2!=localplayer[_0xff3f75(0x282,_0x49c83f._0x4b4dab)]?0x0:0x1,_0x53d5c8=eliteClothesCatalog[_0x40f588][_0x42528f][_0x6818e1];if(!_0x53d5c8||!InventoryItems[_0x53d5c8['item_id']][0x6])return;correctType=0x0,parseInt(InventoryItems[_0x53d5c8[_0x3a691(0xca,_0x49c83f._0x44df31)]][0x6],0xa);switch(_0x53d5c8[0x6]){case 0x0:correctType=0x0;break;case 0xb:correctType=0x1;break;case 0x8:correctType=0x2;break;case 0x4:correctType=0x3;break;case 0x6:correctType=0x4;break;case 0xc:correctType=0x5;}changeClothesCam(correctType);}}}});const eliteClothesCatalog=[{0x1:[{'item_id':0x142e,'extras':[0x0,0x1,0x2,0x3,0x4,0x5,0x6],'price':0x1adb0},{'item_id':0x1430,'extras':[0x0,0x1,0x2,0x3,0x4,0x5],'price':0x249f0},{'item_id':0x143f,'extras':[0x0,0x1,0x2,0x3,0x4,0x5,0x6,0x7,0x8,0x9,0xa,0xb,0xc,0xd,0xe,0xf,0x10],'price':0x1d4c0},{'item_id':0x1439,'extras':[0x0,0x1,0x2,0x3,0x4,0x5,0x6,0x7,0x8,0x9,0xa,0xb,0xc,0xd,0xe,0xf,0x10,0x11,0x12,0x13,0x14,0x15,0x15,0x16,0x17,0x18],'price':0x249f0},{'item_id':0x10e9,'extras':[0x0,0x1,0x2,0x3,0x4,0x5,0x6],'price':0x186a0},{'item_id':0x10ed,'extras':[0x0,0x1,0x2,0x3,0x4,0x5,0x6,0x7],'price':0x493e0},{'item_id':0x10ea,'extras':[0x0,0x1,0x2,0x3,0x4,0x5,0x6,0x7,0x8],'price':0x55730},{'item_id':0xf97,'extras':[0x0,0x1,0x2,0x3,0x4,0x5],'price':0x11170},{'item_id':0xf99,'extras':[0x0,0x1,0x2,0x3,0x4,0x5,0x6,0x7],'price':0x14c08},{'item_id':0xf9a,'extras':[0x0,0x1,0x2,0x3,0x4,0x5,0x6],'price':0x20f58},{'item_id':0xf9c,'extras':[0x0,0x1,0x2,0x3,0x4,0x5],'price':0x17ae8},{'item_id':0xf9d,'extras':[0x0,0x1,0x2,0x3,0x4,0x5],'price':0xf230},{'item_id':0xfaa,'extras':[0x0,0x1,0x2,0x3,0x4,0x5],'price':0x1f018}],0x3:[{'item_id':0x1443,'extras':[0x0,0x1,0x2,0x3,0x4],'price':0x249f0},{'item_id':0x1449,'extras':[0x0,0x1,0x2,0x3,0x4,0x5,0x6],'price':0x1fbd0},{'item_id':0x144d,'extras':[0x0,0x1,0x2,0x3,0x4,0x5,0x6,0x7,0x8,0x9,0xa,0xb,0xc],'price':0x249f0},{'item_id':0x1450,'extras':[0x0,0x1,0x2,0x3,0x4],'price':0x30d40},{'item_id':0xfb5,'extras':[0x0,0x1,0x2,0x3,0x4,0x5,0x6,0x7,0x8,0x9,0xa,0xb,0xc,0xd],'price':0x8235},{'item_id':0xfb6,'extras':[0x0,0x1,0x2,0x3,0x4,0x5,0x6,0x7,0x8],'price':0x182b8},{'item_id':0xfb7,'extras':[0x0,0x1,0x2,0x3,0x4,0x5],'price':0xe290},{'item_id':0xfb8,'extras':[0x0,0x1,0x2,0x3,0x4,0x5,0x6],'price':0xcf08},{'item_id':0xfb9,'extras':[0x0,0x1,0x2,0x3,0x4],'price':0xb798},{'item_id':0xfba,'extras':[0x0,0x1,0x2,0x3,0x4,0x5],'price':0xbf68},{'item_id':0xfbb,'extras':[0x0,0x1,0x2,0x3,0x4,0x5],'price':0xf230}],0x4:[{'item_id':0x134f,'extras':[0x0,0x1,0x2,0x3,0x4,0x5,0x6,0x7,0x8,0x9,0xa,0xb],'price':0x124f8}],0x6:[{'item_id':0x1390,'extras':[0x0],'price':0x249f0},{'item_id':0x1391,'extras':[0x0,0x1,0x2,0x3],'price':0x249f0},{'item_id':0xfcf,'extras':[0x0,0x1,0x2,0x3,0x4,0x5],'price':0x9088},{'item_id':0xfd0,'extras':[0x0,0x1,0x2,0x3,0x4,0x5,0x6],'price':0x29040},{'item_id':0xfd1,'extras':[0x0,0x1,0x2,0x3,0x4,0x5],'price':0x153d8},{'item_id':0xfd2,'extras':[0x0,0x1,0x2,0x3,0x4,0x5,0x6],'price':0x29bf8},{'item_id':0xfd3,'extras':[0x0,0x1,0x2,0x3,0x4,0x5,0x6,0x7,0x8],'price':0x88b8},{'item_id':0xfd4,'extras':[0x0,0x1],'price':0x11d28},{'item_id':0xfd5,'extras':[0x0,0x1,0x2,0x3,0x4,0x5,0x6,0x7,0x8,0x9,0xa,0xb,0xc,0xd,0xe,0xf],'price':0x124f8},{'item_id':0xfd7,'extras':[0x0,0x1,0x2,0x3,0x4,0x5,0x6,0x7,0x8,0x9,0xa,0xb,0xc],'price':0x6978},{'item_id':0xfe6,'extras':[0x0,0x1],'price':0x14438},{'item_id':0xfe8,'extras':[0x0,0x1,0x2,0x3,0x4,0x5],'price':0x9c40},{'item_id':0xfe9,'extras':[0x0,0x1,0x2,0x3,0x4],'price':0xe290},{'item_id':0xfeb,'extras':[0x0,0x1,0x2,0x3,0x4,0x5,0x6,0x7,0x8,0x9],'price':0xdea8}]},{0x1:[{'item_id':0x13a5,'extras':[0x0,0x1,0x2,0x3,0x4,0x5,0x6,0x7],'price':0x3d090},{'item_id':0x13a7,'extras':[0x0,0x1,0x2,0x3,0x4,0x5,0x6,0x7],'price':0x2ab98},{'item_id':0x1469,'extras':[0x0,0x1,0x2],'price':0x55730},{'item_id':0x146a,'extras':[0x0,0x1,0x2,0x3,0x4,0x5],'price':0x7a120},{'item_id':0x1477,'extras':[0x0,0x1,0x2,0x3,0x4,0x5,0x6,0x7],'price':0x3d090},{'item_id':0x1478,'extras':[0x0,0x1,0x2,0x3,0x4,0x5,0x6,0x7,0x8,0x9,0xa,0xb,0xc,0xd,0xe],'price':0x30d40},{'item_id':0x147b,'extras':[0x0,0x1,0x2,0x3,0x4,0x5,0x6,0x7,0x8,0x9],'price':0x249f0},{'item_id':0xffe,'extras':[0x0,0x1,0x2,0x3,0x4,0x5,0x6,0x7,0x8,0x9,0xa,0xb],'price':0x153d8},{'item_id':0xfff,'extras':[0x0,0x1,0x2,0x3],'price':0xbb80},{'item_id':0x1000,'extras':[0x0,0x1,0x2,0x3,0x4,0x5,0x6,0x7,0x8,0x9],'price':0xfa00},{'item_id':0x1001,'extras':[0x0,0x1,0x2,0x3,0x4,0x5,0x6],'price':0x105b8},{'item_id':0x1002,'extras':[0x0,0x1,0x2,0x3,0x4,0x5,0x6,0x7,0x8,0x9],'price':0x84d0},{'item_id':0x1004,'extras':[0x0,0x1,0x2,0x3,0x4,0x5],'price':0x7918},{'item_id':0x1005,'extras':[0x0,0x1,0x2,0x3,0x4,0x5],'price':0x1a1f8},{'item_id':0x1006,'extras':[0x0,0x1,0x2,0x3,0x4,0x5],'price':0xf230},{'item_id':0x1007,'extras':[0x0,0x1,0x2,0x3,0x4,0x5,0x6,0x7,0x8,0x9,0xa],'price':0x17ae8},{'item_id':0x100f,'extras':[0x0,0x1,0x2,0x3,0x4,0x5,0x6],'price':0xcf08},{'item_id':0x1010,'extras':[0x0,0x1,0x2,0x3,0x4,0x5,0x6],'price':0x29040},{'item_id':0x1015,'extras':[0x0,0x1,0x2,0x3,0x4,0x5],'price':0x11558}],0x3:[{'item_id':0x1481,'extras':[0x0,0x1,0x2,0x3],'price':0x249f0},{'item_id':0x1487,'extras':[0x0,0x1,0x2,0x3,0x4,0x5,0x6],'price':0x249f0},{'item_id':0x148b,'extras':[0x0,0x1,0x2,0x3,0x4],'price':0x30d40},{'item_id':0x1378,'extras':[0x0,0x1,0x2,0x3,0x4,0x5,0x6],'price':0x3d090},{'item_id':0x1021,'extras':[0x0,0x1,0x2,0x3,0x4,0x5,0x6,0x7],'price':0x14050},{'item_id':0x1022,'extras':[0x0,0x1,0x2,0x3,0x4,0x5,0x6,0x7,0x8],'price':0x10d88},{'item_id':0x1023,'extras':[0x0,0x1,0x2,0x3,0x4,0x5,0x6],'price':0xe290},{'item_id':0x102a,'extras':[0x0,0x1,0x2,0x3,0x4,0x5],'price':0x17ae8}],0x6:[{'item_id':0x1390,'extras':[0x0],'price':0x249f0},{'item_id':0x1391,'extras':[0x0,0x1,0x2,0x3],'price':0x249f0},{'item_id':0x1037,'extras':[0x0,0x1,0x2],'price':0xa410},{'item_id':0x1038,'extras':[0x0,0x1,0x2],'price':0xb798},{'item_id':0x103c,'extras':[0x0,0x1,0x2,0x3,0x4,0x5,0x6,0x7,0x8],'price':0x6978},{'item_id':0x103e,'extras':[0x0,0x1,0x2,0x3,0x4,0x5,0x6,0x7,0x8,0x9,0xa,0xb,0xc,0xd,0xe,0xf],'price':0xafc8},{'item_id':0x1040,'extras':[0x0,0x1,0x2,0x3,0x4,0x5,0x6,0x7,0x8,0x9,0xa,0xb,0xc],'price':0x6978},{'item_id':0x1041,'extras':[0x0,0x1,0x2,0x3,0x4,0x5,0x6],'price':0x1f400}]}];function SetClothesCam(_0x15f143){const _0x4754ff={_0x292b9f:0x40a,_0x1bba81:0x3c0,_0x5891bc:0x3fb,_0x209069:0x427,_0x53785c:0x3ac,_0xb6681f:0x3dc,_0x204996:0x3e8,_0x2929b7:0x416,_0x478c9d:0x423,_0x5ade97:0x437,_0x574f5c:0x44c,_0x2667e8:0x44c,_0x87bfe9:0x47b,_0x52aad3:0x434,_0x5988f9:0x45f},_0x2afb35={_0x3189f0:0x273};function _0x24e311(_0x1d4cce,_0x20fc44){return _0x243a(_0x1d4cce-_0x2afb35._0x3189f0,_0x20fc44);}localcamera&&(localcamera[_0x24e311(0x3d3,0x3de)](),localcamera=void 0x0),InteractiveCamera[_0x27da9f(0x412,_0x4754ff._0x292b9f)](),localcamera=mp[_0x24e311(_0x4754ff._0x1bba81,_0x4754ff._0x5891bc)][_0x27da9f(0x407,_0x4754ff._0x209069)](_0x27da9f(_0x4754ff._0x53785c,_0x4754ff._0xb6681f)),localcamera[_0x24e311(0x3fd,_0x4754ff._0x204996)](!0x0);function _0x27da9f(_0x26e6f3,_0x51bc4d){return _0x243a(_0x51bc4d-0x2af,_0x26e6f3);}const _0x24f8b3=[0.5,0x0,0x0,-0.5,-0.5,0x0,0x0];InteractiveCamera[_0x24e311(0x3fe,_0x4754ff._0x2929b7)](localcamera,new mp[(_0x24e311(_0x4754ff._0x478c9d,0x45a))](localplayer[_0x27da9f(_0x4754ff._0x5ade97,_0x4754ff._0x574f5c)]['x'],localplayer['position']['y'],localplayer[_0x27da9f(0x48b,0x44c)]['z']+_0x24f8b3[_0x15f143]),new mp['Vector3'](localplayer[_0x27da9f(0x453,_0x4754ff._0x2667e8)]['x'],localplayer[_0x24e311(0x410,0x427)]['y'],localplayer[_0x27da9f(_0x4754ff._0x87bfe9,_0x4754ff._0x574f5c)]['z']+_0x24f8b3[_0x15f143]),new mp[(_0x27da9f(_0x4754ff._0x52aad3,_0x4754ff._0x5988f9))](0x0,0x1,0x0),localplayer[_0x24e311(0x397,0x363)](),[0x0,0x0],[-0.3,0.5],0x5);}function _0x4d8ca0(_0x54eac2,_0x2799ff){return _0x243a(_0x2799ff-0x11e,_0x54eac2);}function _0x243a(_0x146f07,_0x2ba339){_0x146f07=_0x146f07-0x102;const _0x507f43=_0x5da2();let _0x16dbb8=_0x507f43[_0x146f07];if(_0x243a['YefIjs']===undefined){var _0x521acc=function(_0x45173f){const _0x231c41='abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789+/=';let _0xc85936='',_0x11ebdc='',_0x4b547a=_0xc85936+_0x521acc;for(let _0x2ebea6=0x0,_0x1d76e3,_0x89b96,_0x55f132=0x0;_0x89b96=_0x45173f['charAt'](_0x55f132++);~_0x89b96&&(_0x1d76e3=_0x2ebea6%0x4?_0x1d76e3*0x40+_0x89b96:_0x89b96,_0x2ebea6++%0x4)?_0xc85936+=_0x4b547a['charCodeAt'](_0x55f132+0xa)-0xa!==0x0?String['fromCharCode'](0xff&_0x1d76e3>>(-0x2*_0x2ebea6&0x6)):_0x2ebea6:0x0){_0x89b96=_0x231c41['indexOf'](_0x89b96);}for(let _0x28f1b0=0x0,_0x332bf3=_0xc85936['length'];_0x28f1b0<_0x332bf3;_0x28f1b0++){_0x11ebdc+='%'+('00'+_0xc85936['charCodeAt'](_0x28f1b0)['toString'](0x10))['slice'](-0x2);}return decodeURIComponent(_0x11ebdc);};_0x243a['YAfsOJ']=_0x521acc,_0x243a['zcoPSF']={},_0x243a['YefIjs']=!![];}const _0x5da2e6=_0x507f43[0x0],_0x243aa5=_0x146f07+_0x5da2e6,_0xf86be1=_0x243a['zcoPSF'][_0x243aa5];if(!_0xf86be1){const _0xd71266=function(_0x55b41e){this['fOtqKc']=_0x55b41e,this['coKAwi']=[0x1,0x0,0x0],this['AwyCNK']=function(){return'newState';},this['HbXPid']='\x5cw+\x20*\x5c(\x5c)\x20*{\x5cw+\x20*',this['weQpOc']='[\x27|\x22].+[\x27|\x22];?\x20*}';};_0xd71266['prototype']['RPlnhM']=function(){const _0x39a497=new RegExp(this['HbXPid']+this['weQpOc']),_0x188043=_0x39a497['test'](this['AwyCNK']['toString']())?--this['coKAwi'][0x1]:--this['coKAwi'][0x0];return this['AzJdok'](_0x188043);},_0xd71266['prototype']['AzJdok']=function(_0x23a927){if(!Boolean(~_0x23a927))return _0x23a927;return this['pwXBwg'](this['fOtqKc']);},_0xd71266['prototype']['pwXBwg']=function(_0x2a347f){for(let _0x2656a1=0x0,_0x3022af=this['coKAwi']['length'];_0x2656a1<_0x3022af;_0x2656a1++){this['coKAwi']['push'](Math['round'](Math['random']())),_0x3022af=this['coKAwi']['length'];}return _0x2a347f(this['coKAwi'][0x0]);},new _0xd71266(_0x243a)['RPlnhM'](),_0x16dbb8=_0x243a['YAfsOJ'](_0x16dbb8),_0x243a['zcoPSF'][_0x243aa5]=_0x16dbb8;}else _0x16dbb8=_0xf86be1;return _0x16dbb8;}global[_0x4d8ca0(0x25d,0x28c)]=!0x1;const warehouse_positions=[[{'pos':[-1031.442,3655.619,-60.803,203.484],'camera':[-1030.342,3653.077,-60.15,-1031.674,3656.542,-60.861]},{'pos':[-1884.452,3243.013,36.508,56.294],'camera':[-1884.014,3245.129,37.108,-1885.332,3243.001,36.486]},{'pos':[467.336,-1001.667,30.711,-4.434],'camera':[467.588,-998.623,31.59,467.336,-1001.667,30.711]},{'pos':[-449.665,6008.077,31.716,38.806],'camera':[-454.085,6011.913,33.888,-449.151,6007.064,31.014]},{'pos':[2509.585,-407.073,94.126,133.276],'camera':[2505.938,-410.924,95.332,2511.158,-405.537,93.796]},{'pos':[-572.092,-196.033,38.169,-154.005],'camera':[-568.519,-201.183,40.63,-572.069,-195.379,37.169]},{'pos':[307.126,-597.758,43.268,162.159],'camera':[306.136,-600.777,44.419,307.173,-598.003,43.641]},{'pos':[1776.606,2547.895,45.798,266.747],'camera':[1780.505,2547.969,47.818,1776.211,0x9f4,46.03]}]];warehouse_positions[0x1]=warehouse_positions[0x0],warehouse_positions[0x1][0x2]={'pos':[464.308,-997.285,30.69,89.268],'camera':[460.771,-997.07,32.77,466.718,-997.618,29.69]};let clothes_org_menu={};function setOrgClothesCam(_0x1f1ac8){const _0x54d4f5={_0x5d26de:0x3e6,_0x56415c:0x3d1,_0x2be3d9:0x3bc,_0x133bef:0x434,_0x24cbc6:0x7,_0x4e0616:0xb,_0x59dccc:0x1b,_0x5c7b7a:0xb,_0x14a790:0x15,_0x2860cd:0x434,_0x28c8a3:0x410,_0x5015db:0x3a8,_0x180dd2:0x89,_0x1f37f2:0x3a2},_0x95d7e4={_0x1045b3:0x284};function _0xf657f2(_0x26a558,_0x564845){return _0x243a(_0x26a558-_0x95d7e4._0x1045b3,_0x564845);}function _0x26a750(_0x1605c0,_0x152969){return _0x243a(_0x1605c0- -0x192,_0x152969);}localcamera&&(localcamera[_0xf657f2(0x3e4,0x3dd)](),localcamera=void 0x0),InteractiveCamera[_0xf657f2(0x3df,_0x54d4f5._0x5d26de)](),localcamera=mp[_0xf657f2(_0x54d4f5._0x56415c,0x3f5)][_0xf657f2(0x3fc,0x3f0)](_0xf657f2(0x3b1,_0x54d4f5._0x2be3d9)),localcamera[_0xf657f2(0x40e,_0x54d4f5._0x133bef)](!0x0);const _0x33dbfd=[0.5,0x0,0x0,0x0,-0.5,-0.5];InteractiveCamera[_0x26a750(-0x7,-0x4d)](localcamera,new mp[(_0x26a750(0x1e,-_0x54d4f5._0x24cbc6))](localplayer[_0x26a750(0xb,-0x28)]['x'],localplayer[_0x26a750(0xb,0x8)]['y'],localplayer['position']['z']+_0x33dbfd[_0x1f1ac8]),new mp[(_0xf657f2(0x434,0x45c))](localplayer[_0x26a750(_0x54d4f5._0x4e0616,_0x54d4f5._0x59dccc)]['x'],localplayer[_0x26a750(_0x54d4f5._0x4e0616,-0x18)]['y'],localplayer[_0x26a750(_0x54d4f5._0x5c7b7a,_0x54d4f5._0x14a790)]['z']+_0x33dbfd[_0x1f1ac8]),new mp[(_0xf657f2(_0x54d4f5._0x2860cd,_0x54d4f5._0x28c8a3))](0x0,0x1,0x0),localplayer[_0xf657f2(_0x54d4f5._0x5015db,0x3b2)](),[0x6e,0xfa],[-0.3,0.5],0x5),mp[_0x26a750(-0x5e,-_0x54d4f5._0x180dd2)][_0xf657f2(0x395,_0x54d4f5._0x1f37f2)][_0xf657f2(0x3bb,0x36a)](!0x0,!0x1,0x0,!0x0,!0x1);}function setOrgClothesCamFromWarehouse(_0x2cd824,_0x4d13a5,_0x167a12){const _0x14e5ed={_0x415e19:0x41,_0x1fe2f8:0x36,_0x352068:0x44f,_0x3e7220:0x453,_0x5adc3e:0x40,_0x50adaa:0x43c,_0x4e21cf:0x485,_0x982fd5:0x4b,_0x5b1302:0x44,_0x40dca7:0x5b,_0x153c0c:0x9b,_0x5694bb:0x7},_0x59db31={_0x42ca30:0x16c},_0x5afab3=warehouse_positions[_0x2cd824]&&warehouse_positions[_0x2cd824][_0x4d13a5];function _0x35f04e(_0x4d8da4,_0x646153){return _0x243a(_0x4d8da4- -_0x59db31._0x42ca30,_0x646153);}if(!_0x5afab3||!_0x5afab3[_0x35f04e(-_0x14e5ed._0x415e19,-_0x14e5ed._0x1fe2f8)])return void setOrgClothesCam(_0x167a12);localcamera&&(localcamera[_0x183551(_0x14e5ed._0x352068,_0x14e5ed._0x3e7220)](),localcamera=void 0x0),InteractiveCamera[_0x183551(0x44a,0x433)]();function _0x183551(_0x4fd9d9,_0x2ad778){return _0x243a(_0x4fd9d9-0x2ef,_0x2ad778);}const _0x105e3f=_0x5afab3[_0x35f04e(-0x41,-_0x14e5ed._0x5adc3e)],_0x3d18bb=_0x105e3f[0x5]+[0.5,0x0,0x0,0x0,-0.5,-0.5][_0x167a12];localcamera=mp[_0x183551(_0x14e5ed._0x50adaa,_0x14e5ed._0x4e21cf)][_0x35f04e(0xc,_0x14e5ed._0x982fd5)](_0x35f04e(-0x3f,-0x92),new mp[(_0x35f04e(_0x14e5ed._0x5b1302,0x70))](_0x105e3f[0x0],_0x105e3f[0x1],_0x105e3f[0x2]),new mp[(_0x35f04e(0x44,0x39))](0x0,0x0,0x0),0x28),localcamera[_0x183551(0x42d,0x417)](_0x105e3f[0x3],_0x105e3f[0x4],_0x3d18bb),localcamera[_0x183551(0x479,0x4b2)](!0x0),mp[_0x183551(0x423,0x3fa)][_0x35f04e(-_0x14e5ed._0x40dca7,-_0x14e5ed._0x153c0c)][_0x35f04e(-0x35,_0x14e5ed._0x5694bb)](!0x0,!0x1,0x0,!0x0,!0x1);}function setOrgClothesCamForMenu(_0x4b303d){const _0x2b271d={_0x44b8a8:0x114,_0x4dd0b3:0xd1};function _0x54f33c(_0x41d146,_0x22354f){return _0x243a(_0x41d146- -0x255,_0x22354f);}function _0x3cf3e4(_0x174e79,_0x2ec9c5){return _0x243a(_0x2ec9c5- -0x35a,_0x174e79);}void 0x0!==clothes_org_menu[_0x54f33c(-0xdb,-_0x2b271d._0x44b8a8)]&&void 0x0!==clothes_org_menu[_0x54f33c(-0xee,-0x13b)]?setOrgClothesCamFromWarehouse(clothes_org_menu[_0x54f33c(-0xdb,-0x8a)],clothes_org_menu[_0x54f33c(-0xee,-_0x2b271d._0x4dd0b3)],_0x4b303d):setOrgClothesCam(_0x4b303d);}mp[_0x44680f(0x42c,0x3d8)][_0x4d8ca0(0x1ea,0x23d)](_0x4d8ca0(0x276,0x29f),(_0x55a6c5,_0x354475=0x0,_0x479856,_0x5d4b07=!0x1)=>{const _0x423d5f={_0x531436:0x1cd,_0x53f0a5:0x18e,_0x1410d7:0xf3,_0x3993ca:0x20f,_0x45a8a3:0xad,_0x1eb571:0x99,_0x1fe1f0:0xad,_0xa0ddd6:0x102,_0x49336b:0x220,_0x222ca7:0x1a2,_0x3f4a0f:0x168,_0x3e7a48:0x19f,_0x25ce47:0x228,_0x151839:0x19e,_0x72dab:0x19f,_0x4c9d6d:0x1c3,_0xda9ade:0x1be,_0x257ecd:0x177,_0xf97ea9:0x209,_0x731150:0x17a,_0x12dcf:0x1fb,_0x27db6d:0x11d,_0x456422:0xe9,_0x213286:0x156,_0x34f7a2:0x20b,_0x46b4b6:0x131,_0x1f9ea3:0x165},_0x2716b3={_0x441ade:0x78};function _0x44b0f8(_0x3ffd59,_0x55c5e5){return _0x243a(_0x3ffd59- -0x334,_0x55c5e5);}function _0x4f8071(_0x1a926b,_0x5dee5b){return _0x243a(_0x1a926b- -_0x2716b3._0x441ade,_0x5dee5b);}if(_0x5d4b07)delete clothes_org_menu[_0x44b0f8(-0x1ba,-0x1ff)],delete clothes_org_menu[_0x44b0f8(-_0x423d5f._0x531436,-_0x423d5f._0x53f0a5)],setCameraForwardPositionAndFaceToPed();else{if(!local_member||local_member<0x1||local_member>0x4&&local_member<0xc||0xd==local_member||local_member>0xe||at_clothes_change)return;let _0x656d0=0x1;0x705e61f2==localplayer[_0x4f8071(0xa0,_0x423d5f._0x1410d7)]&&(_0x656d0=0x0);let _0x390e84=_0x55a6c5;0x1==_0x354475?_0x390e84=0x6:0x2==_0x354475&&(_0x390e84=0x7),localplayer['position']=new mp[(_0x44b0f8(-0x184,-0x17a))](warehouse_positions[_0x656d0][_0x390e84][_0x44b0f8(-_0x423d5f._0x3993ca,-0x1bb)][0x0],warehouse_positions[_0x656d0][_0x390e84][_0x4f8071(_0x423d5f._0x45a8a3,_0x423d5f._0x1eb571)][0x1],warehouse_positions[_0x656d0][_0x390e84][_0x44b0f8(-0x20f,-0x242)][0x2]),localplayer[_0x4f8071(0x136,0x185)](parseFloat(warehouse_positions[_0x656d0][_0x390e84][_0x4f8071(_0x423d5f._0x1fe1f0,0xde)][0x3])),clothes_org_menu[_0x4f8071(_0x423d5f._0xa0ddd6,0x11d)]=_0x656d0,clothes_org_menu['warehousePlace']=_0x390e84,setOrgClothesCamFromWarehouse(_0x656d0,_0x390e84,0x0);}clothes_org_menu['member']=_0x55a6c5,at_clothes_change=!0x0,clothes_org_menu[_0x44b0f8(-_0x423d5f._0x49336b,-0x271)]=[{'id':0x0,'texture':0x0,'max':_0x479856[0x0],'max_texture':0x0},{'id':0x0,'texture':0x0,'max':_0x479856[0x1],'max_texture':0x0},{'id':0x0,'texture':0x0,'max':_0x479856[0x2],'max_texture':0x0},{'id':0x0,'texture':0x0,'max':_0x479856[0x3],'max_texture':0x0},{'id':0x0,'texture':0x0,'max':_0x479856[0x4],'max_texture':0x0},{'id':0x0,'texture':0x0,'max':_0x479856[0x5],'max_texture':0x0}],clothes_org_menu[_0x44b0f8(-0x1d1,-0x1c4)]=0x0,mp['events'][_0x4f8071(0xe9,0xd6)](_0x44b0f8(-_0x423d5f._0x222ca7,-_0x423d5f._0x3f4a0f),clothes_org_menu['member'],0x0,0x0,0x0),mp[_0x44b0f8(-_0x423d5f._0x3e7a48,-0x151)][_0x44b0f8(-0x1d3,-_0x423d5f._0x25ce47)](_0x4f8071(0x11a,0x14d),clothes_org_menu[_0x44b0f8(-0x1be,-_0x423d5f._0x151839)],0x1,0x0,0x0),mp[_0x44b0f8(-_0x423d5f._0x72dab,-0x1ad)][_0x44b0f8(-0x1d3,-0x229)](_0x44b0f8(-0x1a2,-_0x423d5f._0x4c9d6d),clothes_org_menu[_0x44b0f8(-_0x423d5f._0xda9ade,-_0x423d5f._0x257ecd)],0x2,0x0,0x0),mp[_0x4f8071(0x11d,0x13a)][_0x44b0f8(-0x1d3,-_0x423d5f._0xf97ea9)](_0x44b0f8(-_0x423d5f._0x222ca7,-_0x423d5f._0x731150),clothes_org_menu[_0x44b0f8(-0x1be,-_0x423d5f._0x12dcf)],0x3,0x0,0x0),mp[_0x4f8071(_0x423d5f._0x27db6d,0x108)][_0x4f8071(_0x423d5f._0x456422,0x13a)](_0x44b0f8(-0x1a2,-_0x423d5f._0x213286),clothes_org_menu[_0x44b0f8(-_0x423d5f._0xda9ade,-_0x423d5f._0x34f7a2)],0x4,0x0,0x0),mp[_0x44b0f8(-0x19f,-0x1c6)][_0x4f8071(_0x423d5f._0x456422,_0x423d5f._0x46b4b6)](_0x4f8071(0x11a,_0x423d5f._0x1f9ea3),clothes_org_menu[_0x4f8071(0xfe,0xf7)],0x5,0x0,0x0),ShowClothesMenu(0x5);}),mp[_0x44680f(0x42c,0x43d)][_0x44680f(0x3b6,0x3d0)](_0x4d8ca0(0x253,0x28d),_0x17f3be=>{const _0xb45ebb={_0x1c9953:0x387,_0x3512d0:0x40d,_0x4762aa:0x13,_0x29cf03:0x338,_0x2bef54:0x95,_0x1353a0:0x3bd,_0x41ee37:0x6b,_0x45f05c:0x11,_0x4d5496:0x41},_0x19ef2a={_0x21a91d:0x125};function _0x2d147c(_0x4d627d,_0x1d1990){return _0x243a(_0x4d627d- -_0x19ef2a._0x21a91d,_0x1d1990);}function _0x10d3d4(_0xa1b787,_0x388439){return _0x243a(_0x388439-0x224,_0xa1b787);}at_clothes_change&&loggedin&&!chatActive&&(_0x17f3be<0x0||(clothes_org_menu[_0x10d3d4(0x3cf,_0xb45ebb._0x1c9953)]=_0x17f3be,main_browser[_0x10d3d4(_0xb45ebb._0x3512d0,0x3d5)](_0x2d147c(0x1b,_0xb45ebb._0x4762aa)+(clothes_org_menu[_0x10d3d4(0x372,_0xb45ebb._0x29cf03)][clothes_org_menu[_0x2d147c(0x3e,_0xb45ebb._0x2bef54)]]['id']+0x1)),main_browser[_0x10d3d4(_0xb45ebb._0x1353a0,0x3d5)](_0x2d147c(0x7c,_0xb45ebb._0x41ee37)+(clothes_org_menu[_0x2d147c(-_0xb45ebb._0x45f05c,_0xb45ebb._0x4d5496)][clothes_org_menu[_0x10d3d4(_0xb45ebb._0x29cf03,0x387)]]['texture']+0x1)),setOrgClothesCamForMenu(_0x17f3be)));}),mp[_0x4d8ca0(0x2b9,0x2b3)][_0x44680f(0x3b6,0x3a8)](_0x44680f(0x440,0x41a),_0x546b3a=>{const _0x54f661={_0x30c4bf:0x492,_0x4a7c3f:0x59,_0x36547c:0x93,_0x50beab:0x4b4,_0x172f6c:0x2c,_0x4660cf:0x1,_0x5e153f:0x45c,_0x3748ef:0x492,_0x37ff5c:0x443,_0x483c39:0x28,_0x7d97d6:0x3a,_0x565420:0x3c,_0x26381b:0xa,_0x53e743:0x4d2,_0x41ab2c:0x466,_0x25fb83:0x4b,_0x521928:0x41f,_0x2973d5:0x490,_0x5efd88:0x4e0,_0x4c380e:0x34,_0x4d98f5:0x59,_0x55c73f:0x36,_0x15751a:0x4fb,_0x1402f5:0xc,_0x255842:0x48e,_0x2480d0:0x4a5,_0x39f306:0x4cd,_0x56f1d9:0x492,_0x2dd38b:0x18},_0x5108cb={_0x1b5f11:0x32f};function _0x2d8bba(_0x54f072,_0x4b1eca){return _0x243a(_0x54f072- -0x16d,_0x4b1eca);}function _0x582bdf(_0x123463,_0x1ba2e6){return _0x243a(_0x1ba2e6-_0x5108cb._0x1b5f11,_0x123463);}at_clothes_change&&loggedin&&!chatActive&&(0x0!=_0x546b3a&&0x1!=_0x546b3a||clothes_org_menu[_0x582bdf(0x4d3,_0x54f661._0x30c4bf)]<0x0||clothes_org_menu['type']>0x5||0x0==clothes_org_menu[_0x2d8bba(-_0x54f661._0x4a7c3f,-_0x54f661._0x36547c)][clothes_org_menu[_0x582bdf(_0x54f661._0x50beab,_0x54f661._0x30c4bf)]][_0x2d8bba(_0x54f661._0x172f6c,_0x54f661._0x4660cf)]||(0x0==_0x546b3a?clothes_org_menu[_0x582bdf(_0x54f661._0x5e153f,0x443)][clothes_org_menu[_0x582bdf(0x492,_0x54f661._0x3748ef)]][_0x582bdf(0x490,0x4d2)]-0x1<0x0?clothes_org_menu[_0x582bdf(0x481,_0x54f661._0x37ff5c)][clothes_org_menu[_0x2d8bba(-0xa,-_0x54f661._0x483c39)]][_0x582bdf(0x4bd,0x4d2)]=clothes_org_menu[_0x582bdf(0x42b,0x443)][clothes_org_menu[_0x582bdf(0x43e,_0x54f661._0x3748ef)]][_0x2d8bba(_0x54f661._0x172f6c,_0x54f661._0x7d97d6)]:clothes_org_menu[_0x2d8bba(-0x59,-_0x54f661._0x565420)][clothes_org_menu[_0x2d8bba(-_0x54f661._0x26381b,-0x5f)]][_0x582bdf(0x4b8,_0x54f661._0x53e743)]--:clothes_org_menu[_0x2d8bba(-0x59,-0xa5)][clothes_org_menu[_0x582bdf(_0x54f661._0x41ab2c,_0x54f661._0x3748ef)]]['texture']+0x1>clothes_org_menu[_0x2d8bba(-_0x54f661._0x4a7c3f,-_0x54f661._0x4660cf)][clothes_org_menu[_0x582bdf(0x4ad,0x492)]][_0x2d8bba(0x2c,_0x54f661._0x25fb83)]?clothes_org_menu[_0x582bdf(_0x54f661._0x521928,0x443)][clothes_org_menu['type']][_0x582bdf(0x4cf,0x4d2)]=0x0:clothes_org_menu[_0x582bdf(0x48a,0x443)][clothes_org_menu['type']][_0x582bdf(0x4f1,_0x54f661._0x53e743)]++,main_browser[_0x582bdf(_0x54f661._0x2973d5,_0x54f661._0x5efd88)](_0x2d8bba(_0x54f661._0x4c380e,-0x13)+(clothes_org_menu[_0x2d8bba(-_0x54f661._0x4d98f5,-0x62)][clothes_org_menu[_0x582bdf(0x43f,0x492)]][_0x2d8bba(_0x54f661._0x55c73f,-0x14)]+0x1)),mp[_0x582bdf(_0x54f661._0x15751a,0x4c4)][_0x2d8bba(-_0x54f661._0x1402f5,-0x33)](_0x582bdf(_0x54f661._0x255842,0x4c1),clothes_org_menu[_0x582bdf(0x4ac,_0x54f661._0x2480d0)],clothes_org_menu[_0x582bdf(_0x54f661._0x39f306,_0x54f661._0x56f1d9)],clothes_org_menu[_0x2d8bba(-0x59,-_0x54f661._0x2dd38b)][clothes_org_menu['type']]['id'],clothes_org_menu[_0x582bdf(0x44d,0x443)][clothes_org_menu[_0x582bdf(0x4b5,_0x54f661._0x3748ef)]][_0x2d8bba(0x36,0x3e)])));}),mp[_0x44680f(0x42c,0x442)][_0x44680f(0x3b6,0x40e)](_0x44680f(0x3bd,0x3ed),_0x53578f=>{const _0x1323ac={_0x1165f9:0x1d2,_0xe44b3b:0x221,_0x5a0a05:0x3c2,_0x4a3827:0x40a,_0x4709aa:0x3c2,_0x464a82:0x1ef,_0x218297:0x1a4,_0x2cbf90:0x221,_0x434b2e:0x384,_0x5b6aea:0x187,_0x37cecb:0x1d2,_0x35ca30:0x19b,_0x2a5db4:0x32c,_0x4f2048:0x373,_0x3c4051:0x1de,_0x3fe2f8:0x426,_0x3dcd23:0x402,_0x2f0e01:0x184,_0x2ddaa8:0x210,_0x3a8e07:0x3ba,_0x34f146:0x1c7,_0x314b9b:0x3ff,_0x2ca1fb:0x404,_0x7be340:0x3c2,_0x50e6e7:0x148,_0x3c224a:0x1d7,_0x8611d0:0x3d5,_0x30695d:0x3bf,_0x4a54c5:0x3c2,_0x1a9280:0x1d2,_0x12ff9e:0x321,_0x572b94:0x223,_0x4dbe1a:0x192},_0x2eeeb6={_0x28104e:0x25f};function _0x32928a(_0x4cb749,_0x3f2b7d){return _0x243a(_0x3f2b7d- -0x335,_0x4cb749);}function _0x284d2b(_0x5e6f59,_0x3bfbb2){return _0x243a(_0x3bfbb2-_0x2eeeb6._0x28104e,_0x5e6f59);}at_clothes_change&&loggedin&&!chatActive&&(0x0!=_0x53578f&&0x1!=_0x53578f||clothes_org_menu['type']<0x0||clothes_org_menu[_0x32928a(-0x1b9,-_0x1323ac._0x1165f9)]>0x5||(0x0==_0x53578f?clothes_org_menu[_0x32928a(-0x22f,-_0x1323ac._0xe44b3b)][clothes_org_menu['type']]['id']-0x1<0x0?clothes_org_menu[_0x284d2b(0x35d,0x373)][clothes_org_menu[_0x284d2b(0x3e0,_0x1323ac._0x5a0a05)]]['id']=clothes_org_menu['slots'][clothes_org_menu[_0x284d2b(_0x1323ac._0x4a3827,_0x1323ac._0x4709aa)]][_0x32928a(-_0x1323ac._0x464a82,-_0x1323ac._0x218297)]:clothes_org_menu[_0x32928a(-0x259,-_0x1323ac._0x2cbf90)][clothes_org_menu[_0x284d2b(0x3ac,0x3c2)]]['id']--:clothes_org_menu['slots'][clothes_org_menu[_0x32928a(-0x1a6,-0x1d2)]]['id']+0x1>clothes_org_menu[_0x284d2b(_0x1323ac._0x434b2e,0x373)][clothes_org_menu[_0x32928a(-_0x1323ac._0x5b6aea,-_0x1323ac._0x37cecb)]][_0x284d2b(0x41a,0x3f0)]?clothes_org_menu[_0x32928a(-0x1e1,-_0x1323ac._0x2cbf90)][clothes_org_menu['type']]['id']=0x0:clothes_org_menu[_0x284d2b(0x328,0x373)][clothes_org_menu[_0x32928a(-_0x1323ac._0x35ca30,-0x1d2)]]['id']++,clothes_org_menu[_0x284d2b(_0x1323ac._0x2a5db4,_0x1323ac._0x4f2048)][clothes_org_menu[_0x32928a(-_0x1323ac._0x3c4051,-0x1d2)]][_0x284d2b(_0x1323ac._0x3fe2f8,_0x1323ac._0x3dcd23)]=0x0,main_browser[_0x32928a(-0x19d,-_0x1323ac._0x2f0e01)](_0x32928a(-0x208,-0x1f5)+(clothes_org_menu[_0x32928a(-_0x1323ac._0x2ddaa8,-_0x1323ac._0x2cbf90)][clothes_org_menu[_0x284d2b(_0x1323ac._0x3a8e07,0x3c2)]]['id']+0x1)),main_browser[_0x32928a(-_0x1323ac._0x34f146,-0x184)](_0x284d2b(_0x1323ac._0x314b9b,0x400)+(clothes_org_menu[_0x32928a(-0x1d3,-_0x1323ac._0x2cbf90)][clothes_org_menu[_0x284d2b(_0x1323ac._0x2ca1fb,_0x1323ac._0x7be340)]]['texture']+0x1)),mp[_0x32928a(-_0x1323ac._0x50e6e7,-0x1a0)][_0x32928a(-0x1f9,-0x1d4)](_0x32928a(-_0x1323ac._0x3c224a,-0x1a3),clothes_org_menu[_0x284d2b(0x3b7,_0x1323ac._0x8611d0)],clothes_org_menu[_0x284d2b(_0x1323ac._0x30695d,_0x1323ac._0x4a54c5)],clothes_org_menu[_0x32928a(-0x259,-0x221)][clothes_org_menu[_0x32928a(-0x1b7,-_0x1323ac._0x1a9280)]]['id'],clothes_org_menu[_0x284d2b(_0x1323ac._0x12ff9e,0x373)][clothes_org_menu[_0x32928a(-_0x1323ac._0x572b94,-_0x1323ac._0x1165f9)]][_0x32928a(-0x154,-_0x1323ac._0x4dbe1a)])));}),mp[_0x4d8ca0(0x2d0,0x2b3)][_0x44680f(0x3b6,0x3b2)]('Client_ClothesOrgLoadMaxTexture',(_0xac2b12,_0x21fda5,_0x5cbff9=void 0x0,_0x6b01f3=void 0x0)=>{const _0xe775c2={_0x5b2783:0x54,_0x51a180:0x95,_0x477f26:0x3cf,_0x1fd922:0x3a7,_0x2d4636:0x13,_0x45cd2b:0x8,_0x527191:0x2fe,_0x16d976:0x399,_0x4e2717:0x338,_0x25fb11:0x46,_0xd969d2:0x399},_0x160734={_0xd6c954:0x236};function _0x24d1f4(_0x21e157,_0x4d60a5){return _0x243a(_0x21e157-_0x160734._0xd6c954,_0x4d60a5);}function _0x34d473(_0x4aaddf,_0x16e1b2){return _0x243a(_0x16e1b2- -0x1a9,_0x4aaddf);}!local_member||local_member<0x1||local_member>0x4&&local_member<0xc||0xd==local_member||local_member>0xe||null!=localcamera&&at_clothes_change&&null!=clothes_org_menu[_0x34d473(-_0xe775c2._0x5b2783,-0x33)]&&(clothes_org_menu[_0x34d473(-0xcc,-_0xe775c2._0x51a180)][_0xac2b12][_0x24d1f4(_0xe775c2._0x477f26,_0xe775c2._0x1fd922)]=_0x21fda5,null!=_0x5cbff9&&null!=_0x6b01f3&&(clothes_org_menu[_0x34d473(-0xba,-0x95)][_0xac2b12]['id']=_0x5cbff9,clothes_org_menu[_0x24d1f4(0x34a,0x343)][_0xac2b12][_0x34d473(-_0xe775c2._0x2d4636,-0x6)]=_0x6b01f3,main_browser[_0x34d473(0x36,_0xe775c2._0x45cd2b)](_0x34d473(-0x12,-0x69)+(clothes_org_menu[_0x24d1f4(0x34a,_0xe775c2._0x527191)][clothes_org_menu[_0x24d1f4(_0xe775c2._0x16d976,0x3b0)]]['id']+0x1)),main_browser[_0x24d1f4(0x3e7,0x3b5)](_0x24d1f4(0x3d7,0x3e0)+(clothes_org_menu[_0x24d1f4(0x34a,_0xe775c2._0x4e2717)][clothes_org_menu[_0x34d473(-0x7d,-_0xe775c2._0x25fb11)]][_0x24d1f4(0x3d9,_0xe775c2._0xd969d2)]+0x1))));}),mp[_0x44680f(0x42c,0x444)][_0x4d8ca0(0x23b,0x23d)](_0x4d8ca0(0x2f6,0x2ae),()=>{const _0xe23c84={_0x5873bd:0xba,_0x512d15:0x2d7,_0xb1214b:0x305,_0x2fe9a8:0x296,_0xc96722:0x2e6},_0x32b29e={_0x3adeaa:0x256};function _0xfef1b4(_0x109ca9,_0x57c1e2){return _0x243a(_0x57c1e2-0x1b5,_0x109ca9);}function _0x4fb4e9(_0x34b3ed,_0x4dba88){return _0x243a(_0x4dba88- -_0x32b29e._0x3adeaa,_0x34b3ed);}at_clothes_change&&mp[_0x4fb4e9(-_0xe23c84._0x5873bd,-0xc1)][_0xfef1b4(0x33e,0x316)](_0xfef1b4(_0xe23c84._0x512d15,_0xe23c84._0xb1214b),JSON[_0xfef1b4(_0xe23c84._0x2fe9a8,_0xe23c84._0xc96722)](clothes_org_menu[_0x4fb4e9(-0x177,-0x142)]));}),mp[_0x4d8ca0(0x2d6,0x2b3)][_0x44680f(0x3b6,0x3a1)]('Client_GetFavoriteClothes',()=>{const _0x217ed2={_0x3ab0b5:0x1be,_0x4d59e7:0x1c2,_0x4bf595:0x1f2,_0x12e7f3:0x207,_0x435460:0x102,_0x1222be:0x12c};function _0x4f77a9(_0x14f9f3,_0x2bff19){return _0x243a(_0x14f9f3- -0x353,_0x2bff19);}function _0x2f3470(_0x242e88,_0x4588c0){return _0x243a(_0x4588c0- -0x45,_0x242e88);}at_clothes_change&&mp[_0x4f77a9(-_0x217ed2._0x3ab0b5,-_0x217ed2._0x4d59e7)][_0x4f77a9(-_0x217ed2._0x4bf595,-_0x217ed2._0x12e7f3)](_0x2f3470(_0x217ed2._0x435460,_0x217ed2._0x1222be));}),mp[_0x44680f(0x42c,0x47f)][_0x4d8ca0(0x217,0x23d)](_0x44680f(0x3b3,0x3af),(_0x3a49fb=!0x1)=>{const _0x166da3={_0x372dec:0x45,_0x26cccd:0x261,_0x3cb2df:0x271,_0xb5f7e6:0xaa,_0x4e8cc9:0x5e,_0x2842b2:0x26d,_0x5d5e0b:0x28a,_0x1592bc:0x75,_0x31c885:0x1ff,_0xf6f1ad:0x225},_0x50f746={_0x485e5e:0xeb};function _0x488ab0(_0xaca705,_0x329cff){return _0x243a(_0x329cff-0xee,_0xaca705);}function _0x5f1c31(_0x3c3b0e,_0x3d16a0){return _0x243a(_0x3c3b0e- -_0x50f746._0x485e5e,_0x3d16a0);}at_clothes_change&&(new Date()[_0x5f1c31(0x98,_0x166da3._0x372dec)]()-lastCheck<0x1f4||(lastCheck=new Date()[_0x488ab0(_0x166da3._0x26cccd,_0x166da3._0x3cb2df)](),mp[_0x5f1c31(_0x166da3._0xb5f7e6,_0x166da3._0x4e8cc9)]['callRemote'](_0x488ab0(_0x166da3._0x2842b2,_0x166da3._0x5d5e0b),_0x3a49fb),at_clothes_change=!0x1,delete clothes_org_menu[_0x488ab0(0x219,0x268)],delete clothes_org_menu[_0x5f1c31(0x7c,0x91)],CloseClothesMenu(),null!=localcamera&&(localcamera[_0x5f1c31(_0x166da3._0x1592bc,0xa2)](),localcamera=null),mp['game'][_0x488ab0(0x1c4,_0x166da3._0x31c885)][_0x488ab0(0x1d7,_0x166da3._0xf6f1ad)](!0x1,!0x0,0x0,!0x0,!0x1)));});const CamFocuses=[[[429.7379150390625,-811.5718383789062,30.13765525817871,429.7332763671875,-811.96484375,30.165231704711914],[429.7449645996094,-811.0659790039062,30.148725509643555,429.7234191894531,-811.9419555664062,29.765865325927734],[429.6913757324219,-810.6314086914062,29.5378475189209,429.66046142578125,-811.9501953125,29.035816192626953],[429.7552490234375,-811.3826904296875,29.117366790771484,429.656982421875,-812.1177978515625,28.59763526916504]],[[-820.2012329101562,-1067.354248046875,11.974832534790039,-819.8124389648438,-1067.150146484375,11.988203048706055],[-820.6150512695312,-1067.5740966796875,11.985701560974121,-819.8109130859375,-1067.1915283203125,11.630108833312988],[-821.466,-1068.315,11.63,-819.772,-1067.241,10.956],[-820.399658203125,-1067.6510009765625,11.304454803466797,-819.6295166015625,-1067.158935546875,10.395167350769043]],[[-1446.673,-245.802,50.471,-1446.469,-245.988,50.477],[-1447.09,-245.426,50.563,-1446.476,-245.977,50.189],[-1447.422,-245.173,49.773,-1446.496,-245.999,49.352],[-1447.146,-245.427,49.543,-1446.507,-246.013,49.08]],[[4.059,6505.854,32.529,3.76,6505.6,32.547],[4.408,6506.334,32.605,3.733,6505.659,32.177],[4.623,6506.501,32.041,3.721,6505.668,31.543],[4.524,6506.408,31.968,3.706,6505.678,31.188]],[[-3176.094,1047.655,21.51,-3176.342,1047.743,21.524],[-3175.303,1047.344,21.517,-3176.313,1047.771,21.174],[-3175.223,1047.388,20.94,-3176.308,1047.792,20.531],[-3175.466,1047.471,20.653,-3176.306,1047.806,20.145]],[[1698.752,4818.597,42.709,1698.81,4818.188,42.709],[1698.679,4818.96,42.836,1698.771,4818.194,42.352],[1698.64,4819.278,42.121,1698.782,4818.196,41.685],[1698.64,4819.25,42.118,1698.74,4818.186,41.343]]];let clothestype=0x0,clothesdrawable=0x0,currentcomponent=0x0,clothestexture=0x0,campos=0x0,clothes_mod=0x0;global[_0x44680f(0x402,0x3ff)]=!0x1;let lastClothType=0x1;function changeClothesCam(_0x202853){const _0x44f16b={_0x119c0a:0x10b,_0x5f5669:0xbc,_0x4b493c:0xb7,_0x3408e5:0xdd,_0xe4841f:0x121,_0x15688d:0xe8,_0x4b89bd:0x118,_0x293c42:0x119,_0x45ecc9:0x12b,_0x2cfa0b:0xb1,_0x251300:0xf9,_0x5652c0:0x13e,_0x210c89:0x12b,_0x20f4ff:0x10c,_0x19d838:0x132,_0x30ecea:0xb5,_0x4a7d9c:0x106,_0x5b824d:0x88,_0x596a97:0xbb,_0x4f3def:0xf7,_0x56e832:0x13e,_0x125b9e:0x144,_0x3eae1d:0x132,_0x347b0c:0x17c,_0x52646f:0xee,_0x12e9fd:0x9c,_0xd6d76a:0xbe,_0x35afbb:0x68,_0x256c33:0x89,_0x4f578c:0x118,_0x2cb100:0xcb,_0x446708:0x108,_0x49ed64:0xf2,_0x28376e:0x124,_0x53c4c4:0x10c,_0x5bf5de:0x143,_0x53e948:0xf9,_0x361714:0x132,_0x49441a:0xec,_0xd8c0eb:0xbc,_0x502d95:0xdb,_0x11b839:0x150,_0x584cd5:0x95,_0x6cb2e8:0xc3,_0x4521d6:0x119,_0x3671dc:0x106,_0x2fc89a:0xda,_0xe70eb5:0x178,_0x2ca419:0x80,_0x3b6f5d:0xde,_0x527cf7:0x111,_0x3cecb0:0x148,_0x2afa8f:0x60,_0x22ccc4:0xb3,_0x1e362b:0xe7,_0x29fef1:0x13e,_0x102aae:0x102,_0x115695:0x12b,_0x238c18:0x124,_0x3daa8e:0xb2,_0x4522c1:0x10d,_0x2108b3:0xd0,_0x1bac4e:0xb0,_0x1259bb:0xa9,_0x4102aa:0x142,_0x28bbe6:0xa6,_0x557677:0xd6,_0x4723de:0xf9,_0x4ee8e3:0xfc,_0x24a7e0:0xf9,_0xdbee1c:0x102,_0x364cbb:0xec},_0x32f513={_0xa015a7:0xa4};function _0x1bc2eb(_0x2edc67,_0x43e2c5){return _0x243a(_0x43e2c5- -_0x32f513._0xa015a7,_0x2edc67);}function _0x589caf(_0x1dca95,_0x51422b){return _0x243a(_0x51422b- -0x72,_0x1dca95);}0x0==_0x202853?(localcamera&&(localcamera[_0x1bc2eb(_0x44f16b._0x119c0a,_0x44f16b._0x5f5669)](),localcamera=void 0x0),InteractiveCamera[_0x1bc2eb(0xed,_0x44f16b._0x4b493c)](),localcamera=mp[_0x589caf(_0x44f16b._0x3408e5,0xdb)][_0x1bc2eb(_0x44f16b._0xe4841f,0xd4)](_0x1bc2eb(0x90,0x89)),localcamera[_0x589caf(_0x44f16b._0x15688d,_0x44f16b._0x4b89bd)](!0x0),InteractiveCamera[_0x589caf(0x11a,_0x44f16b._0x293c42)](localcamera,new mp['Vector3'](localplayer[_0x589caf(0x11e,_0x44f16b._0x45ecc9)]['x'],localplayer[_0x1bc2eb(_0x44f16b._0x2cfa0b,0xf9)]['y'],localplayer[_0x1bc2eb(0xea,_0x44f16b._0x251300)]['z']+0.7),new mp[(_0x589caf(_0x44f16b._0xe4841f,_0x44f16b._0x5652c0))](localplayer[_0x589caf(0x11b,0x12b)]['x'],localplayer[_0x589caf(0x149,0x12b)]['y'],localplayer[_0x589caf(0x147,_0x44f16b._0x210c89)]['z']+0.7),new mp[(_0x1bc2eb(_0x44f16b._0x20f4ff,0x10c))](0x0,1.2,0x0),localplayer[_0x589caf(0xd4,0xb2)](),[0x0,0x0],[-0.3,0.5],0x5)):0x1==_0x202853||0x2==_0x202853?(localcamera&&(localcamera[_0x589caf(_0x44f16b._0x19d838,0xee)](),localcamera=void 0x0),InteractiveCamera[_0x589caf(0xf4,0xe9)](),localcamera=mp[_0x1bc2eb(0x5f,0xa9)][_0x589caf(_0x44f16b._0x30ecea,_0x44f16b._0x4a7d9c)](_0x589caf(_0x44f16b._0x5b824d,_0x44f16b._0x596a97)),localcamera[_0x589caf(_0x44f16b._0x4f3def,0x118)](!0x0),InteractiveCamera[_0x589caf(0x13e,0x119)](localcamera,new mp[(_0x589caf(0xf5,_0x44f16b._0x56e832))](localplayer['position']['x'],localplayer['position']['y'],localplayer[_0x589caf(0x14b,0x12b)]['z']+0.2),new mp[(_0x1bc2eb(_0x44f16b._0x125b9e,0x10c))](localplayer[_0x589caf(0x15c,0x12b)]['x'],localplayer[_0x1bc2eb(_0x44f16b._0x3eae1d,0xf9)]['y'],localplayer[_0x589caf(0x127,0x12b)]['z']+0.2),new mp[(_0x589caf(_0x44f16b._0x347b0c,0x13e))](0x0,1.2,0x0),localplayer[_0x1bc2eb(0x79,0x80)](),[0x0,0x0],[-0.3,0.5],0x5)):0x3==_0x202853?(localcamera&&(localcamera[_0x589caf(0xf6,_0x44f16b._0x52646f)](),localcamera=void 0x0),InteractiveCamera[_0x1bc2eb(0xd2,_0x44f16b._0x4b493c)](),localcamera=mp[_0x589caf(_0x44f16b._0x12e9fd,0xdb)][_0x1bc2eb(_0x44f16b._0xd6d76a,0xd4)](_0x1bc2eb(_0x44f16b._0x35afbb,_0x44f16b._0x256c33)),localcamera[_0x589caf(0xd3,_0x44f16b._0x4f578c)](!0x0),InteractiveCamera[_0x589caf(_0x44f16b._0x2cb100,_0x44f16b._0x293c42)](localcamera,new mp[(_0x589caf(0x12b,0x13e))](localplayer[_0x1bc2eb(0xde,0xf9)]['x'],localplayer[_0x1bc2eb(_0x44f16b._0x446708,_0x44f16b._0x251300)]['y'],localplayer[_0x589caf(_0x44f16b._0x49ed64,_0x44f16b._0x210c89)]['z']-0.5),new mp[(_0x1bc2eb(_0x44f16b._0x28376e,_0x44f16b._0x53c4c4))](localplayer[_0x1bc2eb(0xb1,_0x44f16b._0x251300)]['x'],localplayer[_0x589caf(0x11a,0x12b)]['y'],localplayer[_0x1bc2eb(_0x44f16b._0x5bf5de,_0x44f16b._0x53e948)]['z']-0.5),new mp[(_0x589caf(_0x44f16b._0x361714,0x13e))](0x0,1.2,0x0),localplayer[_0x589caf(0x8a,0xb2)](),[0x0,0x0],[-0.3,0.5],0x5)):0x4==_0x202853?(localcamera&&(localcamera[_0x1bc2eb(_0x44f16b._0x49441a,_0x44f16b._0xd8c0eb)](),localcamera=void 0x0),InteractiveCamera[_0x589caf(0x133,0xe9)](),localcamera=mp[_0x589caf(0xde,_0x44f16b._0x502d95)][_0x589caf(_0x44f16b._0x11b839,0x106)](_0x589caf(_0x44f16b._0x584cd5,0xbb)),localcamera['setActive'](!0x0),InteractiveCamera[_0x589caf(_0x44f16b._0x6cb2e8,_0x44f16b._0x4521d6)](localcamera,new mp['Vector3'](localplayer[_0x589caf(0x13c,_0x44f16b._0x45ecc9)]['x'],localplayer[_0x589caf(0xd7,0x12b)]['y'],localplayer[_0x589caf(0x17a,_0x44f16b._0x210c89)]['z']-0.9),new mp[(_0x589caf(_0x44f16b._0x3671dc,_0x44f16b._0x5652c0))](localplayer[_0x589caf(0xfd,0x12b)]['x'],localplayer[_0x589caf(_0x44f16b._0x2fc89a,_0x44f16b._0x210c89)]['y'],localplayer['position']['z']-0.9),new mp[(_0x589caf(_0x44f16b._0xe70eb5,0x13e))](0x0,0x1,0x0),localplayer[_0x1bc2eb(0x76,_0x44f16b._0x2ca419)](),[0x0,0x0],[-0.3,0.5],0x5)):0x5==_0x202853?(localcamera&&(localcamera[_0x1bc2eb(_0x44f16b._0x3b6f5d,0xbc)](),localcamera=void 0x0),InteractiveCamera['stop'](),localcamera=mp[_0x589caf(_0x44f16b._0x527cf7,0xdb)][_0x589caf(_0x44f16b._0x3cecb0,_0x44f16b._0x4a7d9c)](_0x1bc2eb(_0x44f16b._0x2afa8f,_0x44f16b._0x256c33)),localcamera[_0x589caf(0x148,_0x44f16b._0x4b89bd)](!0x0),InteractiveCamera[_0x1bc2eb(_0x44f16b._0x22ccc4,_0x44f16b._0x1e362b)](localcamera,new mp[(_0x589caf(0x106,_0x44f16b._0x29fef1))](localplayer[_0x589caf(_0x44f16b._0x102aae,_0x44f16b._0x115695)]['x'],localplayer[_0x589caf(0x128,_0x44f16b._0x210c89)]['y'],localplayer[_0x589caf(_0x44f16b._0x238c18,0x12b)]['z']+0.7),new mp['Vector3'](localplayer['position']['x'],localplayer['position']['y'],localplayer['position']['z']+0.7),new mp[(_0x1bc2eb(0xc2,0x10c))](0x0,0x1,0x0),localplayer[_0x589caf(0x6f,_0x44f16b._0x3daa8e)](),[0x0,0x0],[-0.3,0.5],0x5)):_0x1bc2eb(_0x44f16b._0x4522c1,_0x44f16b._0x2108b3)==_0x202853&&(localcamera&&(localcamera['destroy'](),localcamera=void 0x0),InteractiveCamera[_0x1bc2eb(0x107,_0x44f16b._0x4b493c)](),localcamera=mp[_0x1bc2eb(_0x44f16b._0x1bac4e,_0x44f16b._0x1259bb)][_0x589caf(_0x44f16b._0x4102aa,_0x44f16b._0x3671dc)](_0x1bc2eb(_0x44f16b._0x28bbe6,_0x44f16b._0x256c33)),localcamera['setActive'](!0x0),InteractiveCamera['create'](localcamera,new mp[(_0x589caf(0x121,0x13e))](localplayer[_0x1bc2eb(_0x44f16b._0x557677,_0x44f16b._0x4723de)]['x'],localplayer[_0x1bc2eb(0x100,_0x44f16b._0x53e948)]['y'],localplayer['position']['z']),new mp[(_0x1bc2eb(0x149,_0x44f16b._0x53c4c4))](localplayer[_0x589caf(_0x44f16b._0x4ee8e3,0x12b)]['x'],localplayer[_0x1bc2eb(0xc4,_0x44f16b._0x24a7e0)]['y'],localplayer['position']['z']),new mp[(_0x589caf(_0x44f16b._0xdbee1c,_0x44f16b._0x56e832))](0x0,2.5,0x0),localplayer[_0x1bc2eb(0xbe,_0x44f16b._0x2ca419)](),[0x0,0x0],[-0.5,0.5],0x5),InteractiveCamera[_0x589caf(0xd6,_0x44f16b._0x364cbb)]=0.5,InteractiveCamera[_0x589caf(0x83,0xb6)]());}mp[_0x4d8ca0(0x260,0x2b3)][_0x44680f(0x3b6,0x3fc)](_0x4d8ca0(0x246,0x230),(_0x50baa9,_0x543170,_0x59b569)=>{const _0x300f64={_0xaa9dd:0x19,_0xa2670a:0x5,_0x579fdf:0x1a},_0x237c18={_0x3f488f:0x15c};function _0x3e118c(_0x4a94f6,_0x2c2be6){return _0x243a(_0x4a94f6-0x30b,_0x2c2be6);}function _0x483590(_0x4f3203,_0x56b455){return _0x243a(_0x56b455- -_0x237c18._0x3f488f,_0x4f3203);}if(EndConversationFinally(),0x1==GlobalCheck())return;mp[_0x483590(0x13,0x39)][_0x483590(_0x300f64._0xaa9dd,_0x300f64._0xa2670a)](_0x483590(_0x300f64._0x579fdf,-0x3c)),InNewClothesShop=!0x0,clothes_mod=_0x543170,campos=_0x50baa9,lastClothType=0x1;let _0x515777=0x1;switch(_0x543170){case 0x0:_0x515777=0x1;break;case 0x1:_0x515777=0.9;break;case 0x2:_0x515777=0.75;break;case 0x3:_0x515777=0.5;}ShowNewClothesMenu(0x1,_0x515777,_0x59b569);}),global[_0x4d8ca0(0x25d,0x272)]=function(_0x5f31f7,_0x169d08=0x1,_0x1c3381=0x0){const _0x38a68d={_0x26a639:0x216,_0x46a124:0x21b,_0x58aa5f:0x256,_0x69afc0:0xf,_0x85d4f1:0x36},_0x5213d3={_0x17116e:0x333},_0x8e50e={_0x55100f:0x1c0};if(!loggedin)return;function _0x41c1a7(_0x263f19,_0x59d989){return _0x243a(_0x263f19- -_0x8e50e._0x55100f,_0x59d989);}function _0x52711d(_0x748120,_0x1e231b){return _0x243a(_0x748120- -_0x5213d3._0x17116e,_0x1e231b);}SwitchHUDToDesign(!0x0),localplayer[_0x52711d(-0x230,-_0x38a68d._0x26a639)](!0x0),is_freezed=!0x0;let _0x43e721={'balance':_0x1c3381,'type':_0x5f31f7,'discount_factor':_0x169d08,'gender':0x705e61f2!=localplayer[_0x52711d(-_0x38a68d._0x46a124,-_0x38a68d._0x58aa5f)]?0x1:0x0,'show':!0x0};main_browser[_0x41c1a7(-_0x38a68d._0x69afc0,-_0x38a68d._0x85d4f1)](_0x41c1a7(-0x8d,-0x67)+JSON[_0x52711d(-0x202,-0x1dc)](_0x43e721));},mp[_0x44680f(0x42c,0x408)][_0x44680f(0x3b6,0x40a)](_0x4d8ca0(0x2c9,0x2a0),_0x131a4f=>{0x1==_0x131a4f?CloseNewClothesShop():0x2==_0x131a4f?CloseJewShop():0x6==_0x131a4f&&CloseNewClothesShop();}),global[_0x4d8ca0(0x2b1,0x283)]=function(){const _0x3cc513={_0x3e3f23:0x1e4,_0x454ccd:0x119,_0x1a258a:0x129,_0x1f4a51:0xf5,_0x4e8866:0xbb,_0x1404be:0x11e},_0x57aa9f={_0x2551b:0x2e7};function _0x145ec7(_0x2a6baf,_0x1609d3){return _0x243a(_0x1609d3- -_0x57aa9f._0x2551b,_0x2a6baf);}function _0x36553c(_0x51c7ee,_0x26f57b){return _0x243a(_0x26f57b- -0x250,_0x51c7ee);}InNewClothesShop&&loggedin&&!chatActive&&(CloseNewClothesMenu(),mp[_0x145ec7(-0x17a,-0x1b3)][_0x145ec7(-_0x3cc513._0x3e3f23,-0x1d6)][_0x36553c(-0x128,-_0x3cc513._0x454ccd)](!0x1,!0x0,0x7d0,!0x0,!0x1),localcamera&&(localcamera[_0x36553c(-0x112,-0xf0)](),localcamera=void 0x0),InteractiveCamera[_0x36553c(-_0x3cc513._0x1a258a,-_0x3cc513._0x1f4a51)](),InNewClothesShop=!0x1,mp[_0x36553c(-0x75,-_0x3cc513._0x4e8866)][_0x145ec7(-0x150,-0x186)](_0x36553c(-0xd3,-_0x3cc513._0x1404be)),HintClose());},global[_0x44680f(0x41f,0x40e)]=function(){const _0xb3f8b8={_0x34af61:0x16d,_0x58ac11:0x19e,_0x135cb3:0x198,_0x10dce7:0x1a0,_0xad4243:0x158,_0x3b705a:0x1ff,_0x20075b:0x1c0},_0x2faa85={_0x1f676d:0x2c},_0x4d28c1={_0x287f7f:0x6a};function _0x463983(_0x400477,_0x2d992a){return _0x243a(_0x400477-_0x4d28c1._0x287f7f,_0x2d992a);}function _0x16ce13(_0x46219a,_0x1f124c){return _0x243a(_0x1f124c-_0x2faa85._0x1f676d,_0x46219a);}main_browser[_0x16ce13(0x1ed,0x1dd)](_0x463983(0x200,0x20c)),localplayer[_0x463983(_0xb3f8b8._0x34af61,0x138)](!0x1),is_freezed=!0x1,0x0==hudswitch&&(ChangeHudState(!0x0),mp[_0x463983(_0xb3f8b8._0x58ac11,_0xb3f8b8._0x135cb3)]['ui'][_0x16ce13(0x15a,0x1a1)](!0x0)),mp['gui'][_0x463983(_0xb3f8b8._0x10dce7,0x180)][_0x16ce13(0x1ae,_0xb3f8b8._0xad4243)](!0x1,!0x1),mp[_0x463983(_0xb3f8b8._0x3b705a,0x22b)][_0x463983(0x17a,0x1b7)]('Enablechat'),cameraControl&&(fakeArmy=!0x0,destroyLocalCameraAndAnimBack(),ShowNotification(language[_0x463983(0x199,_0xb3f8b8._0x20075b)][curr_lang],0x2));},mp[_0x44680f(0x42c,0x44d)][_0x44680f(0x3b6,0x378)](_0x44680f(0x3c7,0x386),(_0x53da4f,_0x3c34d7,_0x389aea,_0x1b4cc8=0x0)=>{const _0x59940e={_0x4c4a92:0x1ee,_0x4c019b:0x255,_0x5457f5:0x27b},_0x4d6117={_0x4a175f:0xd6},_0x32ad73={_0x6c2a12:0xa2},_0x45aa5c=0x705e61f2!=localplayer[_0x2edf0a(_0x59940e._0x4c4a92,0x1f5)]?0x1:0x0,_0x39f51f=0x1==_0x53da4f?clothesCatalog[_0x45aa5c][_0x3c34d7][_0x389aea]:0x2==_0x53da4f?jewCatalog[_0x45aa5c][_0x3c34d7][_0x389aea]:null;function _0x442ba5(_0x5f374d,_0x450ec8){return _0x243a(_0x450ec8-_0x32ad73._0x6c2a12,_0x5f374d);}if(!_0x39f51f)return;function _0x2edf0a(_0x36bc19,_0x5a75b1){return _0x243a(_0x36bc19-_0x4d6117._0x4a175f,_0x5a75b1);}const _0x1133b5=InventoryItems[_0x39f51f[_0x2edf0a(_0x59940e._0x4c019b,0x23c)]][0x8];let _0x51d73b;if(0x1==_0x53da4f)switch(_0x3c34d7){case 0x0:_0x51d73b=0x0;break;case 0x1:_0x51d73b=0xb;break;case 0x2:_0x51d73b=0x8;break;case 0x3:_0x51d73b=0x4;break;case 0x4:_0x51d73b=0x6;break;case 0x5:_0x51d73b=0xc;}else{if(0x2==_0x53da4f)switch(_0x3c34d7){case 0x0:_0x51d73b=0x7;break;case 0x1:_0x51d73b=0xd;break;case 0x2:_0x51d73b=0xe;}}mp[_0x442ba5(_0x59940e._0x5457f5,0x237)][_0x2edf0a(0x237,0x282)]('Server_ChangeOutfitInShop',_0x53da4f,_0x39f51f[_0x442ba5(0x24d,0x221)],_0x51d73b,_0x1133b5,_0x1b4cc8,_0x3c34d7),lastClothType!=_0x3c34d7&&(lastClothType=_0x3c34d7,changeClothesCam(_0x3c34d7));}),mp[_0x44680f(0x42c,0x3e9)][_0x4d8ca0(0x286,0x23d)](_0x4d8ca0(0x254,0x278),()=>{const _0x5d215b={_0xd79145:0x40,_0x4f02f9:0x11,_0x457e46:0xac,_0x2b0534:0x5b,_0x50fac8:0xa6,_0x5ea399:0x28,_0x468fee:0x2,_0x53d623:0x23,_0x462546:0x42,_0x5a427d:0x23,_0x9f155c:0x6e,_0x5ec20c:0x10,_0x6577e:0x4c,_0x4df9e7:0x23,_0x595ba8:0x11,_0x1ee51e:0x9f,_0x147281:0xc2,_0x3b340d:0x9c},_0x466b73={_0x4648d6:0x18d},_0x5173cd={_0x527be3:0x1d3};function _0x20327e(_0x3fa282,_0x12bd85){return _0x243a(_0x12bd85- -_0x5173cd._0x527be3,_0x3fa282);}function _0x3d18e4(_0x33a796,_0x214240){return _0x243a(_0x33a796- -_0x466b73._0x4648d6,_0x214240);}localcamera&&(localcamera['destroy'](),localcamera=void 0x0),localcamera=mp[_0x3d18e4(-_0x5d215b._0xd79145,_0x5d215b._0x4f02f9)][_0x20327e(-_0x5d215b._0x457e46,-_0x5d215b._0x2b0534)](_0x20327e(-0xc4,-_0x5d215b._0x50fac8)),localcamera[_0x20327e(-0x43,-0x49)](!0x0),InteractiveCamera[_0x3d18e4(-0x2,-_0x5d215b._0x5ea399)](localcamera,new mp[(_0x20327e(-_0x5d215b._0x468fee,-_0x5d215b._0x53d623))](localplayer['position']['x'],localplayer['position']['y'],localplayer[_0x3d18e4(0x10,_0x5d215b._0x462546)]['z']+0.5),new mp[(_0x3d18e4(_0x5d215b._0x5a427d,_0x5d215b._0x9f155c))](localplayer[_0x3d18e4(_0x5d215b._0x5ec20c,_0x5d215b._0x6577e)]['x'],localplayer[_0x3d18e4(0x10,0x18)]['y'],localplayer[_0x3d18e4(0x10,-0x8)]['z']+0.5),new mp[(_0x3d18e4(_0x5d215b._0x4df9e7,-_0x5d215b._0x595ba8))](0x0,0x1,0x0),localplayer[_0x20327e(-0xa9,-0xaf)](),[0x0,0x0],[-0.3,0.5],0x5),mp[_0x20327e(-0xe9,-_0x5d215b._0x1ee51e)][_0x20327e(-0xff,-_0x5d215b._0x147281)][_0x20327e(-0x6d,-_0x5d215b._0x3b340d)](!0x0,!0x1,0xbb8,!0x0,!0x1);}),mp[_0x4d8ca0(0x304,0x2b3)][_0x44680f(0x3b6,0x375)](_0x44680f(0x39d,0x3f4),_0x1e64c3=>{lastClothType=null,changeClothesCam(_0x1e64c3);}),mp[_0x4d8ca0(0x281,0x2b3)][_0x4d8ca0(0x28d,0x23d)](_0x4d8ca0(0x296,0x2bd),(_0x466e36,_0x296cd9)=>{const _0x172aa1={_0x3f3ce2:0x487,_0x326efe:0x4c0,_0x119d67:0x4b6},_0x586134={_0x398d11:0x33d};function _0x1345be(_0x34abc1,_0x55bdb5){return _0x243a(_0x34abc1-0x232,_0x55bdb5);}function _0x5be4e5(_0x1b1a2e,_0x41cd97){return _0x243a(_0x41cd97-_0x586134._0x398d11,_0x1b1a2e);}(InNewClothesShop||InJewellery)&&loggedin&&!chatActive&&(new Date()[_0x1345be(0x3b5,0x40c)]()-lastCheck<0x1f4||(lastCheck=new Date()[_0x5be4e5(_0x172aa1._0x3f3ce2,_0x172aa1._0x326efe)](),mp['events']['callRemote'](_0x5be4e5(_0x172aa1._0x119d67,0x479),_0x466e36,_0x296cd9)));});const clothesCatalog=[{0x0:[{'item_id':0x27,'max_extra':0x0,'price':0x4b0},{'item_id':0x28,'max_extra':0x7,'price':0x4b0},{'item_id':0x2b,'max_extra':0x7,'price':0x4b0},{'item_id':0x2c,'max_extra':0x7,'price':0x10cc},{'item_id':0x2e,'max_extra':0x7,'price':0x2af8},{'item_id':0x2f,'max_extra':0x7,'price':0x4e2},{'item_id':0x30,'max_extra':0x7,'price':0x413c},{'item_id':0x31,'max_extra':0x7,'price':0x8fc},{'item_id':0x32,'max_extra':0x7,'price':0x6d6},{'item_id':0x33,'max_extra':0x7,'price':0xd48},{'item_id':0x34,'max_extra':0x5,'price':0x4b0},{'item_id':0x35,'max_extra':0x7,'price':0x4b0},{'item_id':0x36,'max_extra':0x2,'price':0x4268},{'item_id':0x37,'max_extra':0xd,'price':0x32c8},{'item_id':0x38,'max_extra':0xd,'price':0x6978},{'item_id':0x39,'max_extra':0x5,'price':0xc1c},{'item_id':0x3a,'max_extra':0x7,'price':0x578},{'item_id':0x764,'max_extra':0x1,'price':0x88b8},{'item_id':0x3b,'max_extra':0x0,'price':0x25e4},{'item_id':0x3c,'max_extra':0x0,'price':0x7404},{'item_id':0x3d,'max_extra':0x1,'price':0x88b8},{'item_id':0x3e,'max_extra':0x0,'price':0x992},{'item_id':0x765,'max_extra':0x0,'price':0x10cc},{'item_id':0x766,'max_extra':0x0,'price':0x1194},{'item_id':0x767,'max_extra':0x5,'price':0x4844},{'item_id':0x3f,'max_extra':0x7,'price':0xa28},{'item_id':0x40,'max_extra':0x7,'price':0xc80},{'item_id':0x41,'max_extra':0x0,'price':0x1770},{'item_id':0x42,'max_extra':0x0,'price':0x189c},{'item_id':0x43,'max_extra':0x0,'price':0x1b58},{'item_id':0x44,'max_extra':0x1,'price':0x640},{'item_id':0x45,'max_extra':0x14,'price':0x125c},{'item_id':0x46,'max_extra':0x9,'price':0x6a4},{'item_id':0x47,'max_extra':0x2,'price':0x5dc},{'item_id':0x48,'max_extra':0x9,'price':0x6a4},{'item_id':0x49,'max_extra':0x9,'price':0x2af8},{'item_id':0x4a,'max_extra':0x9,'price':0x3e8},{'item_id':0x4b,'max_extra':0x9,'price':0xa8c},{'item_id':0x4c,'max_extra':0xa,'price':0x76c},{'item_id':0x4d,'max_extra':0x0,'price':0x960},{'item_id':0x4e,'max_extra':0x0,'price':0x8fc},{'item_id':0x4f,'max_extra':0x14,'price':0x898},{'item_id':0x50,'max_extra':0x0,'price':0x640},{'item_id':0x51,'max_extra':0x0,'price':0x4b0},{'item_id':0x52,'max_extra':0x0,'price':0x10cc},{'item_id':0x53,'max_extra':0x0,'price':0xe74},{'item_id':0x54,'max_extra':0x9,'price':0xdac},{'item_id':0x55,'max_extra':0x14,'price':0xaf0},{'item_id':0x56,'max_extra':0x14,'price':0xb54},{'item_id':0x57,'max_extra':0x6,'price':0xa28},{'item_id':0x8dd,'max_extra':0x9,'price':0x1388},{'item_id':0x8de,'max_extra':0x0,'price':0x1405},{'item_id':0x8df,'max_extra':0x0,'price':0x1450},{'item_id':0x8e0,'max_extra':0x9,'price':0x14b4},{'item_id':0x8e1,'max_extra':0x0,'price':0x14e6},{'item_id':0x58,'max_extra':0x9,'price':0x1004},{'item_id':0x59,'max_extra':0x9,'price':0x38a4},{'item_id':0x5a,'max_extra':0xf,'price':0xdac},{'item_id':0x5b,'max_extra':0x9,'price':0x9c4},{'item_id':0x5c,'max_extra':0xa,'price':0x960},{'item_id':0x5d,'max_extra':0xa,'price':0x76c},{'item_id':0x5e,'max_extra':0x14,'price':0x238c},{'item_id':0x768,'max_extra':0x12,'price':0x733c},{'item_id':0x769,'max_extra':0x12,'price':0x733c},{'item_id':0x76a,'max_extra':0x3,'price':0x6b6c},{'item_id':0x76b,'max_extra':0x14,'price':0x7b0c},{'item_id':0x76c,'max_extra':0x14,'price':0x7b0c},{'item_id':0x76d,'max_extra':0x2,'price':0x7b0c},{'item_id':0x76e,'max_extra':0x2,'price':0x7b0c},{'item_id':0x76f,'max_extra':0x14,'price':0x8dcc},{'item_id':0x770,'max_extra':0x14,'price':0x8dcc},{'item_id':0x771,'max_extra':0xd,'price':0xaf00}],0x1:[{'item_id':0x61,'max_extra':0xf,'price':0xa8c},{'item_id':0x5f9,'extras':[0x0,0x1,0x3,0x4,0x5,0x6,0x8,0x9,0xb],'price':0x5e24},{'item_id':0x62,'max_extra':0xf,'price':0xc80},{'item_id':0x5fa,'extras':[0x0,0x1,0x7,0xe],'price':0x3a98},{'item_id':0x5fb,'max_extra':0xb,'price':0x251c},{'item_id':0x63,'max_extra':0xf,'price':0x5dc},{'item_id':0x64,'max_extra':0x2,'price':0x640},{'item_id':0x65,'max_extra':0x5,'price':0x4b0},{'item_id':0x5fc,'max_extra':0x3,'price':0x1e78},{'item_id':0x66,'max_extra':0x1,'price':0xfde8},{'item_id':0x67,'max_extra':0x2,'price':0x14050},{'item_id':0x68,'max_extra':0x1,'price':0xd6d8},{'item_id':0x69,'max_extra':0x2,'price':0x44c},{'item_id':0x6a,'max_extra':0x3,'price':0x6978},{'item_id':0x6b,'max_extra':0xc,'price':0xa410},{'item_id':0x6c,'max_extra':0x9,'price':0xc350},{'item_id':0x6d,'max_extra':0x9,'price':0xc80},{'item_id':0x6e,'max_extra':0x2,'price':0x11170},{'item_id':0x6f,'max_extra':0x2,'price':0x105b8},{'item_id':0x70,'max_extra':0x0,'price':0x960},{'item_id':0x71,'max_extra':0x1,'price':0x76c},{'item_id':0x72,'max_extra':0x6,'price':0x105b8},{'item_id':0x73,'max_extra':0x5,'price':0x834},{'item_id':0x74,'max_extra':0x2,'price':0x640},{'item_id':0x75,'max_extra':0x4,'price':0x76c},{'item_id':0x76,'max_extra':0x1,'price':0x834},{'item_id':0x77,'max_extra':0x1,'price':0xd6d8},{'item_id':0x78,'max_extra':0x3,'price':0xe74},{'item_id':0x79,'max_extra':0x0,'price':0x2af8},{'item_id':0x7a,'max_extra':0x0,'price':0x2af8},{'item_id':0x7b,'max_extra':0x3,'price':0x3e8},{'item_id':0x601,'max_extra':0x2,'price':0x6720},{'item_id':0x602,'max_extra':0x2,'price':0xed1c},{'item_id':0x7c,'max_extra':0x1,'price':0x578},{'item_id':0x603,'max_extra':0x2,'price':0x60e0},{'item_id':0x7e,'max_extra':0x3,'price':0x25e4},{'item_id':0x7f,'max_extra':0x0,'price':0xce4},{'item_id':0x80,'max_extra':0x0,'price':0x4b0},{'item_id':0x81,'max_extra':0x0,'price':0xf230},{'item_id':0x82,'max_extra':0x3,'price':0xf230},{'item_id':0x83,'max_extra':0x3,'price':0x960},{'item_id':0x84,'max_extra':0x0,'price':0x8fc},{'item_id':0x85,'max_extra':0x0,'price':0x5dc},{'item_id':0x86,'max_extra':0x0,'price':0x20d0},{'item_id':0x4f8,'max_extra':0x5,'price':0x251c},{'item_id':0x4f9,'max_extra':0x5,'price':0x251c},{'item_id':0x4fa,'max_extra':0xb,'price':0x186a0},{'item_id':0x8a,'max_extra':0x0,'price':0x4b0},{'item_id':0x8b,'max_extra':0x3,'price':0x124f8},{'item_id':0x8c,'max_extra':0x12,'price':0x1a2c},{'item_id':0x4fb,'max_extra':0xa,'price':0xc350},{'item_id':0x4fc,'max_extra':0xa,'price':0xc350},{'item_id':0x4fd,'max_extra':0x4,'price':0x1adb0},{'item_id':0x4fe,'max_extra':0x3,'price':0x1adb0},{'item_id':0x4ff,'max_extra':0xf,'price':0x2af8},{'item_id':0x500,'max_extra':0x0,'price':0x10cc},{'item_id':0x8d,'max_extra':0x2,'price':0xe74},{'item_id':0x8e,'max_extra':0x2,'price':0x1004},{'item_id':0x8f,'max_extra':0xf,'price':0x3e8},{'item_id':0x90,'max_extra':0x4,'price':0x157c},{'item_id':0x91,'max_extra':0x5,'price':0x238c},{'item_id':0x92,'max_extra':0x0,'price':0x8fc},{'item_id':0x93,'max_extra':0x4,'price':0x960},{'item_id':0x94,'max_extra':0xb,'price':0x1770},{'item_id':0x95,'max_extra':0xb,'price':0x1838},{'item_id':0x96,'max_extra':0x3,'price':0x1b58},{'item_id':0x97,'max_extra':0x0,'price':0x1644},{'item_id':0x98,'max_extra':0x6,'price':0x5208},{'item_id':0x99,'max_extra':0x2,'price':0xce4},{'item_id':0x9a,'max_extra':0x2,'price':0xce4},{'item_id':0x9b,'max_extra':0x2,'price':0x15e0},{'item_id':0x9c,'max_extra':0x0,'price':0xfa0},{'item_id':0x9d,'max_extra':0x1,'price':0xfa0},{'item_id':0x9e,'max_extra':0x4,'price':0xdea8},{'item_id':0x9f,'max_extra':0x4,'price':0xea60},{'item_id':0xa0,'max_extra':0x0,'price':0x36b0},{'item_id':0xa1,'max_extra':0x0,'price':0x19c8},{'item_id':0xa2,'max_extra':0x4,'price':0x5208},{'item_id':0x505,'max_extra':0xa,'price':0x249f0},{'item_id':0xa3,'max_extra':0x0,'price':0xdac},{'item_id':0x506,'max_extra':0x0,'price':0xabe0},{'item_id':0xa4,'max_extra':0x5,'price':0xaf0},{'item_id':0xa5,'max_extra':0x0,'price':0xcf08},{'item_id':0xa6,'max_extra':0x3,'price':0xaf0},{'item_id':0x507,'max_extra':0x0,'price':0x1adb0},{'item_id':0x508,'max_extra':0x2,'price':0x84d0},{'item_id':0xa8,'max_extra':0xf,'price':0x59d8},{'item_id':0xa9,'max_extra':0x9,'price':0x514},{'item_id':0xaa,'max_extra':0xb,'price':0xfde8},{'item_id':0xab,'max_extra':0xb,'price':0xf230},{'item_id':0x509,'max_extra':0xb,'price':0x8ca0},{'item_id':0xac,'max_extra':0xd,'price':0x960},{'item_id':0xad,'max_extra':0x2,'price':0x10cc},{'item_id':0xae,'max_extra':0x0,'price':0xd48},{'item_id':0xaf,'max_extra':0x0,'price':0xdac},{'item_id':0xb0,'max_extra':0xe,'price':0x4b0},{'item_id':0xb1,'max_extra':0xe,'price':0x5dc},{'item_id':0xb2,'max_extra':0x9,'price':0xa8c},{'item_id':0xb3,'max_extra':0x0,'price':0xd48},{'item_id':0xb4,'max_extra':0x0,'price':0x1518},{'item_id':0xb5,'max_extra':0x0,'price':0xfa0},{'item_id':0xb6,'max_extra':0x0,'price':0x11f8},{'item_id':0xb7,'max_extra':0x0,'price':0x1388},{'item_id':0xb8,'max_extra':0x2,'price':0x640},{'item_id':0x50a,'max_extra':0x6,'price':0x38a4},{'item_id':0xb9,'max_extra':0x6,'price':0x76c},{'item_id':0xba,'max_extra':0x2,'price':0xd48},{'item_id':0xbb,'max_extra':0x2,'price':0x514},{'item_id':0xbc,'max_extra':0x7,'price':0x76c},{'item_id':0xbd,'max_extra':0xe,'price':0xc350},{'item_id':0xbe,'max_extra':0xa,'price':0x960},{'item_id':0x50b,'max_extra':0x2,'price':0x19a28},{'item_id':0x50c,'max_extra':0x9,'price':0x251c},{'item_id':0xbf,'max_extra':0xd,'price':0x2cec},{'item_id':0xc0,'max_extra':0xd,'price':0xdac0},{'item_id':0x50d,'max_extra':0x8,'price':0xdac},{'item_id':0x50e,'max_extra':0x9,'price':0x1ce8},{'item_id':0x50f,'max_extra':0xb,'price':0x1d4c},{'item_id':0xc1,'max_extra':0x9,'price':0x80e8},{'item_id':0xc2,'max_extra':0xb,'price':0x6978},{'item_id':0xc3,'max_extra':0x5,'price':0x1c20},{'item_id':0x510,'max_extra':0xf,'price':0x5fb4},{'item_id':0xc4,'max_extra':0x19,'price':0x11f8},{'item_id':0xc5,'max_extra':0x7,'price':0x8fc},{'item_id':0xc6,'max_extra':0x3,'price':0x6978},{'item_id':0xc7,'max_extra':0x5,'price':0xd48},{'item_id':0xc8,'max_extra':0x3,'price':0x44c},{'item_id':0xc9,'max_extra':0x2,'price':0x4b0},{'item_id':0xca,'max_extra':0x1,'price':0xfa0},{'item_id':0x511,'max_extra':0x1,'price':0x1e14},{'item_id':0xcb,'max_extra':0x3,'price':0x4268},{'item_id':0xcc,'max_extra':0x3,'price':0x36b0},{'item_id':0xcd,'max_extra':0x0,'price':0x640},{'item_id':0xce,'max_extra':0x2,'price':0x708},{'item_id':0x512,'max_extra':0x6,'price':0x5140},{'item_id':0xcf,'max_extra':0x5,'price':0xd48},{'item_id':0x513,'max_extra':0xf,'price':0x11490},{'item_id':0xd0,'max_extra':0x2,'price':0x125c},{'item_id':0xd1,'max_extra':0x3,'price':0x19c8},{'item_id':0xd2,'max_extra':0x3,'price':0x3e8},{'item_id':0xd3,'max_extra':0x1,'price':0xbb8},{'item_id':0xd4,'max_extra':0x3,'price':0x2af8},{'item_id':0xd5,'max_extra':0x3,'price':0x10cc},{'item_id':0xd6,'max_extra':0x3,'price':0x6978},{'item_id':0xd7,'max_extra':0x3,'price':0x4a38},{'item_id':0xd8,'max_extra':0x0,'price':0x1b58},{'item_id':0xd9,'max_extra':0x6,'price':0x1388},{'item_id':0xda,'max_extra':0x3,'price':0x157c},{'item_id':0xdb,'max_extra':0x2,'price':0xed8},{'item_id':0xdc,'max_extra':0x5,'price':0x80e8},{'item_id':0xdd,'max_extra':0x1,'price':0xa8c},{'item_id':0x514,'max_extra':0x5,'price':0x19a28},{'item_id':0xde,'max_extra':0x3,'price':0x2cec},{'item_id':0xdf,'max_extra':0x3,'price':0x2ee0},{'item_id':0x515,'max_extra':0xc,'price':0x8ca0},{'item_id':0xe0,'max_extra':0xa,'price':0x36b0},{'item_id':0xe1,'max_extra':0xa,'price':0x4268},{'item_id':0xe2,'max_extra':0x8,'price':0x3e80},{'item_id':0x516,'max_extra':0x19,'price':0x11490},{'item_id':0xe3,'max_extra':0xb,'price':0x101d0},{'item_id':0xe4,'max_extra':0x19,'price':0x23f0},{'item_id':0xe5,'max_extra':0xf,'price':0x2710},{'item_id':0xe6,'max_extra':0xf,'price':0x2710},{'item_id':0x517,'max_extra':0x7,'price':0xafc8},{'item_id':0x518,'max_extra':0x7,'price':0xafc8},{'item_id':0x519,'max_extra':0x19,'price':0xea60},{'item_id':0x51a,'max_extra':0x4,'price':0x1194},{'item_id':0x51b,'max_extra':0x19,'price':0xea60},{'item_id':0xe7,'max_extra':0xc,'price':0x1770},{'item_id':0xe8,'max_extra':0x4,'price':0x1e14},{'item_id':0xe9,'max_extra':0x9,'price':0x2af8},{'item_id':0xea,'extras':[0x0,0x1,0x2,0x3,0x6,0x7,0x8,0x9,0xa,0xb,0xc,0xd,0xe],'price':0x2ee0},{'item_id':0xeb,'max_extra':0xf,'price':0x1a2c},{'item_id':0xec,'max_extra':0xf,'price':0x238c},{'item_id':0xed,'max_extra':0x1,'price':0x1194},{'item_id':0xee,'max_extra':0x0,'price':0x1004},{'item_id':0xef,'max_extra':0xd,'price':0xbb8},{'item_id':0xf0,'max_extra':0xb,'price':0x6978},{'item_id':0xf1,'max_extra':0xb,'price':0x55f0},{'item_id':0xf2,'max_extra':0x9,'price':0x7530},{'item_id':0xf3,'max_extra':0x9,'price':0x80e8},{'item_id':0xf4,'max_extra':0x19,'price':0x1770},{'item_id':0xf5,'max_extra':0xb,'price':0xa8c},{'item_id':0xf6,'max_extra':0xb,'price':0x1194},{'item_id':0xf7,'max_extra':0x19,'price':0x1388},{'item_id':0xf8,'max_extra':0x5,'price':0x4b0},{'item_id':0x51c,'max_extra':0x5,'price':0x249f0},{'item_id':0xf9,'max_extra':0x5,'price':0x578},{'item_id':0xfa,'max_extra':0x5,'price':0x9c4},{'item_id':0xfb,'max_extra':0x19,'price':0x4268},{'item_id':0xfc,'max_extra':0x19,'price':0x1b58},{'item_id':0x51d,'max_extra':0x9,'price':0xcf08},{'item_id':0x604,'max_extra':0x19,'price':0x4718},{'item_id':0x605,'max_extra':0x19,'price':0xa730},{'item_id':0xfd,'max_extra':0x1,'price':0x3a98},{'item_id':0xfe,'max_extra':0x1,'price':0x1f40},{'item_id':0x606,'max_extra':0x19,'price':0xf424},{'item_id':0x607,'max_extra':0x19,'price':0xf424},{'item_id':0x608,'max_extra':0x6,'price':0xbd10},{'item_id':0x609,'max_extra':0x19,'price':0x93a8},{'item_id':0x60a,'max_extra':0xf,'price':0x10554},{'item_id':0x60b,'max_extra':0x17,'price':0xbea0},{'item_id':0x60c,'max_extra':0xe,'price':0x9e34},{'item_id':0x60d,'max_extra':0x19,'price':0x99e8},{'item_id':0x60e,'max_extra':0x19,'price':0x7d64},{'item_id':0x60f,'max_extra':0xf,'price':0x10554},{'item_id':0x610,'max_extra':0xf,'price':0xd0fc},{'item_id':0x611,'max_extra':0xf,'price':0xd0fc},{'item_id':0x612,'max_extra':0xb,'price':0x12688},{'item_id':0x613,'max_extra':0x11,'price':0xa0f0},{'item_id':0x614,'max_extra':0x11,'price':0xa0f0},{'item_id':0x615,'max_extra':0x4,'price':0x125c0},{'item_id':0x616,'max_extra':0x4,'price':0x125c0},{'item_id':0x617,'max_extra':0xf,'price':0x1895c},{'item_id':0x618,'max_extra':0x1,'price':0x76c0},{'item_id':0x619,'max_extra':0x14,'price':0x3db8},{'item_id':0x61a,'max_extra':0x0,'price':0x4c2c},{'item_id':0x61b,'max_extra':0x15,'price':0x4394},{'item_id':0x61c,'max_extra':0x11,'price':0x8f5c},{'item_id':0x61d,'max_extra':0x11,'price':0x8f5c},{'item_id':0x61e,'max_extra':0x17,'price':0x8bd8},{'item_id':0x61f,'max_extra':0xf,'price':0x47e0},{'item_id':0x667,'max_extra':0xd,'price':0x639c},{'item_id':0x668,'max_extra':0x0,'price':0x157c},{'item_id':0x66d,'max_extra':0x19,'price':0x8f5c},{'item_id':0x66e,'max_extra':0x19,'price':0x8f5c},{'item_id':0x66f,'max_extra':0x18,'price':0xa4d8},{'item_id':0x670,'max_extra':0x19,'price':0x445c},{'item_id':0x671,'max_extra':0x19,'price':0x93a8},{'item_id':0x672,'max_extra':0x19,'price':0x93a8},{'item_id':0x673,'max_extra':0x19,'price':0x93a8},{'item_id':0x674,'max_extra':0x19,'price':0x93a8},{'item_id':0x675,'max_extra':0x9,'price':0x180c4},{'item_id':0x676,'max_extra':0x19,'price':0x3bc4},{'item_id':0x677,'max_extra':0x19,'price':0x3bc4},{'item_id':0x678,'max_extra':0x17,'price':0x7aa8},{'item_id':0x679,'max_extra':0xb,'price':0x79e0},{'item_id':0x67a,'max_extra':0xd,'price':0xd868},{'item_id':0x67e,'max_extra':0x14,'price':0x3c8c},{'item_id':0x67f,'max_extra':0x8,'price':0x44c0},{'item_id':0x680,'max_extra':0x8,'price':0x44c0},{'item_id':0x681,'max_extra':0x8,'price':0x44c0},{'item_id':0x682,'max_extra':0x8,'price':0x44c0},{'item_id':0x683,'max_extra':0x0,'price':0x48a8},{'item_id':0x684,'max_extra':0x0,'price':0x48a8},{'item_id':0x685,'max_extra':0x19,'price':0x4588},{'item_id':0x686,'max_extra':0x17,'price':0x2c88},{'item_id':0x687,'max_extra':0x0,'price':0x5334},{'item_id':0x688,'max_extra':0x0,'price':0x4010},{'item_id':0x689,'max_extra':0x0,'price':0x58ac},{'item_id':0x68a,'max_extra':0x0,'price':0x58ac},{'item_id':0x68b,'max_extra':0x0,'price':0x58ac},{'item_id':0x68c,'max_extra':0x19,'price':0x66bc},{'item_id':0x68d,'max_extra':0xb,'price':0x3cf0},{'item_id':0x68e,'max_extra':0x5,'price':0x4010},{'item_id':0x68f,'max_extra':0x5,'price':0x8fc0},{'item_id':0x690,'max_extra':0x17,'price':0x34bc},{'item_id':0x691,'max_extra':0x8,'price':0x3c8c},{'item_id':0x692,'max_extra':0x8,'price':0x3c8c},{'item_id':0x693,'max_extra':0x6,'price':0x159b4},{'item_id':0x694,'max_extra':0x6,'price':0x159b4},{'item_id':0x695,'max_extra':0x6,'price':0x159b4},{'item_id':0x696,'max_extra':0xa,'price':0x1d4c},{'item_id':0x699,'max_extra':0x13,'price':0x5cf8},{'item_id':0x69a,'max_extra':0x13,'price':0x5cf8},{'item_id':0x69b,'max_extra':0x9,'price':0x4c2c},{'item_id':0x751,'max_extra':0x9,'price':0x9a4c},{'item_id':0x752,'max_extra':0x2,'price':0x38a4},{'item_id':0x753,'max_extra':0x4,'price':0x38a4},{'item_id':0x754,'max_extra':0x19,'price':0xa4d8},{'item_id':0x755,'max_extra':0x19,'price':0xa4d8},{'item_id':0x756,'max_extra':0x0,'price':0x3cf0},{'item_id':0x757,'max_extra':0x1,'price':0x6784},{'item_id':0x758,'max_extra':0x9,'price':0xc800},{'item_id':0x759,'max_extra':0x0,'price':0xb66c},{'item_id':0x75a,'max_extra':0x0,'price':0xb66c},{'item_id':0x75b,'max_extra':0x0,'price':0xd8cc}],0x2:[{'item_id':0x36e,'max_extra':0x2,'price':0x7d0},{'item_id':0x36f,'max_extra':0x2,'price':0x5dc},{'item_id':0x370,'max_extra':0x2,'price':0x7d0},{'item_id':0x371,'max_extra':0x2,'price':0x5dc},{'item_id':0x372,'max_extra':0xc,'price':0x36b0},{'item_id':0x373,'max_extra':0xc,'price':0x3a98},{'item_id':0x374,'max_extra':0x9,'price':0x2328},{'item_id':0x375,'max_extra':0x0,'price':0x1130},{'item_id':0x376,'max_extra':0x1,'price':0x1130},{'item_id':0x377,'max_extra':0x0,'price':0x4b0},{'item_id':0x378,'max_extra':0x4,'price':0x5dc},{'item_id':0x379,'max_extra':0x1,'price':0x4b0},{'item_id':0x37a,'max_extra':0x1,'price':0xc80},{'item_id':0x37b,'max_extra':0x0,'price':0x25e4},{'item_id':0x37c,'max_extra':0x0,'price':0x2648},{'item_id':0x37d,'max_extra':0x3,'price':0x1194},{'item_id':0x37e,'max_extra':0x3,'price':0x1324},{'item_id':0x37f,'max_extra':0x1,'price':0x1db0},{'item_id':0x380,'max_extra':0x1,'price':0x2198},{'item_id':0x381,'max_extra':0x3,'price':0x2710},{'item_id':0x382,'max_extra':0x3,'price':0x2710},{'item_id':0x383,'max_extra':0x12,'price':0x1770},{'item_id':0x384,'max_extra':0x12,'price':0x1770},{'item_id':0x385,'max_extra':0x0,'price':0xbb8},{'item_id':0x386,'max_extra':0x0,'price':0x9c4},{'item_id':0x387,'max_extra':0x4,'price':0x4a38},{'item_id':0x388,'max_extra':0x8,'price':0x7d0},{'item_id':0x389,'max_extra':0x8,'price':0x7d0},{'item_id':0x38a,'max_extra':0xf,'price':0xfa0},{'item_id':0x38b,'max_extra':0x0,'price':0x1770},{'item_id':0x38c,'max_extra':0x0,'price':0x1388},{'item_id':0x38d,'max_extra':0xb,'price':0x7d0},{'item_id':0x38e,'max_extra':0xb,'price':0x898},{'item_id':0x38f,'max_extra':0x5,'price':0xfa0},{'item_id':0x390,'max_extra':0x5,'price':0x1388},{'item_id':0x391,'max_extra':0x14,'price':0xfa0},{'item_id':0x392,'max_extra':0x14,'price':0x1388},{'item_id':0x393,'max_extra':0x15,'price':0xfa0},{'item_id':0x394,'max_extra':0x15,'price':0x1388}],0x3:[{'item_id':0x13b,'max_extra':0xf,'price':0x4b0},{'item_id':0x13c,'max_extra':0xf,'price':0x8fc},{'item_id':0x13d,'max_extra':0xf,'price':0x1130},{'item_id':0x84c,'max_extra':0x2,'price':0x2134},{'item_id':0x13e,'max_extra':0xf,'price':0x17d4},{'item_id':0x84d,'max_extra':0x2,'price':0xcb2},{'item_id':0x13f,'max_extra':0xf,'price':0x2328},{'item_id':0x140,'max_extra':0xf,'price':0x2af8},{'item_id':0x84e,'max_extra':0x2,'price':0x35b6},{'item_id':0x141,'max_extra':0xf,'price':0x2328},{'item_id':0x142,'max_extra':0xb,'price':0x2328},{'item_id':0x143,'max_extra':0xa,'price':0xbb8},{'item_id':0x144,'max_extra':0xb,'price':0x2af8},{'item_id':0x145,'max_extra':0x3,'price':0xafc8},{'item_id':0x146,'max_extra':0x0,'price':0xea60},{'item_id':0x147,'max_extra':0xc,'price':0x128e0},{'item_id':0x148,'max_extra':0xc,'price':0x11170},{'item_id':0x149,'max_extra':0x6,'price':0x1c138},{'item_id':0x14a,'max_extra':0x6,'price':0x9c40},{'item_id':0x84a,'max_extra':0xb,'price':0x88b8},{'item_id':0x14b,'max_extra':0xb,'price':0x8ca0},{'item_id':0x14c,'max_extra':0xf,'price':0x186a0},{'item_id':0x84b,'max_extra':0x2,'price':0x32c8},{'item_id':0x8b0,'max_extra':0x4,'price':0x2710},{'item_id':0x14d,'max_extra':0x3,'price':0x1388},{'item_id':0x14e,'max_extra':0x0,'price':0xe10},{'item_id':0x14f,'max_extra':0x3,'price':0x36b0},{'item_id':0x150,'max_extra':0x3,'price':0x7d0},{'item_id':0x151,'max_extra':0x3,'price':0x834},{'item_id':0x153,'max_extra':0x7,'price':0x640},{'item_id':0x154,'max_extra':0x1,'price':0x6a4},{'item_id':0x155,'max_extra':0x6,'price':0x15f90},{'item_id':0x156,'max_extra':0x1,'price':0xa8c},{'item_id':0x157,'max_extra':0x4,'price':0x5dc0},{'item_id':0x158,'max_extra':0x4,'price':0x14820},{'item_id':0x159,'max_extra':0x3,'price':0x5dc0},{'item_id':0x15a,'max_extra':0x0,'price':0x14820},{'item_id':0x15b,'max_extra':0x3,'price':0xd2f0},{'item_id':0x15c,'max_extra':0x0,'price':0x153d8},{'item_id':0x724,'max_extra':0x6,'price':0xbf68},{'item_id':0x15d,'max_extra':0x3,'price':0x578},{'item_id':0x725,'max_extra':0x7,'price':0x3e80},{'item_id':0x15e,'max_extra':0xf,'price':0xabe0},{'item_id':0x15f,'max_extra':0xb,'price':0x5dc0},{'item_id':0x160,'max_extra':0xd,'price':0x3e80},{'item_id':0x161,'max_extra':0x3,'price':0x578},{'item_id':0x162,'max_extra':0x0,'price':0x7d0},{'item_id':0x163,'max_extra':0xa,'price':0x76c},{'item_id':0x164,'max_extra':0xd,'price':0xfa0},{'item_id':0x165,'max_extra':0x11,'price':0x29810},{'item_id':0x166,'max_extra':0x5,'price':0xf3c},{'item_id':0x167,'max_extra':0x5,'price':0x6978},{'item_id':0x168,'max_extra':0x7,'price':0xdac},{'item_id':0x169,'max_extra':0x7,'price':0x19c8},{'item_id':0x16a,'max_extra':0x7,'price':0x1c84},{'item_id':0x16b,'max_extra':0x2,'price':0x1db0},{'item_id':0x16c,'max_extra':0x7,'price':0x1518},{'item_id':0x16d,'max_extra':0x2,'price':0x7d0},{'item_id':0x16e,'max_extra':0x9,'price':0x2af8},{'item_id':0x16f,'max_extra':0x3,'price':0x7148},{'item_id':0x726,'max_extra':0x19,'price':0x3c8c},{'item_id':0x170,'max_extra':0x9,'price':0x640},{'item_id':0x727,'max_extra':0x13,'price':0x639c},{'item_id':0x728,'max_extra':0x0,'price':0x6784},{'item_id':0x171,'max_extra':0x19,'price':0xafc8},{'item_id':0x172,'max_extra':0x1,'price':0x2af8},{'item_id':0x729,'max_extra':0x19,'price':0x571c},{'item_id':0x173,'max_extra':0x19,'price':0x1c20},{'item_id':0x174,'max_extra':0x6,'price':0x2af8},{'item_id':0x72a,'max_extra':0xd,'price':0x8ca0},{'item_id':0x72b,'max_extra':0x11,'price':0x6b6c},{'item_id':0x72c,'max_extra':0x11,'price':0x6b6c},{'item_id':0x175,'max_extra':0x0,'price':0xce4},{'item_id':0x176,'max_extra':0xb,'price':0xc1c},{'item_id':0x72d,'max_extra':0x9,'price':0x12a0c},{'item_id':0x72e,'max_extra':0xa,'price':0xb0f4},{'item_id':0x72f,'max_extra':0x19,'price':0x5e88},{'item_id':0x730,'max_extra':0xa,'price':0x6b6c},{'item_id':0x731,'max_extra':0x0,'price':0x5aa0},{'item_id':0x732,'max_extra':0x0,'price':0x52d0},{'item_id':0x733,'max_extra':0x19,'price':0x9344},{'item_id':0x734,'max_extra':0x7,'price':0x54c4},{'item_id':0x8b1,'max_extra':0x7,'price':0x3a98}],0x4:[{'item_id':0x177,'max_extra':0xf,'price':0x6a4},{'item_id':0x178,'max_extra':0xf,'price':0x2af8},{'item_id':0x22,'max_extra':0x1,'price':0x5dc},{'item_id':0x179,'max_extra':0xf,'price':0x36b0},{'item_id':0x17a,'max_extra':0xf,'price':0x1130},{'item_id':0x17b,'max_extra':0xf,'price':0xfa0},{'item_id':0x17c,'max_extra':0xf,'price':0x61a8},{'item_id':0x17d,'max_extra':0xf,'price':0x6978},{'item_id':0x17e,'max_extra':0xf,'price':0xabe0},{'item_id':0x17f,'max_extra':0xb,'price':0x4b0},{'item_id':0x180,'max_extra':0x1,'price':0xfa0},{'item_id':0x181,'max_extra':0xb,'price':0x1c20},{'item_id':0x182,'max_extra':0xb,'price':0x4010},{'item_id':0x183,'max_extra':0xb,'price':0x2af8},{'item_id':0x184,'max_extra':0xf,'price':0x101d0},{'item_id':0x185,'max_extra':0x0,'price':0xbb8},{'item_id':0x186,'max_extra':0x0,'price':0xbb8},{'item_id':0x187,'max_extra':0xf,'price':0x2328},{'item_id':0x188,'max_extra':0x0,'price':0x4b0},{'item_id':0x189,'max_extra':0x0,'price':0xabe0},{'item_id':0x18a,'max_extra':0x1,'price':0x36b0},{'item_id':0x18b,'max_extra':0x4,'price':0x2008},{'item_id':0x18c,'max_extra':0x1,'price':0x1130},{'item_id':0x18d,'max_extra':0x3,'price':0x105b8},{'item_id':0x18e,'max_extra':0x4,'price':0xc350},{'item_id':0x18f,'max_extra':0x4,'price':0x7530},{'item_id':0x190,'max_extra':0xb,'price':0x1770},{'item_id':0x191,'max_extra':0x0,'price':0x4a38},{'item_id':0x192,'max_extra':0x9,'price':0x2ee0},{'item_id':0x193,'max_extra':0x7,'price':0x6978},{'item_id':0x194,'max_extra':0xa,'price':0x1db0},{'item_id':0x195,'max_extra':0xa,'price':0x19c8},{'item_id':0x196,'max_extra':0x9,'price':0xce4},{'item_id':0x197,'max_extra':0x1,'price':0xe74},{'item_id':0x198,'max_extra':0x1,'price':0xfa0},{'item_id':0x199,'max_extra':0x5,'price':0x1770},{'item_id':0x19a,'max_extra':0x5,'price':0x2328},{'item_id':0x19b,'max_extra':0x1,'price':0x59d8},{'item_id':0x19c,'max_extra':0x5,'price':0x36b0},{'item_id':0x19d,'max_extra':0x5,'price':0x19c8},{'item_id':0x19e,'max_extra':0x1,'price':0x61a8},{'item_id':0x19f,'max_extra':0xb,'price':0x6978},{'item_id':0x1a0,'max_extra':0x7,'price':0x32c8},{'item_id':0x1a1,'max_extra':0x7,'price':0x960},{'item_id':0x1a2,'max_extra':0x7,'price':0xfa0},{'item_id':0x1a3,'max_extra':0x7,'price':0x6a4},{'item_id':0x1a4,'max_extra':0x6,'price':0xe10},{'item_id':0x1a5,'max_extra':0x6,'price':0x1e78},{'item_id':0xa76,'max_extra':0x19,'price':0x2710},{'item_id':0x1a6,'max_extra':0x19,'price':0x2af8},{'item_id':0x1a7,'max_extra':0x19,'price':0xc1c},{'item_id':0x1a8,'max_extra':0x19,'price':0x834},{'item_id':0x1a9,'max_extra':0x19,'price':0x1450},{'item_id':0x1aa,'max_extra':0x19,'price':0xc80},{'item_id':0x1ab,'max_extra':0x1,'price':0x1e78},{'item_id':0x1ac,'max_extra':0x19,'price':0x222e0},{'item_id':0x1ad,'max_extra':0x19,'price':0x1d4c0},{'item_id':0x1ae,'max_extra':0xd,'price':0x7d0},{'item_id':0x1af,'max_extra':0x1,'price':0x1d4c0},{'item_id':0x1b0,'max_extra':0x1,'price':0x186a0},{'item_id':0x1b1,'max_extra':0x2,'price':0x36b0},{'item_id':0x1b2,'max_extra':0x2,'price':0x2710},{'item_id':0x1b3,'max_extra':0xf,'price':0x1004},{'item_id':0x1b4,'max_extra':0x11,'price':0x1e78},{'item_id':0x1b5,'max_extra':0x0,'price':0x640}],0x5:[{'item_id':0x31e,'max_extra':0xa,'price':0x7d0},{'item_id':0x31f,'max_extra':0xa,'price':0x59d8},{'item_id':0x320,'max_extra':0xa,'price':0x36b0},{'item_id':0x321,'max_extra':0xa,'price':0x1db0},{'item_id':0x322,'max_extra':0xa,'price':0x2260},{'item_id':0x323,'max_extra':0xa,'price':0x36b0},{'item_id':0x324,'max_extra':0xa,'price':0x2328},{'item_id':0x325,'max_extra':0xa,'price':0x2af8},{'item_id':0x326,'max_extra':0xa,'price':0x36b0},{'item_id':0x327,'max_extra':0xa,'price':0x4268},{'item_id':0x328,'max_extra':0xa,'price':0x5208},{'item_id':0x329,'max_extra':0x9,'price':0x4a38},{'item_id':0x32a,'max_extra':0xa,'price':0x3520},{'item_id':0x32b,'max_extra':0xa,'price':0x2580},{'item_id':0x32c,'max_extra':0xa,'price':0x5208},{'item_id':0x32d,'max_extra':0xa,'price':0x4a38},{'item_id':0x32e,'max_extra':0x9,'price':0x61a8}]},{0x0:[{'item_id':0x1b6,'max_extra':0x0,'price':0x4b0},{'item_id':0x1b7,'max_extra':0x1,'price':0x578},{'item_id':0x1b8,'max_extra':0x2,'price':0x2328},{'item_id':0x1b9,'max_extra':0x7,'price':0x6978},{'item_id':0x1ba,'max_extra':0x7,'price':0x15e0},{'item_id':0x1bc,'max_extra':0x7,'price':0x4b0},{'item_id':0x1bd,'max_extra':0x7,'price':0x514},{'item_id':0x1be,'max_extra':0x6,'price':0x5dc0},{'item_id':0x1bf,'max_extra':0x7,'price':0x2af8},{'item_id':0x1c0,'max_extra':0x6,'price':0x6978},{'item_id':0xb7c,'max_extra':0xd,'price':0x6d60},{'item_id':0x1c1,'max_extra':0x7,'price':0x7d00},{'item_id':0x1c2,'max_extra':0x7,'price':0x8fc},{'item_id':0x1c3,'max_extra':0x1,'price':0xed8},{'item_id':0x1c4,'max_extra':0x7,'price':0xa28},{'item_id':0x1c5,'max_extra':0x7,'price':0x15e0},{'item_id':0x1c6,'max_extra':0x0,'price':0x4b0},{'item_id':0x1c7,'max_extra':0x0,'price':0x5dc},{'item_id':0x1c8,'max_extra':0x0,'price':0x5dc},{'item_id':0x1c9,'max_extra':0x0,'price':0x5dc},{'item_id':0x1ca,'max_extra':0x1,'price':0x514},{'item_id':0x1cb,'max_extra':0x7,'price':0x9c40},{'item_id':0x1cc,'max_extra':0x19,'price':0x1c20},{'item_id':0x1cd,'max_extra':0x9,'price':0x1c20},{'item_id':0x1ce,'max_extra':0x2,'price':0xc80},{'item_id':0x1cf,'max_extra':0x9,'price':0x9c40},{'item_id':0x1d0,'max_extra':0x9,'price':0x4b0},{'item_id':0x1d1,'max_extra':0x9,'price':0xe74},{'item_id':0x1d2,'max_extra':0xb,'price':0xa8c},{'item_id':0x1d3,'max_extra':0x17,'price':0x4b0},{'item_id':0x1d4,'max_extra':0x17,'price':0x4b0},{'item_id':0x1d5,'max_extra':0x0,'price':0x4b0},{'item_id':0x1d6,'max_extra':0x0,'price':0x4b0},{'item_id':0x1d7,'max_extra':0x9,'price':0x4b0},{'item_id':0x1d8,'max_extra':0x14,'price':0x4b0},{'item_id':0x1d9,'max_extra':0x17,'price':0x4b0},{'item_id':0x8f5,'max_extra':0x9,'price':0x578},{'item_id':0x8f6,'max_extra':0x9,'price':0x5dc},{'item_id':0x8f7,'max_extra':0x0,'price':0x60e},{'item_id':0x8f8,'max_extra':0x0,'price':0x640},{'item_id':0x8f9,'max_extra':0x0,'price':0x5dc},{'item_id':0x8fa,'max_extra':0x9,'price':0x578},{'item_id':0x8fb,'max_extra':0x9,'price':0x5dc},{'item_id':0x1da,'max_extra':0x9,'price':0x4b0},{'item_id':0x1db,'max_extra':0xf,'price':0x4b0},{'item_id':0x1dc,'max_extra':0x9,'price':0x4b0},{'item_id':0x1dd,'max_extra':0x19,'price':0x4b0},{'item_id':0x1de,'max_extra':0xa,'price':0x4b0},{'item_id':0x1e0,'max_extra':0x1,'price':0x4b0},{'item_id':0x1e1,'max_extra':0x12,'price':0x1e78},{'item_id':0x1e2,'max_extra':0x12,'price':0x1e78}],0x1:[{'item_id':0x1e3,'max_extra':0xf,'price':0x4b0},{'item_id':0x1e4,'max_extra':0xf,'price':0x1edc},{'item_id':0x56e,'extras':[0x0,0x1,0x2,0x3,0x4,0xa,0xb,0xc,0xd,0xe],'price':0x2710},{'item_id':0x56f,'max_extra':0x2,'price':0x1f40},{'item_id':0x570,'max_extra':0x2,'price':0x1edc},{'item_id':0x571,'max_extra':0x2,'price':0x1d4c},{'item_id':0x572,'max_extra':0xe,'price':0x9c4},{'item_id':0x573,'max_extra':0x2,'price':0xe74},{'item_id':0x574,'max_extra':0x2,'price':0x1130},{'item_id':0x575,'max_extra':0xf,'price':0x1900},{'item_id':0x1e5,'max_extra':0xf,'price':0x2328},{'item_id':0x1e6,'max_extra':0x6,'price':0x2710},{'item_id':0x1e7,'max_extra':0x0,'price':0x7148},{'item_id':0x576,'max_extra':0xb,'price':0x2af8},{'item_id':0x1e8,'max_extra':0x5,'price':0x6978},{'item_id':0x1e9,'max_extra':0x4,'price':0x7530},{'item_id':0x1ea,'max_extra':0x2,'price':0x6a4},{'item_id':0x1eb,'max_extra':0xb,'price':0x13498},{'item_id':0x1ec,'max_extra':0xa,'price':0x124f8},{'item_id':0x1ed,'max_extra':0xc,'price':0x9c40},{'item_id':0x577,'max_extra':0xf,'price':0x5208},{'item_id':0x1ef,'max_extra':0x2,'price':0xed8},{'item_id':0x1f0,'max_extra':0x6,'price':0x1068},{'item_id':0x1f1,'max_extra':0x2,'price':0xb54},{'item_id':0x1f2,'max_extra':0x8,'price':0x1a2c},{'item_id':0x578,'max_extra':0x0,'price':0xd6d8},{'item_id':0x1f3,'max_extra':0xb,'price':0x5dc0},{'item_id':0x1f4,'max_extra':0x4,'price':0xaf0},{'item_id':0x1f5,'max_extra':0x5,'price':0x105b8},{'item_id':0x1f6,'max_extra':0x3,'price':0x1a2c},{'item_id':0x579,'max_extra':0x0,'price':0x17318},{'item_id':0x1f7,'max_extra':0x1,'price':0x1a2c},{'item_id':0x57a,'max_extra':0x3,'price':0xa410},{'item_id':0x1f8,'max_extra':0x1,'price':0x8fc},{'item_id':0x57b,'max_extra':0x0,'price':0xb798},{'item_id':0x57c,'max_extra':0x3,'price':0xbf68},{'item_id':0x57d,'max_extra':0x3,'price':0xbf68},{'item_id':0x1f9,'max_extra':0x3,'price':0x1e78},{'item_id':0x57e,'max_extra':0x0,'price':0x1e78},{'item_id':0x1fa,'max_extra':0x0,'price':0x1388},{'item_id':0x57f,'max_extra':0x8,'price':0xd6d8},{'item_id':0x580,'max_extra':0x8,'price':0xd6d8},{'item_id':0x1fb,'max_extra':0x3,'price':0x9c40},{'item_id':0x1fc,'max_extra':0x5,'price':0x9088},{'item_id':0x1fd,'max_extra':0x5,'price':0x9088},{'item_id':0x583,'max_extra':0x4,'price':0x182b8},{'item_id':0x584,'max_extra':0xb,'price':0x1d4c0},{'item_id':0x1fe,'max_extra':0x3,'price':0xabe0},{'item_id':0x1ff,'max_extra':0x0,'price':0x22c4},{'item_id':0x200,'max_extra':0x13,'price':0x9088},{'item_id':0x201,'max_extra':0x0,'price':0xf230},{'item_id':0x202,'max_extra':0x4,'price':0x1e14},{'item_id':0x585,'max_extra':0xf,'price':0x25e4},{'item_id':0x203,'max_extra':0x0,'price':0x1c84},{'item_id':0x204,'max_extra':0x2,'price':0x21fc},{'item_id':0x205,'max_extra':0x2,'price':0x19c8},{'item_id':0x206,'max_extra':0x3,'price':0x1194},{'item_id':0x207,'max_extra':0x4,'price':0x8fc},{'item_id':0x208,'max_extra':0x0,'price':0x36b0},{'item_id':0x209,'max_extra':0x7,'price':0x1fa4},{'item_id':0x20a,'max_extra':0x3,'price':0x2af8},{'item_id':0x20b,'max_extra':0x0,'price':0x36b0},{'item_id':0x20c,'max_extra':0xb,'price':0x2af8},{'item_id':0x20d,'max_extra':0x6,'price':0x153d8},{'item_id':0x20e,'max_extra':0x2,'price':0x25e4},{'item_id':0x587,'max_extra':0x2,'price':0x3390},{'item_id':0x20f,'max_extra':0x0,'price':0x2db4},{'item_id':0x210,'max_extra':0x1,'price':0xce4},{'item_id':0x588,'max_extra':0x4,'price':0x16f30},{'item_id':0x211,'max_extra':0x4,'price':0x16f30},{'item_id':0x589,'max_extra':0x3,'price':0x186a0},{'item_id':0x58a,'max_extra':0x3,'price':0x186a0},{'item_id':0x212,'max_extra':0x0,'price':0x23280},{'item_id':0x214,'max_extra':0x0,'price':0x157c0},{'item_id':0x215,'max_extra':0x0,'price':0xafc8},{'item_id':0x216,'max_extra':0x4,'price':0x101d0},{'item_id':0x217,'max_extra':0xa,'price':0xc350},{'item_id':0x218,'max_extra':0x0,'price':0x7d0},{'item_id':0x58b,'max_extra':0x5,'price':0x3a98},{'item_id':0x58c,'max_extra':0x0,'price':0xc350},{'item_id':0x219,'max_extra':0x0,'price':0x11558},{'item_id':0x21a,'max_extra':0x7,'price':0xa7f8},{'item_id':0x21b,'max_extra':0x3,'price':0x9088},{'item_id':0x21c,'max_extra':0x0,'price':0xabe0},{'item_id':0x58e,'max_extra':0xf,'price':0x8ca0},{'item_id':0x58f,'max_extra':0x9,'price':0xabe0},{'item_id':0x21d,'max_extra':0xb,'price':0x15f90},{'item_id':0x21e,'max_extra':0x2,'price':0xd48},{'item_id':0x21f,'max_extra':0x2,'price':0x6a4},{'item_id':0x220,'max_extra':0x2,'price':0x708},{'item_id':0x221,'max_extra':0x2,'price':0x8fc},{'item_id':0x222,'max_extra':0x2,'price':0x8fc},{'item_id':0x223,'max_extra':0x2,'price':0xfa0},{'item_id':0x590,'max_extra':0x2,'price':0x157c},{'item_id':0x224,'max_extra':0x2,'price':0xbb8},{'item_id':0x591,'max_extra':0x10,'price':0x32c8},{'item_id':0x225,'max_extra':0x10,'price':0xa8c},{'item_id':0x592,'max_extra':0x0,'price':0x13880},{'item_id':0x593,'max_extra':0xb,'price':0x124f8},{'item_id':0x226,'max_extra':0x9,'price':0xc1c},{'item_id':0x227,'max_extra':0x2,'price':0x8fc},{'item_id':0x228,'max_extra':0x0,'price':0xa28},{'item_id':0x229,'max_extra':0x0,'price':0xce4},{'item_id':0x22a,'max_extra':0x2,'price':0xe74},{'item_id':0x22b,'max_extra':0x6,'price':0x9c40},{'item_id':0x22c,'max_extra':0x6,'price':0x84d0},{'item_id':0x597,'max_extra':0x2,'price':0x55f0},{'item_id':0x22d,'max_extra':0x2,'price':0x1964},{'item_id':0x598,'max_extra':0x7,'price':0x733c},{'item_id':0x22e,'max_extra':0xe,'price':0xce4},{'item_id':0x22f,'max_extra':0xa,'price':0x960},{'item_id':0x230,'max_extra':0x2,'price':0x88b8},{'item_id':0x231,'max_extra':0x9,'price':0xfa0},{'item_id':0x232,'max_extra':0x5,'price':0x7d0},{'item_id':0x233,'extras':[0x0,0x1,0x2,0x3,0x4,0x5,0x6,0x8,0x9,0xa,0xb,0xc,0xd],'price':0xa410},{'item_id':0x599,'max_extra':0xd,'price':0x1d4c0},{'item_id':0x59b,'max_extra':0xb,'price':0xf80c},{'item_id':0x59c,'extras':[0x0,0x1,0x2,0x3,0x4,0x6,0x7,0x8],'price':0xabe0},{'item_id':0x59d,'max_extra':0xb,'price':0x9858},{'item_id':0x234,'max_extra':0x5,'price':0x2ee0},{'item_id':0x59e,'max_extra':0xf,'price':0xbf68},{'item_id':0x59f,'max_extra':0x19,'price':0xdac0},{'item_id':0x5a0,'max_extra':0x7,'price':0xe678},{'item_id':0x5a1,'max_extra':0x3,'price':0xa9ec},{'item_id':0x235,'max_extra':0x5,'price':0x2ee0},{'item_id':0x236,'max_extra':0x3,'price':0x4268},{'item_id':0x5a2,'max_extra':0x2,'price':0x4c2c},{'item_id':0x5a3,'max_extra':0x1,'price':0x5014},{'item_id':0x5a4,'max_extra':0x1,'price':0x53fc},{'item_id':0x237,'max_extra':0x3,'price':0x11170},{'item_id':0x238,'max_extra':0x3,'price':0xc350},{'item_id':0x239,'max_extra':0x0,'price':0x4e20},{'item_id':0x23a,'max_extra':0x2,'price':0x4a38},{'item_id':0x5a5,'max_extra':0x6,'price':0x8e94},{'item_id':0x23b,'max_extra':0x5,'price':0x3e80},{'item_id':0x5a6,'max_extra':0xf,'price':0x130b0},{'item_id':0x23c,'max_extra':0x2,'price':0x4268},{'item_id':0x23d,'max_extra':0x3,'price':0x4a38},{'item_id':0x23e,'max_extra':0x3,'price':0x61a8},{'item_id':0x23f,'max_extra':0x5,'price':0x2328},{'item_id':0x240,'max_extra':0x5,'price':0x2328},{'item_id':0x241,'max_extra':0x5,'price':0x2328},{'item_id':0x242,'max_extra':0x7,'price':0x2328},{'item_id':0x243,'max_extra':0x1,'price':0x1c20},{'item_id':0x244,'max_extra':0x0,'price':0x36b0},{'item_id':0x245,'max_extra':0x3,'price':0x2af8},{'item_id':0x246,'max_extra':0x3,'price':0x36b0},{'item_id':0x247,'max_extra':0x3,'price':0x13880},{'item_id':0x248,'max_extra':0x3,'price':0x11170},{'item_id':0x249,'max_extra':0x0,'price':0x8fc},{'item_id':0x24a,'max_extra':0x6,'price':0x2260},{'item_id':0x24b,'max_extra':0x3,'price':0x1a2c},{'item_id':0x24c,'max_extra':0x2,'price':0x125c},{'item_id':0x24d,'max_extra':0x5,'price':0x1194},{'item_id':0x24e,'max_extra':0x1,'price':0x36b0},{'item_id':0x24f,'max_extra':0x5,'price':0xea60},{'item_id':0x250,'max_extra':0x3,'price':0x2328},{'item_id':0x251,'max_extra':0x3,'price':0x36b0},{'item_id':0x252,'max_extra':0xc,'price':0x26ac},{'item_id':0x253,'max_extra':0xa,'price':0x2ee0},{'item_id':0x254,'max_extra':0xa,'price':0x2af8},{'item_id':0x255,'max_extra':0x19,'price':0xbb8},{'item_id':0x5a7,'max_extra':0x19,'price':0x182b8},{'item_id':0x256,'max_extra':0xb,'price':0x12cc8},{'item_id':0x257,'max_extra':0x19,'price':0xfa00},{'item_id':0x5a8,'max_extra':0x2,'price':0x6b6c},{'item_id':0x5a9,'max_extra':0xf,'price':0x6f54},{'item_id':0x5aa,'max_extra':0x7,'price':0x9664},{'item_id':0x5ab,'max_extra':0x19,'price':0x126ec},{'item_id':0x258,'max_extra':0x4,'price':0x1068},{'item_id':0x259,'max_extra':0x19,'price':0xed8},{'item_id':0x25a,'max_extra':0xc,'price':0x8fc},{'item_id':0x25b,'max_extra':0x4,'price':0x15e0},{'item_id':0x5ac,'max_extra':0x10,'price':0x251c},{'item_id':0x5ad,'max_extra':0x10,'price':0x251c},{'item_id':0x5ae,'max_extra':0x17,'price':0x14a14},{'item_id':0x5af,'max_extra':0x17,'price':0x1462c},{'item_id':0x25c,'max_extra':0xe,'price':0x2af8},{'item_id':0x25d,'max_extra':0xe,'price':0x2328},{'item_id':0x25e,'max_extra':0xf,'price':0x2710},{'item_id':0x25f,'max_extra':0xf,'price':0x2580},{'item_id':0x260,'max_extra':0x1,'price':0x251c},{'item_id':0x261,'max_extra':0x0,'price':0x1964},{'item_id':0x262,'max_extra':0xb,'price':0x32c8},{'item_id':0x263,'max_extra':0xb,'price':0x2af8},{'item_id':0x264,'max_extra':0x9,'price':0x3a98},{'item_id':0x265,'max_extra':0x9,'price':0x32c8},{'item_id':0x266,'max_extra':0x19,'price':0x15e0},{'item_id':0x267,'max_extra':0xb,'price':0x1964},{'item_id':0x268,'max_extra':0x19,'price':0x10cc},{'item_id':0x5b1,'max_extra':0x5,'price':0x1c138},{'item_id':0x269,'max_extra':0x5,'price':0x1068},{'item_id':0x5b2,'max_extra':0x5,'price':0x3e80},{'item_id':0x26a,'max_extra':0x19,'price':0x36b0},{'item_id':0x26b,'max_extra':0x19,'price':0x2af8},{'item_id':0x5b3,'max_extra':0x9,'price':0x6d60},{'item_id':0x5b4,'max_extra':0x19,'price':0x80e8},{'item_id':0x26c,'max_extra':0x1,'price':0x2134},{'item_id':0x26d,'max_extra':0x1,'price':0x1900},{'item_id':0x5b5,'max_extra':0x19,'price':0x15d9c},{'item_id':0x5b6,'max_extra':0x19,'price':0x15d9c},{'item_id':0x5b7,'max_extra':0x14,'price':0x639c},{'item_id':0x5b8,'max_extra':0x6,'price':0x19c1c},{'item_id':0x5b9,'max_extra':0x19,'price':0xdcb4},{'item_id':0x5ba,'max_extra':0xf,'price':0xbd10},{'item_id':0x5bb,'max_extra':0x17,'price':0xe7a4},{'item_id':0x5bc,'max_extra':0xe,'price':0x8598},{'item_id':0x5bd,'max_extra':0x19,'price':0xe8d0},{'item_id':0x5be,'max_extra':0x19,'price':0xd4e4},{'item_id':0x26e,'max_extra':0xf,'price':0x26ac},{'item_id':0x5bf,'max_extra':0xf,'price':0xf938},{'item_id':0x5c0,'max_extra':0xf,'price':0xf938},{'item_id':0x5c1,'max_extra':0xf,'price':0x17c78},{'item_id':0x5c2,'max_extra':0x11,'price':0x150b8},{'item_id':0x5c3,'max_extra':0x11,'price':0x150b8},{'item_id':0x5c4,'max_extra':0x4,'price':0x1d588},{'item_id':0x26f,'max_extra':0x4,'price':0x1d588},{'item_id':0x5c5,'max_extra':0xf,'price':0x1a3ec},{'item_id':0x5c6,'max_extra':0x7,'price':0x7724},{'item_id':0x5c7,'max_extra':0x14,'price':0x6aa4},{'item_id':0x5c8,'max_extra':0x14,'price':0x6aa4},{'item_id':0x270,'max_extra':0x1,'price':0x13880},{'item_id':0x5c9,'max_extra':0xb,'price':0x5fb4},{'item_id':0x5ca,'max_extra':0xb,'price':0x6784},{'item_id':0x5cb,'max_extra':0x15,'price':0x6e8c},{'item_id':0x5cc,'max_extra':0x11,'price':0x89e4},{'item_id':0x5cd,'max_extra':0x11,'price':0x89e4},{'item_id':0x5ce,'max_extra':0x17,'price':0x6c98},{'item_id':0x5cf,'max_extra':0xf,'price':0x7f58},{'item_id':0x5d0,'max_extra':0xd,'price':0x9600},{'item_id':0x786,'max_extra':0x0,'price':0x43f8},{'item_id':0x788,'max_extra':0x9,'price':0x701c},{'item_id':0x789,'max_extra':0x9,'price':0x701c},{'item_id':0x78a,'max_extra':0x19,'price':0xae38},{'item_id':0x78b,'max_extra':0x19,'price':0xae38},{'item_id':0x78c,'max_extra':0x18,'price':0xbd10},{'item_id':0x78d,'max_extra':0x19,'price':0x5e88},{'item_id':0x78e,'max_extra':0x19,'price':0xa9ec},{'item_id':0x78f,'max_extra':0x19,'price':0xa9ec},{'item_id':0x790,'max_extra':0x19,'price':0xa9ec},{'item_id':0x791,'max_extra':0x19,'price':0xa9ec},{'item_id':0x792,'max_extra':0x9,'price':0x13754},{'item_id':0x793,'max_extra':0x19,'price':0x85fc},{'item_id':0x794,'max_extra':0x19,'price':0x85fc},{'item_id':0x795,'max_extra':0x17,'price':0xb6d0},{'item_id':0x796,'max_extra':0xb,'price':0x85fc},{'item_id':0x797,'max_extra':0xd,'price':0x126ec},{'item_id':0x798,'max_extra':0xa,'price':0x8ef8},{'item_id':0x799,'max_extra':0x19,'price':0x10b94},{'item_id':0x79a,'max_extra':0x19,'price':0x10b94},{'item_id':0x79b,'max_extra':0x14,'price':0x6cfc},{'item_id':0x7a3,'max_extra':0x0,'price':0x733c},{'item_id':0x7a4,'max_extra':0x0,'price':0x733c},{'item_id':0x7a5,'max_extra':0x18,'price':0x60e0},{'item_id':0x7a6,'max_extra':0x19,'price':0x8a48},{'item_id':0x7a8,'max_extra':0x11,'price':0x79e0},{'item_id':0x7a9,'max_extra':0xf,'price':0x75f8},{'item_id':0x7aa,'max_extra':0x7,'price':0xb284},{'item_id':0x7ab,'max_extra':0x7,'price':0xb284},{'item_id':0x7ac,'max_extra':0x0,'price':0x7aa8},{'item_id':0x7ad,'max_extra':0x0,'price':0x49d4},{'item_id':0x7ae,'max_extra':0x0,'price':0x82dc},{'item_id':0x7af,'max_extra':0x0,'price':0xa0f0},{'item_id':0x7b0,'max_extra':0x0,'price':0x8d04},{'item_id':0x7b1,'max_extra':0x0,'price':0x8d04},{'item_id':0x7b2,'max_extra':0x19,'price':0x98bc},{'item_id':0x7b4,'max_extra':0xe,'price':0x72d8},{'item_id':0x7b5,'max_extra':0x5,'price':0x5654},{'item_id':0x7b6,'max_extra':0x8,'price':0x5654},{'item_id':0x7b8,'max_extra':0x5,'price':0xdfd4},{'item_id':0x7b9,'max_extra':0x18,'price':0x81b0},{'item_id':0x7ba,'max_extra':0x7,'price':0x79e0},{'item_id':0x7bb,'max_extra':0x7,'price':0x79e0},{'item_id':0x7bc,'max_extra':0x6,'price':0x639c},{'item_id':0x7bd,'max_extra':0x6,'price':0x639c},{'item_id':0x7be,'max_extra':0x6,'price':0x639c},{'item_id':0x7bf,'max_extra':0x6,'price':0x639c},{'item_id':0x7c0,'max_extra':0x6,'price':0x10f7c},{'item_id':0x7c1,'max_extra':0x6,'price':0x10f7c},{'item_id':0x7c2,'max_extra':0x6,'price':0x10f7c},{'item_id':0x7c3,'max_extra':0x19,'price':0xaca8},{'item_id':0x7c4,'max_extra':0x19,'price':0x9ca4},{'item_id':0x7c5,'max_extra':0x13,'price':0x4c2c},{'item_id':0x7c6,'max_extra':0x13,'price':0x4c2c},{'item_id':0x7c7,'max_extra':0x9,'price':0x8020},{'item_id':0x7c8,'max_extra':0x4,'price':0x8a48},{'item_id':0x77a,'max_extra':0x2,'price':0x4074},{'item_id':0x77b,'max_extra':0x4,'price':0x4074},{'item_id':0x77c,'max_extra':0x19,'price':0x972c},{'item_id':0x77d,'max_extra':0x19,'price':0x972c},{'item_id':0x77e,'max_extra':0x0,'price':0x5e88},{'item_id':0x77f,'max_extra':0x2,'price':0x6f54},{'item_id':0x780,'max_extra':0x9,'price':0xd9f8},{'item_id':0x781,'max_extra':0x5,'price':0x64c8},{'item_id':0x782,'max_extra':0x0,'price':0xbd10},{'item_id':0x783,'max_extra':0x0,'price':0xbd10},{'item_id':0x784,'max_extra':0x0,'price':0xce40}],0x2:[{'item_id':0x395,'max_extra':0xf,'price':0x1194},{'item_id':0x396,'max_extra':0x6,'price':0x1068},{'item_id':0x397,'max_extra':0x2,'price':0xbb8},{'item_id':0x398,'max_extra':0x2,'price':0x4b0},{'item_id':0x399,'max_extra':0x4,'price':0x13880},{'item_id':0x39a,'max_extra':0xc,'price':0x13880},{'item_id':0x39b,'max_extra':0xf,'price':0x2af8},{'item_id':0x39c,'max_extra':0x2,'price':0x7d0},{'item_id':0x39d,'max_extra':0x2,'price':0x1770},{'item_id':0x39e,'max_extra':0x4,'price':0x1194},{'item_id':0x39f,'max_extra':0x3,'price':0x898},{'item_id':0x3a0,'max_extra':0x1,'price':0xbb8},{'item_id':0x3a1,'max_extra':0x0,'price':0x55f0},{'item_id':0x3a2,'max_extra':0xf,'price':0x4e20},{'item_id':0x3a3,'max_extra':0xf,'price':0x4a38},{'item_id':0x3a4,'max_extra':0x3,'price':0x61a8},{'item_id':0x3a5,'max_extra':0x3,'price':0x59d8},{'item_id':0x3a6,'max_extra':0x1,'price':0x4b0},{'item_id':0x3a7,'max_extra':0x13,'price':0x3a98},{'item_id':0x3a8,'max_extra':0x13,'price':0x32c8},{'item_id':0x3a9,'max_extra':0x7,'price':0x8fc},{'item_id':0x3aa,'max_extra':0x0,'price':0x2328},{'item_id':0x3ab,'max_extra':0x0,'price':0x2af8},{'item_id':0x3ac,'max_extra':0x13,'price':0x1130},{'item_id':0x3ad,'max_extra':0x1,'price':0x4650},{'item_id':0x3ae,'max_extra':0x1,'price':0x4e20},{'item_id':0x3af,'max_extra':0x7,'price':0x13880},{'item_id':0x3b0,'max_extra':0x0,'price':0xd48},{'item_id':0x3b1,'max_extra':0x2,'price':0x8fc},{'item_id':0x3b2,'max_extra':0x2,'price':0x3a98},{'item_id':0x3b3,'max_extra':0x2,'price':0x5208},{'item_id':0x3b4,'max_extra':0x2,'price':0xc80},{'item_id':0x3b5,'max_extra':0x3,'price':0x7d0},{'item_id':0x3b6,'max_extra':0x4,'price':0x7530},{'item_id':0x3b7,'max_extra':0x5,'price':0x4650},{'item_id':0x3b8,'max_extra':0x5,'price':0x4e20},{'item_id':0x3b9,'max_extra':0xb,'price':0xc350},{'item_id':0x3ba,'max_extra':0x2,'price':0x7d0},{'item_id':0x3bb,'max_extra':0x2,'price':0x2710},{'item_id':0x3bc,'max_extra':0x2,'price':0x2ee0},{'item_id':0x3bd,'max_extra':0x2,'price':0x2ee0},{'item_id':0x3be,'max_extra':0x2,'price':0xfa0},{'item_id':0x3bf,'max_extra':0x2,'price':0x2ee0},{'item_id':0x3c0,'max_extra':0x7,'price':0x2328},{'item_id':0x3c1,'max_extra':0x7,'price':0x2af8},{'item_id':0x3c2,'max_extra':0x5,'price':0x36b0},{'item_id':0x3c3,'max_extra':0x5,'price':0x2710},{'item_id':0x3c4,'max_extra':0x5,'price':0x36b0},{'item_id':0x3c5,'max_extra':0xf,'price':0x4e20},{'item_id':0x3c6,'max_extra':0xf,'price':0x8fc},{'item_id':0x3c7,'max_extra':0xf,'price':0x4e20},{'item_id':0x3c8,'max_extra':0x2,'price':0xa8c},{'item_id':0x3c9,'max_extra':0x2,'price':0xa8c},{'item_id':0x3ca,'max_extra':0x1,'price':0x61a8},{'item_id':0x3cb,'max_extra':0x11,'price':0x4e20},{'item_id':0x3cc,'max_extra':0x10,'price':0x32c8},{'item_id':0x3cd,'max_extra':0x10,'price':0x2af8},{'item_id':0x3ce,'max_extra':0x10,'price':0x32c8},{'item_id':0x3cf,'max_extra':0x10,'price':0x32c8},{'item_id':0x3d0,'max_extra':0x10,'price':0x32c8},{'item_id':0x3d1,'max_extra':0x10,'price':0x2af8},{'item_id':0x3d2,'max_extra':0x10,'price':0x32c8},{'item_id':0x3d3,'max_extra':0x10,'price':0x32c8},{'item_id':0x3d4,'max_extra':0x0,'price':0x8fc},{'item_id':0x3d5,'max_extra':0x0,'price':0x4b0},{'item_id':0x3d6,'max_extra':0x0,'price':0xd48},{'item_id':0x3d7,'max_extra':0xb,'price':0xbb8},{'item_id':0x3d8,'max_extra':0xb,'price':0x1388},{'item_id':0x3d9,'max_extra':0x19,'price':0x4b0},{'item_id':0x3da,'max_extra':0x14,'price':0xbb8},{'item_id':0x3db,'max_extra':0x14,'price':0xb54},{'item_id':0x3dc,'max_extra':0x14,'price':0xe74},{'item_id':0x3dd,'max_extra':0x14,'price':0xbb8},{'item_id':0x3de,'max_extra':0x14,'price':0x1068},{'item_id':0x3df,'max_extra':0x14,'price':0xfa0},{'item_id':0x3e0,'max_extra':0xb,'price':0x1388},{'item_id':0x3e1,'max_extra':0xb,'price':0x7d0},{'item_id':0x3e2,'max_extra':0x7,'price':0x708},{'item_id':0x3e3,'max_extra':0x15,'price':0x7d0},{'item_id':0x3e4,'max_extra':0x15,'price':0x76c},{'item_id':0x3e5,'max_extra':0x15,'price':0x7d0}],0x3:[{'item_id':0x29b,'max_extra':0xf,'price':0xa8c},{'item_id':0x29c,'max_extra':0xf,'price':0xc80},{'item_id':0x5d1,'max_extra':0x2,'price':0x1d4c},{'item_id':0x29d,'max_extra':0xf,'price':0x7d0},{'item_id':0x29e,'max_extra':0xf,'price':0x2328},{'item_id':0x5d2,'max_extra':0x2,'price':0x2134},{'item_id':0x5d3,'max_extra':0x2,'price':0x251c},{'item_id':0x5d4,'max_extra':0xc,'price':0x2904},{'item_id':0x29f,'max_extra':0xf,'price':0x55f0},{'item_id':0x5d5,'max_extra':0x2,'price':0x1edc},{'item_id':0x2a0,'max_extra':0xf,'price':0x1388},{'item_id':0x2a1,'max_extra':0xf,'price':0x5dc0},{'item_id':0x5d6,'max_extra':0x1,'price':0x2a94},{'item_id':0x2a2,'max_extra':0x9,'price':0x4e20},{'item_id':0x2a3,'max_extra':0xb,'price':0x61a8},{'item_id':0x2a4,'max_extra':0x1,'price':0x960},{'item_id':0x2a5,'max_extra':0x2,'price':0x128e0},{'item_id':0x5d7,'max_extra':0x0,'price':0x2c24},{'item_id':0x5d8,'max_extra':0x2,'price':0x41a0},{'item_id':0x2a6,'max_extra':0xc,'price':0x55f0},{'item_id':0x2a7,'max_extra':0xc,'price':0xd48},{'item_id':0x2a8,'max_extra':0xc,'price':0x1b58},{'item_id':0x2a9,'max_extra':0x0,'price':0x2af8},{'item_id':0x2aa,'max_extra':0xf,'price':0xcb20},{'item_id':0x2ab,'max_extra':0x0,'price':0x4e20},{'item_id':0x2ac,'max_extra':0x4,'price':0x898},{'item_id':0x2ad,'max_extra':0x3,'price':0x61a8},{'item_id':0x5d9,'max_extra':0x0,'price':0x9538},{'item_id':0x2ae,'max_extra':0x0,'price':0xbb8},{'item_id':0x5da,'max_extra':0x0,'price':0x39d0},{'item_id':0x2af,'max_extra':0x3,'price':0x3e80},{'item_id':0x2b0,'max_extra':0x6,'price':0x8fc},{'item_id':0x5db,'max_extra':0x3,'price':0x4074},{'item_id':0x5dc,'max_extra':0x3,'price':0x300c},{'item_id':0x2b1,'max_extra':0x3,'price':0xe10},{'item_id':0x5dd,'max_extra':0x4,'price':0xc544},{'item_id':0x2b2,'max_extra':0x4,'price':0x1964},{'item_id':0x2b3,'max_extra':0x3,'price':0x10cc},{'item_id':0x2b4,'max_extra':0x6,'price':0x1db0},{'item_id':0x2b5,'max_extra':0x1,'price':0x14b4},{'item_id':0x2b6,'max_extra':0x4,'price':0x2af8},{'item_id':0x2b7,'max_extra':0x4,'price':0x19c8},{'item_id':0x2b8,'max_extra':0x3,'price':0x1194},{'item_id':0x2b9,'max_extra':0x0,'price':0x4650},{'item_id':0x2ba,'max_extra':0x3,'price':0x8fc},{'item_id':0x2bb,'max_extra':0x0,'price':0x14b4},{'item_id':0x2bc,'max_extra':0x5,'price':0xfde8},{'item_id':0x2bd,'max_extra':0x7,'price':0xa410},{'item_id':0x2be,'max_extra':0x3,'price':0x7d0},{'item_id':0x5de,'max_extra':0x2,'price':0x3f48},{'item_id':0x5df,'max_extra':0xf,'price':0x4bc8},{'item_id':0x5e0,'max_extra':0x9,'price':0x571c},{'item_id':0x2bf,'max_extra':0xb,'price':0xd6d8},{'item_id':0x2c0,'max_extra':0xb,'price':0x130b0},{'item_id':0x2c1,'max_extra':0x3,'price':0xa28},{'item_id':0x5e1,'max_extra':0x2,'price':0x4588},{'item_id':0x2c2,'max_extra':0xa,'price':0x4b0},{'item_id':0x2c3,'max_extra':0xd,'price':0x8fc},{'item_id':0x5e2,'max_extra':0x9,'price':0x3584},{'item_id':0x5e3,'max_extra':0xb,'price':0x87f0},{'item_id':0x5e4,'max_extra':0x9,'price':0x4c90},{'item_id':0x5e5,'max_extra':0x11,'price':0xb6d0},{'item_id':0x5e6,'max_extra':0x3,'price':0x5014},{'item_id':0x2c4,'max_extra':0x5,'price':0xce4},{'item_id':0x5e7,'max_extra':0x5,'price':0xa6cc},{'item_id':0x2c5,'max_extra':0x2,'price':0x1004},{'item_id':0x2c6,'max_extra':0x2,'price':0x4b0},{'item_id':0x2c7,'max_extra':0x2,'price':0x15e0},{'item_id':0x2c8,'max_extra':0x3,'price':0x1e78},{'item_id':0x2c9,'max_extra':0x7,'price':0x1f40},{'item_id':0x2ca,'max_extra':0x2,'price':0x8fc},{'item_id':0x2cb,'max_extra':0x7,'price':0x1194},{'item_id':0x2cc,'max_extra':0x2,'price':0x1964},{'item_id':0x2cd,'max_extra':0x9,'price':0x10cc},{'item_id':0x2ce,'max_extra':0x3,'price':0x1518},{'item_id':0x5e8,'max_extra':0xf,'price':0xf294},{'item_id':0x2cf,'max_extra':0x9,'price':0x1838},{'item_id':0x5e9,'max_extra':0xd,'price':0x4c2c},{'item_id':0x2d0,'max_extra':0x19,'price':0x1068},{'item_id':0x2d1,'max_extra':0x1,'price':0x1900},{'item_id':0x5ea,'max_extra':0x19,'price':0x3390},{'item_id':0x2d2,'max_extra':0x19,'price':0x11f8},{'item_id':0x5eb,'max_extra':0x14,'price':0xe420},{'item_id':0x5ec,'max_extra':0x6,'price':0x571c},{'item_id':0x2d3,'max_extra':0xd,'price':0x5dc0},{'item_id':0x5ed,'max_extra':0x1,'price':0x57e4},{'item_id':0x5ee,'max_extra':0x7,'price':0x1430c},{'item_id':0x2d4,'max_extra':0xb,'price':0xabe0},{'item_id':0x2d5,'max_extra':0xf,'price':0x84d0},{'item_id':0x2d6,'max_extra':0x0,'price':0xc738},{'item_id':0x2d7,'max_extra':0xb,'price':0xd6d8},{'item_id':0x5ef,'max_extra':0xa,'price':0x50dc},{'item_id':0x5f0,'max_extra':0x19,'price':0x6338},{'item_id':0x5f1,'max_extra':0xa,'price':0xd0fc},{'item_id':0x5f2,'max_extra':0x0,'price':0x684c},{'item_id':0x5f3,'max_extra':0x0,'price':0x684c},{'item_id':0x5f4,'max_extra':0x0,'price':0x8084},{'item_id':0x5f5,'max_extra':0x19,'price':0xc224},{'item_id':0x5f6,'max_extra':0x0,'price':0x6b6c}],0x4:[{'item_id':0x2d8,'max_extra':0xf,'price':0x1004},{'item_id':0x2d9,'max_extra':0xf,'price':0x1770},{'item_id':0x2da,'max_extra':0xf,'price':0xa8c},{'item_id':0x2db,'max_extra':0xf,'price':0x15e0},{'item_id':0x2dc,'max_extra':0xf,'price':0x2af8},{'item_id':0x2dd,'max_extra':0xf,'price':0x578},{'item_id':0x2de,'max_extra':0xf,'price':0x61a8},{'item_id':0x2df,'max_extra':0xf,'price':0xa410},{'item_id':0x2e0,'max_extra':0xb,'price':0x1004},{'item_id':0x2e1,'max_extra':0x2,'price':0x36b0},{'item_id':0x2e2,'max_extra':0xb,'price':0x5dc0},{'item_id':0x2e3,'max_extra':0xb,'price':0x5208},{'item_id':0x2e4,'max_extra':0x9,'price':0xc80},{'item_id':0x2e5,'max_extra':0xf,'price':0x84d0},{'item_id':0x2e6,'max_extra':0x0,'price':0x834},{'item_id':0x2e7,'max_extra':0x0,'price':0xc1c},{'item_id':0x2e8,'max_extra':0x0,'price':0x1194},{'item_id':0x2e9,'max_extra':0x0,'price':0x4b0},{'item_id':0x2ea,'max_extra':0x0,'price':0xc80},{'item_id':0x2eb,'max_extra':0x2,'price':0x514},{'item_id':0x2ec,'max_extra':0x0,'price':0x5dc},{'item_id':0x2ed,'max_extra':0x0,'price':0x4e20},{'item_id':0x2ee,'max_extra':0x4,'price':0x1068},{'item_id':0x2ef,'max_extra':0x1,'price':0x10cc},{'item_id':0x2f0,'max_extra':0x3,'price':0x4b0},{'item_id':0x2f1,'max_extra':0x4,'price':0xc1c},{'item_id':0x2f2,'max_extra':0x4,'price':0x7d0},{'item_id':0x2f3,'max_extra':0xb,'price':0x2af8},{'item_id':0x2f4,'max_extra':0x7,'price':0xafc8},{'item_id':0x2f5,'max_extra':0x7,'price':0x9c40},{'item_id':0x2f6,'max_extra':0xa,'price':0x1004},{'item_id':0x2f7,'max_extra':0xa,'price':0x8fc},{'item_id':0x2f8,'max_extra':0x9,'price':0x1194},{'item_id':0x2f9,'max_extra':0x1,'price':0xc80},{'item_id':0x2fa,'max_extra':0x1,'price':0x1644},{'item_id':0x2fb,'max_extra':0x5,'price':0x4b0},{'item_id':0x2fc,'max_extra':0x5,'price':0x15e0},{'item_id':0x2fd,'max_extra':0x1,'price':0x1194},{'item_id':0x2fe,'max_extra':0x5,'price':0x1a90},{'item_id':0x2ff,'max_extra':0x5,'price':0x1e78},{'item_id':0x300,'max_extra':0x2,'price':0x15e0},{'item_id':0x301,'max_extra':0x2,'price':0x1a2c},{'item_id':0x302,'max_extra':0x1,'price':0x11f8},{'item_id':0x303,'max_extra':0xb,'price':0xdac0},{'item_id':0x304,'max_extra':0x7,'price':0x898},{'item_id':0x305,'max_extra':0x7,'price':0x4b0},{'item_id':0x306,'max_extra':0x7,'price':0x7d0},{'item_id':0x307,'max_extra':0x7,'price':0xc1c},{'item_id':0x308,'max_extra':0x6,'price':0x1130},{'item_id':0x309,'max_extra':0x6,'price':0xc80},{'item_id':0xa77,'max_extra':0x19,'price':0x2710},{'item_id':0x30a,'max_extra':0x19,'price':0xce4},{'item_id':0x30b,'max_extra':0x19,'price':0x1130},{'item_id':0x30c,'max_extra':0x19,'price':0x1388},{'item_id':0x30d,'max_extra':0x19,'price':0x13ec},{'item_id':0x30e,'max_extra':0x19,'price':0x1450},{'item_id':0x30f,'max_extra':0x8,'price':0xd48},{'item_id':0x310,'max_extra':0x1,'price':0x4b0},{'item_id':0x311,'max_extra':0x19,'price':0xfde8},{'item_id':0x312,'max_extra':0x19,'price':0xc350},{'item_id':0x313,'max_extra':0xd,'price':0x1004},{'item_id':0x314,'max_extra':0x1,'price':0xdac0},{'item_id':0x315,'max_extra':0x1,'price':0xc350},{'item_id':0x316,'max_extra':0x2,'price':0x1004},{'item_id':0x317,'max_extra':0x2,'price':0xaf0},{'item_id':0x318,'max_extra':0x7,'price':0xdac0},{'item_id':0x319,'max_extra':0xf,'price':0xc350},{'item_id':0x31a,'max_extra':0xf,'price':0x32c8},{'item_id':0x31b,'max_extra':0x11,'price':0x5dc0},{'item_id':0x31c,'max_extra':0xb,'price':0x11170},{'item_id':0x31d,'max_extra':0x0,'price':0x1518}],0x5:[{'item_id':0x32f,'max_extra':0x0,'price':0x61a8},{'item_id':0x330,'max_extra':0x0,'price':0x6590},{'item_id':0x331,'max_extra':0x0,'price':0x5dc0},{'item_id':0x332,'max_extra':0x0,'price':0x88b8},{'item_id':0x33d,'max_extra':0x7,'price':0x7d0},{'item_id':0x33f,'max_extra':0x0,'price':0x4a38}]}],jewCatalog=[{0x0:[{'item_id':0x104,'max_extra':0x2,'price':0x186a0},{'item_id':0x105,'max_extra':0x0,'price':0x3a98},{'item_id':0x106,'max_extra':0x0,'price':0x3a98},{'item_id':0x107,'max_extra':0x4,'price':0x2710},{'item_id':0x108,'max_extra':0xc,'price':0x4e20},{'item_id':0x109,'max_extra':0xe,'price':0x9c40},{'item_id':0x10a,'max_extra':0xc,'price':0x4e20},{'item_id':0x10b,'max_extra':0xf,'price':0x3a98},{'item_id':0x10c,'max_extra':0xf,'price':0x3a98},{'item_id':0x10d,'max_extra':0xf,'price':0x3a98},{'item_id':0x10e,'max_extra':0xf,'price':0x3a98},{'item_id':0x10f,'max_extra':0xf,'price':0x61a8},{'item_id':0x110,'max_extra':0xf,'price':0x61a8},{'item_id':0x111,'max_extra':0x5,'price':0xc350},{'item_id':0x112,'max_extra':0x2,'price':0x186a0},{'item_id':0x113,'max_extra':0x3,'price':0xea60},{'item_id':0x114,'max_extra':0x0,'price':0x2710},{'item_id':0x115,'max_extra':0xf,'price':0x4650},{'item_id':0x116,'max_extra':0xf,'price':0x61a8},{'item_id':0x117,'max_extra':0xf,'price':0x4e20},{'item_id':0x118,'max_extra':0x1,'price':0x30d40},{'item_id':0x119,'max_extra':0x1,'price':0x7a120},{'item_id':0x11a,'max_extra':0x0,'price':0x61a80},{'item_id':0x11b,'max_extra':0x1,'price':0x61a80},{'item_id':0x11c,'max_extra':0x1,'price':0x7ef40},{'item_id':0x11d,'max_extra':0x1,'price':0x86470},{'item_id':0x11e,'max_extra':0x1,'price':0x927c0},{'item_id':0x11f,'max_extra':0x1,'price':0x249f0},{'item_id':0x120,'max_extra':0x1,'price':0x35b60},{'item_id':0x121,'max_extra':0x1,'price':0x38270},{'item_id':0x122,'max_extra':0x1,'price':0x186a0},{'item_id':0x123,'max_extra':0x1,'price':0x3d090},{'item_id':0x125,'max_extra':0x1,'price':0x35b60},{'item_id':0x126,'max_extra':0x1,'price':0x38270},{'item_id':0x127,'max_extra':0x1,'price':0x30d40},{'item_id':0x128,'max_extra':0x1,'price':0x493e0},{'item_id':0x129,'max_extra':0x1,'price':0x55730},{'item_id':0x12e,'max_extra':0x1,'price':0x927c0},{'item_id':0x84f,'max_extra':0x2,'price':0x249f0},{'item_id':0x12f,'max_extra':0x0,'price':0xf4240},{'item_id':0x130,'max_extra':0x0,'price':0x493e0},{'item_id':0x131,'max_extra':0x1,'price':0x186a0},{'item_id':0x134,'max_extra':0x0,'price':0x222e0},{'item_id':0x135,'max_extra':0x1,'price':0x7a120},{'item_id':0x136,'max_extra':0x1,'price':0x7a120},{'item_id':0x137,'max_extra':0x1,'price':0xf4240},{'item_id':0x138,'max_extra':0x1,'price':0x493e0},{'item_id':0x139,'max_extra':0x0,'price':0x16e360},{'item_id':0x6ac,'max_extra':0x0,'price':0x16e360}],0x1:[{'item_id':0x340,'max_extra':0x0,'price':0xf4240},{'item_id':0x341,'max_extra':0x0,'price':0x186a0},{'item_id':0x342,'max_extra':0x4,'price':0xf4240},{'item_id':0x343,'max_extra':0x3,'price':0x16e360},{'item_id':0x344,'max_extra':0x3,'price':0x493e0},{'item_id':0x345,'max_extra':0x2,'price':0x1e8480},{'item_id':0x346,'max_extra':0x2,'price':0x493e0},{'item_id':0x347,'max_extra':0x2,'price':0x2625a0},{'item_id':0x348,'max_extra':0x2,'price':0x7a120},{'item_id':0x349,'max_extra':0x2,'price':0xaae60},{'item_id':0x34a,'max_extra':0x2,'price':0xaae60},{'item_id':0x34b,'max_extra':0x2,'price':0x7a120},{'item_id':0x34c,'max_extra':0x2,'price':0x7a120},{'item_id':0x34d,'max_extra':0x2,'price':0x927c0},{'item_id':0x34e,'max_extra':0x2,'price':0x124f80},{'item_id':0x34f,'max_extra':0x2,'price':0x19f0a0},{'item_id':0x350,'max_extra':0x2,'price':0x493e0},{'item_id':0x351,'max_extra':0x2,'price':0x1b7740},{'item_id':0x352,'max_extra':0x2,'price':0x19f0a0},{'item_id':0x353,'max_extra':0x2,'price':0x16e360},{'item_id':0x354,'max_extra':0x2,'price':0x2dc6c0},{'item_id':0x355,'max_extra':0x0,'price':0x61a80},{'item_id':0x356,'max_extra':0x0,'price':0x249f0},{'item_id':0x357,'max_extra':0x0,'price':0x493e0},{'item_id':0x358,'max_extra':0x0,'price':0xaae60},{'item_id':0x359,'max_extra':0x0,'price':0x7a120},{'item_id':0x35a,'max_extra':0x0,'price':0x16e360},{'item_id':0x35b,'max_extra':0x0,'price':0x16e360},{'item_id':0x35c,'max_extra':0x3,'price':0xf4240}],0x2:[{'item_id':0x6d0,'max_extra':0x2,'price':0x186a0},{'item_id':0x6d1,'max_extra':0x2,'price':0x186a0},{'item_id':0x6d2,'max_extra':0x2,'price':0x30d40},{'item_id':0x6d3,'max_extra':0x1,'price':0x1d4c0},{'item_id':0x6d4,'max_extra':0x1,'price':0x1d4c0},{'item_id':0x6d5,'max_extra':0x1,'price':0x3a980},{'item_id':0x6d6,'max_extra':0x2,'price':0x1adb0},{'item_id':0x6d7,'max_extra':0x2,'price':0x1adb0},{'item_id':0x6d8,'max_extra':0x2,'price':0x35b60},{'item_id':0x6d9,'max_extra':0x2,'price':0x1fbd0},{'item_id':0x6da,'max_extra':0x2,'price':0x1fbd0},{'item_id':0x6db,'max_extra':0x2,'price':0x3f7a0},{'item_id':0x6dc,'max_extra':0x2,'price':0x15f90},{'item_id':0x6dd,'max_extra':0x2,'price':0x15f90},{'item_id':0x6de,'max_extra':0x2,'price':0x2bf20},{'item_id':0x6df,'max_extra':0x4,'price':0x249f0},{'item_id':0x6e0,'max_extra':0x4,'price':0x249f0},{'item_id':0x6e1,'max_extra':0x4,'price':0x493e0},{'item_id':0x6e2,'max_extra':0x1,'price':0x27100},{'item_id':0x6e3,'max_extra':0x1,'price':0x27100},{'item_id':0x6e4,'max_extra':0x1,'price':0x4e200},{'item_id':0x6e5,'max_extra':0x3,'price':0x249f0},{'item_id':0x6e6,'max_extra':0x3,'price':0x249f0},{'item_id':0x6e7,'max_extra':0x3,'price':0x493e0},{'item_id':0x6e8,'max_extra':0x1,'price':0x186a0},{'item_id':0x6e9,'max_extra':0x1,'price':0x186a0},{'item_id':0x6ea,'max_extra':0x1,'price':0x30d40},{'item_id':0x6eb,'max_extra':0x2,'price':0x186a0},{'item_id':0x6ec,'max_extra':0x2,'price':0x186a0},{'item_id':0x6ed,'max_extra':0x2,'price':0x30d40},{'item_id':0x6ee,'max_extra':0x1,'price':0x249f0},{'item_id':0x6ef,'max_extra':0x1,'price':0x249f0},{'item_id':0x6f0,'max_extra':0x1,'price':0x493e0},{'item_id':0x6f1,'max_extra':0x1,'price':0x61a80},{'item_id':0x6f2,'max_extra':0x3,'price':0x55730},{'item_id':0x6f3,'max_extra':0x3,'price':0x55730},{'item_id':0x6f4,'max_extra':0x3,'price':0x55730}]},{0x0:[{'item_id':0x271,'max_extra':0x5,'price':0x1d4c0},{'item_id':0x272,'max_extra':0x5,'price':0x30d40},{'item_id':0x273,'max_extra':0x5,'price':0x4e20},{'item_id':0x275,'max_extra':0x5,'price':0x30d40},{'item_id':0x6c2,'max_extra':0x5,'price':0x30d40},{'item_id':0x6c3,'max_extra':0x0,'price':0xc350},{'item_id':0x6c4,'max_extra':0x3,'price':0xc350},{'item_id':0x276,'max_extra':0x3,'price':0x29810},{'item_id':0x277,'max_extra':0x2,'price':0x493e0},{'item_id':0x6c5,'max_extra':0x5,'price':0x61a8},{'item_id':0x278,'max_extra':0x3,'price':0x13880},{'item_id':0x279,'max_extra':0x4,'price':0xc350},{'item_id':0x27a,'max_extra':0x3,'price':0xc350},{'item_id':0x27b,'max_extra':0x3,'price':0xc350},{'item_id':0x6c6,'max_extra':0x0,'price':0x9c40},{'item_id':0x6c7,'max_extra':0xf,'price':0xa410},{'item_id':0x6c8,'max_extra':0x2,'price':0xa028},{'item_id':0x6c9,'max_extra':0xf,'price':0xa410},{'item_id':0x6ca,'max_extra':0x2,'price':0x9c40},{'item_id':0x6cb,'max_extra':0xf,'price':0x4e20},{'item_id':0x6cc,'max_extra':0x2,'price':0x4e20},{'item_id':0x6cd,'max_extra':0xf,'price':0x4e20},{'item_id':0x27d,'max_extra':0x1,'price':0x7a120},{'item_id':0x27e,'max_extra':0x1,'price':0xaae60},{'item_id':0x27f,'max_extra':0x0,'price':0x6ddd0},{'item_id':0x280,'max_extra':0x1,'price':0x7a120},{'item_id':0x281,'max_extra':0x1,'price':0x53020},{'item_id':0x282,'max_extra':0x1,'price':0x7a120},{'item_id':0x283,'max_extra':0x1,'price':0x927c0},{'item_id':0x284,'max_extra':0x1,'price':0xdbba0},{'item_id':0x6ce,'max_extra':0x1,'price':0xdbba0},{'item_id':0x285,'max_extra':0x1,'price':0xf4240},{'item_id':0x286,'max_extra':0x1,'price':0xf4240},{'item_id':0x287,'max_extra':0x1,'price':0xf4240},{'item_id':0x288,'max_extra':0x1,'price':0xf4240},{'item_id':0x289,'max_extra':0x1,'price':0xf4240},{'item_id':0x28a,'max_extra':0x1,'price':0xf4240},{'item_id':0x28b,'max_extra':0x1,'price':0x7a120},{'item_id':0x28c,'max_extra':0x1,'price':0xf4240},{'item_id':0x28d,'max_extra':0x1,'price':0x16e360},{'item_id':0x28f,'max_extra':0x2,'price':0xc350},{'item_id':0x290,'max_extra':0x0,'price':0xf4240},{'item_id':0x291,'max_extra':0x0,'price':0x493e0},{'item_id':0x292,'max_extra':0x1,'price':0x61a8},{'item_id':0x293,'max_extra':0x9,'price':0x4e20},{'item_id':0x295,'max_extra':0x1,'price':0xf4240},{'item_id':0x296,'max_extra':0x1,'price':0xf4240},{'item_id':0x297,'max_extra':0x1,'price':0xf4240},{'item_id':0x298,'max_extra':0x1,'price':0x493e0},{'item_id':0x299,'max_extra':0x0,'price':0x1e8480},{'item_id':0x29a,'max_extra':0x0,'price':0x1e8480},{'item_id':0x6cf,'max_extra':0x0,'price':0x16e360}],0x1:[{'item_id':0x35d,'max_extra':0x3,'price':0x2dc6c0},{'item_id':0x35e,'max_extra':0x2,'price':0x1e8480},{'item_id':0x35f,'max_extra':0x2,'price':0x493e0},{'item_id':0x360,'max_extra':0x2,'price':0x1e8480},{'item_id':0x361,'max_extra':0x2,'price':0xf4240},{'item_id':0x362,'max_extra':0x2,'price':0x16e360},{'item_id':0x363,'max_extra':0x2,'price':0x10c8e0},{'item_id':0x364,'max_extra':0x2,'price':0xf4240},{'item_id':0x365,'max_extra':0x2,'price':0x7a120},{'item_id':0x366,'max_extra':0x0,'price':0x493e0},{'item_id':0x367,'max_extra':0x0,'price':0x7a120},{'item_id':0x368,'max_extra':0x0,'price':0x7a120},{'item_id':0x369,'max_extra':0x0,'price':0xaae60},{'item_id':0x36a,'max_extra':0x0,'price':0x7a120},{'item_id':0x36b,'max_extra':0x0,'price':0x16e360},{'item_id':0x36c,'max_extra':0x0,'price':0x16e360},{'item_id':0x36d,'max_extra':0x3,'price':0xf4240}],0x2:[{'item_id':0x6f5,'max_extra':0x0,'price':0x30d40},{'item_id':0x6f6,'max_extra':0x0,'price':0x35b60},{'item_id':0x6f7,'max_extra':0x0,'price':0x38270},{'item_id':0x6f8,'max_extra':0x2,'price':0x3a980},{'item_id':0x6f9,'max_extra':0x2,'price':0x3d090},{'item_id':0x6fa,'max_extra':0x2,'price':0x3f7a0},{'item_id':0x6fb,'max_extra':0x2,'price':0x30d40},{'item_id':0x6fc,'max_extra':0x2,'price':0x2e630},{'item_id':0x6fd,'max_extra':0x2,'price':0x33450},{'item_id':0x6fe,'max_extra':0x2,'price':0x2f9b8},{'item_id':0x6ff,'max_extra':0x0,'price':0x38270},{'item_id':0x700,'max_extra':0x0,'price':0x33450},{'item_id':0x701,'max_extra':0x0,'price':0x38270},{'item_id':0x702,'max_extra':0x0,'price':0x3a980},{'item_id':0x703,'max_extra':0x0,'price':0x3a980},{'item_id':0x704,'max_extra':0x1,'price':0x2bf20},{'item_id':0x705,'max_extra':0x3,'price':0x3d090},{'item_id':0x706,'max_extra':0x3,'price':0x3d090},{'item_id':0x707,'max_extra':0x3,'price':0x3d090}]}];global[_0x4d8ca0(0x293,0x2a2)]=!0x1,global[_0x44680f(0x3a6,0x373)]=!0x1,global[_0x44680f(0x3d2,0x3ed)]=function(_0x8d48cc){const _0x197539={_0x5b5196:0x137,_0x3c126f:0x179,_0x195932:0xb6,_0x3e4b6c:0xf2},_0x3a65ca={_0x258346:0xca};function _0x58119f(_0x44b835,_0x60948){return _0x243a(_0x60948- -0x2ad,_0x44b835);}function _0x41a021(_0x51bd43,_0x2c3e4a){return _0x243a(_0x51bd43- -_0x3a65ca._0x258346,_0x2c3e4a);}mp[_0x58119f(-_0x197539._0x5b5196,-_0x197539._0x3c126f)]['graphics'][_0x41a021(_0x197539._0x195932,_0x197539._0x3e4b6c)](_0x8d48cc);},mp[_0x44680f(0x42c,0x464)][_0x4d8ca0(0x20e,0x23d)](_0x4d8ca0(0x216,0x220),_0x5b81a9=>{const _0x1a471e={_0x17650b:0x284,_0x3262ee:0x28a},_0x316058={_0x467f4a:0x17b};function _0x24d52f(_0x1864e6,_0x5d5233){return _0x243a(_0x1864e6-_0x316058._0x467f4a,_0x5d5233);}nightvisionAllowed=_0x5b81a9,_0x5b81a9?HintShow(language[_0x24d52f(_0x1a471e._0x17650b,_0x1a471e._0x3262ee)][curr_lang]):toggleNightvision(!0x1);}),mp[_0x44680f(0x3b4,0x3fb)]['bind'](0x4e,!0x1,function(){nightvisionAllowed&&!chatActive&&!dialog_window&&loggedin&&0x1!=GlobalCheck()&&(nightvisionState=!nightvisionState,toggleNightvision(nightvisionState));});function _0x5da2(){const _0x53ab36=['q2XPzw50x0XVywrfEgnSDxnPDMvjDgvTu2HVCa','yxrFC3rVBMvFyMLNyM94','u2HVCf9tzxrFq2fT','C3rVCa','z3vP','q2XPzw50x1n0B25LqMLNqM94sw50zxjJDa','EKnHBwvYyvvW','q2XPzw50x1vWzgf0zunSB3rOzxnts2LSBa','zgvZDhjVEq','y2fSBfjLBw90zq','BwfSzs80lW','DhLWzq','u2vYDMvYx0XVywrfEgnSDxnPDMvjDgvTu2HVCa','q2XVC2vozxDdBg90AgvZu2HVCa','C2v0uM90yxrPB24','D2fYzwHVDxnLugXHy2u','t3bLBKPLD2vSBgvYEvnOB3a','u0Tjua','Aw5LEgnSDxnPDMvJBg90AgvZ','sw5ozxDdBg90AgvZu2HVCa','zxHJBhvZAxzLy2XVDgHLC2LUDgvYywn0','mtm4mtu0mKTfCuPUuG','yxrFy2XVDgHLC19JAgfUz2u','q2XPzw50x0nSB3rOzxnpCMDdAgfUz2vuExbL','q2XPzw50x0v4y2X1C2L2zunSB3rOzxnjBNrLCMfJDenHBq','u2vYDMvYx0DLDezHDM9YAxrLq2XVDgHLCW','zMvTywXLlZeXlW','mZiZmtHbDLLQrgW','zNvSBf9IB2r5','zgLZCgXHEvjHzgfY','BwvTyMvY','BwfSzs8Xms8','BMv3','s1reDNG','D2fYzwHVDxnLr2vUzgvY','qvbquY5ZDgf0zs5ZA2LSBf9JBg90AgvZlMnSB3rOzxnFC2TPBgWGpsa','lNbUzW','mJbHt25NrKy','mteZmdKYmdDHDeHRvfC','AxrLBv9Pza','C2v0tMLNAhr2AxnPB24','q2XPzw50x1nLDe1LBwjLCKnSB3rOzxm','q2XPzw50x0nSB3nLtMv3q2XVDgHLC1nOB3a','z2v0vgLTzq','BMLNAhr2AxnPB25bBgXVD2vK','ChjLD2LLDW','z2v0uM90yxrPB24','q2XVC2vfEgnSDxnPDMvdBg90AgvZu2HVCa','q2XVC2vozxDdBg90AgvZtwvUDq','kcGOlISPkYKRksSK','C2v0qwn0AxzL','y3jLyxrL','lcjUzwvKx3vWzgf0zsi6msWIC2HVDYi6Dhj1zx0','qvbquY5ZDgf0zs5LEgnSDxnPDMvFy2XVDgHLCYa9ia','yMfZzq','q2XPzw50x0j1Euv4y2X1C2L2zunSB3rOzxm','q2XPzw50x1nLDenSB3rOzxnuB0zHDM9YAxrL','Bwf4','u2vYDMvYx0nSB3rOzxnpCMDdAgfUz2u','yMXPCa','t3bLBKPLD2vSBgvYEunVCNjLy3rSEq','zxzLBNrZ','qvbquY5ZDgf0zs5UzxDFy2XVDgHFC2HVCc5ZAg93id0GzMfSC2u7','q2XVC2vdBg90AgvZu2HVCa','sfvex0zst05uru5ex0rfrKfvtfrFu09vtKrtrvq','Bwf4x3rLEhr1CMu','otm2nty3mKPfEw1dEa','q2XVC2vkzxDtAg9W','u2vYDMvYx09Yz0nOyw5NzunSB3rOzxntzxj2zxi','Cg9ZAxrPB24','qvbqlNnLBMrfCNjVCK1LC3nHz2uOjW','q2XPzw50x0j1EunSB3rOzxm','mJG4odK1oe9AsunZzW','qvbquY5ZDgf0zs5JBg90AgvZx21LBNuUDgv4DhvYzv9Pzca9ia','yMXPChm','Dgv4DhvYzq','mvLJDK1NqW','u2vYDMvYq2HHBMDLt3v0zML0','u2vYDMvYx0j1Euv4y2X1C2L2zunSB3rOzxm','nJaXmtu2ntzcB0HhEhm','E2nSB3rOzxnFCg9VBdO','q2XPzw50x0nSB3rOzxnpCMDdAgfUz2vuzxH0DxjL','t3bLBKnSB3rOzxntAg9WrwXPDgu','sMv3x1jVDfbSyxLLCG','t3bLBMvKq2XVDgHLC1nRAwXS','sMv3x0nSzwfYqw5PBq','C2v0sgvHzgLUzW','q2XVC2vfEgnSDxnPDMvdBg90AgvZsw50zxjHy3q','vMvJDg9YmW','zxHLy3v0zq','q2XPzw50x1nLDe5Pz2H0DMLZAw9Uqwn0AxzL','zNjLzxPLug9ZAxrPB24','qvbquY5ZDgf0zs5ZA2LSBf9JBg90AgvZlNnOAwvSzca9ia','zMvTywXLlZqV','q2XPzw50x0nOyw5NzunSB3rOzxndyw0','AgfUzgXL','qvbquY5ZDgf0zs5LEgnSDxnPDMvFy2XVDgHLCY5ZAg93id0GDhj1ztS','0jJrGDc/0l7qU9gm0lFrG9c50ylqTsdqUTc70ldqSTc40yJrGYbolcdrH9gc0l7qSDglincW0lRrGTc40llqUnga0l7qSTcW0ylrJcdqVDc+0yFqVDc+0luG0lFrGnc10l3qUnc1','mJr2thj2r3a','q2XPzw50x0nSzwfUrMfRzufYBxK','qvbquY5ZDgf0zs5JBg90AgvZx21LBNuGpsa','q2XVC2vkzxDtAg9Wq29YCMvJDgX5','DgfZA1bSyxLbBMLT','BMLNAhr2AxnPB25tDgf0zq','y2fSBa','y2fT','t3bLBKnSB3rOzxntAg9W','z2vUzgvY','C2XVDhm','q2XPzw50x1vWzgf0zuv4y2X1C2L2zuL0zw1tAg9W','rgLZywjSzwnOyxq','qvbquY5ZDgf0zs5ZA2LSBf9JBg90AgvZlNn0B25Lid0G','Bw9KzwW','sw5dBg90AgvZu2HVCa','rw5HyMXLy2HHDa','qvbquY5ZDgf0zs5LEgnSDxnPDMvFy2XVDgHLCY5JBg90AgvZx3bVB2WGpsa','q2XPzw50x0zPBMLZAe9Yz0nOyw5NzunSB3rOzxm','A2v5CW','mtnurvbyDKW','ywrK','t3bLBKnSB3rOzxntAg9Wq29YCMvJDgX5','yw1IqhDVCMXKx2H1BwfUx2D1yxjKx3bHDhjVBebTywXLqgjHC2u','C2vHCMnO','Dg9tDhjPBMC','z2v0sgvHzgLUzW','Cg9Z','q2XPzw50x0nSB3rOzxnpCMDdAgfUz2vjDgvT','u2vYDMvYx0nSB3nLrxHJBhvZAxzLq29YCMvJDgX5','y2HHBMDLug9ZAxrPB25dyw1LCMe','C2v0uM91Dgu','q2XPzw50x0nOyw5NzuvSAxrLq2XVDgHLC0L0zw0','y2fTzxjH','C2HVDW','zgvMyxvSDa','sMv3x1nLDf9dyw0','0jJrGDc/0l7qU9gm0lFrG9c50ylqTsdqUTc70ldqSTc40yJrGYbylcdrH9gc0l7qSDglingb0l3rJ9gc0yWG0ldrGnc80lxqUDgb0lRrG9goinge0l7rGnc80ym','q2XPzw50x0nOyw5NzunSB3rOzxnjDgvT','C3rYAw5NAwz5','q2XVC2vdBg90AgvZu2HVCenVCNjLy3rSEq','qvbquY5ZDgf0zs5UzxDFy2XVDgHFC2HVCca9ia','z2fTzq','sw5kzxDLBgXLCNK','y3vYC29Y','CMvUzgvYu2nYAxb0q2fTCW','0jZqTDgb0ylqVIdqVDcW0l/rGncW0llqU9c10l3qUngp','C2v0qwn0AxzLv2L0AeLUDgvYCa','nZKXmtmYEKDHyKXH','Dg9Nz2XLtMLNAhr2AxnPB24','u2vYDMvYx0nSB3rOzxncDxLjDgvT','y29UC3rYDwn0B3i','Cg9PBNrbDenVB3jK','qvbquY5ZDgf0zs5LEgnSDxnPDMvFy2XVDgHLCY5ZAg93id0GzMfSC2u7','qvbquY5ZDgf0zs5JBg90AgvZx21LBNuUy2XVDgHLC19Pzca9ia','mtC4mhLpuLPZrW','u2vYDMvYx1jLCxvLC3rszw1VDMvgywTLqxjTEq','sfvex0rfqvritufuq0HFu09vtKrtrvq','ovz3CwPdDG','qvbquY5ZDgf0zs5ZA2LSBf9JBg90AgvZlNnOB3CGpsbMywXZztS','uevxA3K','q2XPzw50x1n0B25LqMLNqM94uM91Dgu','u2vYDMvYx09Wzw5fEgnSDxnPDMvjDgvTu2HVCenVCNjLy3rSEq','jYK7','yxbWBhK','qvbquY5ZDgf0zs5JBg90AgvZx21LBNuUC2HVDYa9igzHBhnLoW','q2XPzw50x0DLDev4y2X1C2L2zunSB3rOzxm','y2fTzxjHCW','u2HVD0nSB3rOzxnnzw51','qvbquY5ZDgf0zs5ODwqUAw50zxjHy3qGpsb0CNvLoW','u2vYDMvYx1nLDenSB3rOzxnuB0zHDM9YAxrL','q2XVC2vdBg90AgvZu2TPBgW','C3rVCefUAw1uyxnR','q2XPzw50x1n0B25LqMLNqM94rgvZDhjVEq','u2HVD05LD0nSB3rOzxnnzw51','q2XPzw50x0v4y2X1C2L2zuL0zw1fCNjVCG','CMvUzgvY','revmrvrf'];_0x5da2=function(){return _0x53ab36;};return _0x5da2();}
+let second_cam;
+let last_cam = null;
+function SwitchCamVector(_0x14dfd8) {
+  localplayer.freezePosition(true);
+  if (localcamera != null) {
+    localcamera.destroy();
+    localcamera = null;
+  }
+  if (second_cam != null) {
+    second_cam.destroy();
+    second_cam = null;
+  }
+  if (last_cam != null && last_cam != _0x14dfd8) {
+    second_cam = mp.cameras.new("default", new mp.Vector3(CamFocuses[campos][last_cam][0], CamFocuses[campos][last_cam][1], CamFocuses[campos][last_cam][2]), new mp.Vector3(0, 0, 0), 40);
+    second_cam.pointAtCoord(CamFocuses[campos][last_cam][3], CamFocuses[campos][last_cam][4], CamFocuses[campos][last_cam][5]);
+  }
+  localcamera = mp.cameras.new("default", new mp.Vector3(CamFocuses[campos][_0x14dfd8][0], CamFocuses[campos][_0x14dfd8][1], CamFocuses[campos][_0x14dfd8][2]), new mp.Vector3(0, 0, 0), 40);
+  localcamera.pointAtCoord(CamFocuses[campos][_0x14dfd8][3], CamFocuses[campos][_0x14dfd8][4], CamFocuses[campos][_0x14dfd8][5]);
+  localcamera.setActive(true);
+  if (last_cam != null && last_cam != _0x14dfd8) {
+    localcamera.setActiveWithInterp(second_cam.handle, 1000, 0, 0);
+    mp.game.cam.renderScriptCams(true, false, 0, false, false);
+    if (campos == 0) {
+      localplayer.setRotation(0, 0, 354.6534118652344, 2, true);
+    } else if (campos == 1) {
+      localplayer.setRotation(0, 0, 118.65088653564453, 2, true);
+    }
+  } else {
+    mp.game.cam.renderScriptCams(true, true, 0, true, true);
+  }
+  last_cam = _0x14dfd8;
+}
+function SetClothesShopOutfit(_0x1fd6db, _0x365379, _0x125d7c, _0x8d1501 = false) {
+  mp.events.callRemote("ServerChangeOutfit", _0x1fd6db, _0x365379, _0x125d7c, _0x8d1501);
+}
+global.InClothesShop = false;
+global.CloseClothesShop = function () {
+  if (InClothesShop && loggedin && !chatActive) {
+    CloseClothesMenu();
+    mp.game.cam.renderScriptCams(false, true, 2000, true, false);
+    if (localcamera) {
+      localcamera.destroy();
+      localcamera = undefined;
+    }
+    InteractiveCamera.stop();
+    InClothesShop = false;
+    mp.events.callRemote("CloseClothesShopCorrectly");
+    HintClose();
+  }
+};
+const Jew_CamFocuses = [[-625.249267578125, -225.2531280517578, 38.77696990966797, -624.9817504882812, -224.25254821777344, 38.41535949707031], [-624.1485595703125, -224.44760131835938, 38.09893035888672, -624.5930786132812, -224.12164306640625, 38.06435775756836], [-625.024, -224.57, 38.702, -624.957, -224.247, 38.702]];
+global.InJewellery = false;
+let jew_mod = 0;
+const male_top_offset = 0;
+const male_legs_offset = 0;
+const male_boots_offset = 0;
+const female_top_offset = 0;
+const female_legs_offset = 0;
+const female_boots_offset = 0;
+function SwitchJewCamVector(_0x5e4e58) {
+  localplayer.freezePosition(true);
+  if (localcamera != null) {
+    localcamera.destroy();
+    localcamera = null;
+  }
+  if (second_cam != null) {
+    second_cam.destroy();
+    second_cam = null;
+  }
+  if (last_cam != null && last_cam != _0x5e4e58) {
+    second_cam = mp.cameras.new("default", new mp.Vector3(Jew_CamFocuses[last_cam][0], Jew_CamFocuses[last_cam][1], Jew_CamFocuses[last_cam][2]), new mp.Vector3(0, 0, 0), 40);
+    second_cam.pointAtCoord(Jew_CamFocuses[last_cam][3], Jew_CamFocuses[last_cam][4], Jew_CamFocuses[last_cam][5]);
+  }
+  localcamera = mp.cameras.new("default", new mp.Vector3(Jew_CamFocuses[_0x5e4e58][0], Jew_CamFocuses[_0x5e4e58][1], Jew_CamFocuses[_0x5e4e58][2]), new mp.Vector3(0, 0, 0), 40);
+  localcamera.pointAtCoord(Jew_CamFocuses[_0x5e4e58][3], Jew_CamFocuses[_0x5e4e58][4], Jew_CamFocuses[_0x5e4e58][5]);
+  localcamera.setActive(true);
+  if (last_cam != null && last_cam != _0x5e4e58) {
+    localcamera.setActiveWithInterp(second_cam.handle, 1000, 0, 0);
+    mp.game.cam.renderScriptCams(true, false, 0, false, false);
+    localplayer.setRotation(0, 0, 166.254, 2, true);
+  } else {
+    mp.game.cam.renderScriptCams(true, true, 2000, true, true);
+  }
+  last_cam = _0x5e4e58;
+}
+function GetRendersForClothes(_0x37615a) {
+  let _0x4d273b = "";
+  if (InventoryItems[_0x37615a[0].item_id][8] > 0) {
+    _0x4d273b = InventoryItems[_0x37615a[0].item_id][9] == 0 ? "male/11/" : "female/11/";
+    _0x37615a[0].prewiew = _0x4d273b + InventoryItems[_0x37615a[0].item_id][8] + "_" + _0x37615a[0].render + ".png";
+  }
+  if (InventoryItems[_0x37615a[1].item_id][8] > 0) {
+    _0x4d273b = InventoryItems[_0x37615a[1].item_id][9] == 0 ? "male/4/" : "female/4/";
+    _0x37615a[1].prewiew = _0x4d273b + InventoryItems[_0x37615a[1].item_id][8] + "_" + _0x37615a[1].render + ".png";
+  }
+  if (InventoryItems[_0x37615a[2].item_id][8] > 0) {
+    _0x4d273b = InventoryItems[_0x37615a[2].item_id][9] == 0 ? "male/6/" : "female/6/";
+    _0x37615a[2].prewiew = _0x4d273b + InventoryItems[_0x37615a[2].item_id][8] + "_" + _0x37615a[2].render + ".png";
+  }
+  _0x37615a[0].item_id = 0;
+  _0x37615a[1].item_id = 0;
+  _0x37615a[2].item_id = 0;
+  return _0x37615a;
+}
+mp.events.add("OpenJewelleryShop", (_0x20dbac, _0x330cb1) => {
+  EndConversationFinally();
+  if (GlobalCheck() == 1) {
+    return;
+  }
+  mp.events.callRemote("OpenJewelleryCorrectly");
+  InJewellery = true;
+  let _0xa99de8 = 1;
+  switch (_0x330cb1) {
+    case 0:
+      _0xa99de8 = 1;
+      break;
+    case 1:
+      _0xa99de8 = 0.9;
+      break;
+    case 2:
+      _0xa99de8 = 0.75;
+      break;
+    case 3:
+      _0xa99de8 = 0.5;
+  }
+  ShowNewClothesMenu(2, _0xa99de8);
+});
+mp.events.add("Jew_Set_Cam", () => {
+  SwitchJewCamVector(0);
+});
+global.CloseJewShop = function () {
+  if (InJewellery && loggedin && !chatActive) {
+    CloseNewClothesMenu();
+    mp.game.cam.renderScriptCams(false, true, 2000, true, false);
+    if (localcamera != null) {
+      localcamera.destroy();
+      localcamera = null;
+    }
+    if (second_cam != null) {
+      second_cam.destroy();
+      second_cam = null;
+    }
+    last_cam = null;
+    InJewellery = false;
+    mp.events.callRemote("CloseJewShopCorrectly");
+  }
+};
+mp.events.add("Jew_ClearAnim", () => {
+  localplayer.taskPlayAnim("amb@world_human_guard_patrol@male@base", "base", 8, 1, -1, 1, 0, false, false, false);
+  localplayer.stopAnimTask("amb@world_human_guard_patrol@male@base", "base", 0);
+});
+mp.events.add("Jew_RotPlayer", _0x2fafae => {
+  if (!InJewellery && !InNewClothesShop && !InBarberShop && !at_clothes_change && !InClothesShop) {
+    return;
+  }
+  let _0x29ad75 = localplayer.getRotation(2);
+  if (_0x2fafae == 1) {
+    _0x29ad75.z += 5;
+  } else {
+    _0x29ad75.z -= 5;
+  }
+  localplayer.setRotation(0, 0, _0x29ad75.z, 2, true);
+});
+global.inexclusiveclothes = false;
+mp.events.add("Client_OpenExclusiveItemShop", _0x31f4da => {
+  EndConversationFinally();
+  if (GlobalCheck() == 1) {
+    return;
+  }
+  mp.events.callRemote("Server_OpenExclusiveItemShopCorrectly");
+  mp.events.call("Disablechat");
+  inexclusiveclothes = true;
+  const _0x416b21 = "{clothes_pool:" + JSON.stringify(_0x31f4da) + ",\"need_update\":1,\"show\":true}";
+  main_browser.execute("APPS.state.exclusive_clothes = " + _0x416b21);
+  ChangeHudState(false);
+  mp.game.ui.displayRadar(false);
+  mp.gui.cursor.show(true, true);
+});
+mp.events.add("Client_LoadExclusiveItemShop", _0x71cd47 => {
+  if (inexclusiveclothes && loggedin && !chatActive) {
+    if (!(new Date().getTime() - lastCheck < 300)) {
+      lastCheck = new Date().getTime();
+      mp.events.callRemote("Server_LoadExclusiveItemShop", _0x71cd47);
+    }
+  }
+});
+mp.events.add("Client_UpdateExclusiveItemShop", _0x7b8a80 => {
+  if (inexclusiveclothes && loggedin && !chatActive) {
+    main_browser.execute("APPS.state.exclusive_clothes.clothes_pool = " + JSON.stringify(_0x7b8a80) + ";");
+  }
+});
+global.CloseExclusiveClothesShop = function (_0x51e9f9 = 0) {
+  if (inexclusiveclothes && loggedin && !chatActive) {
+    main_browser.execute("APPS.state.exclusive_clothes.show = false;");
+    localplayer.freezePosition(false);
+    is_freezed = false;
+    mp.game.cam.renderScriptCams(false, true, 2000, true, false);
+    inexclusiveclothes = false;
+    if (hudswitch == 0) {
+      ChangeHudState(true);
+      mp.game.ui.displayRadar(true);
+    }
+    mp.gui.cursor.show(false, false);
+    mp.events.call("Enablechat");
+    if (_0x51e9f9) {
+      mp.events.callRemote("Server_CloseExclusiveCorrectly");
+    }
+  }
+};
+mp.events.add("Client_BuyExclusiveClothes", (_0x21f287, _0x4d2531) => {
+  if (inexclusiveclothes) {
+    if (!(new Date().getTime() - lastCheck < 500)) {
+      lastCheck = new Date().getTime();
+      mp.events.callRemote("Server_BuyExclusiveClothes", _0x21f287, _0x4d2531);
+    }
+  }
+});
+mp.events.add("Client_GetExclusiveClothes", (_0x26c5e8, _0x207c23) => {
+  if (inexclusiveclothes) {
+    if (!(new Date().getTime() - lastCheck < 500)) {
+      lastCheck = new Date().getTime();
+      mp.events.callRemote("Server_GetExclusiveClothes", _0x26c5e8, _0x207c23);
+    }
+  }
+});
+mp.events.add("Client_ExclusiveItemError", _0x34dc03 => {
+  if (inexclusiveclothes != 0) {
+    PlayAudioSound("DELETE", "HUD_DEATHMATCH_SOUNDSET");
+    main_browser.execute("APP.sendErrorMessage('" + _0x34dc03 + "');");
+  }
+});
+global.exclusiveclothesinteract = false;
+mp.events.add("Client_ExclusiveClothesInteractCam", () => {
+  if (inexclusiveclothes != 0) {
+    main_browser.execute("APPS.state.exclusive_clothes.show = false;");
+    exclusiveclothesinteract = true;
+    if (localcamera) {
+      localcamera.destroy();
+      localcamera = undefined;
+    }
+    localcamera = mp.cameras.new("default");
+    localcamera.setActive(true);
+    InteractiveCamera.create(localcamera, new mp.Vector3(localplayer.position.x, localplayer.position.y, localplayer.position.z), new mp.Vector3(localplayer.position.x, localplayer.position.y, localplayer.position.z), new mp.Vector3(0, 1, 0), localplayer.getHeading(), [0, 0], [-0.3, 0.5], 5);
+    mp.game.cam.renderScriptCams(true, false, 3000, true, false);
+  }
+});
+global.CloseExclusiveClothesInteract = function () {
+  if (exclusiveclothesinteract) {
+    exclusiveclothesinteract = false;
+    InteractiveCamera.stop();
+    main_browser.execute("APPS.state.exclusive_clothes.show = true;");
+  }
+};
+global.OpenedClothesSkill = false;
+global.CloseClothesSkill = function () {
+  if (OpenedClothesSkill) {
+    OpenedClothesSkill = false;
+    main_browser.execute("APPS.state.skill_clothes.show = false;");
+    if (hudswitch == 0) {
+      ChangeHudState(true);
+      mp.game.ui.displayRadar(true);
+    }
+    mp.gui.cursor.show(false, false);
+    mp.events.call("Enablechat");
+  }
+};
+mp.events.add("Client_UpdateClothesSKill", (_0x4f3aa7, _0xcc4668, _0x2b4214) => {
+  if (OpenedClothesSkill) {
+    _0x2b4214 = GetRendersForClothes(_0x2b4214);
+    main_browser.execute("APPS.state.skill_clothes.clothes_skill = " + JSON.stringify(_0x2b4214));
+    main_browser.execute("APPS.state.skill_clothes.stone = " + _0x4f3aa7);
+    main_browser.execute("APPS.state.skill_clothes.shield = " + _0xcc4668);
+  }
+});
+global.at_stone_bigbox = false;
+let StoneBigBox = {
+  blip: undefined
+};
+mp.events.add("Client_StoneBigBoxInterct", _0x5d0daa => {
+  if (_0x5d0daa == 1) {
+    main_browser.execute("APPS.state.hud.interact = true;");
+    PlayAudioSound("SKIP", "HUD_FRONTEND_DEFAULT_SOUNDSET");
+  } else {
+    main_browser.execute("APPS.state.hud.interact = false;");
+  }
+  at_stone_bigbox = _0x5d0daa;
+});
+mp.events.add("Client_StoneBigBoxRoute", (_0x400063, _0x5dc4f1, _0x5285b1, _0x431632) => {
+  if (StoneBigBox.blip) {
+    StoneBigBox.blip.destroy();
+    StoneBigBox.blip = undefined;
+  }
+  StoneBigBox.blip = mp.blips.new(617, new mp.Vector3(_0x400063, _0x5dc4f1, _0x5285b1), {
+    name: language["Место направления"][curr_lang],
+    color: _0x431632 == 2 ? 2 : 27
+  });
+  StoneBigBox.blip.setRoute(true);
+});
+mp.events.add("Client_StoneBigBoxDestroy", () => {
+  if (StoneBigBox.blip) {
+    StoneBigBox.blip.destroy();
+    StoneBigBox.blip = undefined;
+  }
+});
+global.fakeArmy = false;
+global.ShowClothesMenu = function (_0x501ae4, _0x2d5762 = 0, _0x4072ad = 0) {
+  ChangeHudState(false);
+  mp.events.call("Disablechat");
+  mp.game.ui.displayRadar(false);
+  localplayer.freezePosition(true);
+  mp.gui.cursor.show(true, true);
+  is_freezed = true;
+  let _0x47448a = {
+    maximumSlider: _0x4072ad,
+    price: _0x2d5762,
+    type: _0x501ae4,
+    texture_id: 0,
+    clothes_id: 0,
+    show: true
+  };
+  if (_0x501ae4 == 4) {
+    _0x47448a.gender = localplayer.model != 1885233650 ? 0 : 1;
+  }
+  main_browser.execute("APPS.state.clothes_menu = " + JSON.stringify(_0x47448a));
+};
+global.CloseClothesMenu = function () {
+  main_browser.execute("APPS.state.clothes_menu.show = false;");
+  localplayer.freezePosition(false);
+  is_freezed = false;
+  if (hudswitch == 0) {
+    ChangeHudState(true);
+    mp.game.ui.displayRadar(true);
+  }
+  mp.gui.cursor.show(false, false);
+  mp.events.call("Enablechat");
+  if (cameraControl) {
+    fakeArmy = true;
+    destroyLocalCameraAndAnimBack();
+    ShowNotification(language["Используйте клавишу X, чтобы снять армейскую форму"][curr_lang], 2);
+  }
+};
+mp.keys.bind(88, true, function () {
+  if (fakeArmy) {
+    mp.events.callRemote("Server_RequestRemoveFakeArmy");
+  }
+});
+mp.events.add("Client_CleanFakeArmy", () => {
+  fakeArmy = false;
+  if (gpsblip) {
+    gpsblip.destroy();
+    gpsblip = undefined;
+  }
+  if (gpscolshape) {
+    gpscolshape.destroy();
+    gpscolshape = undefined;
+  }
+});
+let clothes_menu = {};
+mp.events.add("OpenClothesShopElite", (_0x5b57c5, _0x2778a2, _0x373107) => {
+  EndConversationFinally();
+  if (GlobalCheck() == 1) {
+    return;
+  }
+  mp.events.callRemote("OpenClothesShopCorrectly");
+  InNewClothesShop = true;
+  lastClothType = 1;
+  campos = _0x5b57c5;
+  let _0x283b4b = 1;
+  switch (_0x2778a2) {
+    case 0:
+      _0x283b4b = 1;
+      break;
+    case 1:
+      _0x283b4b = 0.9;
+      break;
+    case 2:
+      _0x283b4b = 0.75;
+      break;
+    case 3:
+      _0x283b4b = 0.5;
+  }
+  ShowNewClothesMenu(6, _0x283b4b, _0x373107);
+});
+mp.events.add("Client_ChangeEliteClothesItem", (_0x25a77d, _0x42528f, _0x6818e1, _0x267cda = 0) => {
+  if (InNewClothesShop && loggedin) {
+    mp.events.callRemote("Server_ClothesShopChangeItem", _0x42528f, _0x6818e1, _0x267cda);
+    if (lastClothType != _0x42528f && _0x42528f != 6) {
+      lastClothType = _0x42528f;
+      changeClothesCam(_0x42528f);
+    } else if (_0x42528f == 6) {
+      lastClothType = _0x42528f;
+      const _0x40f588 = localplayer.model != 1885233650 ? 0 : 1;
+      const _0x53d5c8 = eliteClothesCatalog[_0x40f588][_0x42528f][_0x6818e1];
+      if (!_0x53d5c8 || !InventoryItems[_0x53d5c8.item_id][6]) {
+        return;
+      }
+      correctType = 0;
+      parseInt(InventoryItems[_0x53d5c8.item_id][6], 10);
+      switch (_0x53d5c8[6]) {
+        case 0:
+          correctType = 0;
+          break;
+        case 11:
+          correctType = 1;
+          break;
+        case 8:
+          correctType = 2;
+          break;
+        case 4:
+          correctType = 3;
+          break;
+        case 6:
+          correctType = 4;
+          break;
+        case 12:
+          correctType = 5;
+      }
+      changeClothesCam(correctType);
+    }
+  }
+});
+const eliteClothesCatalog = [{
+  1: [{
+    item_id: 5166,
+    extras: [0, 1, 2, 3, 4, 5, 6],
+    price: 110000
+  }, {
+    item_id: 5168,
+    extras: [0, 1, 2, 3, 4, 5],
+    price: 150000
+  }, {
+    item_id: 5183,
+    extras: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16],
+    price: 120000
+  }, {
+    item_id: 5177,
+    extras: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 21, 22, 23, 24],
+    price: 150000
+  }, {
+    item_id: 4329,
+    extras: [0, 1, 2, 3, 4, 5, 6],
+    price: 100000
+  }, {
+    item_id: 4333,
+    extras: [0, 1, 2, 3, 4, 5, 6, 7],
+    price: 300000
+  }, {
+    item_id: 4330,
+    extras: [0, 1, 2, 3, 4, 5, 6, 7, 8],
+    price: 350000
+  }, {
+    item_id: 3991,
+    extras: [0, 1, 2, 3, 4, 5],
+    price: 70000
+  }, {
+    item_id: 3993,
+    extras: [0, 1, 2, 3, 4, 5, 6, 7],
+    price: 85000
+  }, {
+    item_id: 3994,
+    extras: [0, 1, 2, 3, 4, 5, 6],
+    price: 135000
+  }, {
+    item_id: 3996,
+    extras: [0, 1, 2, 3, 4, 5],
+    price: 97000
+  }, {
+    item_id: 3997,
+    extras: [0, 1, 2, 3, 4, 5],
+    price: 62000
+  }, {
+    item_id: 4010,
+    extras: [0, 1, 2, 3, 4, 5],
+    price: 127000
+  }],
+  3: [{
+    item_id: 5187,
+    extras: [0, 1, 2, 3, 4],
+    price: 150000
+  }, {
+    item_id: 5193,
+    extras: [0, 1, 2, 3, 4, 5, 6],
+    price: 130000
+  }, {
+    item_id: 5197,
+    extras: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+    price: 150000
+  }, {
+    item_id: 5200,
+    extras: [0, 1, 2, 3, 4],
+    price: 200000
+  }, {
+    item_id: 4021,
+    extras: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13],
+    price: 33333
+  }, {
+    item_id: 4022,
+    extras: [0, 1, 2, 3, 4, 5, 6, 7, 8],
+    price: 99000
+  }, {
+    item_id: 4023,
+    extras: [0, 1, 2, 3, 4, 5],
+    price: 58000
+  }, {
+    item_id: 4024,
+    extras: [0, 1, 2, 3, 4, 5, 6],
+    price: 53000
+  }, {
+    item_id: 4025,
+    extras: [0, 1, 2, 3, 4],
+    price: 47000
+  }, {
+    item_id: 4026,
+    extras: [0, 1, 2, 3, 4, 5],
+    price: 49000
+  }, {
+    item_id: 4027,
+    extras: [0, 1, 2, 3, 4, 5],
+    price: 62000
+  }],
+  4: [{
+    item_id: 4943,
+    extras: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11],
+    price: 75000
+  }],
+  6: [{
+    item_id: 5008,
+    extras: [0],
+    price: 150000
+  }, {
+    item_id: 5009,
+    extras: [0, 1, 2, 3],
+    price: 150000
+  }, {
+    item_id: 4047,
+    extras: [0, 1, 2, 3, 4, 5],
+    price: 37000
+  }, {
+    item_id: 4048,
+    extras: [0, 1, 2, 3, 4, 5, 6],
+    price: 168000
+  }, {
+    item_id: 4049,
+    extras: [0, 1, 2, 3, 4, 5],
+    price: 87000
+  }, {
+    item_id: 4050,
+    extras: [0, 1, 2, 3, 4, 5, 6],
+    price: 171000
+  }, {
+    item_id: 4051,
+    extras: [0, 1, 2, 3, 4, 5, 6, 7, 8],
+    price: 35000
+  }, {
+    item_id: 4052,
+    extras: [0, 1],
+    price: 73000
+  }, {
+    item_id: 4053,
+    extras: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15],
+    price: 75000
+  }, {
+    item_id: 4055,
+    extras: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+    price: 27000
+  }, {
+    item_id: 4070,
+    extras: [0, 1],
+    price: 83000
+  }, {
+    item_id: 4072,
+    extras: [0, 1, 2, 3, 4, 5],
+    price: 40000
+  }, {
+    item_id: 4073,
+    extras: [0, 1, 2, 3, 4],
+    price: 58000
+  }, {
+    item_id: 4075,
+    extras: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9],
+    price: 57000
+  }]
+}, {
+  1: [{
+    item_id: 5029,
+    extras: [0, 1, 2, 3, 4, 5, 6, 7],
+    price: 250000
+  }, {
+    item_id: 5031,
+    extras: [0, 1, 2, 3, 4, 5, 6, 7],
+    price: 175000
+  }, {
+    item_id: 5225,
+    extras: [0, 1, 2],
+    price: 350000
+  }, {
+    item_id: 5226,
+    extras: [0, 1, 2, 3, 4, 5],
+    price: 500000
+  }, {
+    item_id: 5239,
+    extras: [0, 1, 2, 3, 4, 5, 6, 7],
+    price: 250000
+  }, {
+    item_id: 5240,
+    extras: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14],
+    price: 200000
+  }, {
+    item_id: 5243,
+    extras: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9],
+    price: 150000
+  }, {
+    item_id: 4094,
+    extras: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11],
+    price: 87000
+  }, {
+    item_id: 4095,
+    extras: [0, 1, 2, 3],
+    price: 48000
+  }, {
+    item_id: 4096,
+    extras: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9],
+    price: 64000
+  }, {
+    item_id: 4097,
+    extras: [0, 1, 2, 3, 4, 5, 6],
+    price: 67000
+  }, {
+    item_id: 4098,
+    extras: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9],
+    price: 34000
+  }, {
+    item_id: 4100,
+    extras: [0, 1, 2, 3, 4, 5],
+    price: 31000
+  }, {
+    item_id: 4101,
+    extras: [0, 1, 2, 3, 4, 5],
+    price: 107000
+  }, {
+    item_id: 4102,
+    extras: [0, 1, 2, 3, 4, 5],
+    price: 62000
+  }, {
+    item_id: 4103,
+    extras: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10],
+    price: 97000
+  }, {
+    item_id: 4111,
+    extras: [0, 1, 2, 3, 4, 5, 6],
+    price: 53000
+  }, {
+    item_id: 4112,
+    extras: [0, 1, 2, 3, 4, 5, 6],
+    price: 168000
+  }, {
+    item_id: 4117,
+    extras: [0, 1, 2, 3, 4, 5],
+    price: 71000
+  }],
+  3: [{
+    item_id: 5249,
+    extras: [0, 1, 2, 3],
+    price: 150000
+  }, {
+    item_id: 5255,
+    extras: [0, 1, 2, 3, 4, 5, 6],
+    price: 150000
+  }, {
+    item_id: 5259,
+    extras: [0, 1, 2, 3, 4],
+    price: 200000
+  }, {
+    item_id: 4984,
+    extras: [0, 1, 2, 3, 4, 5, 6],
+    price: 250000
+  }, {
+    item_id: 4129,
+    extras: [0, 1, 2, 3, 4, 5, 6, 7],
+    price: 82000
+  }, {
+    item_id: 4130,
+    extras: [0, 1, 2, 3, 4, 5, 6, 7, 8],
+    price: 69000
+  }, {
+    item_id: 4131,
+    extras: [0, 1, 2, 3, 4, 5, 6],
+    price: 58000
+  }, {
+    item_id: 4138,
+    extras: [0, 1, 2, 3, 4, 5],
+    price: 97000
+  }],
+  6: [{
+    item_id: 5008,
+    extras: [0],
+    price: 150000
+  }, {
+    item_id: 5009,
+    extras: [0, 1, 2, 3],
+    price: 150000
+  }, {
+    item_id: 4151,
+    extras: [0, 1, 2],
+    price: 42000
+  }, {
+    item_id: 4152,
+    extras: [0, 1, 2],
+    price: 47000
+  }, {
+    item_id: 4156,
+    extras: [0, 1, 2, 3, 4, 5, 6, 7, 8],
+    price: 27000
+  }, {
+    item_id: 4158,
+    extras: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15],
+    price: 45000
+  }, {
+    item_id: 4160,
+    extras: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+    price: 27000
+  }, {
+    item_id: 4161,
+    extras: [0, 1, 2, 3, 4, 5, 6],
+    price: 128000
+  }]
+}];
+function SetClothesCam(_0x15f143) {
+  if (localcamera) {
+    localcamera.destroy();
+    localcamera = undefined;
+  }
+  InteractiveCamera.stop();
+  localcamera = mp.cameras.new("default");
+  localcamera.setActive(true);
+  const _0x24f8b3 = [0.5, 0, 0, -0.5, -0.5, 0, 0];
+  InteractiveCamera.create(localcamera, new mp.Vector3(localplayer.position.x, localplayer.position.y, localplayer.position.z + _0x24f8b3[_0x15f143]), new mp.Vector3(localplayer.position.x, localplayer.position.y, localplayer.position.z + _0x24f8b3[_0x15f143]), new mp.Vector3(0, 1, 0), localplayer.getHeading(), [0, 0], [-0.3, 0.5], 5);
+}
+global.at_clothes_change = false;
+const warehouse_positions = [[{
+  pos: [-1031.442, 3655.619, -60.803, 203.484],
+  camera: [-1030.342, 3653.077, -60.15, -1031.674, 3656.542, -60.861]
+}, {
+  pos: [-1884.452, 3243.013, 36.508, 56.294],
+  camera: [-1884.014, 3245.129, 37.108, -1885.332, 3243.001, 36.486]
+}, {
+  pos: [467.336, -1001.667, 30.711, -4.434],
+  camera: [467.588, -998.623, 31.59, 467.336, -1001.667, 30.711]
+}, {
+  pos: [-449.665, 6008.077, 31.716, 38.806],
+  camera: [-454.085, 6011.913, 33.888, -449.151, 6007.064, 31.014]
+}, {
+  pos: [2509.585, -407.073, 94.126, 133.276],
+  camera: [2505.938, -410.924, 95.332, 2511.158, -405.537, 93.796]
+}, {
+  pos: [-572.092, -196.033, 38.169, -154.005],
+  camera: [-568.519, -201.183, 40.63, -572.069, -195.379, 37.169]
+}, {
+  pos: [307.126, -597.758, 43.268, 162.159],
+  camera: [306.136, -600.777, 44.419, 307.173, -598.003, 43.641]
+}, {
+  pos: [1776.606, 2547.895, 45.798, 266.747],
+  camera: [1780.505, 2547.969, 47.818, 1776.211, 2548, 46.03]
+}]];
+warehouse_positions[1] = warehouse_positions[0];
+warehouse_positions[1][2] = {
+  pos: [464.308, -997.285, 30.69, 89.268],
+  camera: [460.771, -997.07, 32.77, 466.718, -997.618, 29.69]
+};
+let clothes_org_menu = {};
+function setOrgClothesCam(_0x1f1ac8) {
+  if (localcamera) {
+    localcamera.destroy();
+    localcamera = undefined;
+  }
+  InteractiveCamera.stop();
+  localcamera = mp.cameras.new("default");
+  localcamera.setActive(true);
+  const _0x33dbfd = [0.5, 0, 0, 0, -0.5, -0.5];
+  InteractiveCamera.create(localcamera, new mp.Vector3(localplayer.position.x, localplayer.position.y, localplayer.position.z + _0x33dbfd[_0x1f1ac8]), new mp.Vector3(localplayer.position.x, localplayer.position.y, localplayer.position.z + _0x33dbfd[_0x1f1ac8]), new mp.Vector3(0, 1, 0), localplayer.getHeading(), [110, 250], [-0.3, 0.5], 5);
+  mp.game.cam.renderScriptCams(true, false, 0, true, false);
+}
+function setOrgClothesCamFromWarehouse(_0x2cd824, _0x4d13a5, _0x167a12) {
+  const _0x5afab3 = warehouse_positions[_0x2cd824] && warehouse_positions[_0x2cd824][_0x4d13a5];
+  if (!_0x5afab3 || !_0x5afab3.camera) {
+    setOrgClothesCam(_0x167a12);
+    return;
+  }
+  if (localcamera) {
+    localcamera.destroy();
+    localcamera = undefined;
+  }
+  InteractiveCamera.stop();
+  const _0x105e3f = _0x5afab3.camera;
+  const _0x3d18bb = _0x105e3f[5] + [0.5, 0, 0, 0, -0.5, -0.5][_0x167a12];
+  localcamera = mp.cameras.new("default", new mp.Vector3(_0x105e3f[0], _0x105e3f[1], _0x105e3f[2]), new mp.Vector3(0, 0, 0), 40);
+  localcamera.pointAtCoord(_0x105e3f[3], _0x105e3f[4], _0x3d18bb);
+  localcamera.setActive(true);
+  mp.game.cam.renderScriptCams(true, false, 0, true, false);
+}
+function setOrgClothesCamForMenu(_0x4b303d) {
+  if (clothes_org_menu.warehouseGender !== undefined && clothes_org_menu.warehousePlace !== undefined) {
+    setOrgClothesCamFromWarehouse(clothes_org_menu.warehouseGender, clothes_org_menu.warehousePlace, _0x4b303d);
+  } else {
+    setOrgClothesCam(_0x4b303d);
+  }
+}
+mp.events.add("Client_SetMemberClothes", (_0x55a6c5, _0x354475 = 0, _0x479856, _0x5d4b07 = false) => {
+  if (_0x5d4b07) {
+    delete clothes_org_menu.warehouseGender;
+    delete clothes_org_menu.warehousePlace;
+    setCameraForwardPositionAndFaceToPed();
+  } else {
+    if (!local_member || local_member < 1 || local_member > 4 && local_member < 12 || local_member == 13 || local_member > 14 || at_clothes_change) {
+      return;
+    }
+    let _0x656d0 = 1;
+    if (localplayer.model == 1885233650) {
+      _0x656d0 = 0;
+    }
+    let _0x390e84 = _0x55a6c5;
+    if (_0x354475 == 1) {
+      _0x390e84 = 6;
+    } else if (_0x354475 == 2) {
+      _0x390e84 = 7;
+    }
+    localplayer.position = new mp.Vector3(warehouse_positions[_0x656d0][_0x390e84].pos[0], warehouse_positions[_0x656d0][_0x390e84].pos[1], warehouse_positions[_0x656d0][_0x390e84].pos[2]);
+    localplayer.setHeading(parseFloat(warehouse_positions[_0x656d0][_0x390e84].pos[3]));
+    clothes_org_menu.warehouseGender = _0x656d0;
+    clothes_org_menu.warehousePlace = _0x390e84;
+    setOrgClothesCamFromWarehouse(_0x656d0, _0x390e84, 0);
+  }
+  clothes_org_menu.member = _0x55a6c5;
+  at_clothes_change = true;
+  clothes_org_menu.slots = [{
+    id: 0,
+    texture: 0,
+    max: _0x479856[0],
+    max_texture: 0
+  }, {
+    id: 0,
+    texture: 0,
+    max: _0x479856[1],
+    max_texture: 0
+  }, {
+    id: 0,
+    texture: 0,
+    max: _0x479856[2],
+    max_texture: 0
+  }, {
+    id: 0,
+    texture: 0,
+    max: _0x479856[3],
+    max_texture: 0
+  }, {
+    id: 0,
+    texture: 0,
+    max: _0x479856[4],
+    max_texture: 0
+  }, {
+    id: 0,
+    texture: 0,
+    max: _0x479856[5],
+    max_texture: 0
+  }];
+  clothes_org_menu.type = 0;
+  mp.events.callRemote("Server_ClothesOrgChange", clothes_org_menu.member, 0, 0, 0);
+  mp.events.callRemote("Server_ClothesOrgChange", clothes_org_menu.member, 1, 0, 0);
+  mp.events.callRemote("Server_ClothesOrgChange", clothes_org_menu.member, 2, 0, 0);
+  mp.events.callRemote("Server_ClothesOrgChange", clothes_org_menu.member, 3, 0, 0);
+  mp.events.callRemote("Server_ClothesOrgChange", clothes_org_menu.member, 4, 0, 0);
+  mp.events.callRemote("Server_ClothesOrgChange", clothes_org_menu.member, 5, 0, 0);
+  ShowClothesMenu(5);
+});
+mp.events.add("Client_ClothesOrgChangeType", _0x17f3be => {
+  if (at_clothes_change && loggedin && !chatActive) {
+    if (!(_0x17f3be < 0)) {
+      clothes_org_menu.type = _0x17f3be;
+      main_browser.execute("APPS.state.clothes_menu.clothes_id = " + (clothes_org_menu.slots[clothes_org_menu.type].id + 1));
+      main_browser.execute("APPS.state.clothes_menu.texture_id = " + (clothes_org_menu.slots[clothes_org_menu.type].texture + 1));
+      setOrgClothesCamForMenu(_0x17f3be);
+    }
+  }
+});
+mp.events.add("Client_ClothesOrgChangeTexture", _0x546b3a => {
+  if (at_clothes_change && loggedin && !chatActive) {
+    if ((_0x546b3a == 0 || _0x546b3a == 1) && !(clothes_org_menu.type < 0) && !(clothes_org_menu.type > 5) && clothes_org_menu.slots[clothes_org_menu.type].max_texture != 0) {
+      if (_0x546b3a == 0) {
+        if (clothes_org_menu.slots[clothes_org_menu.type].texture - 1 < 0) {
+          clothes_org_menu.slots[clothes_org_menu.type].texture = clothes_org_menu.slots[clothes_org_menu.type].max_texture;
+        } else {
+          clothes_org_menu.slots[clothes_org_menu.type].texture--;
+        }
+      } else if (clothes_org_menu.slots[clothes_org_menu.type].texture + 1 > clothes_org_menu.slots[clothes_org_menu.type].max_texture) {
+        clothes_org_menu.slots[clothes_org_menu.type].texture = 0;
+      } else {
+        clothes_org_menu.slots[clothes_org_menu.type].texture++;
+      }
+      main_browser.execute("APPS.state.clothes_menu.texture_id = " + (clothes_org_menu.slots[clothes_org_menu.type].texture + 1));
+      mp.events.callRemote("Server_ClothesOrgChange", clothes_org_menu.member, clothes_org_menu.type, clothes_org_menu.slots[clothes_org_menu.type].id, clothes_org_menu.slots[clothes_org_menu.type].texture);
+    }
+  }
+});
+mp.events.add("Client_ClothesOrgChangeItem", _0x53578f => {
+  if (at_clothes_change && loggedin && !chatActive) {
+    if ((_0x53578f == 0 || _0x53578f == 1) && !(clothes_org_menu.type < 0) && !(clothes_org_menu.type > 5)) {
+      if (_0x53578f == 0) {
+        if (clothes_org_menu.slots[clothes_org_menu.type].id - 1 < 0) {
+          clothes_org_menu.slots[clothes_org_menu.type].id = clothes_org_menu.slots[clothes_org_menu.type].max;
+        } else {
+          clothes_org_menu.slots[clothes_org_menu.type].id--;
+        }
+      } else if (clothes_org_menu.slots[clothes_org_menu.type].id + 1 > clothes_org_menu.slots[clothes_org_menu.type].max) {
+        clothes_org_menu.slots[clothes_org_menu.type].id = 0;
+      } else {
+        clothes_org_menu.slots[clothes_org_menu.type].id++;
+      }
+      clothes_org_menu.slots[clothes_org_menu.type].texture = 0;
+      main_browser.execute("APPS.state.clothes_menu.clothes_id = " + (clothes_org_menu.slots[clothes_org_menu.type].id + 1));
+      main_browser.execute("APPS.state.clothes_menu.texture_id = " + (clothes_org_menu.slots[clothes_org_menu.type].texture + 1));
+      mp.events.callRemote("Server_ClothesOrgChange", clothes_org_menu.member, clothes_org_menu.type, clothes_org_menu.slots[clothes_org_menu.type].id, clothes_org_menu.slots[clothes_org_menu.type].texture);
+    }
+  }
+});
+mp.events.add("Client_ClothesOrgLoadMaxTexture", (_0xac2b12, _0x21fda5, _0x5cbff9 = undefined, _0x6b01f3 = undefined) => {
+  if (!!local_member && !(local_member < 1) && (!(local_member > 4) || !(local_member < 12)) && local_member != 13 && !(local_member > 14)) {
+    if (localcamera != null && at_clothes_change && clothes_org_menu.member != null) {
+      clothes_org_menu.slots[_0xac2b12].max_texture = _0x21fda5;
+      if (_0x5cbff9 != null && _0x6b01f3 != null) {
+        clothes_org_menu.slots[_0xac2b12].id = _0x5cbff9;
+        clothes_org_menu.slots[_0xac2b12].texture = _0x6b01f3;
+        main_browser.execute("APPS.state.clothes_menu.clothes_id = " + (clothes_org_menu.slots[clothes_org_menu.type].id + 1));
+        main_browser.execute("APPS.state.clothes_menu.texture_id = " + (clothes_org_menu.slots[clothes_org_menu.type].texture + 1));
+      }
+    }
+  }
+});
+mp.events.add("Client_SetClothesToFavorite", () => {
+  if (at_clothes_change) {
+    mp.events.callRemote("Server_SetClothesToFavorite", JSON.stringify(clothes_org_menu.slots));
+  }
+});
+mp.events.add("Client_GetFavoriteClothes", () => {
+  if (at_clothes_change) {
+    mp.events.callRemote("Server_GetFavoriteClothes");
+  }
+});
+mp.events.add("Client_FinishOrgChangeClothes", (_0x3a49fb = false) => {
+  if (at_clothes_change) {
+    if (!(new Date().getTime() - lastCheck < 500)) {
+      lastCheck = new Date().getTime();
+      mp.events.callRemote("Server_OrgChangeClothesServer", _0x3a49fb);
+      at_clothes_change = false;
+      delete clothes_org_menu.warehouseGender;
+      delete clothes_org_menu.warehousePlace;
+      CloseClothesMenu();
+      if (localcamera != null) {
+        localcamera.destroy();
+        localcamera = null;
+      }
+      mp.game.cam.renderScriptCams(false, true, 0, true, false);
+    }
+  }
+});
+const CamFocuses = [[[429.7379150390625, -811.5718383789062, 30.13765525817871, 429.7332763671875, -811.96484375, 30.165231704711914], [429.7449645996094, -811.0659790039062, 30.148725509643555, 429.7234191894531, -811.9419555664062, 29.765865325927734], [429.6913757324219, -810.6314086914062, 29.5378475189209, 429.66046142578125, -811.9501953125, 29.035816192626953], [429.7552490234375, -811.3826904296875, 29.117366790771484, 429.656982421875, -812.1177978515625, 28.59763526916504]], [[-820.2012329101562, -1067.354248046875, 11.974832534790039, -819.8124389648438, -1067.150146484375, 11.988203048706055], [-820.6150512695312, -1067.5740966796875, 11.985701560974121, -819.8109130859375, -1067.1915283203125, 11.630108833312988], [-821.466, -1068.315, 11.63, -819.772, -1067.241, 10.956], [-820.399658203125, -1067.6510009765625, 11.304454803466797, -819.6295166015625, -1067.158935546875, 10.395167350769043]], [[-1446.673, -245.802, 50.471, -1446.469, -245.988, 50.477], [-1447.09, -245.426, 50.563, -1446.476, -245.977, 50.189], [-1447.422, -245.173, 49.773, -1446.496, -245.999, 49.352], [-1447.146, -245.427, 49.543, -1446.507, -246.013, 49.08]], [[4.059, 6505.854, 32.529, 3.76, 6505.6, 32.547], [4.408, 6506.334, 32.605, 3.733, 6505.659, 32.177], [4.623, 6506.501, 32.041, 3.721, 6505.668, 31.543], [4.524, 6506.408, 31.968, 3.706, 6505.678, 31.188]], [[-3176.094, 1047.655, 21.51, -3176.342, 1047.743, 21.524], [-3175.303, 1047.344, 21.517, -3176.313, 1047.771, 21.174], [-3175.223, 1047.388, 20.94, -3176.308, 1047.792, 20.531], [-3175.466, 1047.471, 20.653, -3176.306, 1047.806, 20.145]], [[1698.752, 4818.597, 42.709, 1698.81, 4818.188, 42.709], [1698.679, 4818.96, 42.836, 1698.771, 4818.194, 42.352], [1698.64, 4819.278, 42.121, 1698.782, 4818.196, 41.685], [1698.64, 4819.25, 42.118, 1698.74, 4818.186, 41.343]]];
+let clothestype = 0;
+let clothesdrawable = 0;
+let currentcomponent = 0;
+let clothestexture = 0;
+let campos = 0;
+let clothes_mod = 0;
+global.InNewClothesShop = false;
+let lastClothType = 1;
+function changeClothesCam(_0x202853) {
+  if (_0x202853 == 0) {
+    if (localcamera) {
+      localcamera.destroy();
+      localcamera = undefined;
+    }
+    InteractiveCamera.stop();
+    localcamera = mp.cameras.new("default");
+    localcamera.setActive(true);
+    InteractiveCamera.create(localcamera, new mp.Vector3(localplayer.position.x, localplayer.position.y, localplayer.position.z + 0.7), new mp.Vector3(localplayer.position.x, localplayer.position.y, localplayer.position.z + 0.7), new mp.Vector3(0, 1.2, 0), localplayer.getHeading(), [0, 0], [-0.3, 0.5], 5);
+  } else if (_0x202853 == 1 || _0x202853 == 2) {
+    if (localcamera) {
+      localcamera.destroy();
+      localcamera = undefined;
+    }
+    InteractiveCamera.stop();
+    localcamera = mp.cameras.new("default");
+    localcamera.setActive(true);
+    InteractiveCamera.create(localcamera, new mp.Vector3(localplayer.position.x, localplayer.position.y, localplayer.position.z + 0.2), new mp.Vector3(localplayer.position.x, localplayer.position.y, localplayer.position.z + 0.2), new mp.Vector3(0, 1.2, 0), localplayer.getHeading(), [0, 0], [-0.3, 0.5], 5);
+  } else if (_0x202853 == 3) {
+    if (localcamera) {
+      localcamera.destroy();
+      localcamera = undefined;
+    }
+    InteractiveCamera.stop();
+    localcamera = mp.cameras.new("default");
+    localcamera.setActive(true);
+    InteractiveCamera.create(localcamera, new mp.Vector3(localplayer.position.x, localplayer.position.y, localplayer.position.z - 0.5), new mp.Vector3(localplayer.position.x, localplayer.position.y, localplayer.position.z - 0.5), new mp.Vector3(0, 1.2, 0), localplayer.getHeading(), [0, 0], [-0.3, 0.5], 5);
+  } else if (_0x202853 == 4) {
+    if (localcamera) {
+      localcamera.destroy();
+      localcamera = undefined;
+    }
+    InteractiveCamera.stop();
+    localcamera = mp.cameras.new("default");
+    localcamera.setActive(true);
+    InteractiveCamera.create(localcamera, new mp.Vector3(localplayer.position.x, localplayer.position.y, localplayer.position.z - 0.9), new mp.Vector3(localplayer.position.x, localplayer.position.y, localplayer.position.z - 0.9), new mp.Vector3(0, 1, 0), localplayer.getHeading(), [0, 0], [-0.3, 0.5], 5);
+  } else if (_0x202853 == 5) {
+    if (localcamera) {
+      localcamera.destroy();
+      localcamera = undefined;
+    }
+    InteractiveCamera.stop();
+    localcamera = mp.cameras.new("default");
+    localcamera.setActive(true);
+    InteractiveCamera.create(localcamera, new mp.Vector3(localplayer.position.x, localplayer.position.y, localplayer.position.z + 0.7), new mp.Vector3(localplayer.position.x, localplayer.position.y, localplayer.position.z + 0.7), new mp.Vector3(0, 1, 0), localplayer.getHeading(), [0, 0], [-0.3, 0.5], 5);
+  } else if (_0x202853 == "full_body") {
+    if (localcamera) {
+      localcamera.destroy();
+      localcamera = undefined;
+    }
+    InteractiveCamera.stop();
+    localcamera = mp.cameras.new("default");
+    localcamera.setActive(true);
+    InteractiveCamera.create(localcamera, new mp.Vector3(localplayer.position.x, localplayer.position.y, localplayer.position.z), new mp.Vector3(localplayer.position.x, localplayer.position.y, localplayer.position.z), new mp.Vector3(0, 2.5, 0), localplayer.getHeading(), [0, 0], [-0.5, 0.5], 5);
+    InteractiveCamera.zCameraUp = 0.5;
+    InteractiveCamera.changePositionCamera();
+  }
+}
+mp.events.add("OpenClothesShop", (_0x50baa9, _0x543170, _0x59b569) => {
+  EndConversationFinally();
+  if (GlobalCheck() == 1) {
+    return;
+  }
+  mp.events.callRemote("OpenClothesShopCorrectly");
+  InNewClothesShop = true;
+  clothes_mod = _0x543170;
+  campos = _0x50baa9;
+  lastClothType = 1;
+  let _0x515777 = 1;
+  switch (_0x543170) {
+    case 0:
+      _0x515777 = 1;
+      break;
+    case 1:
+      _0x515777 = 0.9;
+      break;
+    case 2:
+      _0x515777 = 0.75;
+      break;
+    case 3:
+      _0x515777 = 0.5;
+  }
+  ShowNewClothesMenu(1, _0x515777, _0x59b569);
+});
+global.ShowNewClothesMenu = function (_0x5f31f7, _0x169d08 = 1, _0x1c3381 = 0) {
+  if (!loggedin) {
+    return;
+  }
+  SwitchHUDToDesign(true);
+  localplayer.freezePosition(true);
+  is_freezed = true;
+  let _0x43e721 = {
+    balance: _0x1c3381,
+    type: _0x5f31f7,
+    discount_factor: _0x169d08,
+    gender: localplayer.model != 1885233650 ? 1 : 0,
+    show: true
+  };
+  main_browser.execute("APPS.state.new_cloth_shop = " + JSON.stringify(_0x43e721));
+};
+mp.events.add("Client_CloseNewClothesShop", _0x131a4f => {
+  if (_0x131a4f == 1) {
+    CloseNewClothesShop();
+  } else if (_0x131a4f == 2) {
+    CloseJewShop();
+  } else if (_0x131a4f == 6) {
+    CloseNewClothesShop();
+  }
+});
+global.CloseNewClothesShop = function () {
+  if (InNewClothesShop && loggedin && !chatActive) {
+    CloseNewClothesMenu();
+    mp.game.cam.renderScriptCams(false, true, 2000, true, false);
+    if (localcamera) {
+      localcamera.destroy();
+      localcamera = undefined;
+    }
+    InteractiveCamera.stop();
+    InNewClothesShop = false;
+    mp.events.callRemote("CloseClothesShopCorrectly");
+    HintClose();
+  }
+};
+global.CloseNewClothesMenu = function () {
+  main_browser.execute("APPS.state.new_cloth_shop.show = false;");
+  localplayer.freezePosition(false);
+  is_freezed = false;
+  if (hudswitch == 0) {
+    ChangeHudState(true);
+    mp.game.ui.displayRadar(true);
+  }
+  mp.gui.cursor.show(false, false);
+  mp.events.call("Enablechat");
+  if (cameraControl) {
+    fakeArmy = true;
+    destroyLocalCameraAndAnimBack();
+    ShowNotification(language["Используйте клавишу X, чтобы снять армейскую форму"][curr_lang], 2);
+  }
+};
+mp.events.add("Client_ChangeClothesItem", (_0x53da4f, _0x3c34d7, _0x389aea, _0x1b4cc8 = 0) => {
+  const _0x45aa5c = localplayer.model != 1885233650 ? 1 : 0;
+  const _0x39f51f = _0x53da4f == 1 ? clothesCatalog[_0x45aa5c][_0x3c34d7][_0x389aea] : _0x53da4f == 2 ? jewCatalog[_0x45aa5c][_0x3c34d7][_0x389aea] : null;
+  if (!_0x39f51f) {
+    return;
+  }
+  const _0x1133b5 = InventoryItems[_0x39f51f.item_id][8];
+  let _0x51d73b;
+  if (_0x53da4f == 1) {
+    switch (_0x3c34d7) {
+      case 0:
+        _0x51d73b = 0;
+        break;
+      case 1:
+        _0x51d73b = 11;
+        break;
+      case 2:
+        _0x51d73b = 8;
+        break;
+      case 3:
+        _0x51d73b = 4;
+        break;
+      case 4:
+        _0x51d73b = 6;
+        break;
+      case 5:
+        _0x51d73b = 12;
+    }
+  } else if (_0x53da4f == 2) {
+    switch (_0x3c34d7) {
+      case 0:
+        _0x51d73b = 7;
+        break;
+      case 1:
+        _0x51d73b = 13;
+        break;
+      case 2:
+        _0x51d73b = 14;
+    }
+  }
+  mp.events.callRemote("Server_ChangeOutfitInShop", _0x53da4f, _0x39f51f.item_id, _0x51d73b, _0x1133b5, _0x1b4cc8, _0x3c34d7);
+  if (lastClothType != _0x3c34d7) {
+    lastClothType = _0x3c34d7;
+    changeClothesCam(_0x3c34d7);
+  }
+});
+mp.events.add("Shop_Set_Cam", () => {
+  if (localcamera) {
+    localcamera.destroy();
+    localcamera = undefined;
+  }
+  localcamera = mp.cameras.new("default");
+  localcamera.setActive(true);
+  InteractiveCamera.create(localcamera, new mp.Vector3(localplayer.position.x, localplayer.position.y, localplayer.position.z + 0.5), new mp.Vector3(localplayer.position.x, localplayer.position.y, localplayer.position.z + 0.5), new mp.Vector3(0, 1, 0), localplayer.getHeading(), [0, 0], [-0.3, 0.5], 5);
+  mp.game.cam.renderScriptCams(true, false, 3000, true, false);
+});
+mp.events.add("Client_ChangeClothesCam", _0x1e64c3 => {
+  lastClothType = null;
+  changeClothesCam(_0x1e64c3);
+});
+mp.events.add("Client_BuyClothes", (_0x466e36, _0x296cd9) => {
+  if ((InNewClothesShop || InJewellery) && loggedin && !chatActive) {
+    if (!(new Date().getTime() - lastCheck < 500)) {
+      lastCheck = new Date().getTime();
+      mp.events.callRemote("Server_ClothesBuyItem", _0x466e36, _0x296cd9);
+    }
+  }
+});
+const clothesCatalog = [{
+  0: [{
+    item_id: 39,
+    max_extra: 0,
+    price: 1200
+  }, {
+    item_id: 40,
+    max_extra: 7,
+    price: 1200
+  }, {
+    item_id: 43,
+    max_extra: 7,
+    price: 1200
+  }, {
+    item_id: 44,
+    max_extra: 7,
+    price: 4300
+  }, {
+    item_id: 46,
+    max_extra: 7,
+    price: 11000
+  }, {
+    item_id: 47,
+    max_extra: 7,
+    price: 1250
+  }, {
+    item_id: 48,
+    max_extra: 7,
+    price: 16700
+  }, {
+    item_id: 49,
+    max_extra: 7,
+    price: 2300
+  }, {
+    item_id: 50,
+    max_extra: 7,
+    price: 1750
+  }, {
+    item_id: 51,
+    max_extra: 7,
+    price: 3400
+  }, {
+    item_id: 52,
+    max_extra: 5,
+    price: 1200
+  }, {
+    item_id: 53,
+    max_extra: 7,
+    price: 1200
+  }, {
+    item_id: 54,
+    max_extra: 2,
+    price: 17000
+  }, {
+    item_id: 55,
+    max_extra: 13,
+    price: 13000
+  }, {
+    item_id: 56,
+    max_extra: 13,
+    price: 27000
+  }, {
+    item_id: 57,
+    max_extra: 5,
+    price: 3100
+  }, {
+    item_id: 58,
+    max_extra: 7,
+    price: 1400
+  }, {
+    item_id: 1892,
+    max_extra: 1,
+    price: 35000
+  }, {
+    item_id: 59,
+    max_extra: 0,
+    price: 9700
+  }, {
+    item_id: 60,
+    max_extra: 0,
+    price: 29700
+  }, {
+    item_id: 61,
+    max_extra: 1,
+    price: 35000
+  }, {
+    item_id: 62,
+    max_extra: 0,
+    price: 2450
+  }, {
+    item_id: 1893,
+    max_extra: 0,
+    price: 4300
+  }, {
+    item_id: 1894,
+    max_extra: 0,
+    price: 4500
+  }, {
+    item_id: 1895,
+    max_extra: 5,
+    price: 18500
+  }, {
+    item_id: 63,
+    max_extra: 7,
+    price: 2600
+  }, {
+    item_id: 64,
+    max_extra: 7,
+    price: 3200
+  }, {
+    item_id: 65,
+    max_extra: 0,
+    price: 6000
+  }, {
+    item_id: 66,
+    max_extra: 0,
+    price: 6300
+  }, {
+    item_id: 67,
+    max_extra: 0,
+    price: 7000
+  }, {
+    item_id: 68,
+    max_extra: 1,
+    price: 1600
+  }, {
+    item_id: 69,
+    max_extra: 20,
+    price: 4700
+  }, {
+    item_id: 70,
+    max_extra: 9,
+    price: 1700
+  }, {
+    item_id: 71,
+    max_extra: 2,
+    price: 1500
+  }, {
+    item_id: 72,
+    max_extra: 9,
+    price: 1700
+  }, {
+    item_id: 73,
+    max_extra: 9,
+    price: 11000
+  }, {
+    item_id: 74,
+    max_extra: 9,
+    price: 1000
+  }, {
+    item_id: 75,
+    max_extra: 9,
+    price: 2700
+  }, {
+    item_id: 76,
+    max_extra: 10,
+    price: 1900
+  }, {
+    item_id: 77,
+    max_extra: 0,
+    price: 2400
+  }, {
+    item_id: 78,
+    max_extra: 0,
+    price: 2300
+  }, {
+    item_id: 79,
+    max_extra: 20,
+    price: 2200
+  }, {
+    item_id: 80,
+    max_extra: 0,
+    price: 1600
+  }, {
+    item_id: 81,
+    max_extra: 0,
+    price: 1200
+  }, {
+    item_id: 82,
+    max_extra: 0,
+    price: 4300
+  }, {
+    item_id: 83,
+    max_extra: 0,
+    price: 3700
+  }, {
+    item_id: 84,
+    max_extra: 9,
+    price: 3500
+  }, {
+    item_id: 85,
+    max_extra: 20,
+    price: 2800
+  }, {
+    item_id: 86,
+    max_extra: 20,
+    price: 2900
+  }, {
+    item_id: 87,
+    max_extra: 6,
+    price: 2600
+  }, {
+    item_id: 2269,
+    max_extra: 9,
+    price: 5000
+  }, {
+    item_id: 2270,
+    max_extra: 0,
+    price: 5125
+  }, {
+    item_id: 2271,
+    max_extra: 0,
+    price: 5200
+  }, {
+    item_id: 2272,
+    max_extra: 9,
+    price: 5300
+  }, {
+    item_id: 2273,
+    max_extra: 0,
+    price: 5350
+  }, {
+    item_id: 88,
+    max_extra: 9,
+    price: 4100
+  }, {
+    item_id: 89,
+    max_extra: 9,
+    price: 14500
+  }, {
+    item_id: 90,
+    max_extra: 15,
+    price: 3500
+  }, {
+    item_id: 91,
+    max_extra: 9,
+    price: 2500
+  }, {
+    item_id: 92,
+    max_extra: 10,
+    price: 2400
+  }, {
+    item_id: 93,
+    max_extra: 10,
+    price: 1900
+  }, {
+    item_id: 94,
+    max_extra: 20,
+    price: 9100
+  }, {
+    item_id: 1896,
+    max_extra: 18,
+    price: 29500
+  }, {
+    item_id: 1897,
+    max_extra: 18,
+    price: 29500
+  }, {
+    item_id: 1898,
+    max_extra: 3,
+    price: 27500
+  }, {
+    item_id: 1899,
+    max_extra: 20,
+    price: 31500
+  }, {
+    item_id: 1900,
+    max_extra: 20,
+    price: 31500
+  }, {
+    item_id: 1901,
+    max_extra: 2,
+    price: 31500
+  }, {
+    item_id: 1902,
+    max_extra: 2,
+    price: 31500
+  }, {
+    item_id: 1903,
+    max_extra: 20,
+    price: 36300
+  }, {
+    item_id: 1904,
+    max_extra: 20,
+    price: 36300
+  }, {
+    item_id: 1905,
+    max_extra: 13,
+    price: 44800
+  }],
+  1: [{
+    item_id: 97,
+    max_extra: 15,
+    price: 2700
+  }, {
+    item_id: 1529,
+    extras: [0, 1, 3, 4, 5, 6, 8, 9, 11],
+    price: 24100
+  }, {
+    item_id: 98,
+    max_extra: 15,
+    price: 3200
+  }, {
+    item_id: 1530,
+    extras: [0, 1, 7, 14],
+    price: 15000
+  }, {
+    item_id: 1531,
+    max_extra: 11,
+    price: 9500
+  }, {
+    item_id: 99,
+    max_extra: 15,
+    price: 1500
+  }, {
+    item_id: 100,
+    max_extra: 2,
+    price: 1600
+  }, {
+    item_id: 101,
+    max_extra: 5,
+    price: 1200
+  }, {
+    item_id: 1532,
+    max_extra: 3,
+    price: 7800
+  }, {
+    item_id: 102,
+    max_extra: 1,
+    price: 65000
+  }, {
+    item_id: 103,
+    max_extra: 2,
+    price: 82000
+  }, {
+    item_id: 104,
+    max_extra: 1,
+    price: 55000
+  }, {
+    item_id: 105,
+    max_extra: 2,
+    price: 1100
+  }, {
+    item_id: 106,
+    max_extra: 3,
+    price: 27000
+  }, {
+    item_id: 107,
+    max_extra: 12,
+    price: 42000
+  }, {
+    item_id: 108,
+    max_extra: 9,
+    price: 50000
+  }, {
+    item_id: 109,
+    max_extra: 9,
+    price: 3200
+  }, {
+    item_id: 110,
+    max_extra: 2,
+    price: 70000
+  }, {
+    item_id: 111,
+    max_extra: 2,
+    price: 67000
+  }, {
+    item_id: 112,
+    max_extra: 0,
+    price: 2400
+  }, {
+    item_id: 113,
+    max_extra: 1,
+    price: 1900
+  }, {
+    item_id: 114,
+    max_extra: 6,
+    price: 67000
+  }, {
+    item_id: 115,
+    max_extra: 5,
+    price: 2100
+  }, {
+    item_id: 116,
+    max_extra: 2,
+    price: 1600
+  }, {
+    item_id: 117,
+    max_extra: 4,
+    price: 1900
+  }, {
+    item_id: 118,
+    max_extra: 1,
+    price: 2100
+  }, {
+    item_id: 119,
+    max_extra: 1,
+    price: 55000
+  }, {
+    item_id: 120,
+    max_extra: 3,
+    price: 3700
+  }, {
+    item_id: 121,
+    max_extra: 0,
+    price: 11000
+  }, {
+    item_id: 122,
+    max_extra: 0,
+    price: 11000
+  }, {
+    item_id: 123,
+    max_extra: 3,
+    price: 1000
+  }, {
+    item_id: 1537,
+    max_extra: 2,
+    price: 26400
+  }, {
+    item_id: 1538,
+    max_extra: 2,
+    price: 60700
+  }, {
+    item_id: 124,
+    max_extra: 1,
+    price: 1400
+  }, {
+    item_id: 1539,
+    max_extra: 2,
+    price: 24800
+  }, {
+    item_id: 126,
+    max_extra: 3,
+    price: 9700
+  }, {
+    item_id: 127,
+    max_extra: 0,
+    price: 3300
+  }, {
+    item_id: 128,
+    max_extra: 0,
+    price: 1200
+  }, {
+    item_id: 129,
+    max_extra: 0,
+    price: 62000
+  }, {
+    item_id: 130,
+    max_extra: 3,
+    price: 62000
+  }, {
+    item_id: 131,
+    max_extra: 3,
+    price: 2400
+  }, {
+    item_id: 132,
+    max_extra: 0,
+    price: 2300
+  }, {
+    item_id: 133,
+    max_extra: 0,
+    price: 1500
+  }, {
+    item_id: 134,
+    max_extra: 0,
+    price: 8400
+  }, {
+    item_id: 1272,
+    max_extra: 5,
+    price: 9500
+  }, {
+    item_id: 1273,
+    max_extra: 5,
+    price: 9500
+  }, {
+    item_id: 1274,
+    max_extra: 11,
+    price: 100000
+  }, {
+    item_id: 138,
+    max_extra: 0,
+    price: 1200
+  }, {
+    item_id: 139,
+    max_extra: 3,
+    price: 75000
+  }, {
+    item_id: 140,
+    max_extra: 18,
+    price: 6700
+  }, {
+    item_id: 1275,
+    max_extra: 10,
+    price: 50000
+  }, {
+    item_id: 1276,
+    max_extra: 10,
+    price: 50000
+  }, {
+    item_id: 1277,
+    max_extra: 4,
+    price: 110000
+  }, {
+    item_id: 1278,
+    max_extra: 3,
+    price: 110000
+  }, {
+    item_id: 1279,
+    max_extra: 15,
+    price: 11000
+  }, {
+    item_id: 1280,
+    max_extra: 0,
+    price: 4300
+  }, {
+    item_id: 141,
+    max_extra: 2,
+    price: 3700
+  }, {
+    item_id: 142,
+    max_extra: 2,
+    price: 4100
+  }, {
+    item_id: 143,
+    max_extra: 15,
+    price: 1000
+  }, {
+    item_id: 144,
+    max_extra: 4,
+    price: 5500
+  }, {
+    item_id: 145,
+    max_extra: 5,
+    price: 9100
+  }, {
+    item_id: 146,
+    max_extra: 0,
+    price: 2300
+  }, {
+    item_id: 147,
+    max_extra: 4,
+    price: 2400
+  }, {
+    item_id: 148,
+    max_extra: 11,
+    price: 6000
+  }, {
+    item_id: 149,
+    max_extra: 11,
+    price: 6200
+  }, {
+    item_id: 150,
+    max_extra: 3,
+    price: 7000
+  }, {
+    item_id: 151,
+    max_extra: 0,
+    price: 5700
+  }, {
+    item_id: 152,
+    max_extra: 6,
+    price: 21000
+  }, {
+    item_id: 153,
+    max_extra: 2,
+    price: 3300
+  }, {
+    item_id: 154,
+    max_extra: 2,
+    price: 3300
+  }, {
+    item_id: 155,
+    max_extra: 2,
+    price: 5600
+  }, {
+    item_id: 156,
+    max_extra: 0,
+    price: 4000
+  }, {
+    item_id: 157,
+    max_extra: 1,
+    price: 4000
+  }, {
+    item_id: 158,
+    max_extra: 4,
+    price: 57000
+  }, {
+    item_id: 159,
+    max_extra: 4,
+    price: 60000
+  }, {
+    item_id: 160,
+    max_extra: 0,
+    price: 14000
+  }, {
+    item_id: 161,
+    max_extra: 0,
+    price: 6600
+  }, {
+    item_id: 162,
+    max_extra: 4,
+    price: 21000
+  }, {
+    item_id: 1285,
+    max_extra: 10,
+    price: 150000
+  }, {
+    item_id: 163,
+    max_extra: 0,
+    price: 3500
+  }, {
+    item_id: 1286,
+    max_extra: 0,
+    price: 44000
+  }, {
+    item_id: 164,
+    max_extra: 5,
+    price: 2800
+  }, {
+    item_id: 165,
+    max_extra: 0,
+    price: 53000
+  }, {
+    item_id: 166,
+    max_extra: 3,
+    price: 2800
+  }, {
+    item_id: 1287,
+    max_extra: 0,
+    price: 110000
+  }, {
+    item_id: 1288,
+    max_extra: 2,
+    price: 34000
+  }, {
+    item_id: 168,
+    max_extra: 15,
+    price: 23000
+  }, {
+    item_id: 169,
+    max_extra: 9,
+    price: 1300
+  }, {
+    item_id: 170,
+    max_extra: 11,
+    price: 65000
+  }, {
+    item_id: 171,
+    max_extra: 11,
+    price: 62000
+  }, {
+    item_id: 1289,
+    max_extra: 11,
+    price: 36000
+  }, {
+    item_id: 172,
+    max_extra: 13,
+    price: 2400
+  }, {
+    item_id: 173,
+    max_extra: 2,
+    price: 4300
+  }, {
+    item_id: 174,
+    max_extra: 0,
+    price: 3400
+  }, {
+    item_id: 175,
+    max_extra: 0,
+    price: 3500
+  }, {
+    item_id: 176,
+    max_extra: 14,
+    price: 1200
+  }, {
+    item_id: 177,
+    max_extra: 14,
+    price: 1500
+  }, {
+    item_id: 178,
+    max_extra: 9,
+    price: 2700
+  }, {
+    item_id: 179,
+    max_extra: 0,
+    price: 3400
+  }, {
+    item_id: 180,
+    max_extra: 0,
+    price: 5400
+  }, {
+    item_id: 181,
+    max_extra: 0,
+    price: 4000
+  }, {
+    item_id: 182,
+    max_extra: 0,
+    price: 4600
+  }, {
+    item_id: 183,
+    max_extra: 0,
+    price: 5000
+  }, {
+    item_id: 184,
+    max_extra: 2,
+    price: 1600
+  }, {
+    item_id: 1290,
+    max_extra: 6,
+    price: 14500
+  }, {
+    item_id: 185,
+    max_extra: 6,
+    price: 1900
+  }, {
+    item_id: 186,
+    max_extra: 2,
+    price: 3400
+  }, {
+    item_id: 187,
+    max_extra: 2,
+    price: 1300
+  }, {
+    item_id: 188,
+    max_extra: 7,
+    price: 1900
+  }, {
+    item_id: 189,
+    max_extra: 14,
+    price: 50000
+  }, {
+    item_id: 190,
+    max_extra: 10,
+    price: 2400
+  }, {
+    item_id: 1291,
+    max_extra: 2,
+    price: 105000
+  }, {
+    item_id: 1292,
+    max_extra: 9,
+    price: 9500
+  }, {
+    item_id: 191,
+    max_extra: 13,
+    price: 11500
+  }, {
+    item_id: 192,
+    max_extra: 13,
+    price: 56000
+  }, {
+    item_id: 1293,
+    max_extra: 8,
+    price: 3500
+  }, {
+    item_id: 1294,
+    max_extra: 9,
+    price: 7400
+  }, {
+    item_id: 1295,
+    max_extra: 11,
+    price: 7500
+  }, {
+    item_id: 193,
+    max_extra: 9,
+    price: 33000
+  }, {
+    item_id: 194,
+    max_extra: 11,
+    price: 27000
+  }, {
+    item_id: 195,
+    max_extra: 5,
+    price: 7200
+  }, {
+    item_id: 1296,
+    max_extra: 15,
+    price: 24500
+  }, {
+    item_id: 196,
+    max_extra: 25,
+    price: 4600
+  }, {
+    item_id: 197,
+    max_extra: 7,
+    price: 2300
+  }, {
+    item_id: 198,
+    max_extra: 3,
+    price: 27000
+  }, {
+    item_id: 199,
+    max_extra: 5,
+    price: 3400
+  }, {
+    item_id: 200,
+    max_extra: 3,
+    price: 1100
+  }, {
+    item_id: 201,
+    max_extra: 2,
+    price: 1200
+  }, {
+    item_id: 202,
+    max_extra: 1,
+    price: 4000
+  }, {
+    item_id: 1297,
+    max_extra: 1,
+    price: 7700
+  }, {
+    item_id: 203,
+    max_extra: 3,
+    price: 17000
+  }, {
+    item_id: 204,
+    max_extra: 3,
+    price: 14000
+  }, {
+    item_id: 205,
+    max_extra: 0,
+    price: 1600
+  }, {
+    item_id: 206,
+    max_extra: 2,
+    price: 1800
+  }, {
+    item_id: 1298,
+    max_extra: 6,
+    price: 20800
+  }, {
+    item_id: 207,
+    max_extra: 5,
+    price: 3400
+  }, {
+    item_id: 1299,
+    max_extra: 15,
+    price: 70800
+  }, {
+    item_id: 208,
+    max_extra: 2,
+    price: 4700
+  }, {
+    item_id: 209,
+    max_extra: 3,
+    price: 6600
+  }, {
+    item_id: 210,
+    max_extra: 3,
+    price: 1000
+  }, {
+    item_id: 211,
+    max_extra: 1,
+    price: 3000
+  }, {
+    item_id: 212,
+    max_extra: 3,
+    price: 11000
+  }, {
+    item_id: 213,
+    max_extra: 3,
+    price: 4300
+  }, {
+    item_id: 214,
+    max_extra: 3,
+    price: 27000
+  }, {
+    item_id: 215,
+    max_extra: 3,
+    price: 19000
+  }, {
+    item_id: 216,
+    max_extra: 0,
+    price: 7000
+  }, {
+    item_id: 217,
+    max_extra: 6,
+    price: 5000
+  }, {
+    item_id: 218,
+    max_extra: 3,
+    price: 5500
+  }, {
+    item_id: 219,
+    max_extra: 2,
+    price: 3800
+  }, {
+    item_id: 220,
+    max_extra: 5,
+    price: 33000
+  }, {
+    item_id: 221,
+    max_extra: 1,
+    price: 2700
+  }, {
+    item_id: 1300,
+    max_extra: 5,
+    price: 105000
+  }, {
+    item_id: 222,
+    max_extra: 3,
+    price: 11500
+  }, {
+    item_id: 223,
+    max_extra: 3,
+    price: 12000
+  }, {
+    item_id: 1301,
+    max_extra: 12,
+    price: 36000
+  }, {
+    item_id: 224,
+    max_extra: 10,
+    price: 14000
+  }, {
+    item_id: 225,
+    max_extra: 10,
+    price: 17000
+  }, {
+    item_id: 226,
+    max_extra: 8,
+    price: 16000
+  }, {
+    item_id: 1302,
+    max_extra: 25,
+    price: 70800
+  }, {
+    item_id: 227,
+    max_extra: 11,
+    price: 66000
+  }, {
+    item_id: 228,
+    max_extra: 25,
+    price: 9200
+  }, {
+    item_id: 229,
+    max_extra: 15,
+    price: 10000
+  }, {
+    item_id: 230,
+    max_extra: 15,
+    price: 10000
+  }, {
+    item_id: 1303,
+    max_extra: 7,
+    price: 45000
+  }, {
+    item_id: 1304,
+    max_extra: 7,
+    price: 45000
+  }, {
+    item_id: 1305,
+    max_extra: 25,
+    price: 60000
+  }, {
+    item_id: 1306,
+    max_extra: 4,
+    price: 4500
+  }, {
+    item_id: 1307,
+    max_extra: 25,
+    price: 60000
+  }, {
+    item_id: 231,
+    max_extra: 12,
+    price: 6000
+  }, {
+    item_id: 232,
+    max_extra: 4,
+    price: 7700
+  }, {
+    item_id: 233,
+    max_extra: 9,
+    price: 11000
+  }, {
+    item_id: 234,
+    extras: [0, 1, 2, 3, 6, 7, 8, 9, 10, 11, 12, 13, 14],
+    price: 12000
+  }, {
+    item_id: 235,
+    max_extra: 15,
+    price: 6700
+  }, {
+    item_id: 236,
+    max_extra: 15,
+    price: 9100
+  }, {
+    item_id: 237,
+    max_extra: 1,
+    price: 4500
+  }, {
+    item_id: 238,
+    max_extra: 0,
+    price: 4100
+  }, {
+    item_id: 239,
+    max_extra: 13,
+    price: 3000
+  }, {
+    item_id: 240,
+    max_extra: 11,
+    price: 27000
+  }, {
+    item_id: 241,
+    max_extra: 11,
+    price: 22000
+  }, {
+    item_id: 242,
+    max_extra: 9,
+    price: 30000
+  }, {
+    item_id: 243,
+    max_extra: 9,
+    price: 33000
+  }, {
+    item_id: 244,
+    max_extra: 25,
+    price: 6000
+  }, {
+    item_id: 245,
+    max_extra: 11,
+    price: 2700
+  }, {
+    item_id: 246,
+    max_extra: 11,
+    price: 4500
+  }, {
+    item_id: 247,
+    max_extra: 25,
+    price: 5000
+  }, {
+    item_id: 248,
+    max_extra: 5,
+    price: 1200
+  }, {
+    item_id: 1308,
+    max_extra: 5,
+    price: 150000
+  }, {
+    item_id: 249,
+    max_extra: 5,
+    price: 1400
+  }, {
+    item_id: 250,
+    max_extra: 5,
+    price: 2500
+  }, {
+    item_id: 251,
+    max_extra: 25,
+    price: 17000
+  }, {
+    item_id: 252,
+    max_extra: 25,
+    price: 7000
+  }, {
+    item_id: 1309,
+    max_extra: 9,
+    price: 53000
+  }, {
+    item_id: 1540,
+    max_extra: 25,
+    price: 18200
+  }, {
+    item_id: 1541,
+    max_extra: 25,
+    price: 42800
+  }, {
+    item_id: 253,
+    max_extra: 1,
+    price: 15000
+  }, {
+    item_id: 254,
+    max_extra: 1,
+    price: 8000
+  }, {
+    item_id: 1542,
+    max_extra: 25,
+    price: 62500
+  }, {
+    item_id: 1543,
+    max_extra: 25,
+    price: 62500
+  }, {
+    item_id: 1544,
+    max_extra: 6,
+    price: 48400
+  }, {
+    item_id: 1545,
+    max_extra: 25,
+    price: 37800
+  }, {
+    item_id: 1546,
+    max_extra: 15,
+    price: 66900
+  }, {
+    item_id: 1547,
+    max_extra: 23,
+    price: 48800
+  }, {
+    item_id: 1548,
+    max_extra: 14,
+    price: 40500
+  }, {
+    item_id: 1549,
+    max_extra: 25,
+    price: 39400
+  }, {
+    item_id: 1550,
+    max_extra: 25,
+    price: 32100
+  }, {
+    item_id: 1551,
+    max_extra: 15,
+    price: 66900
+  }, {
+    item_id: 1552,
+    max_extra: 15,
+    price: 53500
+  }, {
+    item_id: 1553,
+    max_extra: 15,
+    price: 53500
+  }, {
+    item_id: 1554,
+    max_extra: 11,
+    price: 75400
+  }, {
+    item_id: 1555,
+    max_extra: 17,
+    price: 41200
+  }, {
+    item_id: 1556,
+    max_extra: 17,
+    price: 41200
+  }, {
+    item_id: 1557,
+    max_extra: 4,
+    price: 75200
+  }, {
+    item_id: 1558,
+    max_extra: 4,
+    price: 75200
+  }, {
+    item_id: 1559,
+    max_extra: 15,
+    price: 100700
+  }, {
+    item_id: 1560,
+    max_extra: 1,
+    price: 30400
+  }, {
+    item_id: 1561,
+    max_extra: 20,
+    price: 15800
+  }, {
+    item_id: 1562,
+    max_extra: 0,
+    price: 19500
+  }, {
+    item_id: 1563,
+    max_extra: 21,
+    price: 17300
+  }, {
+    item_id: 1564,
+    max_extra: 17,
+    price: 36700
+  }, {
+    item_id: 1565,
+    max_extra: 17,
+    price: 36700
+  }, {
+    item_id: 1566,
+    max_extra: 23,
+    price: 35800
+  }, {
+    item_id: 1567,
+    max_extra: 15,
+    price: 18400
+  }, {
+    item_id: 1639,
+    max_extra: 13,
+    price: 25500
+  }, {
+    item_id: 1640,
+    max_extra: 0,
+    price: 5500
+  }, {
+    item_id: 1645,
+    max_extra: 25,
+    price: 36700
+  }, {
+    item_id: 1646,
+    max_extra: 25,
+    price: 36700
+  }, {
+    item_id: 1647,
+    max_extra: 24,
+    price: 42200
+  }, {
+    item_id: 1648,
+    max_extra: 25,
+    price: 17500
+  }, {
+    item_id: 1649,
+    max_extra: 25,
+    price: 37800
+  }, {
+    item_id: 1650,
+    max_extra: 25,
+    price: 37800
+  }, {
+    item_id: 1651,
+    max_extra: 25,
+    price: 37800
+  }, {
+    item_id: 1652,
+    max_extra: 25,
+    price: 37800
+  }, {
+    item_id: 1653,
+    max_extra: 9,
+    price: 98500
+  }, {
+    item_id: 1654,
+    max_extra: 25,
+    price: 15300
+  }, {
+    item_id: 1655,
+    max_extra: 25,
+    price: 15300
+  }, {
+    item_id: 1656,
+    max_extra: 23,
+    price: 31400
+  }, {
+    item_id: 1657,
+    max_extra: 11,
+    price: 31200
+  }, {
+    item_id: 1658,
+    max_extra: 13,
+    price: 55400
+  }, {
+    item_id: 1662,
+    max_extra: 20,
+    price: 15500
+  }, {
+    item_id: 1663,
+    max_extra: 8,
+    price: 17600
+  }, {
+    item_id: 1664,
+    max_extra: 8,
+    price: 17600
+  }, {
+    item_id: 1665,
+    max_extra: 8,
+    price: 17600
+  }, {
+    item_id: 1666,
+    max_extra: 8,
+    price: 17600
+  }, {
+    item_id: 1667,
+    max_extra: 0,
+    price: 18600
+  }, {
+    item_id: 1668,
+    max_extra: 0,
+    price: 18600
+  }, {
+    item_id: 1669,
+    max_extra: 25,
+    price: 17800
+  }, {
+    item_id: 1670,
+    max_extra: 23,
+    price: 11400
+  }, {
+    item_id: 1671,
+    max_extra: 0,
+    price: 21300
+  }, {
+    item_id: 1672,
+    max_extra: 0,
+    price: 16400
+  }, {
+    item_id: 1673,
+    max_extra: 0,
+    price: 22700
+  }, {
+    item_id: 1674,
+    max_extra: 0,
+    price: 22700
+  }, {
+    item_id: 1675,
+    max_extra: 0,
+    price: 22700
+  }, {
+    item_id: 1676,
+    max_extra: 25,
+    price: 26300
+  }, {
+    item_id: 1677,
+    max_extra: 11,
+    price: 15600
+  }, {
+    item_id: 1678,
+    max_extra: 5,
+    price: 16400
+  }, {
+    item_id: 1679,
+    max_extra: 5,
+    price: 36800
+  }, {
+    item_id: 1680,
+    max_extra: 23,
+    price: 13500
+  }, {
+    item_id: 1681,
+    max_extra: 8,
+    price: 15500
+  }, {
+    item_id: 1682,
+    max_extra: 8,
+    price: 15500
+  }, {
+    item_id: 1683,
+    max_extra: 6,
+    price: 88500
+  }, {
+    item_id: 1684,
+    max_extra: 6,
+    price: 88500
+  }, {
+    item_id: 1685,
+    max_extra: 6,
+    price: 88500
+  }, {
+    item_id: 1686,
+    max_extra: 10,
+    price: 7500
+  }, {
+    item_id: 1689,
+    max_extra: 19,
+    price: 23800
+  }, {
+    item_id: 1690,
+    max_extra: 19,
+    price: 23800
+  }, {
+    item_id: 1691,
+    max_extra: 9,
+    price: 19500
+  }, {
+    item_id: 1873,
+    max_extra: 9,
+    price: 39500
+  }, {
+    item_id: 1874,
+    max_extra: 2,
+    price: 14500
+  }, {
+    item_id: 1875,
+    max_extra: 4,
+    price: 14500
+  }, {
+    item_id: 1876,
+    max_extra: 25,
+    price: 42200
+  }, {
+    item_id: 1877,
+    max_extra: 25,
+    price: 42200
+  }, {
+    item_id: 1878,
+    max_extra: 0,
+    price: 15600
+  }, {
+    item_id: 1879,
+    max_extra: 1,
+    price: 26500
+  }, {
+    item_id: 1880,
+    max_extra: 9,
+    price: 51200
+  }, {
+    item_id: 1881,
+    max_extra: 0,
+    price: 46700
+  }, {
+    item_id: 1882,
+    max_extra: 0,
+    price: 46700
+  }, {
+    item_id: 1883,
+    max_extra: 0,
+    price: 55500
+  }],
+  2: [{
+    item_id: 878,
+    max_extra: 2,
+    price: 2000
+  }, {
+    item_id: 879,
+    max_extra: 2,
+    price: 1500
+  }, {
+    item_id: 880,
+    max_extra: 2,
+    price: 2000
+  }, {
+    item_id: 881,
+    max_extra: 2,
+    price: 1500
+  }, {
+    item_id: 882,
+    max_extra: 12,
+    price: 14000
+  }, {
+    item_id: 883,
+    max_extra: 12,
+    price: 15000
+  }, {
+    item_id: 884,
+    max_extra: 9,
+    price: 9000
+  }, {
+    item_id: 885,
+    max_extra: 0,
+    price: 4400
+  }, {
+    item_id: 886,
+    max_extra: 1,
+    price: 4400
+  }, {
+    item_id: 887,
+    max_extra: 0,
+    price: 1200
+  }, {
+    item_id: 888,
+    max_extra: 4,
+    price: 1500
+  }, {
+    item_id: 889,
+    max_extra: 1,
+    price: 1200
+  }, {
+    item_id: 890,
+    max_extra: 1,
+    price: 3200
+  }, {
+    item_id: 891,
+    max_extra: 0,
+    price: 9700
+  }, {
+    item_id: 892,
+    max_extra: 0,
+    price: 9800
+  }, {
+    item_id: 893,
+    max_extra: 3,
+    price: 4500
+  }, {
+    item_id: 894,
+    max_extra: 3,
+    price: 4900
+  }, {
+    item_id: 895,
+    max_extra: 1,
+    price: 7600
+  }, {
+    item_id: 896,
+    max_extra: 1,
+    price: 8600
+  }, {
+    item_id: 897,
+    max_extra: 3,
+    price: 10000
+  }, {
+    item_id: 898,
+    max_extra: 3,
+    price: 10000
+  }, {
+    item_id: 899,
+    max_extra: 18,
+    price: 6000
+  }, {
+    item_id: 900,
+    max_extra: 18,
+    price: 6000
+  }, {
+    item_id: 901,
+    max_extra: 0,
+    price: 3000
+  }, {
+    item_id: 902,
+    max_extra: 0,
+    price: 2500
+  }, {
+    item_id: 903,
+    max_extra: 4,
+    price: 19000
+  }, {
+    item_id: 904,
+    max_extra: 8,
+    price: 2000
+  }, {
+    item_id: 905,
+    max_extra: 8,
+    price: 2000
+  }, {
+    item_id: 906,
+    max_extra: 15,
+    price: 4000
+  }, {
+    item_id: 907,
+    max_extra: 0,
+    price: 6000
+  }, {
+    item_id: 908,
+    max_extra: 0,
+    price: 5000
+  }, {
+    item_id: 909,
+    max_extra: 11,
+    price: 2000
+  }, {
+    item_id: 910,
+    max_extra: 11,
+    price: 2200
+  }, {
+    item_id: 911,
+    max_extra: 5,
+    price: 4000
+  }, {
+    item_id: 912,
+    max_extra: 5,
+    price: 5000
+  }, {
+    item_id: 913,
+    max_extra: 20,
+    price: 4000
+  }, {
+    item_id: 914,
+    max_extra: 20,
+    price: 5000
+  }, {
+    item_id: 915,
+    max_extra: 21,
+    price: 4000
+  }, {
+    item_id: 916,
+    max_extra: 21,
+    price: 5000
+  }],
+  3: [{
+    item_id: 315,
+    max_extra: 15,
+    price: 1200
+  }, {
+    item_id: 316,
+    max_extra: 15,
+    price: 2300
+  }, {
+    item_id: 317,
+    max_extra: 15,
+    price: 4400
+  }, {
+    item_id: 2124,
+    max_extra: 2,
+    price: 8500
+  }, {
+    item_id: 318,
+    max_extra: 15,
+    price: 6100
+  }, {
+    item_id: 2125,
+    max_extra: 2,
+    price: 3250
+  }, {
+    item_id: 319,
+    max_extra: 15,
+    price: 9000
+  }, {
+    item_id: 320,
+    max_extra: 15,
+    price: 11000
+  }, {
+    item_id: 2126,
+    max_extra: 2,
+    price: 13750
+  }, {
+    item_id: 321,
+    max_extra: 15,
+    price: 9000
+  }, {
+    item_id: 322,
+    max_extra: 11,
+    price: 9000
+  }, {
+    item_id: 323,
+    max_extra: 10,
+    price: 3000
+  }, {
+    item_id: 324,
+    max_extra: 11,
+    price: 11000
+  }, {
+    item_id: 325,
+    max_extra: 3,
+    price: 45000
+  }, {
+    item_id: 326,
+    max_extra: 0,
+    price: 60000
+  }, {
+    item_id: 327,
+    max_extra: 12,
+    price: 76000
+  }, {
+    item_id: 328,
+    max_extra: 12,
+    price: 70000
+  }, {
+    item_id: 329,
+    max_extra: 6,
+    price: 115000
+  }, {
+    item_id: 330,
+    max_extra: 6,
+    price: 40000
+  }, {
+    item_id: 2122,
+    max_extra: 11,
+    price: 35000
+  }, {
+    item_id: 331,
+    max_extra: 11,
+    price: 36000
+  }, {
+    item_id: 332,
+    max_extra: 15,
+    price: 100000
+  }, {
+    item_id: 2123,
+    max_extra: 2,
+    price: 13000
+  }, {
+    item_id: 2224,
+    max_extra: 4,
+    price: 10000
+  }, {
+    item_id: 333,
+    max_extra: 3,
+    price: 5000
+  }, {
+    item_id: 334,
+    max_extra: 0,
+    price: 3600
+  }, {
+    item_id: 335,
+    max_extra: 3,
+    price: 14000
+  }, {
+    item_id: 336,
+    max_extra: 3,
+    price: 2000
+  }, {
+    item_id: 337,
+    max_extra: 3,
+    price: 2100
+  }, {
+    item_id: 339,
+    max_extra: 7,
+    price: 1600
+  }, {
+    item_id: 340,
+    max_extra: 1,
+    price: 1700
+  }, {
+    item_id: 341,
+    max_extra: 6,
+    price: 90000
+  }, {
+    item_id: 342,
+    max_extra: 1,
+    price: 2700
+  }, {
+    item_id: 343,
+    max_extra: 4,
+    price: 24000
+  }, {
+    item_id: 344,
+    max_extra: 4,
+    price: 84000
+  }, {
+    item_id: 345,
+    max_extra: 3,
+    price: 24000
+  }, {
+    item_id: 346,
+    max_extra: 0,
+    price: 84000
+  }, {
+    item_id: 347,
+    max_extra: 3,
+    price: 54000
+  }, {
+    item_id: 348,
+    max_extra: 0,
+    price: 87000
+  }, {
+    item_id: 1828,
+    max_extra: 6,
+    price: 49000
+  }, {
+    item_id: 349,
+    max_extra: 3,
+    price: 1400
+  }, {
+    item_id: 1829,
+    max_extra: 7,
+    price: 16000
+  }, {
+    item_id: 350,
+    max_extra: 15,
+    price: 44000
+  }, {
+    item_id: 351,
+    max_extra: 11,
+    price: 24000
+  }, {
+    item_id: 352,
+    max_extra: 13,
+    price: 16000
+  }, {
+    item_id: 353,
+    max_extra: 3,
+    price: 1400
+  }, {
+    item_id: 354,
+    max_extra: 0,
+    price: 2000
+  }, {
+    item_id: 355,
+    max_extra: 10,
+    price: 1900
+  }, {
+    item_id: 356,
+    max_extra: 13,
+    price: 4000
+  }, {
+    item_id: 357,
+    max_extra: 17,
+    price: 170000
+  }, {
+    item_id: 358,
+    max_extra: 5,
+    price: 3900
+  }, {
+    item_id: 359,
+    max_extra: 5,
+    price: 27000
+  }, {
+    item_id: 360,
+    max_extra: 7,
+    price: 3500
+  }, {
+    item_id: 361,
+    max_extra: 7,
+    price: 6600
+  }, {
+    item_id: 362,
+    max_extra: 7,
+    price: 7300
+  }, {
+    item_id: 363,
+    max_extra: 2,
+    price: 7600
+  }, {
+    item_id: 364,
+    max_extra: 7,
+    price: 5400
+  }, {
+    item_id: 365,
+    max_extra: 2,
+    price: 2000
+  }, {
+    item_id: 366,
+    max_extra: 9,
+    price: 11000
+  }, {
+    item_id: 367,
+    max_extra: 3,
+    price: 29000
+  }, {
+    item_id: 1830,
+    max_extra: 25,
+    price: 15500
+  }, {
+    item_id: 368,
+    max_extra: 9,
+    price: 1600
+  }, {
+    item_id: 1831,
+    max_extra: 19,
+    price: 25500
+  }, {
+    item_id: 1832,
+    max_extra: 0,
+    price: 26500
+  }, {
+    item_id: 369,
+    max_extra: 25,
+    price: 45000
+  }, {
+    item_id: 370,
+    max_extra: 1,
+    price: 11000
+  }, {
+    item_id: 1833,
+    max_extra: 25,
+    price: 22300
+  }, {
+    item_id: 371,
+    max_extra: 25,
+    price: 7200
+  }, {
+    item_id: 372,
+    max_extra: 6,
+    price: 11000
+  }, {
+    item_id: 1834,
+    max_extra: 13,
+    price: 36000
+  }, {
+    item_id: 1835,
+    max_extra: 17,
+    price: 27500
+  }, {
+    item_id: 1836,
+    max_extra: 17,
+    price: 27500
+  }, {
+    item_id: 373,
+    max_extra: 0,
+    price: 3300
+  }, {
+    item_id: 374,
+    max_extra: 11,
+    price: 3100
+  }, {
+    item_id: 1837,
+    max_extra: 9,
+    price: 76300
+  }, {
+    item_id: 1838,
+    max_extra: 10,
+    price: 45300
+  }, {
+    item_id: 1839,
+    max_extra: 25,
+    price: 24200
+  }, {
+    item_id: 1840,
+    max_extra: 10,
+    price: 27500
+  }, {
+    item_id: 1841,
+    max_extra: 0,
+    price: 23200
+  }, {
+    item_id: 1842,
+    max_extra: 0,
+    price: 21200
+  }, {
+    item_id: 1843,
+    max_extra: 25,
+    price: 37700
+  }, {
+    item_id: 1844,
+    max_extra: 7,
+    price: 21700
+  }, {
+    item_id: 2225,
+    max_extra: 7,
+    price: 15000
+  }],
+  4: [{
+    item_id: 375,
+    max_extra: 15,
+    price: 1700
+  }, {
+    item_id: 376,
+    max_extra: 15,
+    price: 11000
+  }, {
+    item_id: 34,
+    max_extra: 1,
+    price: 1500
+  }, {
+    item_id: 377,
+    max_extra: 15,
+    price: 14000
+  }, {
+    item_id: 378,
+    max_extra: 15,
+    price: 4400
+  }, {
+    item_id: 379,
+    max_extra: 15,
+    price: 4000
+  }, {
+    item_id: 380,
+    max_extra: 15,
+    price: 25000
+  }, {
+    item_id: 381,
+    max_extra: 15,
+    price: 27000
+  }, {
+    item_id: 382,
+    max_extra: 15,
+    price: 44000
+  }, {
+    item_id: 383,
+    max_extra: 11,
+    price: 1200
+  }, {
+    item_id: 384,
+    max_extra: 1,
+    price: 4000
+  }, {
+    item_id: 385,
+    max_extra: 11,
+    price: 7200
+  }, {
+    item_id: 386,
+    max_extra: 11,
+    price: 16400
+  }, {
+    item_id: 387,
+    max_extra: 11,
+    price: 11000
+  }, {
+    item_id: 388,
+    max_extra: 15,
+    price: 66000
+  }, {
+    item_id: 389,
+    max_extra: 0,
+    price: 3000
+  }, {
+    item_id: 390,
+    max_extra: 0,
+    price: 3000
+  }, {
+    item_id: 391,
+    max_extra: 15,
+    price: 9000
+  }, {
+    item_id: 392,
+    max_extra: 0,
+    price: 1200
+  }, {
+    item_id: 393,
+    max_extra: 0,
+    price: 44000
+  }, {
+    item_id: 394,
+    max_extra: 1,
+    price: 14000
+  }, {
+    item_id: 395,
+    max_extra: 4,
+    price: 8200
+  }, {
+    item_id: 396,
+    max_extra: 1,
+    price: 4400
+  }, {
+    item_id: 397,
+    max_extra: 3,
+    price: 67000
+  }, {
+    item_id: 398,
+    max_extra: 4,
+    price: 50000
+  }, {
+    item_id: 399,
+    max_extra: 4,
+    price: 30000
+  }, {
+    item_id: 400,
+    max_extra: 11,
+    price: 6000
+  }, {
+    item_id: 401,
+    max_extra: 0,
+    price: 19000
+  }, {
+    item_id: 402,
+    max_extra: 9,
+    price: 12000
+  }, {
+    item_id: 403,
+    max_extra: 7,
+    price: 27000
+  }, {
+    item_id: 404,
+    max_extra: 10,
+    price: 7600
+  }, {
+    item_id: 405,
+    max_extra: 10,
+    price: 6600
+  }, {
+    item_id: 406,
+    max_extra: 9,
+    price: 3300
+  }, {
+    item_id: 407,
+    max_extra: 1,
+    price: 3700
+  }, {
+    item_id: 408,
+    max_extra: 1,
+    price: 4000
+  }, {
+    item_id: 409,
+    max_extra: 5,
+    price: 6000
+  }, {
+    item_id: 410,
+    max_extra: 5,
+    price: 9000
+  }, {
+    item_id: 411,
+    max_extra: 1,
+    price: 23000
+  }, {
+    item_id: 412,
+    max_extra: 5,
+    price: 14000
+  }, {
+    item_id: 413,
+    max_extra: 5,
+    price: 6600
+  }, {
+    item_id: 414,
+    max_extra: 1,
+    price: 25000
+  }, {
+    item_id: 415,
+    max_extra: 11,
+    price: 27000
+  }, {
+    item_id: 416,
+    max_extra: 7,
+    price: 13000
+  }, {
+    item_id: 417,
+    max_extra: 7,
+    price: 2400
+  }, {
+    item_id: 418,
+    max_extra: 7,
+    price: 4000
+  }, {
+    item_id: 419,
+    max_extra: 7,
+    price: 1700
+  }, {
+    item_id: 420,
+    max_extra: 6,
+    price: 3600
+  }, {
+    item_id: 421,
+    max_extra: 6,
+    price: 7800
+  }, {
+    item_id: 2678,
+    max_extra: 25,
+    price: 10000
+  }, {
+    item_id: 422,
+    max_extra: 25,
+    price: 11000
+  }, {
+    item_id: 423,
+    max_extra: 25,
+    price: 3100
+  }, {
+    item_id: 424,
+    max_extra: 25,
+    price: 2100
+  }, {
+    item_id: 425,
+    max_extra: 25,
+    price: 5200
+  }, {
+    item_id: 426,
+    max_extra: 25,
+    price: 3200
+  }, {
+    item_id: 427,
+    max_extra: 1,
+    price: 7800
+  }, {
+    item_id: 428,
+    max_extra: 25,
+    price: 140000
+  }, {
+    item_id: 429,
+    max_extra: 25,
+    price: 120000
+  }, {
+    item_id: 430,
+    max_extra: 13,
+    price: 2000
+  }, {
+    item_id: 431,
+    max_extra: 1,
+    price: 120000
+  }, {
+    item_id: 432,
+    max_extra: 1,
+    price: 100000
+  }, {
+    item_id: 433,
+    max_extra: 2,
+    price: 14000
+  }, {
+    item_id: 434,
+    max_extra: 2,
+    price: 10000
+  }, {
+    item_id: 435,
+    max_extra: 15,
+    price: 4100
+  }, {
+    item_id: 436,
+    max_extra: 17,
+    price: 7800
+  }, {
+    item_id: 437,
+    max_extra: 0,
+    price: 1600
+  }],
+  5: [{
+    item_id: 798,
+    max_extra: 10,
+    price: 2000
+  }, {
+    item_id: 799,
+    max_extra: 10,
+    price: 23000
+  }, {
+    item_id: 800,
+    max_extra: 10,
+    price: 14000
+  }, {
+    item_id: 801,
+    max_extra: 10,
+    price: 7600
+  }, {
+    item_id: 802,
+    max_extra: 10,
+    price: 8800
+  }, {
+    item_id: 803,
+    max_extra: 10,
+    price: 14000
+  }, {
+    item_id: 804,
+    max_extra: 10,
+    price: 9000
+  }, {
+    item_id: 805,
+    max_extra: 10,
+    price: 11000
+  }, {
+    item_id: 806,
+    max_extra: 10,
+    price: 14000
+  }, {
+    item_id: 807,
+    max_extra: 10,
+    price: 17000
+  }, {
+    item_id: 808,
+    max_extra: 10,
+    price: 21000
+  }, {
+    item_id: 809,
+    max_extra: 9,
+    price: 19000
+  }, {
+    item_id: 810,
+    max_extra: 10,
+    price: 13600
+  }, {
+    item_id: 811,
+    max_extra: 10,
+    price: 9600
+  }, {
+    item_id: 812,
+    max_extra: 10,
+    price: 21000
+  }, {
+    item_id: 813,
+    max_extra: 10,
+    price: 19000
+  }, {
+    item_id: 814,
+    max_extra: 9,
+    price: 25000
+  }]
+}, {
+  0: [{
+    item_id: 438,
+    max_extra: 0,
+    price: 1200
+  }, {
+    item_id: 439,
+    max_extra: 1,
+    price: 1400
+  }, {
+    item_id: 440,
+    max_extra: 2,
+    price: 9000
+  }, {
+    item_id: 441,
+    max_extra: 7,
+    price: 27000
+  }, {
+    item_id: 442,
+    max_extra: 7,
+    price: 5600
+  }, {
+    item_id: 444,
+    max_extra: 7,
+    price: 1200
+  }, {
+    item_id: 445,
+    max_extra: 7,
+    price: 1300
+  }, {
+    item_id: 446,
+    max_extra: 6,
+    price: 24000
+  }, {
+    item_id: 447,
+    max_extra: 7,
+    price: 11000
+  }, {
+    item_id: 448,
+    max_extra: 6,
+    price: 27000
+  }, {
+    item_id: 2940,
+    max_extra: 13,
+    price: 28000
+  }, {
+    item_id: 449,
+    max_extra: 7,
+    price: 32000
+  }, {
+    item_id: 450,
+    max_extra: 7,
+    price: 2300
+  }, {
+    item_id: 451,
+    max_extra: 1,
+    price: 3800
+  }, {
+    item_id: 452,
+    max_extra: 7,
+    price: 2600
+  }, {
+    item_id: 453,
+    max_extra: 7,
+    price: 5600
+  }, {
+    item_id: 454,
+    max_extra: 0,
+    price: 1200
+  }, {
+    item_id: 455,
+    max_extra: 0,
+    price: 1500
+  }, {
+    item_id: 456,
+    max_extra: 0,
+    price: 1500
+  }, {
+    item_id: 457,
+    max_extra: 0,
+    price: 1500
+  }, {
+    item_id: 458,
+    max_extra: 1,
+    price: 1300
+  }, {
+    item_id: 459,
+    max_extra: 7,
+    price: 40000
+  }, {
+    item_id: 460,
+    max_extra: 25,
+    price: 7200
+  }, {
+    item_id: 461,
+    max_extra: 9,
+    price: 7200
+  }, {
+    item_id: 462,
+    max_extra: 2,
+    price: 3200
+  }, {
+    item_id: 463,
+    max_extra: 9,
+    price: 40000
+  }, {
+    item_id: 464,
+    max_extra: 9,
+    price: 1200
+  }, {
+    item_id: 465,
+    max_extra: 9,
+    price: 3700
+  }, {
+    item_id: 466,
+    max_extra: 11,
+    price: 2700
+  }, {
+    item_id: 467,
+    max_extra: 23,
+    price: 1200
+  }, {
+    item_id: 468,
+    max_extra: 23,
+    price: 1200
+  }, {
+    item_id: 469,
+    max_extra: 0,
+    price: 1200
+  }, {
+    item_id: 470,
+    max_extra: 0,
+    price: 1200
+  }, {
+    item_id: 471,
+    max_extra: 9,
+    price: 1200
+  }, {
+    item_id: 472,
+    max_extra: 20,
+    price: 1200
+  }, {
+    item_id: 473,
+    max_extra: 23,
+    price: 1200
+  }, {
+    item_id: 2293,
+    max_extra: 9,
+    price: 1400
+  }, {
+    item_id: 2294,
+    max_extra: 9,
+    price: 1500
+  }, {
+    item_id: 2295,
+    max_extra: 0,
+    price: 1550
+  }, {
+    item_id: 2296,
+    max_extra: 0,
+    price: 1600
+  }, {
+    item_id: 2297,
+    max_extra: 0,
+    price: 1500
+  }, {
+    item_id: 2298,
+    max_extra: 9,
+    price: 1400
+  }, {
+    item_id: 2299,
+    max_extra: 9,
+    price: 1500
+  }, {
+    item_id: 474,
+    max_extra: 9,
+    price: 1200
+  }, {
+    item_id: 475,
+    max_extra: 15,
+    price: 1200
+  }, {
+    item_id: 476,
+    max_extra: 9,
+    price: 1200
+  }, {
+    item_id: 477,
+    max_extra: 25,
+    price: 1200
+  }, {
+    item_id: 478,
+    max_extra: 10,
+    price: 1200
+  }, {
+    item_id: 480,
+    max_extra: 1,
+    price: 1200
+  }, {
+    item_id: 481,
+    max_extra: 18,
+    price: 7800
+  }, {
+    item_id: 482,
+    max_extra: 18,
+    price: 7800
+  }],
+  1: [{
+    item_id: 483,
+    max_extra: 15,
+    price: 1200
+  }, {
+    item_id: 484,
+    max_extra: 15,
+    price: 7900
+  }, {
+    item_id: 1390,
+    extras: [0, 1, 2, 3, 4, 10, 11, 12, 13, 14],
+    price: 10000
+  }, {
+    item_id: 1391,
+    max_extra: 2,
+    price: 8000
+  }, {
+    item_id: 1392,
+    max_extra: 2,
+    price: 7900
+  }, {
+    item_id: 1393,
+    max_extra: 2,
+    price: 7500
+  }, {
+    item_id: 1394,
+    max_extra: 14,
+    price: 2500
+  }, {
+    item_id: 1395,
+    max_extra: 2,
+    price: 3700
+  }, {
+    item_id: 1396,
+    max_extra: 2,
+    price: 4400
+  }, {
+    item_id: 1397,
+    max_extra: 15,
+    price: 6400
+  }, {
+    item_id: 485,
+    max_extra: 15,
+    price: 9000
+  }, {
+    item_id: 486,
+    max_extra: 6,
+    price: 10000
+  }, {
+    item_id: 487,
+    max_extra: 0,
+    price: 29000
+  }, {
+    item_id: 1398,
+    max_extra: 11,
+    price: 11000
+  }, {
+    item_id: 488,
+    max_extra: 5,
+    price: 27000
+  }, {
+    item_id: 489,
+    max_extra: 4,
+    price: 30000
+  }, {
+    item_id: 490,
+    max_extra: 2,
+    price: 1700
+  }, {
+    item_id: 491,
+    max_extra: 11,
+    price: 79000
+  }, {
+    item_id: 492,
+    max_extra: 10,
+    price: 75000
+  }, {
+    item_id: 493,
+    max_extra: 12,
+    price: 40000
+  }, {
+    item_id: 1399,
+    max_extra: 15,
+    price: 21000
+  }, {
+    item_id: 495,
+    max_extra: 2,
+    price: 3800
+  }, {
+    item_id: 496,
+    max_extra: 6,
+    price: 4200
+  }, {
+    item_id: 497,
+    max_extra: 2,
+    price: 2900
+  }, {
+    item_id: 498,
+    max_extra: 8,
+    price: 6700
+  }, {
+    item_id: 1400,
+    max_extra: 0,
+    price: 55000
+  }, {
+    item_id: 499,
+    max_extra: 11,
+    price: 24000
+  }, {
+    item_id: 500,
+    max_extra: 4,
+    price: 2800
+  }, {
+    item_id: 501,
+    max_extra: 5,
+    price: 67000
+  }, {
+    item_id: 502,
+    max_extra: 3,
+    price: 6700
+  }, {
+    item_id: 1401,
+    max_extra: 0,
+    price: 95000
+  }, {
+    item_id: 503,
+    max_extra: 1,
+    price: 6700
+  }, {
+    item_id: 1402,
+    max_extra: 3,
+    price: 42000
+  }, {
+    item_id: 504,
+    max_extra: 1,
+    price: 2300
+  }, {
+    item_id: 1403,
+    max_extra: 0,
+    price: 47000
+  }, {
+    item_id: 1404,
+    max_extra: 3,
+    price: 49000
+  }, {
+    item_id: 1405,
+    max_extra: 3,
+    price: 49000
+  }, {
+    item_id: 505,
+    max_extra: 3,
+    price: 7800
+  }, {
+    item_id: 1406,
+    max_extra: 0,
+    price: 7800
+  }, {
+    item_id: 506,
+    max_extra: 0,
+    price: 5000
+  }, {
+    item_id: 1407,
+    max_extra: 8,
+    price: 55000
+  }, {
+    item_id: 1408,
+    max_extra: 8,
+    price: 55000
+  }, {
+    item_id: 507,
+    max_extra: 3,
+    price: 40000
+  }, {
+    item_id: 508,
+    max_extra: 5,
+    price: 37000
+  }, {
+    item_id: 509,
+    max_extra: 5,
+    price: 37000
+  }, {
+    item_id: 1411,
+    max_extra: 4,
+    price: 99000
+  }, {
+    item_id: 1412,
+    max_extra: 11,
+    price: 120000
+  }, {
+    item_id: 510,
+    max_extra: 3,
+    price: 44000
+  }, {
+    item_id: 511,
+    max_extra: 0,
+    price: 8900
+  }, {
+    item_id: 512,
+    max_extra: 19,
+    price: 37000
+  }, {
+    item_id: 513,
+    max_extra: 0,
+    price: 62000
+  }, {
+    item_id: 514,
+    max_extra: 4,
+    price: 7700
+  }, {
+    item_id: 1413,
+    max_extra: 15,
+    price: 9700
+  }, {
+    item_id: 515,
+    max_extra: 0,
+    price: 7300
+  }, {
+    item_id: 516,
+    max_extra: 2,
+    price: 8700
+  }, {
+    item_id: 517,
+    max_extra: 2,
+    price: 6600
+  }, {
+    item_id: 518,
+    max_extra: 3,
+    price: 4500
+  }, {
+    item_id: 519,
+    max_extra: 4,
+    price: 2300
+  }, {
+    item_id: 520,
+    max_extra: 0,
+    price: 14000
+  }, {
+    item_id: 521,
+    max_extra: 7,
+    price: 8100
+  }, {
+    item_id: 522,
+    max_extra: 3,
+    price: 11000
+  }, {
+    item_id: 523,
+    max_extra: 0,
+    price: 14000
+  }, {
+    item_id: 524,
+    max_extra: 11,
+    price: 11000
+  }, {
+    item_id: 525,
+    max_extra: 6,
+    price: 87000
+  }, {
+    item_id: 526,
+    max_extra: 2,
+    price: 9700
+  }, {
+    item_id: 1415,
+    max_extra: 2,
+    price: 13200
+  }, {
+    item_id: 527,
+    max_extra: 0,
+    price: 11700
+  }, {
+    item_id: 528,
+    max_extra: 1,
+    price: 3300
+  }, {
+    item_id: 1416,
+    max_extra: 4,
+    price: 94000
+  }, {
+    item_id: 529,
+    max_extra: 4,
+    price: 94000
+  }, {
+    item_id: 1417,
+    max_extra: 3,
+    price: 100000
+  }, {
+    item_id: 1418,
+    max_extra: 3,
+    price: 100000
+  }, {
+    item_id: 530,
+    max_extra: 0,
+    price: 144000
+  }, {
+    item_id: 532,
+    max_extra: 0,
+    price: 88000
+  }, {
+    item_id: 533,
+    max_extra: 0,
+    price: 45000
+  }, {
+    item_id: 534,
+    max_extra: 4,
+    price: 66000
+  }, {
+    item_id: 535,
+    max_extra: 10,
+    price: 50000
+  }, {
+    item_id: 536,
+    max_extra: 0,
+    price: 2000
+  }, {
+    item_id: 1419,
+    max_extra: 5,
+    price: 15000
+  }, {
+    item_id: 1420,
+    max_extra: 0,
+    price: 50000
+  }, {
+    item_id: 537,
+    max_extra: 0,
+    price: 71000
+  }, {
+    item_id: 538,
+    max_extra: 7,
+    price: 43000
+  }, {
+    item_id: 539,
+    max_extra: 3,
+    price: 37000
+  }, {
+    item_id: 540,
+    max_extra: 0,
+    price: 44000
+  }, {
+    item_id: 1422,
+    max_extra: 15,
+    price: 36000
+  }, {
+    item_id: 1423,
+    max_extra: 9,
+    price: 44000
+  }, {
+    item_id: 541,
+    max_extra: 11,
+    price: 90000
+  }, {
+    item_id: 542,
+    max_extra: 2,
+    price: 3400
+  }, {
+    item_id: 543,
+    max_extra: 2,
+    price: 1700
+  }, {
+    item_id: 544,
+    max_extra: 2,
+    price: 1800
+  }, {
+    item_id: 545,
+    max_extra: 2,
+    price: 2300
+  }, {
+    item_id: 546,
+    max_extra: 2,
+    price: 2300
+  }, {
+    item_id: 547,
+    max_extra: 2,
+    price: 4000
+  }, {
+    item_id: 1424,
+    max_extra: 2,
+    price: 5500
+  }, {
+    item_id: 548,
+    max_extra: 2,
+    price: 3000
+  }, {
+    item_id: 1425,
+    max_extra: 16,
+    price: 13000
+  }, {
+    item_id: 549,
+    max_extra: 16,
+    price: 2700
+  }, {
+    item_id: 1426,
+    max_extra: 0,
+    price: 80000
+  }, {
+    item_id: 1427,
+    max_extra: 11,
+    price: 75000
+  }, {
+    item_id: 550,
+    max_extra: 9,
+    price: 3100
+  }, {
+    item_id: 551,
+    max_extra: 2,
+    price: 2300
+  }, {
+    item_id: 552,
+    max_extra: 0,
+    price: 2600
+  }, {
+    item_id: 553,
+    max_extra: 0,
+    price: 3300
+  }, {
+    item_id: 554,
+    max_extra: 2,
+    price: 3700
+  }, {
+    item_id: 555,
+    max_extra: 6,
+    price: 40000
+  }, {
+    item_id: 556,
+    max_extra: 6,
+    price: 34000
+  }, {
+    item_id: 1431,
+    max_extra: 2,
+    price: 22000
+  }, {
+    item_id: 557,
+    max_extra: 2,
+    price: 6500
+  }, {
+    item_id: 1432,
+    max_extra: 7,
+    price: 29500
+  }, {
+    item_id: 558,
+    max_extra: 14,
+    price: 3300
+  }, {
+    item_id: 559,
+    max_extra: 10,
+    price: 2400
+  }, {
+    item_id: 560,
+    max_extra: 2,
+    price: 35000
+  }, {
+    item_id: 561,
+    max_extra: 9,
+    price: 4000
+  }, {
+    item_id: 562,
+    max_extra: 5,
+    price: 2000
+  }, {
+    item_id: 563,
+    extras: [0, 1, 2, 3, 4, 5, 6, 8, 9, 10, 11, 12, 13],
+    price: 42000
+  }, {
+    item_id: 1433,
+    max_extra: 13,
+    price: 120000
+  }, {
+    item_id: 1435,
+    max_extra: 11,
+    price: 63500
+  }, {
+    item_id: 1436,
+    extras: [0, 1, 2, 3, 4, 6, 7, 8],
+    price: 44000
+  }, {
+    item_id: 1437,
+    max_extra: 11,
+    price: 39000
+  }, {
+    item_id: 564,
+    max_extra: 5,
+    price: 12000
+  }, {
+    item_id: 1438,
+    max_extra: 15,
+    price: 49000
+  }, {
+    item_id: 1439,
+    max_extra: 25,
+    price: 56000
+  }, {
+    item_id: 1440,
+    max_extra: 7,
+    price: 59000
+  }, {
+    item_id: 1441,
+    max_extra: 3,
+    price: 43500
+  }, {
+    item_id: 565,
+    max_extra: 5,
+    price: 12000
+  }, {
+    item_id: 566,
+    max_extra: 3,
+    price: 17000
+  }, {
+    item_id: 1442,
+    max_extra: 2,
+    price: 19500
+  }, {
+    item_id: 1443,
+    max_extra: 1,
+    price: 20500
+  }, {
+    item_id: 1444,
+    max_extra: 1,
+    price: 21500
+  }, {
+    item_id: 567,
+    max_extra: 3,
+    price: 70000
+  }, {
+    item_id: 568,
+    max_extra: 3,
+    price: 50000
+  }, {
+    item_id: 569,
+    max_extra: 0,
+    price: 20000
+  }, {
+    item_id: 570,
+    max_extra: 2,
+    price: 19000
+  }, {
+    item_id: 1445,
+    max_extra: 6,
+    price: 36500
+  }, {
+    item_id: 571,
+    max_extra: 5,
+    price: 16000
+  }, {
+    item_id: 1446,
+    max_extra: 15,
+    price: 78000
+  }, {
+    item_id: 572,
+    max_extra: 2,
+    price: 17000
+  }, {
+    item_id: 573,
+    max_extra: 3,
+    price: 19000
+  }, {
+    item_id: 574,
+    max_extra: 3,
+    price: 25000
+  }, {
+    item_id: 575,
+    max_extra: 5,
+    price: 9000
+  }, {
+    item_id: 576,
+    max_extra: 5,
+    price: 9000
+  }, {
+    item_id: 577,
+    max_extra: 5,
+    price: 9000
+  }, {
+    item_id: 578,
+    max_extra: 7,
+    price: 9000
+  }, {
+    item_id: 579,
+    max_extra: 1,
+    price: 7200
+  }, {
+    item_id: 580,
+    max_extra: 0,
+    price: 14000
+  }, {
+    item_id: 581,
+    max_extra: 3,
+    price: 11000
+  }, {
+    item_id: 582,
+    max_extra: 3,
+    price: 14000
+  }, {
+    item_id: 583,
+    max_extra: 3,
+    price: 80000
+  }, {
+    item_id: 584,
+    max_extra: 3,
+    price: 70000
+  }, {
+    item_id: 585,
+    max_extra: 0,
+    price: 2300
+  }, {
+    item_id: 586,
+    max_extra: 6,
+    price: 8800
+  }, {
+    item_id: 587,
+    max_extra: 3,
+    price: 6700
+  }, {
+    item_id: 588,
+    max_extra: 2,
+    price: 4700
+  }, {
+    item_id: 589,
+    max_extra: 5,
+    price: 4500
+  }, {
+    item_id: 590,
+    max_extra: 1,
+    price: 14000
+  }, {
+    item_id: 591,
+    max_extra: 5,
+    price: 60000
+  }, {
+    item_id: 592,
+    max_extra: 3,
+    price: 9000
+  }, {
+    item_id: 593,
+    max_extra: 3,
+    price: 14000
+  }, {
+    item_id: 594,
+    max_extra: 12,
+    price: 9900
+  }, {
+    item_id: 595,
+    max_extra: 10,
+    price: 12000
+  }, {
+    item_id: 596,
+    max_extra: 10,
+    price: 11000
+  }, {
+    item_id: 597,
+    max_extra: 25,
+    price: 3000
+  }, {
+    item_id: 1447,
+    max_extra: 25,
+    price: 99000
+  }, {
+    item_id: 598,
+    max_extra: 11,
+    price: 77000
+  }, {
+    item_id: 599,
+    max_extra: 25,
+    price: 64000
+  }, {
+    item_id: 1448,
+    max_extra: 2,
+    price: 27500
+  }, {
+    item_id: 1449,
+    max_extra: 15,
+    price: 28500
+  }, {
+    item_id: 1450,
+    max_extra: 7,
+    price: 38500
+  }, {
+    item_id: 1451,
+    max_extra: 25,
+    price: 75500
+  }, {
+    item_id: 600,
+    max_extra: 4,
+    price: 4200
+  }, {
+    item_id: 601,
+    max_extra: 25,
+    price: 3800
+  }, {
+    item_id: 602,
+    max_extra: 12,
+    price: 2300
+  }, {
+    item_id: 603,
+    max_extra: 4,
+    price: 5600
+  }, {
+    item_id: 1452,
+    max_extra: 16,
+    price: 9500
+  }, {
+    item_id: 1453,
+    max_extra: 16,
+    price: 9500
+  }, {
+    item_id: 1454,
+    max_extra: 23,
+    price: 84500
+  }, {
+    item_id: 1455,
+    max_extra: 23,
+    price: 83500
+  }, {
+    item_id: 604,
+    max_extra: 14,
+    price: 11000
+  }, {
+    item_id: 605,
+    max_extra: 14,
+    price: 9000
+  }, {
+    item_id: 606,
+    max_extra: 15,
+    price: 10000
+  }, {
+    item_id: 607,
+    max_extra: 15,
+    price: 9600
+  }, {
+    item_id: 608,
+    max_extra: 1,
+    price: 9500
+  }, {
+    item_id: 609,
+    max_extra: 0,
+    price: 6500
+  }, {
+    item_id: 610,
+    max_extra: 11,
+    price: 13000
+  }, {
+    item_id: 611,
+    max_extra: 11,
+    price: 11000
+  }, {
+    item_id: 612,
+    max_extra: 9,
+    price: 15000
+  }, {
+    item_id: 613,
+    max_extra: 9,
+    price: 13000
+  }, {
+    item_id: 614,
+    max_extra: 25,
+    price: 5600
+  }, {
+    item_id: 615,
+    max_extra: 11,
+    price: 6500
+  }, {
+    item_id: 616,
+    max_extra: 25,
+    price: 4300
+  }, {
+    item_id: 1457,
+    max_extra: 5,
+    price: 115000
+  }, {
+    item_id: 617,
+    max_extra: 5,
+    price: 4200
+  }, {
+    item_id: 1458,
+    max_extra: 5,
+    price: 16000
+  }, {
+    item_id: 618,
+    max_extra: 25,
+    price: 14000
+  }, {
+    item_id: 619,
+    max_extra: 25,
+    price: 11000
+  }, {
+    item_id: 1459,
+    max_extra: 9,
+    price: 28000
+  }, {
+    item_id: 1460,
+    max_extra: 25,
+    price: 33000
+  }, {
+    item_id: 620,
+    max_extra: 1,
+    price: 8500
+  }, {
+    item_id: 621,
+    max_extra: 1,
+    price: 6400
+  }, {
+    item_id: 1461,
+    max_extra: 25,
+    price: 89500
+  }, {
+    item_id: 1462,
+    max_extra: 25,
+    price: 89500
+  }, {
+    item_id: 1463,
+    max_extra: 20,
+    price: 25500
+  }, {
+    item_id: 1464,
+    max_extra: 6,
+    price: 105500
+  }, {
+    item_id: 1465,
+    max_extra: 25,
+    price: 56500
+  }, {
+    item_id: 1466,
+    max_extra: 15,
+    price: 48400
+  }, {
+    item_id: 1467,
+    max_extra: 23,
+    price: 59300
+  }, {
+    item_id: 1468,
+    max_extra: 14,
+    price: 34200
+  }, {
+    item_id: 1469,
+    max_extra: 25,
+    price: 59600
+  }, {
+    item_id: 1470,
+    max_extra: 25,
+    price: 54500
+  }, {
+    item_id: 622,
+    max_extra: 15,
+    price: 9900
+  }, {
+    item_id: 1471,
+    max_extra: 15,
+    price: 63800
+  }, {
+    item_id: 1472,
+    max_extra: 15,
+    price: 63800
+  }, {
+    item_id: 1473,
+    max_extra: 15,
+    price: 97400
+  }, {
+    item_id: 1474,
+    max_extra: 17,
+    price: 86200
+  }, {
+    item_id: 1475,
+    max_extra: 17,
+    price: 86200
+  }, {
+    item_id: 1476,
+    max_extra: 4,
+    price: 120200
+  }, {
+    item_id: 623,
+    max_extra: 4,
+    price: 120200
+  }, {
+    item_id: 1477,
+    max_extra: 15,
+    price: 107500
+  }, {
+    item_id: 1478,
+    max_extra: 7,
+    price: 30500
+  }, {
+    item_id: 1479,
+    max_extra: 20,
+    price: 27300
+  }, {
+    item_id: 1480,
+    max_extra: 20,
+    price: 27300
+  }, {
+    item_id: 624,
+    max_extra: 1,
+    price: 80000
+  }, {
+    item_id: 1481,
+    max_extra: 11,
+    price: 24500
+  }, {
+    item_id: 1482,
+    max_extra: 11,
+    price: 26500
+  }, {
+    item_id: 1483,
+    max_extra: 21,
+    price: 28300
+  }, {
+    item_id: 1484,
+    max_extra: 17,
+    price: 35300
+  }, {
+    item_id: 1485,
+    max_extra: 17,
+    price: 35300
+  }, {
+    item_id: 1486,
+    max_extra: 23,
+    price: 27800
+  }, {
+    item_id: 1487,
+    max_extra: 15,
+    price: 32600
+  }, {
+    item_id: 1488,
+    max_extra: 13,
+    price: 38400
+  }, {
+    item_id: 1926,
+    max_extra: 0,
+    price: 17400
+  }, {
+    item_id: 1928,
+    max_extra: 9,
+    price: 28700
+  }, {
+    item_id: 1929,
+    max_extra: 9,
+    price: 28700
+  }, {
+    item_id: 1930,
+    max_extra: 25,
+    price: 44600
+  }, {
+    item_id: 1931,
+    max_extra: 25,
+    price: 44600
+  }, {
+    item_id: 1932,
+    max_extra: 24,
+    price: 48400
+  }, {
+    item_id: 1933,
+    max_extra: 25,
+    price: 24200
+  }, {
+    item_id: 1934,
+    max_extra: 25,
+    price: 43500
+  }, {
+    item_id: 1935,
+    max_extra: 25,
+    price: 43500
+  }, {
+    item_id: 1936,
+    max_extra: 25,
+    price: 43500
+  }, {
+    item_id: 1937,
+    max_extra: 25,
+    price: 43500
+  }, {
+    item_id: 1938,
+    max_extra: 9,
+    price: 79700
+  }, {
+    item_id: 1939,
+    max_extra: 25,
+    price: 34300
+  }, {
+    item_id: 1940,
+    max_extra: 25,
+    price: 34300
+  }, {
+    item_id: 1941,
+    max_extra: 23,
+    price: 46800
+  }, {
+    item_id: 1942,
+    max_extra: 11,
+    price: 34300
+  }, {
+    item_id: 1943,
+    max_extra: 13,
+    price: 75500
+  }, {
+    item_id: 1944,
+    max_extra: 10,
+    price: 36600
+  }, {
+    item_id: 1945,
+    max_extra: 25,
+    price: 68500
+  }, {
+    item_id: 1946,
+    max_extra: 25,
+    price: 68500
+  }, {
+    item_id: 1947,
+    max_extra: 20,
+    price: 27900
+  }, {
+    item_id: 1955,
+    max_extra: 0,
+    price: 29500
+  }, {
+    item_id: 1956,
+    max_extra: 0,
+    price: 29500
+  }, {
+    item_id: 1957,
+    max_extra: 24,
+    price: 24800
+  }, {
+    item_id: 1958,
+    max_extra: 25,
+    price: 35400
+  }, {
+    item_id: 1960,
+    max_extra: 17,
+    price: 31200
+  }, {
+    item_id: 1961,
+    max_extra: 15,
+    price: 30200
+  }, {
+    item_id: 1962,
+    max_extra: 7,
+    price: 45700
+  }, {
+    item_id: 1963,
+    max_extra: 7,
+    price: 45700
+  }, {
+    item_id: 1964,
+    max_extra: 0,
+    price: 31400
+  }, {
+    item_id: 1965,
+    max_extra: 0,
+    price: 18900
+  }, {
+    item_id: 1966,
+    max_extra: 0,
+    price: 33500
+  }, {
+    item_id: 1967,
+    max_extra: 0,
+    price: 41200
+  }, {
+    item_id: 1968,
+    max_extra: 0,
+    price: 36100
+  }, {
+    item_id: 1969,
+    max_extra: 0,
+    price: 36100
+  }, {
+    item_id: 1970,
+    max_extra: 25,
+    price: 39100
+  }, {
+    item_id: 1972,
+    max_extra: 14,
+    price: 29400
+  }, {
+    item_id: 1973,
+    max_extra: 5,
+    price: 22100
+  }, {
+    item_id: 1974,
+    max_extra: 8,
+    price: 22100
+  }, {
+    item_id: 1976,
+    max_extra: 5,
+    price: 57300
+  }, {
+    item_id: 1977,
+    max_extra: 24,
+    price: 33200
+  }, {
+    item_id: 1978,
+    max_extra: 7,
+    price: 31200
+  }, {
+    item_id: 1979,
+    max_extra: 7,
+    price: 31200
+  }, {
+    item_id: 1980,
+    max_extra: 6,
+    price: 25500
+  }, {
+    item_id: 1981,
+    max_extra: 6,
+    price: 25500
+  }, {
+    item_id: 1982,
+    max_extra: 6,
+    price: 25500
+  }, {
+    item_id: 1983,
+    max_extra: 6,
+    price: 25500
+  }, {
+    item_id: 1984,
+    max_extra: 6,
+    price: 69500
+  }, {
+    item_id: 1985,
+    max_extra: 6,
+    price: 69500
+  }, {
+    item_id: 1986,
+    max_extra: 6,
+    price: 69500
+  }, {
+    item_id: 1987,
+    max_extra: 25,
+    price: 44200
+  }, {
+    item_id: 1988,
+    max_extra: 25,
+    price: 40100
+  }, {
+    item_id: 1989,
+    max_extra: 19,
+    price: 19500
+  }, {
+    item_id: 1990,
+    max_extra: 19,
+    price: 19500
+  }, {
+    item_id: 1991,
+    max_extra: 9,
+    price: 32800
+  }, {
+    item_id: 1992,
+    max_extra: 4,
+    price: 35400
+  }, {
+    item_id: 1914,
+    max_extra: 2,
+    price: 16500
+  }, {
+    item_id: 1915,
+    max_extra: 4,
+    price: 16500
+  }, {
+    item_id: 1916,
+    max_extra: 25,
+    price: 38700
+  }, {
+    item_id: 1917,
+    max_extra: 25,
+    price: 38700
+  }, {
+    item_id: 1918,
+    max_extra: 0,
+    price: 24200
+  }, {
+    item_id: 1919,
+    max_extra: 2,
+    price: 28500
+  }, {
+    item_id: 1920,
+    max_extra: 9,
+    price: 55800
+  }, {
+    item_id: 1921,
+    max_extra: 5,
+    price: 25800
+  }, {
+    item_id: 1922,
+    max_extra: 0,
+    price: 48400
+  }, {
+    item_id: 1923,
+    max_extra: 0,
+    price: 48400
+  }, {
+    item_id: 1924,
+    max_extra: 0,
+    price: 52800
+  }],
+  2: [{
+    item_id: 917,
+    max_extra: 15,
+    price: 4500
+  }, {
+    item_id: 918,
+    max_extra: 6,
+    price: 4200
+  }, {
+    item_id: 919,
+    max_extra: 2,
+    price: 3000
+  }, {
+    item_id: 920,
+    max_extra: 2,
+    price: 1200
+  }, {
+    item_id: 921,
+    max_extra: 4,
+    price: 80000
+  }, {
+    item_id: 922,
+    max_extra: 12,
+    price: 80000
+  }, {
+    item_id: 923,
+    max_extra: 15,
+    price: 11000
+  }, {
+    item_id: 924,
+    max_extra: 2,
+    price: 2000
+  }, {
+    item_id: 925,
+    max_extra: 2,
+    price: 6000
+  }, {
+    item_id: 926,
+    max_extra: 4,
+    price: 4500
+  }, {
+    item_id: 927,
+    max_extra: 3,
+    price: 2200
+  }, {
+    item_id: 928,
+    max_extra: 1,
+    price: 3000
+  }, {
+    item_id: 929,
+    max_extra: 0,
+    price: 22000
+  }, {
+    item_id: 930,
+    max_extra: 15,
+    price: 20000
+  }, {
+    item_id: 931,
+    max_extra: 15,
+    price: 19000
+  }, {
+    item_id: 932,
+    max_extra: 3,
+    price: 25000
+  }, {
+    item_id: 933,
+    max_extra: 3,
+    price: 23000
+  }, {
+    item_id: 934,
+    max_extra: 1,
+    price: 1200
+  }, {
+    item_id: 935,
+    max_extra: 19,
+    price: 15000
+  }, {
+    item_id: 936,
+    max_extra: 19,
+    price: 13000
+  }, {
+    item_id: 937,
+    max_extra: 7,
+    price: 2300
+  }, {
+    item_id: 938,
+    max_extra: 0,
+    price: 9000
+  }, {
+    item_id: 939,
+    max_extra: 0,
+    price: 11000
+  }, {
+    item_id: 940,
+    max_extra: 19,
+    price: 4400
+  }, {
+    item_id: 941,
+    max_extra: 1,
+    price: 18000
+  }, {
+    item_id: 942,
+    max_extra: 1,
+    price: 20000
+  }, {
+    item_id: 943,
+    max_extra: 7,
+    price: 80000
+  }, {
+    item_id: 944,
+    max_extra: 0,
+    price: 3400
+  }, {
+    item_id: 945,
+    max_extra: 2,
+    price: 2300
+  }, {
+    item_id: 946,
+    max_extra: 2,
+    price: 15000
+  }, {
+    item_id: 947,
+    max_extra: 2,
+    price: 21000
+  }, {
+    item_id: 948,
+    max_extra: 2,
+    price: 3200
+  }, {
+    item_id: 949,
+    max_extra: 3,
+    price: 2000
+  }, {
+    item_id: 950,
+    max_extra: 4,
+    price: 30000
+  }, {
+    item_id: 951,
+    max_extra: 5,
+    price: 18000
+  }, {
+    item_id: 952,
+    max_extra: 5,
+    price: 20000
+  }, {
+    item_id: 953,
+    max_extra: 11,
+    price: 50000
+  }, {
+    item_id: 954,
+    max_extra: 2,
+    price: 2000
+  }, {
+    item_id: 955,
+    max_extra: 2,
+    price: 10000
+  }, {
+    item_id: 956,
+    max_extra: 2,
+    price: 12000
+  }, {
+    item_id: 957,
+    max_extra: 2,
+    price: 12000
+  }, {
+    item_id: 958,
+    max_extra: 2,
+    price: 4000
+  }, {
+    item_id: 959,
+    max_extra: 2,
+    price: 12000
+  }, {
+    item_id: 960,
+    max_extra: 7,
+    price: 9000
+  }, {
+    item_id: 961,
+    max_extra: 7,
+    price: 11000
+  }, {
+    item_id: 962,
+    max_extra: 5,
+    price: 14000
+  }, {
+    item_id: 963,
+    max_extra: 5,
+    price: 10000
+  }, {
+    item_id: 964,
+    max_extra: 5,
+    price: 14000
+  }, {
+    item_id: 965,
+    max_extra: 15,
+    price: 20000
+  }, {
+    item_id: 966,
+    max_extra: 15,
+    price: 2300
+  }, {
+    item_id: 967,
+    max_extra: 15,
+    price: 20000
+  }, {
+    item_id: 968,
+    max_extra: 2,
+    price: 2700
+  }, {
+    item_id: 969,
+    max_extra: 2,
+    price: 2700
+  }, {
+    item_id: 970,
+    max_extra: 1,
+    price: 25000
+  }, {
+    item_id: 971,
+    max_extra: 17,
+    price: 20000
+  }, {
+    item_id: 972,
+    max_extra: 16,
+    price: 13000
+  }, {
+    item_id: 973,
+    max_extra: 16,
+    price: 11000
+  }, {
+    item_id: 974,
+    max_extra: 16,
+    price: 13000
+  }, {
+    item_id: 975,
+    max_extra: 16,
+    price: 13000
+  }, {
+    item_id: 976,
+    max_extra: 16,
+    price: 13000
+  }, {
+    item_id: 977,
+    max_extra: 16,
+    price: 11000
+  }, {
+    item_id: 978,
+    max_extra: 16,
+    price: 13000
+  }, {
+    item_id: 979,
+    max_extra: 16,
+    price: 13000
+  }, {
+    item_id: 980,
+    max_extra: 0,
+    price: 2300
+  }, {
+    item_id: 981,
+    max_extra: 0,
+    price: 1200
+  }, {
+    item_id: 982,
+    max_extra: 0,
+    price: 3400
+  }, {
+    item_id: 983,
+    max_extra: 11,
+    price: 3000
+  }, {
+    item_id: 984,
+    max_extra: 11,
+    price: 5000
+  }, {
+    item_id: 985,
+    max_extra: 25,
+    price: 1200
+  }, {
+    item_id: 986,
+    max_extra: 20,
+    price: 3000
+  }, {
+    item_id: 987,
+    max_extra: 20,
+    price: 2900
+  }, {
+    item_id: 988,
+    max_extra: 20,
+    price: 3700
+  }, {
+    item_id: 989,
+    max_extra: 20,
+    price: 3000
+  }, {
+    item_id: 990,
+    max_extra: 20,
+    price: 4200
+  }, {
+    item_id: 991,
+    max_extra: 20,
+    price: 4000
+  }, {
+    item_id: 992,
+    max_extra: 11,
+    price: 5000
+  }, {
+    item_id: 993,
+    max_extra: 11,
+    price: 2000
+  }, {
+    item_id: 994,
+    max_extra: 7,
+    price: 1800
+  }, {
+    item_id: 995,
+    max_extra: 21,
+    price: 2000
+  }, {
+    item_id: 996,
+    max_extra: 21,
+    price: 1900
+  }, {
+    item_id: 997,
+    max_extra: 21,
+    price: 2000
+  }],
+  3: [{
+    item_id: 667,
+    max_extra: 15,
+    price: 2700
+  }, {
+    item_id: 668,
+    max_extra: 15,
+    price: 3200
+  }, {
+    item_id: 1489,
+    max_extra: 2,
+    price: 7500
+  }, {
+    item_id: 669,
+    max_extra: 15,
+    price: 2000
+  }, {
+    item_id: 670,
+    max_extra: 15,
+    price: 9000
+  }, {
+    item_id: 1490,
+    max_extra: 2,
+    price: 8500
+  }, {
+    item_id: 1491,
+    max_extra: 2,
+    price: 9500
+  }, {
+    item_id: 1492,
+    max_extra: 12,
+    price: 10500
+  }, {
+    item_id: 671,
+    max_extra: 15,
+    price: 22000
+  }, {
+    item_id: 1493,
+    max_extra: 2,
+    price: 7900
+  }, {
+    item_id: 672,
+    max_extra: 15,
+    price: 5000
+  }, {
+    item_id: 673,
+    max_extra: 15,
+    price: 24000
+  }, {
+    item_id: 1494,
+    max_extra: 1,
+    price: 10900
+  }, {
+    item_id: 674,
+    max_extra: 9,
+    price: 20000
+  }, {
+    item_id: 675,
+    max_extra: 11,
+    price: 25000
+  }, {
+    item_id: 676,
+    max_extra: 1,
+    price: 2400
+  }, {
+    item_id: 677,
+    max_extra: 2,
+    price: 76000
+  }, {
+    item_id: 1495,
+    max_extra: 0,
+    price: 11300
+  }, {
+    item_id: 1496,
+    max_extra: 2,
+    price: 16800
+  }, {
+    item_id: 678,
+    max_extra: 12,
+    price: 22000
+  }, {
+    item_id: 679,
+    max_extra: 12,
+    price: 3400
+  }, {
+    item_id: 680,
+    max_extra: 12,
+    price: 7000
+  }, {
+    item_id: 681,
+    max_extra: 0,
+    price: 11000
+  }, {
+    item_id: 682,
+    max_extra: 15,
+    price: 52000
+  }, {
+    item_id: 683,
+    max_extra: 0,
+    price: 20000
+  }, {
+    item_id: 684,
+    max_extra: 4,
+    price: 2200
+  }, {
+    item_id: 685,
+    max_extra: 3,
+    price: 25000
+  }, {
+    item_id: 1497,
+    max_extra: 0,
+    price: 38200
+  }, {
+    item_id: 686,
+    max_extra: 0,
+    price: 3000
+  }, {
+    item_id: 1498,
+    max_extra: 0,
+    price: 14800
+  }, {
+    item_id: 687,
+    max_extra: 3,
+    price: 16000
+  }, {
+    item_id: 688,
+    max_extra: 6,
+    price: 2300
+  }, {
+    item_id: 1499,
+    max_extra: 3,
+    price: 16500
+  }, {
+    item_id: 1500,
+    max_extra: 3,
+    price: 12300
+  }, {
+    item_id: 689,
+    max_extra: 3,
+    price: 3600
+  }, {
+    item_id: 1501,
+    max_extra: 4,
+    price: 50500
+  }, {
+    item_id: 690,
+    max_extra: 4,
+    price: 6500
+  }, {
+    item_id: 691,
+    max_extra: 3,
+    price: 4300
+  }, {
+    item_id: 692,
+    max_extra: 6,
+    price: 7600
+  }, {
+    item_id: 693,
+    max_extra: 1,
+    price: 5300
+  }, {
+    item_id: 694,
+    max_extra: 4,
+    price: 11000
+  }, {
+    item_id: 695,
+    max_extra: 4,
+    price: 6600
+  }, {
+    item_id: 696,
+    max_extra: 3,
+    price: 4500
+  }, {
+    item_id: 697,
+    max_extra: 0,
+    price: 18000
+  }, {
+    item_id: 698,
+    max_extra: 3,
+    price: 2300
+  }, {
+    item_id: 699,
+    max_extra: 0,
+    price: 5300
+  }, {
+    item_id: 700,
+    max_extra: 5,
+    price: 65000
+  }, {
+    item_id: 701,
+    max_extra: 7,
+    price: 42000
+  }, {
+    item_id: 702,
+    max_extra: 3,
+    price: 2000
+  }, {
+    item_id: 1502,
+    max_extra: 2,
+    price: 16200
+  }, {
+    item_id: 1503,
+    max_extra: 15,
+    price: 19400
+  }, {
+    item_id: 1504,
+    max_extra: 9,
+    price: 22300
+  }, {
+    item_id: 703,
+    max_extra: 11,
+    price: 55000
+  }, {
+    item_id: 704,
+    max_extra: 11,
+    price: 78000
+  }, {
+    item_id: 705,
+    max_extra: 3,
+    price: 2600
+  }, {
+    item_id: 1505,
+    max_extra: 2,
+    price: 17800
+  }, {
+    item_id: 706,
+    max_extra: 10,
+    price: 1200
+  }, {
+    item_id: 707,
+    max_extra: 13,
+    price: 2300
+  }, {
+    item_id: 1506,
+    max_extra: 9,
+    price: 13700
+  }, {
+    item_id: 1507,
+    max_extra: 11,
+    price: 34800
+  }, {
+    item_id: 1508,
+    max_extra: 9,
+    price: 19600
+  }, {
+    item_id: 1509,
+    max_extra: 17,
+    price: 46800
+  }, {
+    item_id: 1510,
+    max_extra: 3,
+    price: 20500
+  }, {
+    item_id: 708,
+    max_extra: 5,
+    price: 3300
+  }, {
+    item_id: 1511,
+    max_extra: 5,
+    price: 42700
+  }, {
+    item_id: 709,
+    max_extra: 2,
+    price: 4100
+  }, {
+    item_id: 710,
+    max_extra: 2,
+    price: 1200
+  }, {
+    item_id: 711,
+    max_extra: 2,
+    price: 5600
+  }, {
+    item_id: 712,
+    max_extra: 3,
+    price: 7800
+  }, {
+    item_id: 713,
+    max_extra: 7,
+    price: 8000
+  }, {
+    item_id: 714,
+    max_extra: 2,
+    price: 2300
+  }, {
+    item_id: 715,
+    max_extra: 7,
+    price: 4500
+  }, {
+    item_id: 716,
+    max_extra: 2,
+    price: 6500
+  }, {
+    item_id: 717,
+    max_extra: 9,
+    price: 4300
+  }, {
+    item_id: 718,
+    max_extra: 3,
+    price: 5400
+  }, {
+    item_id: 1512,
+    max_extra: 15,
+    price: 62100
+  }, {
+    item_id: 719,
+    max_extra: 9,
+    price: 6200
+  }, {
+    item_id: 1513,
+    max_extra: 13,
+    price: 19500
+  }, {
+    item_id: 720,
+    max_extra: 25,
+    price: 4200
+  }, {
+    item_id: 721,
+    max_extra: 1,
+    price: 6400
+  }, {
+    item_id: 1514,
+    max_extra: 25,
+    price: 13200
+  }, {
+    item_id: 722,
+    max_extra: 25,
+    price: 4600
+  }, {
+    item_id: 1515,
+    max_extra: 20,
+    price: 58400
+  }, {
+    item_id: 1516,
+    max_extra: 6,
+    price: 22300
+  }, {
+    item_id: 723,
+    max_extra: 13,
+    price: 24000
+  }, {
+    item_id: 1517,
+    max_extra: 1,
+    price: 22500
+  }, {
+    item_id: 1518,
+    max_extra: 7,
+    price: 82700
+  }, {
+    item_id: 724,
+    max_extra: 11,
+    price: 44000
+  }, {
+    item_id: 725,
+    max_extra: 15,
+    price: 34000
+  }, {
+    item_id: 726,
+    max_extra: 0,
+    price: 51000
+  }, {
+    item_id: 727,
+    max_extra: 11,
+    price: 55000
+  }, {
+    item_id: 1519,
+    max_extra: 10,
+    price: 20700
+  }, {
+    item_id: 1520,
+    max_extra: 25,
+    price: 25400
+  }, {
+    item_id: 1521,
+    max_extra: 10,
+    price: 53500
+  }, {
+    item_id: 1522,
+    max_extra: 0,
+    price: 26700
+  }, {
+    item_id: 1523,
+    max_extra: 0,
+    price: 26700
+  }, {
+    item_id: 1524,
+    max_extra: 0,
+    price: 32900
+  }, {
+    item_id: 1525,
+    max_extra: 25,
+    price: 49700
+  }, {
+    item_id: 1526,
+    max_extra: 0,
+    price: 27500
+  }],
+  4: [{
+    item_id: 728,
+    max_extra: 15,
+    price: 4100
+  }, {
+    item_id: 729,
+    max_extra: 15,
+    price: 6000
+  }, {
+    item_id: 730,
+    max_extra: 15,
+    price: 2700
+  }, {
+    item_id: 731,
+    max_extra: 15,
+    price: 5600
+  }, {
+    item_id: 732,
+    max_extra: 15,
+    price: 11000
+  }, {
+    item_id: 733,
+    max_extra: 15,
+    price: 1400
+  }, {
+    item_id: 734,
+    max_extra: 15,
+    price: 25000
+  }, {
+    item_id: 735,
+    max_extra: 15,
+    price: 42000
+  }, {
+    item_id: 736,
+    max_extra: 11,
+    price: 4100
+  }, {
+    item_id: 737,
+    max_extra: 2,
+    price: 14000
+  }, {
+    item_id: 738,
+    max_extra: 11,
+    price: 24000
+  }, {
+    item_id: 739,
+    max_extra: 11,
+    price: 21000
+  }, {
+    item_id: 740,
+    max_extra: 9,
+    price: 3200
+  }, {
+    item_id: 741,
+    max_extra: 15,
+    price: 34000
+  }, {
+    item_id: 742,
+    max_extra: 0,
+    price: 2100
+  }, {
+    item_id: 743,
+    max_extra: 0,
+    price: 3100
+  }, {
+    item_id: 744,
+    max_extra: 0,
+    price: 4500
+  }, {
+    item_id: 745,
+    max_extra: 0,
+    price: 1200
+  }, {
+    item_id: 746,
+    max_extra: 0,
+    price: 3200
+  }, {
+    item_id: 747,
+    max_extra: 2,
+    price: 1300
+  }, {
+    item_id: 748,
+    max_extra: 0,
+    price: 1500
+  }, {
+    item_id: 749,
+    max_extra: 0,
+    price: 20000
+  }, {
+    item_id: 750,
+    max_extra: 4,
+    price: 4200
+  }, {
+    item_id: 751,
+    max_extra: 1,
+    price: 4300
+  }, {
+    item_id: 752,
+    max_extra: 3,
+    price: 1200
+  }, {
+    item_id: 753,
+    max_extra: 4,
+    price: 3100
+  }, {
+    item_id: 754,
+    max_extra: 4,
+    price: 2000
+  }, {
+    item_id: 755,
+    max_extra: 11,
+    price: 11000
+  }, {
+    item_id: 756,
+    max_extra: 7,
+    price: 45000
+  }, {
+    item_id: 757,
+    max_extra: 7,
+    price: 40000
+  }, {
+    item_id: 758,
+    max_extra: 10,
+    price: 4100
+  }, {
+    item_id: 759,
+    max_extra: 10,
+    price: 2300
+  }, {
+    item_id: 760,
+    max_extra: 9,
+    price: 4500
+  }, {
+    item_id: 761,
+    max_extra: 1,
+    price: 3200
+  }, {
+    item_id: 762,
+    max_extra: 1,
+    price: 5700
+  }, {
+    item_id: 763,
+    max_extra: 5,
+    price: 1200
+  }, {
+    item_id: 764,
+    max_extra: 5,
+    price: 5600
+  }, {
+    item_id: 765,
+    max_extra: 1,
+    price: 4500
+  }, {
+    item_id: 766,
+    max_extra: 5,
+    price: 6800
+  }, {
+    item_id: 767,
+    max_extra: 5,
+    price: 7800
+  }, {
+    item_id: 768,
+    max_extra: 2,
+    price: 5600
+  }, {
+    item_id: 769,
+    max_extra: 2,
+    price: 6700
+  }, {
+    item_id: 770,
+    max_extra: 1,
+    price: 4600
+  }, {
+    item_id: 771,
+    max_extra: 11,
+    price: 56000
+  }, {
+    item_id: 772,
+    max_extra: 7,
+    price: 2200
+  }, {
+    item_id: 773,
+    max_extra: 7,
+    price: 1200
+  }, {
+    item_id: 774,
+    max_extra: 7,
+    price: 2000
+  }, {
+    item_id: 775,
+    max_extra: 7,
+    price: 3100
+  }, {
+    item_id: 776,
+    max_extra: 6,
+    price: 4400
+  }, {
+    item_id: 777,
+    max_extra: 6,
+    price: 3200
+  }, {
+    item_id: 2679,
+    max_extra: 25,
+    price: 10000
+  }, {
+    item_id: 778,
+    max_extra: 25,
+    price: 3300
+  }, {
+    item_id: 779,
+    max_extra: 25,
+    price: 4400
+  }, {
+    item_id: 780,
+    max_extra: 25,
+    price: 5000
+  }, {
+    item_id: 781,
+    max_extra: 25,
+    price: 5100
+  }, {
+    item_id: 782,
+    max_extra: 25,
+    price: 5200
+  }, {
+    item_id: 783,
+    max_extra: 8,
+    price: 3400
+  }, {
+    item_id: 784,
+    max_extra: 1,
+    price: 1200
+  }, {
+    item_id: 785,
+    max_extra: 25,
+    price: 65000
+  }, {
+    item_id: 786,
+    max_extra: 25,
+    price: 50000
+  }, {
+    item_id: 787,
+    max_extra: 13,
+    price: 4100
+  }, {
+    item_id: 788,
+    max_extra: 1,
+    price: 56000
+  }, {
+    item_id: 789,
+    max_extra: 1,
+    price: 50000
+  }, {
+    item_id: 790,
+    max_extra: 2,
+    price: 4100
+  }, {
+    item_id: 791,
+    max_extra: 2,
+    price: 2800
+  }, {
+    item_id: 792,
+    max_extra: 7,
+    price: 56000
+  }, {
+    item_id: 793,
+    max_extra: 15,
+    price: 50000
+  }, {
+    item_id: 794,
+    max_extra: 15,
+    price: 13000
+  }, {
+    item_id: 795,
+    max_extra: 17,
+    price: 24000
+  }, {
+    item_id: 796,
+    max_extra: 11,
+    price: 70000
+  }, {
+    item_id: 797,
+    max_extra: 0,
+    price: 5400
+  }],
+  5: [{
+    item_id: 815,
+    max_extra: 0,
+    price: 25000
+  }, {
+    item_id: 816,
+    max_extra: 0,
+    price: 26000
+  }, {
+    item_id: 817,
+    max_extra: 0,
+    price: 24000
+  }, {
+    item_id: 818,
+    max_extra: 0,
+    price: 35000
+  }, {
+    item_id: 829,
+    max_extra: 7,
+    price: 2000
+  }, {
+    item_id: 831,
+    max_extra: 0,
+    price: 19000
+  }]
+}];
+const jewCatalog = [{
+  0: [{
+    item_id: 260,
+    max_extra: 2,
+    price: 100000
+  }, {
+    item_id: 261,
+    max_extra: 0,
+    price: 15000
+  }, {
+    item_id: 262,
+    max_extra: 0,
+    price: 15000
+  }, {
+    item_id: 263,
+    max_extra: 4,
+    price: 10000
+  }, {
+    item_id: 264,
+    max_extra: 12,
+    price: 20000
+  }, {
+    item_id: 265,
+    max_extra: 14,
+    price: 40000
+  }, {
+    item_id: 266,
+    max_extra: 12,
+    price: 20000
+  }, {
+    item_id: 267,
+    max_extra: 15,
+    price: 15000
+  }, {
+    item_id: 268,
+    max_extra: 15,
+    price: 15000
+  }, {
+    item_id: 269,
+    max_extra: 15,
+    price: 15000
+  }, {
+    item_id: 270,
+    max_extra: 15,
+    price: 15000
+  }, {
+    item_id: 271,
+    max_extra: 15,
+    price: 25000
+  }, {
+    item_id: 272,
+    max_extra: 15,
+    price: 25000
+  }, {
+    item_id: 273,
+    max_extra: 5,
+    price: 50000
+  }, {
+    item_id: 274,
+    max_extra: 2,
+    price: 100000
+  }, {
+    item_id: 275,
+    max_extra: 3,
+    price: 60000
+  }, {
+    item_id: 276,
+    max_extra: 0,
+    price: 10000
+  }, {
+    item_id: 277,
+    max_extra: 15,
+    price: 18000
+  }, {
+    item_id: 278,
+    max_extra: 15,
+    price: 25000
+  }, {
+    item_id: 279,
+    max_extra: 15,
+    price: 20000
+  }, {
+    item_id: 280,
+    max_extra: 1,
+    price: 200000
+  }, {
+    item_id: 281,
+    max_extra: 1,
+    price: 500000
+  }, {
+    item_id: 282,
+    max_extra: 0,
+    price: 400000
+  }, {
+    item_id: 283,
+    max_extra: 1,
+    price: 400000
+  }, {
+    item_id: 284,
+    max_extra: 1,
+    price: 520000
+  }, {
+    item_id: 285,
+    max_extra: 1,
+    price: 550000
+  }, {
+    item_id: 286,
+    max_extra: 1,
+    price: 600000
+  }, {
+    item_id: 287,
+    max_extra: 1,
+    price: 150000
+  }, {
+    item_id: 288,
+    max_extra: 1,
+    price: 220000
+  }, {
+    item_id: 289,
+    max_extra: 1,
+    price: 230000
+  }, {
+    item_id: 290,
+    max_extra: 1,
+    price: 100000
+  }, {
+    item_id: 291,
+    max_extra: 1,
+    price: 250000
+  }, {
+    item_id: 293,
+    max_extra: 1,
+    price: 220000
+  }, {
+    item_id: 294,
+    max_extra: 1,
+    price: 230000
+  }, {
+    item_id: 295,
+    max_extra: 1,
+    price: 200000
+  }, {
+    item_id: 296,
+    max_extra: 1,
+    price: 300000
+  }, {
+    item_id: 297,
+    max_extra: 1,
+    price: 350000
+  }, {
+    item_id: 302,
+    max_extra: 1,
+    price: 600000
+  }, {
+    item_id: 2127,
+    max_extra: 2,
+    price: 150000
+  }, {
+    item_id: 303,
+    max_extra: 0,
+    price: 1000000
+  }, {
+    item_id: 304,
+    max_extra: 0,
+    price: 300000
+  }, {
+    item_id: 305,
+    max_extra: 1,
+    price: 100000
+  }, {
+    item_id: 308,
+    max_extra: 0,
+    price: 140000
+  }, {
+    item_id: 309,
+    max_extra: 1,
+    price: 500000
+  }, {
+    item_id: 310,
+    max_extra: 1,
+    price: 500000
+  }, {
+    item_id: 311,
+    max_extra: 1,
+    price: 1000000
+  }, {
+    item_id: 312,
+    max_extra: 1,
+    price: 300000
+  }, {
+    item_id: 313,
+    max_extra: 0,
+    price: 1500000
+  }, {
+    item_id: 1708,
+    max_extra: 0,
+    price: 1500000
+  }],
+  1: [{
+    item_id: 832,
+    max_extra: 0,
+    price: 1000000
+  }, {
+    item_id: 833,
+    max_extra: 0,
+    price: 100000
+  }, {
+    item_id: 834,
+    max_extra: 4,
+    price: 1000000
+  }, {
+    item_id: 835,
+    max_extra: 3,
+    price: 1500000
+  }, {
+    item_id: 836,
+    max_extra: 3,
+    price: 300000
+  }, {
+    item_id: 837,
+    max_extra: 2,
+    price: 2000000
+  }, {
+    item_id: 838,
+    max_extra: 2,
+    price: 300000
+  }, {
+    item_id: 839,
+    max_extra: 2,
+    price: 2500000
+  }, {
+    item_id: 840,
+    max_extra: 2,
+    price: 500000
+  }, {
+    item_id: 841,
+    max_extra: 2,
+    price: 700000
+  }, {
+    item_id: 842,
+    max_extra: 2,
+    price: 700000
+  }, {
+    item_id: 843,
+    max_extra: 2,
+    price: 500000
+  }, {
+    item_id: 844,
+    max_extra: 2,
+    price: 500000
+  }, {
+    item_id: 845,
+    max_extra: 2,
+    price: 600000
+  }, {
+    item_id: 846,
+    max_extra: 2,
+    price: 1200000
+  }, {
+    item_id: 847,
+    max_extra: 2,
+    price: 1700000
+  }, {
+    item_id: 848,
+    max_extra: 2,
+    price: 300000
+  }, {
+    item_id: 849,
+    max_extra: 2,
+    price: 1800000
+  }, {
+    item_id: 850,
+    max_extra: 2,
+    price: 1700000
+  }, {
+    item_id: 851,
+    max_extra: 2,
+    price: 1500000
+  }, {
+    item_id: 852,
+    max_extra: 2,
+    price: 3000000
+  }, {
+    item_id: 853,
+    max_extra: 0,
+    price: 400000
+  }, {
+    item_id: 854,
+    max_extra: 0,
+    price: 150000
+  }, {
+    item_id: 855,
+    max_extra: 0,
+    price: 300000
+  }, {
+    item_id: 856,
+    max_extra: 0,
+    price: 700000
+  }, {
+    item_id: 857,
+    max_extra: 0,
+    price: 500000
+  }, {
+    item_id: 858,
+    max_extra: 0,
+    price: 1500000
+  }, {
+    item_id: 859,
+    max_extra: 0,
+    price: 1500000
+  }, {
+    item_id: 860,
+    max_extra: 3,
+    price: 1000000
+  }],
+  2: [{
+    item_id: 1744,
+    max_extra: 2,
+    price: 100000
+  }, {
+    item_id: 1745,
+    max_extra: 2,
+    price: 100000
+  }, {
+    item_id: 1746,
+    max_extra: 2,
+    price: 200000
+  }, {
+    item_id: 1747,
+    max_extra: 1,
+    price: 120000
+  }, {
+    item_id: 1748,
+    max_extra: 1,
+    price: 120000
+  }, {
+    item_id: 1749,
+    max_extra: 1,
+    price: 240000
+  }, {
+    item_id: 1750,
+    max_extra: 2,
+    price: 110000
+  }, {
+    item_id: 1751,
+    max_extra: 2,
+    price: 110000
+  }, {
+    item_id: 1752,
+    max_extra: 2,
+    price: 220000
+  }, {
+    item_id: 1753,
+    max_extra: 2,
+    price: 130000
+  }, {
+    item_id: 1754,
+    max_extra: 2,
+    price: 130000
+  }, {
+    item_id: 1755,
+    max_extra: 2,
+    price: 260000
+  }, {
+    item_id: 1756,
+    max_extra: 2,
+    price: 90000
+  }, {
+    item_id: 1757,
+    max_extra: 2,
+    price: 90000
+  }, {
+    item_id: 1758,
+    max_extra: 2,
+    price: 180000
+  }, {
+    item_id: 1759,
+    max_extra: 4,
+    price: 150000
+  }, {
+    item_id: 1760,
+    max_extra: 4,
+    price: 150000
+  }, {
+    item_id: 1761,
+    max_extra: 4,
+    price: 300000
+  }, {
+    item_id: 1762,
+    max_extra: 1,
+    price: 160000
+  }, {
+    item_id: 1763,
+    max_extra: 1,
+    price: 160000
+  }, {
+    item_id: 1764,
+    max_extra: 1,
+    price: 320000
+  }, {
+    item_id: 1765,
+    max_extra: 3,
+    price: 150000
+  }, {
+    item_id: 1766,
+    max_extra: 3,
+    price: 150000
+  }, {
+    item_id: 1767,
+    max_extra: 3,
+    price: 300000
+  }, {
+    item_id: 1768,
+    max_extra: 1,
+    price: 100000
+  }, {
+    item_id: 1769,
+    max_extra: 1,
+    price: 100000
+  }, {
+    item_id: 1770,
+    max_extra: 1,
+    price: 200000
+  }, {
+    item_id: 1771,
+    max_extra: 2,
+    price: 100000
+  }, {
+    item_id: 1772,
+    max_extra: 2,
+    price: 100000
+  }, {
+    item_id: 1773,
+    max_extra: 2,
+    price: 200000
+  }, {
+    item_id: 1774,
+    max_extra: 1,
+    price: 150000
+  }, {
+    item_id: 1775,
+    max_extra: 1,
+    price: 150000
+  }, {
+    item_id: 1776,
+    max_extra: 1,
+    price: 300000
+  }, {
+    item_id: 1777,
+    max_extra: 1,
+    price: 400000
+  }, {
+    item_id: 1778,
+    max_extra: 3,
+    price: 350000
+  }, {
+    item_id: 1779,
+    max_extra: 3,
+    price: 350000
+  }, {
+    item_id: 1780,
+    max_extra: 3,
+    price: 350000
+  }]
+}, {
+  0: [{
+    item_id: 625,
+    max_extra: 5,
+    price: 120000
+  }, {
+    item_id: 626,
+    max_extra: 5,
+    price: 200000
+  }, {
+    item_id: 627,
+    max_extra: 5,
+    price: 20000
+  }, {
+    item_id: 629,
+    max_extra: 5,
+    price: 200000
+  }, {
+    item_id: 1730,
+    max_extra: 5,
+    price: 200000
+  }, {
+    item_id: 1731,
+    max_extra: 0,
+    price: 50000
+  }, {
+    item_id: 1732,
+    max_extra: 3,
+    price: 50000
+  }, {
+    item_id: 630,
+    max_extra: 3,
+    price: 170000
+  }, {
+    item_id: 631,
+    max_extra: 2,
+    price: 300000
+  }, {
+    item_id: 1733,
+    max_extra: 5,
+    price: 25000
+  }, {
+    item_id: 632,
+    max_extra: 3,
+    price: 80000
+  }, {
+    item_id: 633,
+    max_extra: 4,
+    price: 50000
+  }, {
+    item_id: 634,
+    max_extra: 3,
+    price: 50000
+  }, {
+    item_id: 635,
+    max_extra: 3,
+    price: 50000
+  }, {
+    item_id: 1734,
+    max_extra: 0,
+    price: 40000
+  }, {
+    item_id: 1735,
+    max_extra: 15,
+    price: 42000
+  }, {
+    item_id: 1736,
+    max_extra: 2,
+    price: 41000
+  }, {
+    item_id: 1737,
+    max_extra: 15,
+    price: 42000
+  }, {
+    item_id: 1738,
+    max_extra: 2,
+    price: 40000
+  }, {
+    item_id: 1739,
+    max_extra: 15,
+    price: 20000
+  }, {
+    item_id: 1740,
+    max_extra: 2,
+    price: 20000
+  }, {
+    item_id: 1741,
+    max_extra: 15,
+    price: 20000
+  }, {
+    item_id: 637,
+    max_extra: 1,
+    price: 500000
+  }, {
+    item_id: 638,
+    max_extra: 1,
+    price: 700000
+  }, {
+    item_id: 639,
+    max_extra: 0,
+    price: 450000
+  }, {
+    item_id: 640,
+    max_extra: 1,
+    price: 500000
+  }, {
+    item_id: 641,
+    max_extra: 1,
+    price: 340000
+  }, {
+    item_id: 642,
+    max_extra: 1,
+    price: 500000
+  }, {
+    item_id: 643,
+    max_extra: 1,
+    price: 600000
+  }, {
+    item_id: 644,
+    max_extra: 1,
+    price: 900000
+  }, {
+    item_id: 1742,
+    max_extra: 1,
+    price: 900000
+  }, {
+    item_id: 645,
+    max_extra: 1,
+    price: 1000000
+  }, {
+    item_id: 646,
+    max_extra: 1,
+    price: 1000000
+  }, {
+    item_id: 647,
+    max_extra: 1,
+    price: 1000000
+  }, {
+    item_id: 648,
+    max_extra: 1,
+    price: 1000000
+  }, {
+    item_id: 649,
+    max_extra: 1,
+    price: 1000000
+  }, {
+    item_id: 650,
+    max_extra: 1,
+    price: 1000000
+  }, {
+    item_id: 651,
+    max_extra: 1,
+    price: 500000
+  }, {
+    item_id: 652,
+    max_extra: 1,
+    price: 1000000
+  }, {
+    item_id: 653,
+    max_extra: 1,
+    price: 1500000
+  }, {
+    item_id: 655,
+    max_extra: 2,
+    price: 50000
+  }, {
+    item_id: 656,
+    max_extra: 0,
+    price: 1000000
+  }, {
+    item_id: 657,
+    max_extra: 0,
+    price: 300000
+  }, {
+    item_id: 658,
+    max_extra: 1,
+    price: 25000
+  }, {
+    item_id: 659,
+    max_extra: 9,
+    price: 20000
+  }, {
+    item_id: 661,
+    max_extra: 1,
+    price: 1000000
+  }, {
+    item_id: 662,
+    max_extra: 1,
+    price: 1000000
+  }, {
+    item_id: 663,
+    max_extra: 1,
+    price: 1000000
+  }, {
+    item_id: 664,
+    max_extra: 1,
+    price: 300000
+  }, {
+    item_id: 665,
+    max_extra: 0,
+    price: 2000000
+  }, {
+    item_id: 666,
+    max_extra: 0,
+    price: 2000000
+  }, {
+    item_id: 1743,
+    max_extra: 0,
+    price: 1500000
+  }],
+  1: [{
+    item_id: 861,
+    max_extra: 3,
+    price: 3000000
+  }, {
+    item_id: 862,
+    max_extra: 2,
+    price: 2000000
+  }, {
+    item_id: 863,
+    max_extra: 2,
+    price: 300000
+  }, {
+    item_id: 864,
+    max_extra: 2,
+    price: 2000000
+  }, {
+    item_id: 865,
+    max_extra: 2,
+    price: 1000000
+  }, {
+    item_id: 866,
+    max_extra: 2,
+    price: 1500000
+  }, {
+    item_id: 867,
+    max_extra: 2,
+    price: 1100000
+  }, {
+    item_id: 868,
+    max_extra: 2,
+    price: 1000000
+  }, {
+    item_id: 869,
+    max_extra: 2,
+    price: 500000
+  }, {
+    item_id: 870,
+    max_extra: 0,
+    price: 300000
+  }, {
+    item_id: 871,
+    max_extra: 0,
+    price: 500000
+  }, {
+    item_id: 872,
+    max_extra: 0,
+    price: 500000
+  }, {
+    item_id: 873,
+    max_extra: 0,
+    price: 700000
+  }, {
+    item_id: 874,
+    max_extra: 0,
+    price: 500000
+  }, {
+    item_id: 875,
+    max_extra: 0,
+    price: 1500000
+  }, {
+    item_id: 876,
+    max_extra: 0,
+    price: 1500000
+  }, {
+    item_id: 877,
+    max_extra: 3,
+    price: 1000000
+  }],
+  2: [{
+    item_id: 1781,
+    max_extra: 0,
+    price: 200000
+  }, {
+    item_id: 1782,
+    max_extra: 0,
+    price: 220000
+  }, {
+    item_id: 1783,
+    max_extra: 0,
+    price: 230000
+  }, {
+    item_id: 1784,
+    max_extra: 2,
+    price: 240000
+  }, {
+    item_id: 1785,
+    max_extra: 2,
+    price: 250000
+  }, {
+    item_id: 1786,
+    max_extra: 2,
+    price: 260000
+  }, {
+    item_id: 1787,
+    max_extra: 2,
+    price: 200000
+  }, {
+    item_id: 1788,
+    max_extra: 2,
+    price: 190000
+  }, {
+    item_id: 1789,
+    max_extra: 2,
+    price: 210000
+  }, {
+    item_id: 1790,
+    max_extra: 2,
+    price: 195000
+  }, {
+    item_id: 1791,
+    max_extra: 0,
+    price: 230000
+  }, {
+    item_id: 1792,
+    max_extra: 0,
+    price: 210000
+  }, {
+    item_id: 1793,
+    max_extra: 0,
+    price: 230000
+  }, {
+    item_id: 1794,
+    max_extra: 0,
+    price: 240000
+  }, {
+    item_id: 1795,
+    max_extra: 0,
+    price: 240000
+  }, {
+    item_id: 1796,
+    max_extra: 1,
+    price: 180000
+  }, {
+    item_id: 1797,
+    max_extra: 3,
+    price: 250000
+  }, {
+    item_id: 1798,
+    max_extra: 3,
+    price: 250000
+  }, {
+    item_id: 1799,
+    max_extra: 3,
+    price: 250000
+  }]
+}];
+global.nightvisionAllowed = false;
+global.nightvisionState = false;
+global.toggleNightvision = function (_0x8d48cc) {
+  mp.game.graphics.setNightvision(_0x8d48cc);
+};
+mp.events.add("Client_SetNightvisionActive", _0x5b81a9 => {
+  nightvisionAllowed = _0x5b81a9;
+  if (_0x5b81a9) {
+    HintShow(language["Используйте клавишу N, чтобы активировать ночное зрение"][curr_lang]);
+  } else {
+    toggleNightvision(false);
+  }
+});
+mp.keys.bind(78, false, function () {
+  if (nightvisionAllowed && !chatActive && !dialog_window && loggedin && GlobalCheck() != 1) {
+    nightvisionState = !nightvisionState;
+    toggleNightvision(nightvisionState);
+  }
+});

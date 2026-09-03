@@ -1,1 +1,3218 @@
-(function(_0x2d5919,_0x88bda5){const _0xb355b2={_0x3be812:0x261,_0x2a7e73:0x23e,_0x4e7d69:0x150,_0x8378bd:0x9a,_0x511c4b:0x1ef,_0x19f637:0x143,_0x551d0b:0x1d4,_0x4622ca:0x17c,_0x3ee5a4:0x128,_0x4e7a24:0x27e,_0x1de054:0x3f,_0xd6bcd3:0x70},_0x388383={_0x30aef8:0xc9},_0x209140=_0x2d5919();function _0x7ae035(_0x3c037d,_0x31d297){return _0x4575(_0x31d297- -0xe1,_0x3c037d);}function _0x2d964e(_0xc3e426,_0x24bc2b){return _0x4575(_0x24bc2b- -_0x388383._0x30aef8,_0xc3e426);}while(!![]){try{const _0x4bffe7=parseInt(_0x2d964e(_0xb355b2._0x3be812,_0xb355b2._0x2a7e73))/0x1*(parseInt(_0x2d964e(_0xb355b2._0x4e7d69,_0xb355b2._0x8378bd))/0x2)+-parseInt(_0x2d964e(_0xb355b2._0x511c4b,_0xb355b2._0x19f637))/0x3*(parseInt(_0x7ae035(_0xb355b2._0x551d0b,_0xb355b2._0x4622ca))/0x4)+-parseInt(_0x7ae035(_0xb355b2._0x3ee5a4,0x6b))/0x5*(-parseInt(_0x2d964e(0xd1,0x89))/0x6)+-parseInt(_0x7ae035(0x114,0x81))/0x7+-parseInt(_0x7ae035(0x2d,0x83))/0x8+-parseInt(_0x2d964e(_0xb355b2._0x4e7a24,0x1f2))/0x9+-parseInt(_0x2d964e(-_0xb355b2._0x1de054,_0xb355b2._0xd6bcd3))/0xa*(-parseInt(_0x2d964e(0x129,0xa9))/0xb);if(_0x4bffe7===_0x88bda5)break;else _0x209140['push'](_0x209140['shift']());}catch(_0x11b8a0){_0x209140['push'](_0x209140['shift']());}}}(_0x5e99,0xbe27c));const _0x808d8b=(function(){const _0x53998d={_0x226fff:0x1bf,_0x4c6382:0x23c,_0x4f2600:0x211,_0x42ebf3:0x359,_0x417107:0x308,_0x3d00c2:0x23e,_0x1e854f:0x2eb,_0x37b0b4:0xdc,_0xbe143b:0x205,_0x1bbdb7:0x2f,_0x220354:0x3,_0x29f278:0x122,_0xee31ed:0x242,_0x1cf9fc:0x131,_0x1110f3:0x47,_0xbf44e:0x181,_0x429983:0xff,_0xc23834:0x35b,_0x3a5bbd:0x1d1,_0x3a18b0:0x44,_0x40bf2c:0x48},_0x166d5e={_0x12e3d0:0xde,_0x510996:0x80,_0x47cc0f:0x12f,_0x23a3bd:0x235,_0x4b1d82:0x1e4,_0x465ea8:0x234,_0x53ac82:0x227,_0x28270a:0x92,_0x26eda8:0xfe};let _0xbb081c=!![];return function(_0x19620f,_0x1bc07b){const _0x4d1b5f={_0x52da6c:0x5d},_0x4508e0={_0x14bb9c:0x1a1};function _0x516a5f(_0x5929bf,_0x31f3a1){return _0x4575(_0x31f3a1- -_0x4508e0._0x14bb9c,_0x5929bf);}function _0x49a847(_0x409c57,_0x53ba4e){return _0x4575(_0x53ba4e-0x12,_0x409c57);}if(_0x49a847(_0x53998d._0x226fff,_0x53998d._0x4c6382)===_0x49a847(0x223,0x1a3)){let _0x2f392=_0x307bef[_0x70de86[_0x516a5f(_0x53998d._0x4f2600,0x181)]];_0x1d25cc[_0x49a847(_0x53998d._0x42ebf3,0x2c9)]&&_0xc0ef86[_0xeed14a[_0x49a847(0x2ea,0x334)]]&&(_0x2f392=_0x3e391f[_0x412fee[_0x49a847(_0x53998d._0x417107,0x334)]]),_0x2f392&&_0x134715[_0x49a847(_0x53998d._0x3d00c2,_0x53998d._0x1e854f)][_0x516a5f(-_0x53998d._0x37b0b4,-0x66)][_0x516a5f(_0x53998d._0xbe143b,0x172)](_0x2f392[_0x516a5f(-_0x53998d._0x1bbdb7,_0x53998d._0x220354)],_0x1d719f[_0x1e177f[_0x516a5f(_0x53998d._0x29f278,0x181)]][_0x49a847(0x279,_0x53998d._0xee31ed)],_0x1fd65b[_0x56f0d2[_0x516a5f(0x244,0x181)]][_0x516a5f(-_0x53998d._0x1cf9fc,-_0x53998d._0x1110f3)],_0x24a358[_0x3a4d1b[_0x516a5f(0xbf,_0x53998d._0xbf44e)]][_0x516a5f(0x88,_0x53998d._0x429983)]?_0x5e43ec[_0x106854[_0x49a847(_0x53998d._0xc23834,0x334)]][_0x49a847(_0x53998d._0x3a5bbd,0x2b2)]:_0x516a5f(_0x53998d._0x3a18b0,-_0x53998d._0x40bf2c),!0x1);}else{const _0x47aa4f=_0xbb081c?function(){function _0x58b054(_0x174e2f,_0x91783d){return _0x4575(_0x174e2f- -0x357,_0x91783d);}function _0x56e857(_0x4708ae,_0x582923){return _0x4575(_0x4708ae- -_0x4d1b5f._0x52da6c,_0x582923);}if(_0x1bc07b){if(_0x58b054(-_0x166d5e._0x12e3d0,-_0x166d5e._0x510996)===_0x56e857(0x21c,_0x166d5e._0x47cc0f)){const _0x581288=_0x1bc07b[_0x56e857(_0x166d5e._0x23a3bd,0x2df)](_0x19620f,arguments);return _0x1bc07b=null,_0x581288;}else _0x4eeee6[_0x56e857(0x169,_0x166d5e._0x4b1d82)]['new'](_0x12690a[_0x58b054(-0x7e,-0x12a)]['joaat'](_0x444e5f[_0x58b054(-0xc3,-0x1d)]),new _0x341cf7[(_0x56e857(_0x166d5e._0x465ea8,_0x166d5e._0x53ac82))](_0x25b410[_0x58b054(-0xf5,-0x1b6)][0x0],_0x27b2fb[_0x58b054(-0xf5,-0x125)][0x1],_0x42dcef[_0x58b054(-0xf5,-_0x166d5e._0x28270a)][0x2]),_0x3f7660[_0x58b054(-_0x166d5e._0x26eda8,-0xd4)],_0x288260=>{},0x0);}}:function(){};return _0xbb081c=![],_0x47aa4f;}};}());function _0x260ef2(_0x25ea6a,_0x24dc04){const _0x1b2ae3={_0x252e3e:0x281};return _0x4575(_0x25ea6a- -_0x1b2ae3._0x252e3e,_0x24dc04);}const _0x2041f3=_0x808d8b(this,function(){const _0x184015={_0x5accb5:0x212,_0x4e473e:0x1dd,_0x39c3ac:0x44c,_0x9ef860:0x463},_0x1c559d={_0xa4519f:0x26a};function _0x2c6b7a(_0x20e206,_0x51efb2){return _0x4575(_0x51efb2- -0xe7,_0x20e206);}function _0x30dcc2(_0x1599c1,_0x12661d){return _0x4575(_0x12661d-_0x1c559d._0xa4519f,_0x1599c1);}return _0x2041f3[_0x2c6b7a(0x198,_0x184015._0x5accb5)]()[_0x2c6b7a(0x246,_0x184015._0x4e473e)](_0x2c6b7a(0x2f1,0x209))[_0x2c6b7a(0x120,0x212)]()['constructor'](_0x2041f3)[_0x30dcc2(_0x184015._0x39c3ac,0x52e)](_0x30dcc2(_0x184015._0x9ef860,0x55a));});function _0x5e99(){const _0x1ac603=['Cg9ZAxrPB24','Dv9Tx21Fzwr0B2G','qxjJAgLLie11CNbOEq','z19Tx3LFBg9ZDf8WmW','twvSAxnZysbtAg9Wzxi','0j/rGnc10l/qVTc00ldqSTcW0ylqTDc70yWk0khqVTgg0lJqVTc70l7qS9c40lG','r2vVCMDLie5HC2G','uNLHBIbdB29Wzxi','tgTnqwu','u29WAgLLierVDwDSyxm','twfYAYbhCMfUDa','ugf1BcbhCMLMzMLU','AwDFChjPzxn0','z19Tx3LFBwv4z29VBL8WmG','C3bLzwnO','qMfYDgHVBg9TzxCGqNjVB2TZ','r2vYyxjKifjVyMjPBNm','r19nx01FqvjnteLfvvrFmdfFv0HjvevFqvjnru5jqu5FtuLosv8Wmq','sxnHywmGsg93yxjK','BgfIzwXZ','s2vUBMv0AcbhB29KD2LU','AwDFAM9Zzwy','yv9Tx3LFyNvZAw5LC3nFmdi','twf0DgHLDYbqCMvZDg9U','uMfMywvSieD1ywPHCMrV','rwr3yxjKieDYAwzMAw4','yv9Tx21FC29Jzw5SyxrFmde','AxnFAgfSBg93zwvU','BMv3u3bOzxjL','ugHPBgLWieDYB2nLCG','yv9Mx21FyMv2AgLSBhnFmde','qM9IieD1BM5LCG','u19nx1LFquLsv09ss0vsx0XbveLot19gvuXmxZaY','qMvUifrPz2vY','qv9nx1LFqKvbq0HFmdfFq0HjtKvtrv9gvuXmxZaX','uM9UywXKieHVBgXHBMq','zM9YrwfJAa','r2LSyMvYDcbnDxjWAhK','vhjHy3KGtwf0DgHLD3m','AwDFzW','v2LSBgLZifjLzwq','u3rLDMvUifbHCMTLCG','uNvKB2XWAcbxB29K','qv9nx1LFqLvtsu5fu1nFmdnFv0HjvevFtuLosv8Wmq','twLJAgfLBcbtAgvWAgvYza','sMfTzxmGqNvPBgrLCG','yv9Tx21FAgLSBgjPBgX5xZaX','rwr3yxjKiejHBMTZ','qvbquY5ZDgf0zs5ODwqUAw50zxjHy3qGpsbMywXZztS','BxbFz19Tx3bYB3nFmde','twL0y2HLBgWGv2f0Dhm','y0Pgzuu','BMv3','yv9Mx3LFyMv2AgLSBhnFmde','s2vPC2HHiejYB3DU','CM90','z19Tx3LFC3rYChvUA18Wmq','uM9NzxiGr2LSBa','qNjPyw4Gug9VBgu','ne9MwMrRwq','sM9ZAhvHie1Jr2vL','y3nFBw92ChjLBw1HBgu','uMLJAgfYzcbbBgv4yw5Kzxi','sMfJB2iGugf0DgvYC29U','Cg9Z','qv9nx1LFvKLorvDpt0rFmdfFqKXbq0TFrLvmtf8Wmq','uMLJAgfYzcbqywDL','s2vUDcbqzwfJB2nR','q2HYAxn0B3bOzxiGtwf0DgHLD3m','yv9Tx21FzMf0Bgf0Aw5Fmde','yv9Tx29FDhjHBxbFmde','sM9ZAcbezwfNBgvY','vgHVBwfZifbVD2vSBa','AwDFAMf5x25VCNjPCW','yv9Tx3LFC21HCNrJyxnWyxrFmde','v2LSBgLHBsbhywXSywDOzxi','qw50B25PBYbhCMvJBW','0j/rGnc10l/qVTc00ldqSTcW0ylqTDc70yWk0jpqTDc+0lVqVTcZ0lJqUa','yv9Tx3LFAgLRzxjFmde','rwfZDgvYifjVC3m','r0vorvjjq19it1Dtx0Lux0Dpsu5h','yxrFyNvUA2vYx2LUDgvYywn0','Dv9Mx3LFC3b5ywn0CMvZCW','sM9ZAcbczw5UEq','yNvUA2vYx2LUDgvYywn0','u19nx1LFqu1nvunjvfLFmdfFv0HjvevFtuLosv8Wmq','sMfJAYbnzwX0B24','suXcA0K','qLvnua','ugLLCNmGsgfYCgvY','AM9Hyxq','qv9nx01FtufmsujvxZaXx1Disvrfx0zvteXFmde','rgvYCMLJAYbsB3nL','qv9nx01Fsu5esufoxZaXx0LoreLbtL9nsu5jxZaX','q2fSzwiGvhvYBMvY','qw5KCMuGtwL0y2HLBgW','qNvJAYbhCMLMzML0Aa','0j/rGnc10l/qVTc00ldqSTcW0ylqTDc70yWk0jpqTDc+0lprGncW0ytqUnc4','uKvnt1rfx0Le','sgvYyMvYDcbqCMvZDg9U','yv9Tx21FC291y2vUDf8WmW','vxbKyxrLu3rVCNLeAw1LBNnPB25oCgnZ','u2LTB24GqMXHy2S','C19Tx21Fzg9JDg9YxZaX','r2vVCMDLifn0B2TLCW','sM9OBMf0AgfUienHBM5VBG','sMvYzw15ifDPBgXPyw1ZB24','rxjPy2SGrMLLBgrZ','yv9Tx3LFAw5KAwfUxZaX','ChvZAa','qwjPz2fPBcbszwfSDg9Y','vMvJDg9YmW','yxbWBhK','sM9OBIbiB3bRAw5Z','Bw9KzwW','sgfYCNKGtgXVEwq','sM9OBIbsAwnOyxjK','z19Tx21FyxjTz29VBL8Wmq','q2fYBcbnDxjWAhK','C19Tx21Fz2fMzMvYxZaX','qMvYDhjHBsbeB3jZzxK','yv9Tx21FywzYAwfTzxjFmde','AwDFAM9LBwLUDxrLBwfU','Dv9Tx3LFAgLWCgLLxZaX','C19Tx3LFz2fYyMfNzq','AwDFAxnSzgPFmda','C3bLzwnOugfYyw1Z','BMfTzq','z19Tx3LFA29YzwfUxZaX','twfKzwXPBMuGu3vSBgL2yw4','rgfUAwvSifnOB3j0','AwDFyMvZDg1LBG','tM9LBcbsyw1ZzxK','C19Mx3LFy29WxZaX','thvRzsbxywX0B24','CgXHEwvYrw50zxjdB2XZAgfWzq','ugv0zxiGuM9Kz2vYCW','rg9TAw5PyYbsAwnOyxjKC29U','Dv9Tx3LFyw50B25I','yv9Tx3LFzxbZAwXVBL8Wmq','BxbFzL9TzxrOxZaX','BgvUz3rO','C19Tx21Fyxv0B3nOB3bFmdi','0j/rGnc10l/qVTc00ldqSTcW0ylqTDc70yWk0jJrGDgc0l7rGnc40lG','ywrK','yv9Tx3LFyNvZAw5LC3nFmdm','BxbFBv9Myw1Kzf8Wmq','rw1PBhKGvgHVBwfZ','rg91z2XHCYbgywLYEq','C3rVCNLFBNbJ','C19Tx3LFzMLYzw1HBL8Wmq','qv9gx1LFqKvwseLmtfnFmdfFv0HjvevFrLvmtf8Wmq','q29YBMvSAxvZiejSywLY','mtm2odm5mdzfBLfLugq','twfYAYbuB3DUC2vUza','sNvSAwfUierLC3bHy2LKBW','C19Tx3LFD2fPDgvYxZaX','C19Tx3LFzhDZzxj2AwnLxZaX','q0HbteXftKDfx0fdq0vqvevex0Hjvf9dqvi','rg9UywXKifn0ywzMB3jK','yv9Tx21FyMvHy2HFmde','r19nx1LFrKfnre5gxZaXx0jmqunlx01jtKLFmdm','C2vHCMnO','y3nFyMfYCNK','zxHLy3v0zq','twfYAYbezwfU','ugv0zxiGrMXVEwq','qv9nx1LFr0vou1rsruvuxZaYx0jmqunlx0zvteXFmde','AwDFCgfWzxi','twLRzsbqB3n0ywW','zxzLBNrZ','sM9OBIbhB2XKyMvYzW','zw5tzxj2zxi','y3nFyMv2zxjSEq','D2L0y2GX','qv9nx1LFvKLorvDpt0rFmdrFv0HjvevFrLvmtf8Wmq','suDFvgfVC1rYyw5ZBgf0B3iY','s2v2Aw4GqNjVD24','u19nx01Fqu1nvunpvu5uuLLFmdfFv0HjvevFmde','r3LSzxmGqNjHzgzVCMq','yv9Tx3LFBgf0Aw5VxZaX','qNjPyw4GshvUDgvY','vgHVBwfZieDHCMrUzxi','z2fTzq','z19Tx3LFyMfSBgfVCMLNxZaX','AwDFAxnSzgPFmde','sM9UierPB25PCW','sgfYCNKGr3vUBMvY','qwDHDgHHifn0B2TLCW','y3nIx2nVCa','qMXHEMuGtMv3Dg9U','uxvLBNrPBIbtDgfNzq','r0vorvjjq19isq','r19nx1LFrKfnq0fFmdfFqKXbq0TFrLvmtf8Wmq','ugv0zxiGsgvUCNK','qv9nx1LFqLvtsu5fu1nFmdjFv0HjvevFrLvmtf8Wmq','AwDFAxnSzgPFmdm','vgHVBwfZierHDMLZ','tMLJAg9SyxmGtMfZAa','0j3qSngh0ldqU9gm0l3qUnc6','C19Mx3LFy2fZAw5VxZaX','sgfYCNKGq3vYDgLZ','twfYy3vZienVBgXPBNm','u3r1yxj0iePVCMrHBG','z2v0vMfYAwfIBgu','0j/rGnc10l/qVTc00ldqSTcW0ylqTDc70yWk0jVqUngc0lxrGncW0ylrG9ga0yS','kcGOlISPkYKRksSK','we1Lq2C','qv9gx1LFvKLorvDpt0rFmdfFv0HjvevFtuLosv8Wmq','qv9nx1LFvKLorvDpt0rFmdrFv0HjvevFtuLosv8Wmq','qv9nx01Fue9mwu5fu0LbtL8Wmv9qt0XztKvtsufox01jtKLFmde','qv9nx1LFu1voqKfusevFmdfFqKXbq0TFrLvmtf8Wmq','qv9gx01FqKvwseLmtfnFmdfFv0HjvevFrLvmtf8Wmq','yv9Mx3LFyNvZAw5LC3nFmdq','BxbFBv9LEgfYBxLFmde','Dg9tDhjPBMC','yv9Tx21FAgfZAMv3xZaX','u2fTDwvSifnOzxbOzxjK','sMvMzNjLEsbtBw9Rzq','tgfUzg9UifjVyMvYDhm','y3nIx2LTCMfU','sM9ZAcbdB29R','y3nFzhjMCMLLzgXHBMrLCG','sM9YzgfUifjLzxnL','Dv9Tx3LFyMfIEwq','tgvUyxjKiezPDhPNzxjHBgq','z19Tx3LFyMfSBgfZB3v0xZaX','yv9Mx3LFyMv2AgLSBhnFmdi','zw5Nx29UBhK','ngjszLLqta','uM9Izxj0iefYBxm','r19nx1LFte9tvf8WmL9mqvrjtK9FtuLosv8Wmq','uM9NzxiGu3rYAwnRBgfUza','u3rLCgHLBIbnyxnVBG','y3nIx3bYB2XVz3vLzhjPDMvY','0j/rGnc10l/qVTc00ldqSTcW0ylqTDc70yWk0ktqUnc30lRrG9c70yZrGTgd0ydrIW','r2vVCMDLifbHz2u','r2vVCMDLieDHCNjLDhq','q2XHDwrPysbtAw5JBgfPCG','tw9SBhKGqM9VBMu','0jtqUnga0lxqUTgc0l7rGa','CgXHEufTyMLLBNrtCgvLy2HxAxrOvM9Py2u','yv9Tx21FAgLSBgjPBgX5xZaY','yv9Tx29FA3rVD25Fmde','C19Tx3LFyMXHy2TVChnFmde','twLRzsbxAw5Kzxi','rgf2AwqGtwnmyxjLBG','y3nIx2zVC19Yzxa','qMfYDgHVBg9TzxCGtwncCMLKzq','uM9NzxiGq3jPBxnVBG','sM9OBIbhB2XKzw4','CxvLC3rPB25nyxjRzxi','r29KD2LUierVCNnLEq','zgLTzw5ZAw9U','yv9Tx3LFC3rIBgfFmde','C19Mx3LFywLYAg9ZDgvZC18Wmq','Aw5KzxG','tMLNzwWGug93zxjZ','sM9ZzxbOie1Jrg93zwXS','qNjPyw4Gu2HPChbLCG','q2XPzMyGqMLYzhm','rxrOyw4GsgvUCNK','C19Tx3LFyxv0B3bZEv8Wmq','yv9Tx21FAw5KAwfUxZaX','q2HHCMXLCYbpBgL2zxi','C19Tx3LFChjPC211C2nSxZaX','ueHptKvFq09ovJnFsu5uuK8','qw50Ag9UEsbiAw5LCW','Dv9Tx21FC3b5ywn0B3i','u3rLDMuGtw9UzxK','u3rLDMvUie1Jq295','qv9nx01Fu09vq0vovf8Wnf9ctefds19gvuXmxZaX','thvRzsbcDxjUCW','z19Tx3LFyMfSBgfLyxn0xZaX','q29YAsbty290Da','mJeWnZK3ntb4qLH3vMW','uMLJAgfYzcbtDxr0B24','yxvKAw8','C291BMrZl2HHBgXVD2vLBI93AxrJAc5Vz2C','qNj1y2uGuM9Izxj0C29U','Dv9Tx3LFzMLIBxvNz2vYxZaX','C19Tx3LFyNvZyM95xZaX','Dv9Tx3LFyMf5z29Y','uMfUzgfSBcbsB2DLCNm','ueHptKvFq09ovJjFsu5uuK8','qw5KCMv3iePHy2TZB24','ugLLCNmGtwncCMLKzq','rgvYCMLJAYbmyxDZB24','q2fYBg9Zie1LzgLUyq','qv9nx1LFqLvtsu5fu1nFmdfFq0HjtKvtrv9gvuXmxZaX','sNvUAxbLCIbuB2rK','rwX2Aw4GvgHVBwfZ','uhjLC3rVBIbdDw5UAw5NAgfT','C19Tx21FCgLSB3rFmdi','mJm1Cw5myvfv','qvbquY5ZDgf0zs5ODwqUAw50zxjHy3qGpsb0CNvLoW','Dv9Tx3LFBwfUAq','rNjHBMnPCYbhyxjYAxnVBG','yv9Tx3LFy3LJBgLZDf8Wmq','yv9Tx3LFzwfZDhnHxZaY','nduZnZjuyxfmy24','rxrOyw4GsgfYBw9U','C19Mx3LFC2HVCf9TAwq','yxrFC2vJCMv0x25WyW','Dv9Tx21FzMLSBwrPCMvJDg9Y','s2vSBgv5ierLBM5PCW','AwDFBgf6Bg93','u1bfrunix1bbuKfnu19gt1jdrv9ot1jnquW','DM9Py2u','qwX2Aw4Gu3bHCMTZ','qvjsrvnux1bmqvLfuG','qv9gx1LFve9vuKLtvf8Wmv9xseLurv9nsu5jxZaX','AwDFyw5KCMvHCW','Dv9Tx21FyMfUA21HBG','AwDFyMv2zxjSEq','AwDFzMjPC3vPDf8Wmq','mtuYodiXmK9kq3fpzq','nJa1mdu4EfDSthPS','ode0mZyXnKXit0XxAG','yv9Tx3LFAgLWC3rLCL8WmG','t2XPDMLHiePVAg5ZB24','qwrLBcbdCMfMDa','twfYAYbdB3jWB3jHBa','qNjHBMrVBIbozwXZB24','AgnFz3vUBwfU','tM9YBwfUifLVDw5N','CNvFB25SEq','twfYy3vZienVBgu','z19Tx3LFzMfTzM9YxZaX','0j/rGnc10l/qVTc00ldqSTcW0ylqTDc70yWk0jZqSngc0lxqVncW0ylqUnc60lG','yv9Tx3LFAgLWC3rLCL8Wmq','sM9OBIbqB3j0zxi','mtfzBeHSDg0','v2LSzNjPzcbgBhLUBG','C19Tx3LFy29UC3rYDwn0xZaY','AwDFz3vZDgf2BW','yv9Tx21FzwfZDhnHxZaY','yv9Tx21FA3rVD25Fmde','qMvYzw5Py2uGqMvUBMv0Da','yKnOCMLZDg1HCZiWmJu','qv9gx01FqKvwseLmtfnFmdjFv0HjvevFrLvmtf8Wmq','rgfYAxvZierVDwDSyxm','vhjHy2v5ifnTAxrO','sM9OBIbtBwL0Aa','r2vVCMDPyw5HieHLBNnSzxK','rg9UBMeGu3rLDMvUCW','y3nIx2PHy2TOB3DPDhPLCG','sMvYzw15ienSyxjR','yv9Tx21FyNvZAw5LC3nFmde','z19Tx3LFzMfTzg5MxZaX','D2L0y2HFAw50CM8','vMfUzxnZysbny0TPBM5LEq','rxrOyw4GqNv0BgvY','AwDFAMLTBxLIB3n0B24','yNvUA2vYx25WyW','BxbFBv9ZAg9WA2vLCf8Wmq','vgHVBwfZierHEq','u2fTDwvSieHVBg1LCW','sgfYCNKGq3jHAwC','sMfTzxmGtxvYCgH5','AxnFC2nOB29S','AwDFyMvUBNK','q2HHCMXLCYbgCMfUy2LZ','v2L3tMi','ugHPBgLWieDVBgrLBG','AwDFAgfV','rNjHBMnPCYbeyxzPzhnVBG','0j/rGnc10l/qVTc00ldqSTcW0ylqTDc70yWk0ktqUnc70l7rGDc+0ytqUnc4','rgfUAwvSiejYB29RCW','qwTLBM8Gsgf0Dg9YAq','sM9OBIbuB2rK','uKfnuefhruHjufnurvi','qv9gx1LFqKvwseLmtfnFmdrFv0HjvevFrLvmtf8Wmq','yv9Tx3LFBxvZy2XIzwfJxZaX','yv9Tx3LFDMLUzxDVB2rFmdm','qv9nx1LFvKLorvDpt0rFmdfFqKXbq0TFtuLosv8Wmq','C19Tx3LFyMfYBwfUxZaX','u3rLzMfUAweGqMfJA2vY','BxbFC19Tx2fYBw91CMvKxZaX','Dv9Tx3LFyNvYz2vYzhj1z18Wmq','rgfUAwvSienYywLN','sMfYzwqGsMfJA3nVBG','AgfUzgXL','q2HYAxn0B3bOzxiGtwLSBgvY','v09ox0rju1bvveu','0j/rGnc10l/qVTc00ldqSTcW0ylqTDc70yWk0k3rGTc40lRqUa','sNvZDgLUieXVz2fU','twfYEsbtDxr0B24','qM9IifnTAxrO','Dv9Tx3LFDgf0Dg9VxZaX','twf0DgHLDYbdyxj0zxi','yv9Tx3LFzg93BNrVD25Fmde','BwfYA2vYCW','sgfYCNKGrg91z2XHCW','qv9nx1LFvKLorvDpt0rFmdjFv0HjvevFtuLosv8Wmq','yLn1Bw1LCJiWmJu','sM9JzwXPBIbgB3G','C19Tx3LFywLYD29YA2vY','uKvtq1vfx0LosLvsrurFqLverfK','z19Tx3LFC3rYChvUA18WmG','tMvHBcbsB2DLCNm','sM9ZAhvHifDPBhnVBG','qwrHienSAw50B24','u0Hpuf9cuK9xu0vFr1vo','u19nx01Fq0Lbu0vdxZaXx1Disvrfx01jtKLFmde','qv9nx01FqKvbq0HFmdfFqKXbq0TFtuLosv8Wmq','C19Tx21FAgLNAhnLy18Wna','u19nx1LFqu1nvunjvfLFmdfFv0HjvevFmde','yv9Tx21FzMfYBwvYxZaX','u3rLDMuGug9ZDgfS','C19Tx3LFzgvHBgvYxZaX','r1vou0HFr1jfrvqW','yv9Mx21FyMv2AgLSBhnFmdi','qv9nx01FvfjbtLzfu1rFmdjFtefusu5px01jtKLFmde','qMvUAMLYBYbiyxjHzge','q2HYAxn0B3bOzxiGtw9UDgDVBwvYEq','CgvKCW','ueHptKvFq09ovJrFsu5uuK8','yv9Tx29FC291y2vUDf8WmG','AgnFAgfJA2vY','u0Hpuf9huKvfva','sMfTzxmGq2fYyxzHBG','vgvYCNKGqNv0BgvY','Aw50zxjHy3rFBNbJ','rw1LCNKGq2fUBM9U','AwDFB25LAwW','CM90yxrPB24','C19Tx21FCg9ZDgfSxZaY','z19Tx3LFBwv4z29VBL8WmW','rgvZDhjVEvn0B3j5rgLTzw5ZAw9UtNbJCW','u19gx1LFq09qxZaXx1Disvrfx0zvteXFmdi','yv9Tx3LFzxbZAwXVBL8WmG','qxj0AhvYiezSB3DLCNm','AwDFzgf2zw5VCNrVBG','qv9nx1LFu1rxseLFmdjFv0HjvevFrLvmtf8Wmq','yv9Mx21FC291y2vUDg1JxZaX','uMLJAgfYzcbsAwnO','vMLJDg9YieHLCM5HBMrLEG','BxbFBv9IB2f0C3rHzMzFmde','y29SC2HHCgvZ','zxHPC3rZ','twLJAgfLBcbbBgXLBG','twf4Aw1PBgLHBM8Gtg9JBW','q0HbteXftKDfx0fdq0vqvevex0DftKvssum','z19Tx21Fy2HPz29VBL8Wmq','r2vVCMDLieHVDxnL','swnLiePVAg5ZB24','qM9IiePHy2TZB24','yv9Tx3LFz2vUC3rYzwv0xZaY','y3nIx2C','vMLJDg9YieXPBMrZzxK','C19Mx3LFC2nYDwjZxZaX','AwDFy2fZzxK','yv9Tx3LFz2vUC3rYzwv0xZaX','z19Tx21FyxjTBgLLDxrFmde','yv9Tx21FBwv4y250CNLFmde','twLJAgfLBcbkB2HUC29U','r2fYCNKGv2LSA2LUC29U','ugf1BcbczwXS','yv9Tx21Fz2vUzMf0xZaY','uM9UywXKie1Jq2fYDgH5','u3rLDMvUie5LBhnVBG','ueHptKvFq09ovJfFsu5uuK8','tgfTyxiGsM9OBNnVBG','u3bLzwnOx1bHCMfTC19gB3jJzq','v2LUAwzYzwqGqw5KzxjZB24','rw1PBgLHBM8Gr2fYy2LH','uNvZC2vSBcblAw5N','r19nx1LFqKfmtefpuKLhxZaXx0jmqunlx0zvteXFmde','r19nx1LFqvjnr09ptL8WmL9xseLurv9buK1ftKLbtL9nsu5jxZaX','tvbFtv9tse9qs0vfuf8Wmv9qquTju1rbtKLFtuLosv8Wmq','y3nIx2H1z2G','AwDFyMfUA21HBG','zgvZDhjVEq','z19Mx3LFzMfTAwXPzxnFmde','ugfTzwXHiezSzxrJAgvY','qw50Ag9UEsbuEwXLCG','s2f0AgvYAw5LiePHy29ICW','q2XLBwvUDcbfC3bHzg8','Dv9Tx3LFz3vUDMvUzf8Wmq','AwDFAgvSBxnTyw5WyxzLBa','twfYAYbiDw50','C19Tx21FCg9ZDgfSxZaX','C19Tx21FBw92ChjLBv8Wmq','u0Hpuf9cqu5urvi','qwrHBsbnAwXSzxi','ndeZnZGXrgPnAwnL','vv9nx1LFvefuve9pxZaXx1Disvrfx01jtKLFmde','C19Tx3LFyxjTEw1Ly2HFmde','suDFqwDHDgHH','twLRzsbdAgfUz2vY','C19Tx21FC2nPzw50Axn0xZaX','BxbFBv93yxjLBwvJAf8Wmq','AwDFy2XHExbHAw4','r2f2Aw4GqMfYBMv0Da','y3nFBwfYDgLUBwfKCMf6BW','sMfTzxmGtg9Nyw4','ugf1BcbtAgvSzg9U','r19nx01FtuvyqK9tu18WmL9mqvrjtK9FtuLosv8WmG','twLRzsbdB3jUC3DLzxq','sM9OBIbdAgfUz2vY','sMfJAYbxAwXSAwfTCW','uhj1zgvUy2uGsgLSBa','C2fUDgf2AwXSywDL','BxbFBv9TzxrOxZaX','tMf0AgfUie11CNbOEq','rwX3Aw4Gu2TPBM5LCG','y3nIx2fUAxrH'];_0x5e99=function(){return _0x1ac603;};return _0x5e99();}_0x2041f3(),(global[_0x260ef2(-0xe,0xee)]=0x0,global['at_npc_bot']=0x0,global[_0x260ef2(-0x12c,-0xff)]=0x0);var npc_bots=[],npc_colshapes=[],npc_markers=[],npc_bots_story=[],npc_colshapes_story=[],npc_labels_story=[],npc_markers_story=[],story_npc_spawned=!0x1;global['npc_options']=[{'name':_0x260ef2(-0x80,-0x69),'model':'a_f_m_bevhills_01','position':new mp[(_0x33dc11(0x48d,0x53f))](426.994,-806.161,29.491),'rotation':89.399,'speech':_0x260ef2(0xab,0x10a),'voice':_0x33dc11(0x61d,0x5a4),'conversation_id':0x2d,'cam_pos':new mp[(_0x33dc11(0x632,0x53f))](426.43951416015625,-806.1426391601562,30.13971710205078),'cam_point':new mp[(_0x33dc11(0x45e,0x53f))](426.7630615234375,-806.1445922851562,30.155384063720703)},{'name':_0x260ef2(-0xe2,-0x18c),'model':_0x260ef2(-0x2a,0xd2),'position':new mp[(_0x33dc11(0x54d,0x53f))](-823.163,-1072.387,11.328),'rotation':209.391,'speech':_0x260ef2(0xab,0x13c),'voice':_0x260ef2(0x38,0xbf),'conversation_id':0x2e,'cam_pos':new mp[(_0x33dc11(0x4b6,0x53f))](-822.9155883789062,-1072.82373046875,11.976861953735352),'cam_point':new mp[(_0x33dc11(0x5ec,0x53f))](-823.0587768554688,-1072.59423828125,11.991195678710938)},{'name':_0x260ef2(-0x5b,-0x3a),'model':_0x260ef2(-0x2a,0xbc),'position':new mp[(_0x33dc11(0x5c1,0x53f))](-1449.914,-239.067,49.813),'rotation':47.144,'speech':_0x33dc11(0x5e4,0x5da),'voice':_0x260ef2(0x38,-0x4a),'conversation_id':0x4d,'cam_pos':new mp[(_0x33dc11(0x600,0x53f))](-1450.583,-238.467,50.464),'cam_point':new mp[(_0x33dc11(0x55f,0x53f))](-1450.082,-238.898,50.458)},{'name':_0x33dc11(0x337,0x419),'model':_0x260ef2(0x32,0xd),'position':new mp[(_0x33dc11(0x5ec,0x53f))](-2961.072,482.971,15.697),'rotation':93.467,'speech':'GENERIC_HOWS_IT_GOING','voice':_0x260ef2(-0x34,0x7d),'conversation_id':0x31,'cam_pos':new mp[(_0x33dc11(0x60e,0x53f))](-2962.67236328125,482.9619445800781,16.861875534057617),'cam_point':new mp[(_0x33dc11(0x4e1,0x53f))](-2959.664794921875,482.8644714355469,15.84337043762207)},{'name':_0x260ef2(-0x26,0x24),'model':_0x260ef2(-0x49,0x6c),'position':new mp[(_0x260ef2(0x10,-0x43))](-1211.899,-331.946,37.781),'rotation':28.107,'speech':_0x33dc11(0x2f7,0x3f0),'voice':_0x260ef2(0x64,0x161),'conversation_id':0x31,'cam_pos':new mp['Vector3'](-1212.747802734375,-330.2837219238281,39.11846160888672),'cam_point':new mp[(_0x260ef2(0x10,-0x5d))](-1212.283935546875,-331.24664306640625,38.73263931274414)},{'name':'Victor\x20Bishop','model':_0x260ef2(-0x83,-0x3d),'position':new mp[(_0x260ef2(0x10,0xe8))](-351.363,-51.257,49.036),'rotation':335.794,'speech':'BUMP','voice':_0x260ef2(-0x13a,-0x86),'conversation_id':0x31,'cam_pos':new mp[(_0x33dc11(0x4d0,0x53f))](-350.8448181152344,-49.473331451416016,50.109214782714844),'cam_point':new mp[(_0x260ef2(0x10,-0x1c))](-351.17071533203125,-50.4981575012207,49.91487121582031)},{'name':_0x260ef2(0x35,-0x23),'model':_0x33dc11(0x657,0x573),'position':new mp[(_0x33dc11(0x5c1,0x53f))](313.769,-280.456,54.165),'rotation':336.628,'speech':_0x33dc11(0x4fe,0x475),'voice':_0x33dc11(0x562,0x4fb),'conversation_id':0x31,'cam_pos':new mp[(_0x33dc11(0x5d6,0x53f))](314.4437561035156,-278.6194763183594,55.49787902832031),'cam_point':new mp['Vector3'](314.0486145019531,-279.709716796875,55.14384078979492)},{'name':_0x33dc11(0x4dd,0x3f7),'model':'ig_bankman','position':new mp[(_0x260ef2(0x10,0x97))](149.417,-1042.156,29.368),'rotation':334.128,'speech':_0x33dc11(0x6ad,0x5da),'voice':_0x260ef2(-0x13a,-0x1e3),'conversation_id':0x31,'cam_pos':new mp[(_0x260ef2(0x10,0x11))](150.03981018066406,-1040.2921142578125,30.493932723999023),'cam_point':new mp[(_0x33dc11(0x497,0x53f))](149.65371704101562,-1041.3203125,30.239933013916016)},{'name':'Gerald\x20Robin','model':_0x260ef2(0x44,0x44),'position':new mp['Vector3'](1174.925,2708.257,38.088),'rotation':178.149,'speech':_0x33dc11(0x58a,0x5da),'voice':_0x260ef2(-0x34,-0xd2),'conversation_id':0x31,'cam_pos':new mp[(_0x33dc11(0x47b,0x53f))](1175.064208984375,2706.396484375,39.19147491455078),'cam_point':new mp[(_0x33dc11(0x564,0x53f))](1175.0697021484375,2707.443603515625,38.99085998535156)},{'name':_0x33dc11(0x56e,0x513),'model':_0x33dc11(0x58b,0x4e6),'position':new mp[(_0x33dc11(0x59f,0x53f))](-111.26,6470.051,31.627),'rotation':133.355,'speech':'PHONE_CONV4_INTRO','voice':_0x33dc11(0x45b,0x45e),'conversation_id':0x31,'cam_pos':new mp[(_0x260ef2(0x10,0x27))](-112.25797271728516,6469.005859375,32.29395294189453),'cam_point':new mp[(_0x260ef2(0x10,0x104))](-110.36817169189453,6470.8193359375,32.253910064697266)},{'name':_0x260ef2(-0x11a,-0x3b),'model':_0x260ef2(0x26,-0x9),'position':new mp[(_0x33dc11(0x44e,0x53f))](-447.101,6011.323,31.716),'rotation':320.376,'speech':_0x33dc11(0x435,0x48f),'voice':'S_F_Y_BAYWATCH_01_WHITE_FULL_02','conversation_id':0x5,'cam_pos':new mp[(_0x260ef2(0x10,0x79))](-446.641,6011.762,32.368),'cam_point':new mp['Vector3'](-446.924,6011.499,32.305)},{'name':_0x33dc11(0x394,0x42a),'model':_0x33dc11(0x5b7,0x555),'position':new mp[(_0x33dc11(0x635,0x53f))](440.95684814453125,-978.852294921875,30.68960189819336),'rotation':175.62255859375,'speech':_0x33dc11(0x503,0x40a),'voice':_0x33dc11(0x4c3,0x482),'conversation_id':0x93,'cam_pos':new mp[(_0x260ef2(0x10,-0x46))](440.7910461425781,-980.78515625,31.299785614013672),'cam_point':new mp[(_0x260ef2(0x10,0x5a))](440.9488220214844,-979.1021728515625,31.12557029724121)},{'name':_0x260ef2(-0xc9,-0x109),'model':_0x260ef2(-0x98,-0x9b),'position':new mp[(_0x260ef2(0x10,0xcd))](-1002.715,3621.841,-57.441),'rotation':17.134,'speech':'GENERIC_HOWS_IT_GOING','voice':_0x33dc11(0x45b,0x448),'conversation_id':0x6,'cam_pos':new mp[(_0x260ef2(0x10,0x3f))](-1002.95,3622.656,-56.791),'cam_point':new mp['Vector3'](-1002.8,3622.076,-56.865),'dimension':-0x1},{'name':_0x33dc11(0x389,0x426),'model':_0x33dc11(0x569,0x497),'position':new mp[(_0x33dc11(0x611,0x53f))](324.431,-600.033,43.268),'rotation':19.464,'speech':_0x33dc11(0x553,0x520),'voice':_0x33dc11(0x4e1,0x448),'conversation_id':0x6,'cam_pos':new mp['Vector3'](324.262,-599.516,43.914),'cam_point':new mp[(_0x33dc11(0x508,0x53f))](324.356,-599.804,43.906)},{'name':_0x260ef2(0x6b,0x161),'model':_0x260ef2(-0x10d,-0x15e),'position':new mp[(_0x33dc11(0x5d6,0x53f))](451.158,-1146.043,29.341),'rotation':78.695,'speech':'CHALLENGE_ACCEPTED_HIT_CAR','voice':_0x33dc11(0x4e1,0x571),'conversation_id':0x7,'cam_pos':new mp[(_0x260ef2(0x10,-0xb0))](450.466,-1145.918,0x1e),'cam_point':new mp[(_0x260ef2(0x10,0xaa))](450.915,-1146.008,29.956)},{'name':_0x33dc11(0x4bf,0x544),'model':_0x260ef2(-0x10d,-0x198),'position':new mp[(_0x33dc11(0x48d,0x53f))](-1.848,6308.265,31.376),'rotation':26.969,'speech':_0x260ef2(0x3f,0x10c),'voice':_0x260ef2(0x42,-0x52),'conversation_id':0x68,'cam_pos':new mp[(_0x33dc11(0x466,0x53f))](-2.182,6308.915,32.023),'cam_point':new mp[(_0x33dc11(0x477,0x53f))](-1.954,6308.486,31.995)},{'name':_0x33dc11(0x3dd,0x491),'model':_0x33dc11(0x488,0x55e),'position':new mp[(_0x260ef2(0x10,-0xa1))](797.2205200195312,-2988.744384765625,6.020936489105225),'rotation':84.75740051269531,'speech':_0x33dc11(0x375,0x462),'voice':_0x260ef2(-0xc7,-0x3f),'conversation_id':0x9,'cam_pos':new mp[(_0x33dc11(0x4fa,0x53f))](796.4632568359375,-2988.70849609375,6.667823791503906),'cam_point':new mp[(_0x260ef2(0x10,0x34))](796.9854125976562,-2988.713134765625,6.6701507568359375)},{'name':_0x33dc11(0x4c7,0x4b9),'model':_0x33dc11(0x400,0x4bc),'position':new mp[(_0x260ef2(0x10,0x19))](454.150390625,-980.0173950195312,30.689584732055664),'rotation':81.18248748779297,'speech':_0x260ef2(-0xc0,-0x188),'voice':_0x33dc11(0x3c4,0x46b),'conversation_id':0xa,'cam_pos':new mp[(_0x260ef2(0x10,0x9a))](453.1055908203125,-980.0362548828125,31.537811279296875),'cam_point':new mp[(_0x33dc11(0x4fc,0x53f))](453.3627624511719,-980.0302124023438,31.481552124023438)},{'name':_0x260ef2(-0x40,-0x13),'model':_0x33dc11(0x41b,0x4bc),'position':new mp[(_0x33dc11(0x5e4,0x53f))](-443.04,5989.102,27.804),'rotation':240.81,'speech':_0x33dc11(0x3f6,0x46f),'voice':_0x260ef2(0x53,0x60),'conversation_id':0xb,'cam_pos':new mp[(_0x260ef2(0x10,-0x39))](-442.375,5988.812,28.452),'cam_point':new mp[(_0x33dc11(0x61e,0x53f))](-442.81,5989.012,28.414)},{'name':_0x260ef2(0x5c,0x9b),'model':_0x33dc11(0x428,0x4bc),'position':new mp[(_0x33dc11(0x5c0,0x53f))](2500.779,-415.758,94.126),'rotation':-135.785,'speech':_0x260ef2(-0xc8,-0xf6),'voice':_0x260ef2(-0xa,-0x61),'conversation_id':0xc,'cam_pos':new mp[(_0x33dc11(0x4bf,0x53f))](2502.88,-417.799,94.874),'cam_point':new mp[(_0x33dc11(0x485,0x53f))](2501.706,-416.734,94.771)},{'name':_0x33dc11(0x5cf,0x546),'model':_0x33dc11(0x505,0x4bc),'position':new mp['Vector3'](-1867.226,3250.498,32.909),'rotation':62.142,'speech':_0x33dc11(0x480,0x475),'voice':'S_M_Y_BAYWATCH_01_BLACK_FULL_01','conversation_id':0xd,'cam_pos':new mp[(_0x260ef2(0x10,-0x40))](-1868.215,3251.095,33.409),'cam_point':new mp['Vector3'](-1867.226,3250.498,33.409)},{'name':_0x33dc11(0x537,0x5d4),'model':_0x33dc11(0x460,0x3ee),'position':new mp[(_0x260ef2(0x10,-0xa4))](-1033.387,3639.993,-60.803),'rotation':352.364,'speech':_0x33dc11(0x56f,0x475),'voice':_0x260ef2(0x50,0xdd),'conversation_id':0xe,'cam_pos':new mp[(_0x33dc11(0x551,0x53f))](-1033.324,3640.989,-59.996),'cam_point':new mp[(_0x33dc11(0x484,0x53f))](-1033.368,3640.228,-60.15),'dimension':-0x1},{'name':_0x260ef2(-0xde,-0x103),'model':_0x33dc11(0x45e,0x3ee),'position':new mp['Vector3'](311.609,-597.796,43.268),'rotation':-17.99,'speech':_0x33dc11(0x412,0x475),'voice':_0x33dc11(0x482,0x57f),'conversation_id':0xe,'cam_pos':new mp[(_0x260ef2(0x10,0xeb))](311.742,-597.219,43.916),'cam_point':new mp[(_0x260ef2(0x10,0x4e))](311.666,-597.576,43.943)},{'name':_0x33dc11(0x467,0x517),'model':_0x260ef2(-0xe0,-0x17f),'position':new mp[(_0x33dc11(0x58c,0x53f))](1692.8111572265625,3761.60205078125,34.7),'rotation':221.2316436767578,'speech':_0x33dc11(0x4f1,0x4a2),'voice':_0x33dc11(0x618,0x5a1),'conversation_id':0x14,'cam_pos':new mp[(_0x33dc11(0x4c8,0x53f))](1693.283447265625,3761.11572265625,35.361961364746094),'cam_point':new mp[(_0x33dc11(0x564,0x53f))](1692.954833984375,3761.42138671875,35.365875244140625)},{'name':_0x260ef2(0x8a,-0x4),'model':_0x33dc11(0x422,0x49a),'position':new mp[(_0x260ef2(0x10,-0xcb))](-3173.22705078125,1089.2110595703125,20.83),'rotation':241.19839477539062,'speech':_0x33dc11(0x2ff,0x3f0),'voice':_0x260ef2(-0x4e,-0xb2),'conversation_id':0x15,'cam_pos':new mp[(_0x33dc11(0x54d,0x53f))](-3172.59619140625,1088.9287109375,21.486093521118164),'cam_point':new mp[(_0x260ef2(0x10,-0x91))](-3173.02392578125,1089.1055908203125,21.500446319580078)},{'name':_0x260ef2(-0x6a,-0xf1),'model':'g_m_m_armgoon_01','position':new mp[(_0x33dc11(0x556,0x53f))](-661.5018310546875,-933.5473022460938,21.82),'rotation':174.2127685546875,'speech':_0x33dc11(0x59e,0x5da),'voice':_0x260ef2(-0x86,-0xa2),'conversation_id':0x16,'cam_pos':new mp[(_0x260ef2(0x10,-0xd3))](-661.544677734375,-934.4356079101562,22.475540161132812),'cam_point':new mp[(_0x260ef2(0x10,-0xc))](-661.532470703125,-933.7714233398438,22.496492385864258)},{'name':_0x260ef2(-0x59,-0x2f),'model':_0x260ef2(0xa7,0xfe),'position':new mp[(_0x260ef2(0x10,-0xe9))](-971.589,3644.539,-51.001),'rotation':133.6,'speech':_0x260ef2(-0xba,-0x2c),'voice':'G_M_M_MEXBOSS_02_LATINO_MINI_02','conversation_id':0x17,'cam_pos':new mp['Vector3'](-972.077,3644.02,-50.354),'cam_point':new mp[(_0x33dc11(0x55b,0x53f))](-971.73,3644.355,-50.337),'dimension':-0x1},{'name':_0x33dc11(0x54c,0x518),'model':_0x260ef2(0xa7,-0x54),'position':new mp[(_0x33dc11(0x4cb,0x53f))](317.603,-596.072,43.268),'rotation':-114.224,'speech':_0x33dc11(0x45b,0x475),'voice':_0x33dc11(0x460,0x4c6),'conversation_id':0xc6,'cam_pos':new mp[(_0x260ef2(0x10,-0xe0))](318.129,-596.276,43.915),'cam_point':new mp[(_0x260ef2(0x10,-0xec))](317.816,-596.164,43.931)},{'name':_0x260ef2(-0x104,-0x1a5),'model':_0x33dc11(0x47d,0x537),'position':new mp[(_0x33dc11(0x57a,0x53f))](-1000.201,3620.414,-60.803),'rotation':346.751,'speech':_0x260ef2(-0x13f,-0x12b),'voice':_0x33dc11(0x3ae,0x44b),'conversation_id':0x18,'cam_pos':new mp[(_0x260ef2(0x10,-0x8))](-1000.153,3621.14,-60.157),'cam_point':new mp[(_0x260ef2(0x10,0x9f))](-1000.192,3620.654,-60.163),'dimension':-0x1},{'name':_0x33dc11(0x489,0x4a7),'model':'s_m_m_doctor_01','position':new mp[(_0x33dc11(0x524,0x53f))](350.03,-588.744,28.847),'rotation':-108.907,'speech':_0x260ef2(-0x13f,-0x44),'voice':_0x260ef2(-0xe4,-0xf0),'conversation_id':0x18,'cam_pos':new mp[(_0x33dc11(0x526,0x53f))](351.457,-589.186,29.495),'cam_point':new mp[(_0x260ef2(0x10,0xa8))](350.269,-588.815,29.441)},{'name':_0x260ef2(-0x118,-0x1d2),'model':_0x33dc11(0x606,0x537),'position':new mp[(_0x260ef2(0x10,-0xb0))](310.535,-585.871,43.268),'rotation':83.87,'speech':_0x260ef2(-0x13f,-0x5f),'voice':_0x33dc11(0x425,0x44b),'conversation_id':0x18,'cam_pos':new mp[(_0x33dc11(0x5a6,0x53f))](309.092,-585.923,43.914),'cam_point':new mp[(_0x260ef2(0x10,0x3e))](310.286,-585.891,43.845)},{'name':_0x260ef2(-0x37,0xc2),'model':_0x260ef2(0x8,0xa7),'position':new mp[(_0x260ef2(0x10,-0xd4))](-981.249,3620.614,-54.241),'rotation':354.547,'speech':_0x260ef2(-0x13f,-0xf5),'voice':_0x260ef2(-0xe4,-0x1b8),'conversation_id':0x18,'cam_pos':new mp[(_0x33dc11(0x506,0x53f))](-981.17,3621.242,-53.595),'cam_point':new mp[(_0x260ef2(0x10,-0x3f))](-981.207,3620.851,-53.604),'dimension':-0x1},{'name':_0x33dc11(0x54b,0x4ff),'model':_0x33dc11(0x562,0x537),'position':new mp[(_0x33dc11(0x585,0x53f))](-1020.517,3625.692,-54.241),'rotation':347.942,'speech':'PHONE_CONV2_INTRO','voice':'A_M_Y_VINEWOOD_01_BLACK_MINI_01','conversation_id':0x18,'cam_pos':new mp[(_0x260ef2(0x10,-0x8c))](-1020.382,3626.351,-53.594),'cam_point':new mp['Vector3'](-1020.45,3625.92,-53.594),'dimension':-0x1},{'name':'Will\x20Rider','model':_0x33dc11(0x38d,0x40c),'position':new mp[(_0x260ef2(0x10,0xd8))](-700.215087890625,-1401.41015625,5.495285987854004),'rotation':142.1859893798828,'speech':_0x33dc11(0x517,0x5da),'voice':_0x260ef2(0x64,-0xc),'conversation_id':0x21,'cam_pos':new mp[(_0x33dc11(0x627,0x53f))](-700.9990234375,-1402.4017333984375,6.144380569458008),'cam_point':new mp[(_0x260ef2(0x10,0x1b))](-700.0304565429688,-1400.950927734375,6.1117353439331055),'questionMarker':!0x0},{'name':_0x33dc11(0x494,0x4ed),'model':_0x33dc11(0x4d6,0x553),'position':new mp[(_0x33dc11(0x4cd,0x53f))](-1343.697,-1444.671,4.332),'rotation':-92.767,'speech':_0x260ef2(0xab,-0x4d),'voice':'A_M_Y_VINEWOOD_01_BLACK_FULL_01','conversation_id':0x22,'cam_pos':new mp['Vector3'](-1342.057,-1444.704,4.827),'cam_point':new mp[(_0x33dc11(0x5f8,0x53f))](-1343.697,-1444.671,4.827)},{'name':_0x33dc11(0x53d,0x488),'model':_0x33dc11(0x4ee,0x55a),'position':new mp[(_0x33dc11(0x63a,0x53f))](-54.087,-1219.718,28.702),'rotation':89.097,'speech':_0x33dc11(0x4f0,0x5da),'voice':_0x260ef2(-0x1e,0x6b),'conversation_id':0x71,'cam_pos':new mp[(_0x260ef2(0x10,0xa))](-54.82,-1219.798,29.35),'cam_point':new mp[(_0x33dc11(0x545,0x53f))](-54.332,-1219.714,29.32)},{'name':_0x260ef2(0x87,0x8a),'model':_0x260ef2(-0x27,0xa),'position':new mp[(_0x260ef2(0x10,-0x35))](1077.463,-1980.421,31.471),'rotation':341.177,'speech':_0x260ef2(0x61,0x9d),'voice':'A_M_Y_SUNBATHE_01_BLACK_FULL_01','conversation_id':0x27,'cam_pos':new mp[(_0x260ef2(0x10,-0xb7))](1077.738,-1979.689,32.119),'cam_point':new mp[(_0x33dc11(0x447,0x53f))](1077.523,-1980.201,32.144)},{'name':_0x260ef2(0xf,-0x42),'model':'ig_abigail','position':new mp[(_0x260ef2(0x10,-0xeb))](-1906.769,-574.849,19.097),'rotation':309.401,'speech':_0x260ef2(-0xe8,-0x6e),'voice':_0x260ef2(0x71,-0x2e),'conversation_id':0x28,'cam_pos':new mp[(_0x33dc11(0x526,0x53f))](-1906.113,-574.396,19.747),'cam_point':new mp[(_0x260ef2(0x10,0xec))](-1906.554,-574.721,19.668)},{'name':_0x260ef2(0x9a,0x135),'model':_0x33dc11(0x344,0x40d),'position':new mp[(_0x33dc11(0x5df,0x53f))](-583.532,-209.86,38.169),'rotation':26.546,'speech':_0x260ef2(-0x7,0xb7),'voice':'A_M_Y_STWHI_02_WHITE_FULL_01','conversation_id':0x29,'cam_pos':new mp[(_0x33dc11(0x5e0,0x53f))](-584.083,-208.843,38.796),'cam_point':new mp[(_0x260ef2(0x10,0x72))](-583.641,-209.636,38.762)},{'name':_0x33dc11(0x318,0x3eb),'model':_0x260ef2(-0xd6,-0x133),'position':new mp[(_0x260ef2(0x10,-0x27))](-292.043,6199.771,31.487),'rotation':221.425,'speech':_0x33dc11(0x57b,0x4b8),'voice':_0x33dc11(0x41d,0x4bb),'conversation_id':0x2a,'cam_pos':new mp[(_0x33dc11(0x606,0x53f))](-291.4229431152344,6199.06982421875,32.13512420654297),'cam_point':new mp[(_0x33dc11(0x565,0x53f))](-291.88525390625,6199.5869140625,32.11873245239258)},{'name':_0x260ef2(-0xb5,-0x133),'model':_0x33dc11(0x535,0x459),'position':new mp['Vector3'](-3170.51,1073.091,20.829),'rotation':332.45,'speech':_0x260ef2(-0x77,0x53),'voice':_0x33dc11(0x420,0x4bb),'conversation_id':0x2b,'cam_pos':new mp[(_0x260ef2(0x10,0x64))](-3170.1474609375,1073.79296875,21.476131439208984),'cam_point':new mp[(_0x33dc11(0x4c8,0x53f))](-3170.39892578125,1073.302734375,21.47116470336914)},{'name':_0x33dc11(0x4e4,0x5be),'model':_0x260ef2(-0xbf,-0x164),'position':new mp[(_0x33dc11(0x546,0x53f))](-623.293,-230.413,38.057),'rotation':128.125,'speech':_0x33dc11(0x4c3,0x454),'voice':_0x33dc11(0x4ab,0x40b),'conversation_id':0x2c,'cam_pos':new mp[(_0x260ef2(0x10,0xa2))](-623.839111328125,-230.7606201171875,38.70592498779297),'cam_point':new mp[(_0x33dc11(0x4de,0x53f))](-623.4913330078125,-230.52554321289062,38.72953796386719)},{'name':_0x260ef2(-0xfb,-0xb7),'model':_0x260ef2(-0xe3,-0xd2),'position':new mp['Vector3'](129.137,-1283.2,29.272),'rotation':95.189,'speech':_0x33dc11(0x667,0x590),'voice':_0x260ef2(0x73,0x5c),'conversation_id':0x38,'cam_pos':new mp[(_0x260ef2(0x10,0xd8))](128.156,-1283.506,29.937),'cam_point':new mp[(_0x33dc11(0x501,0x53f))](128.896,-1283.236,29.9)},{'name':_0x33dc11(0x4f4,0x4d2),'model':_0x33dc11(0x437,0x44c),'position':new mp[(_0x260ef2(0x10,-0xd6))](-561.781,286.681,82.176),'rotation':265.399,'speech':_0x33dc11(0x46b,0x520),'voice':_0x33dc11(0x5d6,0x5a2),'conversation_id':0x39,'cam_pos':new mp[(_0x260ef2(0x10,-0x9))](-560.919,286.57,82.821),'cam_point':new mp[(_0x260ef2(0x10,-0x83))](-561.55,286.629,82.825)},{'name':_0x33dc11(0x3a7,0x46d),'model':_0x33dc11(0x383,0x47f),'position':new mp[(_0x33dc11(0x4fb,0x53f))](140.01,102.417,83.666),'rotation':73.093,'speech':'PHONE_CONV3_INTRO','voice':_0x33dc11(0x4f7,0x52b),'conversation_id':0x32,'cam_pos':new mp[(_0x33dc11(0x44f,0x53f))](137.306,103.208,84.275),'cam_point':new mp[(_0x33dc11(0x5c7,0x53f))](139.786,102.305,84.24),'questionMarker':!0x0},{'name':_0x33dc11(0x4d9,0x579),'model':_0x33dc11(0x543,0x476),'position':new mp['Vector3'](1103.828,-3101.24,-0x27),'rotation':57.855,'speech':_0x260ef2(-0x13f,-0xe9),'voice':_0x260ef2(-0x2,0x2),'conversation_id':0x32,'cam_pos':new mp[(_0x260ef2(0x10,0xad))](1102.264,-3100.748,-38.316),'cam_point':new mp[(_0x33dc11(0x574,0x53f))](1105.497,-3102.52,-38.308)},{'name':'Agatha\x20Gumble','model':_0x260ef2(-0x72,-0x33),'position':new mp[(_0x260ef2(0x10,0x9d))](930.966,35.908,81.096),'rotation':3.428,'speech':_0x260ef2(0xab,0x60),'voice':_0x260ef2(-0x107,-0xe2),'conversation_id':0x34,'cam_pos':new mp[(_0x260ef2(0x10,-0x57))](930.9327392578125,36.72564697265625,81.74324035644531),'cam_point':new mp[(_0x260ef2(0x10,0xb))](930.9630737304688,36.15220260620117,81.7194595336914)},{'name':_0x33dc11(0x3ea,0x445),'model':_0x33dc11(0x609,0x580),'position':new mp[(_0x260ef2(0x10,0xca))](950.04,19.081,116.164),'rotation':6.541,'speech':_0x260ef2(-0xf,0x48),'voice':_0x33dc11(0x5bc,0x4f2),'conversation_id':0x35,'cam_pos':new mp[(_0x33dc11(0x633,0x53f))](949.9564819335938,19.761140823364258,116.8121337890625),'cam_point':new mp[(_0x260ef2(0x10,0x27))](950.0177001953125,19.321123123168945,116.79991149902344)},{'name':_0x33dc11(0x420,0x4f1),'model':_0x260ef2(0x59,0x154),'position':new mp[(_0x260ef2(0x10,-0x2a))](90.431,-1985.338,20.437),'rotation':-44.123,'speech':_0x260ef2(0xab,0x1),'voice':_0x33dc11(0x550,0x4a8),'conversation_id':0xf,'cam_pos':new mp[(_0x260ef2(0x10,-0x9d))](91.401,-1983.625,21.279),'cam_point':new mp[(_0x33dc11(0x5ca,0x53f))](90.599,-1985.153,20.929)},{'name':_0x260ef2(0x60,-0x4f),'model':_0x260ef2(0x33,-0x82),'position':new mp[(_0x260ef2(0x10,0x9a))](-171.95,-1659.348,33.455),'rotation':84.846,'speech':_0x260ef2(-0xba,-0x117),'voice':_0x260ef2(0x62,0x7c),'conversation_id':0x10,'cam_pos':new mp['Vector3'](-173.03,-1659.257,34.075),'cam_point':new mp[(_0x33dc11(0x488,0x53f))](-172.199,-1659.325,34.024)},{'name':_0x260ef2(-0xa1,-0x68),'model':_0x260ef2(-0xaf,-0x75),'position':new mp[(_0x260ef2(0x10,-0x37))](-1082.782,-1647.696,4.435),'rotation':121.255,'speech':_0x260ef2(0x61,0x0),'voice':'G_M_Y_LOST_02_LATINO_MINI_01','conversation_id':0xac,'cam_pos':new mp[(_0x260ef2(0x10,-0x9d))](-1083.52,-1648.105,5.069),'cam_point':new mp[(_0x33dc11(0x4a8,0x53f))](-1083.001,-1647.808,5.048),'eng_only':!0x0},{'name':'Clement\x20Espado','model':_0x33dc11(0x494,0x463),'position':new mp[(_0x33dc11(0x5df,0x53f))](-1072.069580078125,-1661.8663330078125,4.43),'rotation':86.22147369384766,'speech':_0x260ef2(0x61,-0x98),'voice':_0x260ef2(0x88,0x8f),'conversation_id':0x11,'cam_pos':new mp[(_0x33dc11(0x600,0x53f))](-1072.72216796875,-1661.860595703125,5.05925989151001),'cam_point':new mp[(_0x260ef2(0x10,-0x1c))](-1072.308837890625,-1661.856689453125,5.0716166496276855),'eng_only':!0x0},{'name':_0x260ef2(-0x7d,0x77),'model':'g_m_y_strpunk_02','position':new mp[(_0x260ef2(0x10,0x42))](1343.285,-1529.908,54.187),'rotation':70.211,'speech':_0x33dc11(0x509,0x590),'voice':_0x33dc11(0x663,0x5b7),'conversation_id':0x11,'cam_pos':new mp[(_0x33dc11(0x55d,0x53f))](1342.837,-1529.85,54.959),'cam_point':new mp[(_0x33dc11(0x634,0x53f))](1342.929,-1529.87,54.948),'eng_only':!0x1},{'name':_0x260ef2(-0xa1,-0x34),'model':_0x33dc11(0x57e,0x480),'position':new mp[(_0x33dc11(0x50d,0x53f))](1442.635,-1491.972,60.163),'rotation':72.05,'speech':_0x260ef2(0x61,-0x59),'voice':_0x260ef2(0x88,0x43),'conversation_id':0xac,'cam_pos':new mp[(_0x260ef2(0x10,-0x53))](1441.14,-1491.636,60.7),'cam_point':new mp[(_0x260ef2(0x10,0xcc))](1444.162,-1492.508,61.039),'eng_only':!0x1},{'name':_0x33dc11(0x3bb,0x458),'model':_0x33dc11(0x3cd,0x4c1),'position':new mp['Vector3'](429.7893371582031,-1557.313720703125,32.79),'rotation':228.23782348632812,'speech':_0x33dc11(0x41b,0x475),'voice':_0x33dc11(0x6c5,0x5df),'conversation_id':0x12,'cam_pos':new mp[(_0x260ef2(0x10,0xbc))](430.3969421386719,-1557.7857666015625,33.438751220703125),'cam_point':new mp[(_0x33dc11(0x619,0x53f))](429.96978759765625,-1557.4599609375,33.45243453979492)},{'name':_0x260ef2(0x3c,0x47),'model':_0x260ef2(-0x27,-0xa0),'position':new mp[(_0x33dc11(0x571,0x53f))](843.806,-2118.413,30.521),'rotation':169.837,'speech':'GENERIC_HI','voice':_0x260ef2(-0xbe,-0xea),'conversation_id':0x13,'cam_pos':new mp[(_0x33dc11(0x47e,0x53f))](843.775,-2119.285,31.175),'cam_point':new mp[(_0x260ef2(0x10,-0x5e))](843.834,-2118.656,31.144)},{'name':_0x33dc11(0x588,0x523),'model':_0x33dc11(0x4cc,0x5b2),'position':new mp[(_0x260ef2(0x10,0x6b))](104.515,-1961.599,20.858),'rotation':25.915,'speech':_0x33dc11(0x4f5,0x5da),'voice':_0x33dc11(0x4d5,0x4a8),'conversation_id':0x98,'cam_pos':new mp['Vector3'](103.804,-1960.406,21.508),'cam_point':new mp[(_0x33dc11(0x5b0,0x53f))](104.387,-1961.384,21.406)},{'name':_0x260ef2(0x7b,0x92),'model':_0x33dc11(0x3ce,0x431),'position':new mp[(_0x260ef2(0x10,0x107))](-152.21,-1659.414,32.856),'rotation':46.004,'speech':_0x260ef2(-0xba,-0xfc),'voice':_0x260ef2(0x62,0x107),'conversation_id':0xa9,'cam_pos':new mp[(_0x260ef2(0x10,0xaa))](-152.775,-1658.892,33.493),'cam_point':new mp[(_0x33dc11(0x586,0x53f))](-152.367,-1659.232,33.494)},{'name':_0x260ef2(0x97,-0x47),'model':_0x33dc11(0x5ff,0x5ce),'position':new mp[(_0x260ef2(0x10,0xc))](416.859,-1547.565,29.242),'rotation':287.003,'speech':_0x33dc11(0x44a,0x475),'voice':_0x33dc11(0x54b,0x5df),'conversation_id':0xb6,'cam_pos':new mp[(_0x33dc11(0x53d,0x53f))](417.506,-1547.36,29.89),'cam_point':new mp[(_0x260ef2(0x10,0x19))](417.096,-1547.512,29.871)},{'name':_0x260ef2(-0x89,-0xb1),'model':_0x33dc11(0x54c,0x534),'position':new mp[(_0x260ef2(0x10,-0xe6))](798.272,-2135.576,29.519),'rotation':354.574,'speech':_0x260ef2(0x61,0x67),'voice':_0x33dc11(0x493,0x471),'conversation_id':0xc0,'cam_pos':new mp[(_0x33dc11(0x44c,0x53f))](798.289,-2134.634,30.158),'cam_point':new mp[(_0x33dc11(0x4f3,0x53f))](798.271,-2135.334,30.153)},{'name':_0x260ef2(0xa4,0xcf),'model':_0x260ef2(-0xa5,-0xb6),'position':new mp[(_0x33dc11(0x4e1,0x53f))](-846.4028930664062,-1316.76708984375,5.000180721282959),'rotation':288.1474609375,'speech':_0x33dc11(0x5bc,0x528),'voice':'A_M_M_POLYNESIAN_01_POLYNESIAN_MINI_01','conversation_id':0x2,'cam_pos':new mp[(_0x33dc11(0x569,0x53f))](-844.3689575195312,-1315.95849609375,5.817755699157715),'cam_point':new mp[(_0x260ef2(0x10,-0x43))](-846.1693115234375,-1316.7086181640625,5.6375226974487305)},{'name':_0x260ef2(0x96,-0x5c),'model':'s_m_y_airworker','position':new mp[(_0x260ef2(0x10,0x9d))](-1032.149,-3013.898,13.947),'rotation':51.166,'speech':_0x33dc11(0x53c,0x4a2),'voice':_0x260ef2(-0x3f,-0x77),'conversation_id':0x6e,'cam_pos':new mp['Vector3'](-1032.954,-3013.326,14.593),'cam_point':new mp[(_0x33dc11(0x50c,0x53f))](-1032.349,-3013.753,14.554)},{'name':_0x33dc11(0x45f,0x502),'model':_0x33dc11(0x3ef,0x437),'position':new mp[(_0x33dc11(0x569,0x53f))](-2966.462,390.608,15.043),'rotation':82.123,'speech':_0x33dc11(0x3e7,0x478),'voice':_0x33dc11(0x5a1,0x4aa),'conversation_id':0x42,'cam_pos':new mp[(_0x33dc11(0x56e,0x53f))](-2967.184,390.686,15.776),'cam_point':new mp['Vector3'](-2966.677,390.636,15.737)},{'name':_0x260ef2(0x40,-0x89),'model':_0x33dc11(0x371,0x437),'position':new mp[(_0x33dc11(0x5b2,0x53f))](-47.333,-1758.576,29.421),'rotation':50.216,'speech':_0x260ef2(-0xb7,-0x88),'voice':_0x33dc11(0x3de,0x4aa),'conversation_id':0x43,'cam_pos':new mp[(_0x33dc11(0x485,0x53f))](-48.073,-1757.939,30.22),'cam_point':new mp[(_0x260ef2(0x10,0xa3))](-47.507,-1758.439,30.107)},{'name':'David\x20Carr','model':_0x33dc11(0x44c,0x437),'position':new mp['Vector3'](-706.139,-914.512,19.216),'rotation':84.129,'speech':_0x260ef2(-0xb7,0x1f),'voice':_0x260ef2(-0x85,-0x11a),'conversation_id':0x44,'cam_pos':new mp[(_0x33dc11(0x5ad,0x53f))](-706.981,-914.502,19.862),'cam_point':new mp[(_0x33dc11(0x470,0x53f))](-706.374,-914.501,19.87)},{'name':_0x33dc11(0x452,0x53a),'model':_0x33dc11(0x3d5,0x437),'position':new mp[(_0x260ef2(0x10,0x6a))](1164.904,-323.667,69.205),'rotation':94.461,'speech':_0x33dc11(0x41e,0x478),'voice':_0x260ef2(-0x85,0x2a),'conversation_id':0x45,'cam_pos':new mp[(_0x260ef2(0x10,-0x75))](1164.139,-323.785,69.851),'cam_point':new mp[(_0x33dc11(0x4fd,0x53f))](1164.671,-323.681,69.863)},{'name':_0x33dc11(0x37b,0x43b),'model':_0x260ef2(-0xf8,-0xdf),'position':new mp[(_0x33dc11(0x524,0x53f))](2555.464,380.861,108.623),'rotation':348.45,'speech':_0x33dc11(0x419,0x478),'voice':_0x33dc11(0x439,0x4aa),'conversation_id':0x46,'cam_pos':new mp[(_0x33dc11(0x52d,0x53f))](2555.563,381.729,109.268),'cam_point':new mp[(_0x260ef2(0x10,0x41))](2555.513,381.091,109.279)},{'name':_0x33dc11(0x418,0x41f),'model':_0x33dc11(0x4b7,0x437),'position':new mp[(_0x260ef2(0x10,-0xd3))](-1819.566,793.535,138.087),'rotation':134.071,'speech':_0x260ef2(-0xb7,-0xae),'voice':_0x260ef2(-0x85,-0xe0),'conversation_id':0x47,'cam_pos':new mp[(_0x33dc11(0x448,0x53f))](-1820.32,792.832,138.756),'cam_point':new mp[(_0x260ef2(0x10,0xe2))](-1819.741,793.39,138.761)},{'name':_0x33dc11(0x5d4,0x586),'model':_0x33dc11(0x41b,0x437),'position':new mp['Vector3'](1165.186,2710.816,38.158),'rotation':183.601,'speech':'SHOP_GREET','voice':_0x33dc11(0x530,0x4aa),'conversation_id':0x48,'cam_pos':new mp[(_0x260ef2(0x10,-0xb6))](1165.244,2709.925,38.9),'cam_point':new mp[(_0x260ef2(0x10,0xb7))](1165.189,2710.599,38.852)},{'name':_0x33dc11(0x3b9,0x453),'model':_0x33dc11(0x500,0x437),'position':new mp[(_0x33dc11(0x577,0x53f))](2676.558,3280.268,55.241),'rotation':320.006,'speech':_0x33dc11(0x40c,0x478),'voice':_0x33dc11(0x3e1,0x4aa),'conversation_id':0x49,'cam_pos':new mp[(_0x33dc11(0x55a,0x53f))](2677.095,3281.015,55.888),'cam_point':new mp[(_0x260ef2(0x10,0x2b))](2676.702,3280.452,55.901)},{'name':_0x260ef2(0xa2,0x15d),'model':_0x260ef2(-0xf8,-0x1db),'position':new mp[(_0x260ef2(0x10,-0x55))](1959.247,3741.452,32.344),'rotation':296.315,'speech':_0x260ef2(-0xb7,-0x4e),'voice':_0x33dc11(0x44d,0x4aa),'conversation_id':0x5d,'cam_pos':new mp[(_0x260ef2(0x10,-0x19))](1959.867,3741.81,32.99),'cam_point':new mp[(_0x33dc11(0x5f1,0x53f))](1959.455,3741.563,32.997)},{'name':'Steve\x20Jackson','model':_0x33dc11(0x450,0x4b3),'position':new mp[(_0x33dc11(0x4b1,0x53f))](-67.288,74.555,71.9),'rotation':160.36,'speech':_0x260ef2(-0x13f,-0xec),'voice':_0x260ef2(0x64,0x129),'conversation_id':0x3b,'cam_pos':new mp[(_0x33dc11(0x4de,0x53f))](-67.751,73.434,72.546),'cam_point':new mp[(_0x260ef2(0x10,0x6b))](-67.402,74.336,72.511)},{'name':_0x33dc11(0x3a1,0x42f),'model':'s_m_o_busker_01','position':new mp[(_0x260ef2(0x10,0x6))](3819.298,4455.246,3.514),'rotation':40.947,'speech':_0x33dc11(0x4e2,0x475),'voice':_0x33dc11(0x554,0x4c6),'conversation_id':0x3d,'cam_pos':new mp[(_0x260ef2(0x10,0xfe))](3818.61,4455.946,4.227),'cam_point':new mp[(_0x260ef2(0x10,0x7c))](3819.165,4455.43,4.19)},{'name':_0x33dc11(0x4b9,0x416),'model':'s_m_y_airworker','position':new mp[(_0x260ef2(0x10,-0x5f))](1758.252,3297.072,41.146),'rotation':143.704,'speech':_0x33dc11(0x3ab,0x4a2),'voice':_0x33dc11(0x57d,0x4f0),'conversation_id':0x41,'cam_pos':new mp[(_0x260ef2(0x10,-0x38))](1757.789,3296.282,41.812),'cam_point':new mp[(_0x33dc11(0x60f,0x53f))](1758.13,3296.884,41.827)},{'name':_0x33dc11(0x407,0x4be),'model':_0x260ef2(0xaa,0x1e),'position':new mp[(_0x33dc11(0x499,0x53f))](1763.315,2597.438,45.798),'rotation':233.379,'speech':_0x260ef2(-0x8d,-0x48),'voice':_0x260ef2(-0x3f,-0x13b),'conversation_id':0x4a,'cam_pos':new mp[(_0x260ef2(0x10,0xec))](1763.827,2597.003,46.446),'cam_point':new mp[(_0x33dc11(0x5eb,0x53f))](1763.498,2597.274,46.413),'dimension':-0x1},{'name':_0x33dc11(0x3ec,0x4c8),'model':_0x260ef2(0x7f,0x169),'position':new mp[(_0x33dc11(0x4a8,0x53f))](-555.915,-185.843,38.221),'rotation':-155.179,'speech':_0x33dc11(0x5f2,0x528),'voice':_0x260ef2(0x73,-0x5b),'conversation_id':0x61,'cam_pos':new mp[(_0x33dc11(0x639,0x53f))](-555.403,-186.775,38.909),'cam_point':new mp['Vector3'](-555.824,-186.069,38.846)},{'name':_0x260ef2(0xae,-0x3b),'model':'ig_paper','position':new mp[(_0x33dc11(0x487,0x53f))](-139.152,-633.854,168.82),'rotation':-1.197,'speech':_0x33dc11(0x61c,0x528),'voice':_0x33dc11(0x668,0x5a2),'conversation_id':0x4b,'cam_pos':new mp[(_0x33dc11(0x46e,0x53f))](-139.176,-633.021,169.596),'cam_point':new mp[(_0x33dc11(0x48f,0x53f))](-139.132,-633.622,169.481)},{'name':_0x260ef2(0x7c,-0x40),'model':_0x260ef2(0x5e,0xef),'position':new mp[(_0x260ef2(0x10,-0x42))](-445.218,6024.293,31.49),'rotation':304.599,'speech':_0x33dc11(0x519,0x528),'voice':'A_M_M_POLYNESIAN_01_POLYNESIAN_MINI_01','conversation_id':0x4c,'cam_pos':new mp['Vector3'](-444.576,6024.803,32.137),'cam_point':new mp[(_0x260ef2(0x10,-0x1c))](-445.014,6024.424,32.12)},{'name':_0x260ef2(0x27,0x75),'model':_0x33dc11(0x4b0,0x4ea),'position':new mp['Vector3'](286.969,2843.46,44.704),'rotation':29.234,'speech':_0x260ef2(-0x7,0xdf),'voice':_0x260ef2(0x73,-0x1),'conversation_id':0x4e,'cam_pos':new mp[(_0x260ef2(0x10,0x40))](286.668,2843.905,45.356),'cam_point':new mp[(_0x33dc11(0x5b7,0x53f))](286.842,2843.662,45.35)},{'name':_0x260ef2(0x7a,0xe5),'model':_0x33dc11(0x43c,0x4ea),'position':new mp[(_0x260ef2(0x10,0xb8))](1093.252,-2251.934,31.234),'rotation':173.792,'speech':_0x260ef2(-0x7,-0x62),'voice':_0x33dc11(0x5d3,0x5a2),'conversation_id':0x4f,'cam_pos':new mp[(_0x260ef2(0x10,0xd6))](1093.187,-2252.624,31.884),'cam_point':new mp[(_0x33dc11(0x5a9,0x53f))](1093.222,-2252.169,31.884),'questionMarker':!0x0},{'name':_0x260ef2(0x27,-0x7),'model':_0x33dc11(0x504,0x4ea),'position':new mp[(_0x33dc11(0x523,0x53f))](-272.121,-2496.399,7.296),'rotation':141.946,'speech':_0x33dc11(0x49a,0x528),'voice':_0x33dc11(0x5bd,0x5a2),'conversation_id':0x50,'cam_pos':new mp[(_0x260ef2(0x10,-0x2d))](-272.503,-2496.968,7.948),'cam_point':new mp[(_0x33dc11(0x577,0x53f))](-272.25,-2496.595,7.951)},{'name':_0x33dc11(0x4cf,0x56a),'model':'ig_casey','position':new mp[(_0x33dc11(0x4af,0x53f))](2491.156,-404.381,100.1),'rotation':133.981,'speech':_0x260ef2(-0xc0,-0x17f),'voice':_0x33dc11(0x660,0x582),'conversation_id':0x232e,'cam_pos':new mp[(_0x33dc11(0x55b,0x53f))](2490.447,-405.323,100.747),'cam_point':new mp[(_0x33dc11(0x467,0x53f))](2491.057,-404.598,100.744)},{'name':_0x33dc11(0x579,0x4b0),'model':_0x33dc11(0x409,0x46c),'position':new mp[(_0x33dc11(0x475,0x53f))](2527.306,4357.743,40.13),'rotation':61.193,'speech':_0x33dc11(0x59f,0x4a2),'voice':_0x33dc11(0x56e,0x4f0),'conversation_id':0x5dd,'cam_pos':new mp[(_0x260ef2(0x10,-0x95))](2526.582,4358.277,40.685),'cam_point':new mp[(_0x260ef2(0x10,0x4))](2527.102,4357.887,40.696)},{'name':'Shannon\x20Rogers','model':_0x33dc11(0x3d9,0x49b),'position':new mp[(_0x260ef2(0x10,0x27))](2591.899,4418.257,40.588),'rotation':40.619,'speech':_0x260ef2(-0x8d,-0x5),'voice':_0x33dc11(0x54e,0x4f0),'conversation_id':0x5de,'cam_pos':new mp[(_0x33dc11(0x565,0x53f))](2591.538,4418.771,41.212),'cam_point':new mp[(_0x33dc11(0x63d,0x53f))](2591.775,4418.464,41.223)},{'name':_0x33dc11(0x54e,0x5b8),'model':_0x260ef2(-0xe5,-0xc),'position':new mp[(_0x33dc11(0x609,0x53f))](2644.772,4442.331,40.631),'rotation':311.979,'speech':'PHONE_CONV1_INTRO','voice':_0x33dc11(0x455,0x4f0),'conversation_id':0x5df,'cam_pos':new mp['Vector3'](2645.337,4442.975,41.264),'cam_point':new mp[(_0x33dc11(0x4da,0x53f))](2644.941,4442.509,41.251)},{'name':_0x260ef2(-0xb3,0x34),'model':_0x33dc11(0x3e1,0x46c),'position':new mp[(_0x33dc11(0x4ac,0x53f))](2613.338,4480.031,37.556),'rotation':45.315,'speech':_0x33dc11(0x5a0,0x4a2),'voice':_0x260ef2(-0x3f,0x41),'conversation_id':0x5e0,'cam_pos':new mp[(_0x260ef2(0x10,0xdc))](2612.913,4480.605,38.159),'cam_point':new mp[(_0x33dc11(0x48f,0x53f))](2613.186,4480.228,38.151)},{'name':_0x260ef2(0x4,-0xe8),'model':_0x260ef2(-0xe5,-0x66),'position':new mp[(_0x260ef2(0x10,-0x96))](2551.128,4537.528,35.677),'rotation':213.215,'speech':_0x260ef2(-0x8d,-0x5c),'voice':_0x33dc11(0x476,0x4f0),'conversation_id':0x5e1,'cam_pos':new mp['Vector3'](2551.474,4536.836,36.469),'cam_point':new mp[(_0x260ef2(0x10,0x5))](2551.204,4537.323,36.368)},{'name':_0x33dc11(0x5e2,0x50c),'model':_0x260ef2(-0x94,0x5f),'position':new mp[(_0x260ef2(0x10,-0x7))](2636.986,4581.696,36.779),'rotation':317.831,'speech':_0x33dc11(0x3c0,0x4a2),'voice':_0x33dc11(0x500,0x4f0),'conversation_id':0x5e2,'cam_pos':new mp[(_0x260ef2(0x10,0x10d))](2637.645,4582.233,37.445),'cam_point':new mp[(_0x260ef2(0x10,0xd7))](2637.19,4581.818,37.425)},{'name':_0x33dc11(0x53d,0x4fc),'model':_0x33dc11(0x43e,0x46c),'position':new mp[(_0x260ef2(0x10,-0xbd))](2640.428,4708.851,35.337),'rotation':317.832,'speech':_0x33dc11(0x51a,0x4a2),'voice':_0x260ef2(-0x3f,-0xe4),'conversation_id':0x5e3,'cam_pos':new mp[(_0x33dc11(0x49d,0x53f))](2641.107,4709.498,35.987),'cam_point':new mp[(_0x33dc11(0x601,0x53f))](2640.612,4709.011,35.963)},{'name':_0x260ef2(0x23,-0x52),'model':_0x33dc11(0x407,0x44a),'position':new mp[(_0x33dc11(0x5c3,0x53f))](2545.019,4807.945,33.532),'rotation':129.899,'speech':_0x260ef2(-0x8d,-0x8f),'voice':'S_M_Y_AIRWORKER_LATINO_FULL_02','conversation_id':0x5e4,'cam_pos':new mp[(_0x260ef2(0x10,0x75))](2544.59,4807.511,34.178),'cam_point':new mp[(_0x260ef2(0x10,0x1b))](2544.848,4807.774,34.166)},{'name':_0x260ef2(0x5f,-0x81),'model':_0x260ef2(-0x94,-0x82),'position':new mp[(_0x33dc11(0x543,0x53f))](2491.265,4851.136,36.22),'rotation':93.744,'speech':_0x33dc11(0x45f,0x4a2),'voice':_0x260ef2(-0x3f,-0x74),'conversation_id':0x5e5,'cam_pos':new mp[(_0x260ef2(0x10,-0x3a))](2490.628,4851.073,36.868),'cam_point':new mp[(_0x260ef2(0x10,-0x91))](2491.026,4851.121,36.863)},{'name':_0x260ef2(-0x92,0x56),'model':_0x260ef2(-0xc3,-0x97),'position':new mp[(_0x260ef2(0x10,-0x70))](2308.368,5124.455,49.725),'rotation':43.029,'speech':_0x33dc11(0x4ad,0x4a2),'voice':_0x260ef2(-0x3f,-0xa0),'conversation_id':0x5e6,'cam_pos':new mp[(_0x33dc11(0x4dc,0x53f))](2307.82,5125.194,50.465),'cam_point':new mp[(_0x33dc11(0x52c,0x53f))](2308.225,5124.659,50.319)},{'name':_0x33dc11(0x574,0x4e9),'model':_0x33dc11(0x360,0x44a),'position':new mp[(_0x260ef2(0x10,0x1e))](2234.698,5067.105,46.859),'rotation':42.062,'speech':_0x33dc11(0x569,0x4a2),'voice':_0x260ef2(-0x3f,0x37),'conversation_id':0x5e7,'cam_pos':new mp[(_0x260ef2(0x10,0x17))](2234.19,5067.708,47.72),'cam_point':new mp[(_0x260ef2(0x10,-0xa8))](2234.582,5067.287,47.555)},{'name':'Jeremy\x20Conley','model':_0x260ef2(-0x94,-0xfa),'position':new mp[(_0x33dc11(0x548,0x53f))](2143.298,5160.792,53.017),'rotation':46.236,'speech':_0x33dc11(0x532,0x4a2),'voice':_0x260ef2(-0x3f,0x80),'conversation_id':0x5e8,'cam_pos':new mp[(_0x33dc11(0x49c,0x53f))](2142.649,5161.553,53.771),'cam_point':new mp['Vector3'](2143.165,5160.989,53.662)},{'name':_0x260ef2(-0x1d,-0xe4),'model':_0x33dc11(0x4be,0x46c),'position':new mp[(_0x260ef2(0x10,-0x59))](1955.675,4797.982,43.577),'rotation':223.987,'speech':'PHONE_CONV1_INTRO','voice':_0x33dc11(0x462,0x4f0),'conversation_id':0x5e9,'cam_pos':new mp[(_0x33dc11(0x5fb,0x53f))](1956.22,4797.245,44.189),'cam_point':new mp[(_0x33dc11(0x4ec,0x53f))](1955.818,4797.779,44.177)},{'name':_0x33dc11(0x47a,0x4a0),'model':_0x260ef2(-0xe5,-0x1c4),'position':new mp[(_0x260ef2(0x10,-0x92))](1915.717,4760.938,42.757),'rotation':43.827,'speech':_0x33dc11(0x50a,0x4a2),'voice':_0x260ef2(-0x3f,-0x21),'conversation_id':0x5ea,'cam_pos':new mp['Vector3'](1915.051,4761.501,43.397),'cam_point':new mp[(_0x33dc11(0x484,0x53f))](1915.529,4761.098,43.368)},{'name':_0x260ef2(-0x147,-0x1d0),'model':_0x260ef2(-0xe5,-0x135),'position':new mp[(_0x260ef2(0x10,0x37))](1874.775,4805.188,45.063),'rotation':133.875,'speech':_0x33dc11(0x584,0x4a2),'voice':_0x260ef2(-0x3f,0x53),'conversation_id':0x5eb,'cam_pos':new mp[(_0x260ef2(0x10,0xe3))](1874.244,4804.661,45.618),'cam_point':new mp[(_0x260ef2(0x10,0xa5))](1874.585,4805.028,45.661)},{'name':_0x260ef2(-0xa2,-0x16),'model':_0x260ef2(-0xce,-0x83),'position':new mp[(_0x33dc11(0x5a9,0x53f))](1047.069,3071.548,41.753),'rotation':288.536,'speech':_0x260ef2(-0x8d,-0x66),'voice':_0x33dc11(0x597,0x4f0),'conversation_id':0x59,'cam_pos':new mp[(_0x33dc11(0x5e9,0x53f))](1047.663,3071.701,42.37),'cam_point':new mp[(_0x260ef2(0x10,0x1c))](1047.304,3071.614,42.378)},{'name':'Charla\x20Morgan','model':_0x33dc11(0x47e,0x4ee),'position':new mp[(_0x260ef2(0x10,-0x76))](5.975,6511.497,31.878),'rotation':40.845,'speech':_0x260ef2(0xab,0x5f),'voice':_0x260ef2(0x75,0x33),'conversation_id':0x5a,'cam_pos':new mp[(_0x260ef2(0x10,0x5a))](5.494,6512.076,32.524),'cam_point':new mp[(_0x260ef2(0x10,0xa3))](5.826,6511.69,32.502)},{'name':_0x260ef2(0x34,-0xbf),'model':_0x33dc11(0x4b0,0x4cf),'position':new mp[(_0x260ef2(0x10,-0x93))](-3169.086,1044.085,20.863),'rotation':64.467,'speech':_0x260ef2(0xab,-0x4d),'voice':_0x33dc11(0x52c,0x5a4),'conversation_id':0x5b,'cam_pos':new mp[(_0x260ef2(0x10,-0xa3))](-3169.681,1044.453,21.513),'cam_point':new mp['Vector3'](-3169.291,1044.219,21.483)},{'name':_0x33dc11(0x47a,0x551),'model':_0x260ef2(0x84,0xf6),'position':new mp[(_0x33dc11(0x474,0x53f))](1695.271,4823.132,42.063),'rotation':98.528,'speech':_0x33dc11(0x5fe,0x5da),'voice':_0x260ef2(0x75,0x9),'conversation_id':0x5c,'cam_pos':new mp[(_0x260ef2(0x10,0xf0))](1694.72,4823.08,42.711),'cam_point':new mp[(_0x33dc11(0x48e,0x53f))](1695.031,4823.119,42.702)},{'name':_0x33dc11(0x4f3,0x456),'model':_0x260ef2(-0x121,-0xcb),'position':new mp['Vector3'](-1077.92,-260.64,37.81),'rotation':-158.944,'speech':_0x33dc11(0x373,0x3f0),'voice':_0x260ef2(0x64,-0x7),'conversation_id':0x5e,'cam_pos':new mp[(_0x33dc11(0x4ee,0x53f))](-1077.554,-261.437,38.491),'cam_point':new mp[(_0x260ef2(0x10,-0xb9))](-1077.829,-260.864,38.443)},{'name':'Kory\x20Boone','model':_0x33dc11(0x511,0x43d),'position':new mp[(_0x33dc11(0x4c6,0x53f))](540.627,-172.474,54.481),'rotation':92.737,'speech':_0x33dc11(0x602,0x590),'voice':_0x33dc11(0x55b,0x5a3),'conversation_id':0x5f,'cam_pos':new mp['Vector3'](539.758,-172.574,55.132),'cam_point':new mp[(_0x33dc11(0x5d4,0x53f))](540.392,-172.49,55.134)},{'name':_0x33dc11(0x4d1,0x51f),'model':_0x260ef2(0x69,0x148),'position':new mp[(_0x33dc11(0x568,0x53f))](1117.276,219.923,-49.435),'rotation':81.495,'speech':_0x33dc11(0x675,0x5da),'voice':_0x33dc11(0x60e,0x567),'conversation_id':0x60,'cam_pos':new mp['Vector3'](1115.617,219.986,-48.785),'cam_point':new mp[(_0x260ef2(0x10,0x98))](1116.492,219.952,-48.877)},{'name':_0x33dc11(0x3c4,0x409),'model':_0x260ef2(-0x94,0x24),'position':new mp['Vector3'](2504.148,4744.339,34.304),'rotation':132.136,'speech':_0x260ef2(-0x8d,0x19),'voice':_0x33dc11(0x5dc,0x4f0),'conversation_id':0x5ec,'cam_pos':new mp['Vector3'](2503.342,4743.519,34.951),'cam_point':new mp[(_0x33dc11(0x46d,0x53f))](2503.989,4744.151,34.918)},{'name':_0x260ef2(-0x4f,-0x29),'model':_0x260ef2(-0xc3,-0xf7),'position':new mp[(_0x33dc11(0x461,0x53f))](2456.81,4769.172,34.375),'rotation':132.288,'speech':_0x33dc11(0x3f2,0x4a2),'voice':_0x33dc11(0x525,0x4f0),'conversation_id':0x5ed,'cam_pos':new mp[(_0x33dc11(0x5a0,0x53f))](2456.003,4768.352,35.004),'cam_point':new mp[(_0x260ef2(0x10,-0x91))](2456.639,4768.996,34.995)},{'name':'Samuel\x20Hodges','model':_0x33dc11(0x49f,0x44a),'position':new mp[(_0x260ef2(0x10,-0x58))](2425.555,4761.442,34.315),'rotation':307.139,'speech':_0x33dc11(0x55e,0x4a2),'voice':_0x33dc11(0x439,0x4f0),'conversation_id':0x5ee,'cam_pos':new mp['Vector3'](2426.345,4762.092,34.967),'cam_point':new mp[(_0x33dc11(0x63d,0x53f))](2425.741,4761.598,34.944)},{'name':_0x33dc11(0x35a,0x3ef),'model':_0x33dc11(0x3b7,0x49b),'position':new mp[(_0x260ef2(0x10,-0x99))](2256.428,4842.934,40.657),'rotation':310.862,'speech':'PHONE_CONV1_INTRO','voice':_0x33dc11(0x523,0x4f0),'conversation_id':0x5ef,'cam_pos':new mp[(_0x260ef2(0x10,0xe1))](2257.157,4843.539,41.301),'cam_point':new mp[(_0x33dc11(0x5e5,0x53f))](2256.628,4843.07,41.288)},{'name':_0x33dc11(0x486,0x53b),'model':_0x33dc11(0x4ce,0x46c),'position':new mp[(_0x33dc11(0x4f9,0x53f))](2236.263,4891.014,40.695),'rotation':312.897,'speech':_0x33dc11(0x594,0x4a2),'voice':'S_M_Y_AIRWORKER_LATINO_FULL_02','conversation_id':0x5f0,'cam_pos':new mp[(_0x260ef2(0x10,0x8d))](2237.095,4891.643,41.365),'cam_point':new mp['Vector3'](2236.466,4891.152,41.312)},{'name':'John\x20Hubbard','model':_0x260ef2(-0xe5,-0x197),'position':new mp[(_0x260ef2(0x10,-0x7a))](2247.761,4903.328,40.71),'rotation':135.066,'speech':_0x33dc11(0x42e,0x4a2),'voice':_0x260ef2(-0x3f,-0x135),'conversation_id':0x5f1,'cam_pos':new mp[(_0x33dc11(0x4af,0x53f))](2247.219,4902.651,41.357),'cam_point':new mp[(_0x260ef2(0x10,-0x67))](2247.607,4903.137,41.328)},{'name':_0x33dc11(0x5fa,0x5bd),'model':_0x33dc11(0x459,0x49b),'position':new mp[(_0x260ef2(0x10,-0x1e))](2192.607,4979.481,41.533),'rotation':316.392,'speech':_0x260ef2(-0x8d,-0x148),'voice':_0x260ef2(-0x3f,0x55),'conversation_id':0x5f2,'cam_pos':new mp[(_0x260ef2(0x10,-0x18))](2193.249,4980.127,42.204),'cam_point':new mp[(_0x260ef2(0x10,0xea))](2192.781,4979.648,42.166)},{'name':'Charles\x20Hoover','model':_0x33dc11(0x546,0x46c),'position':new mp[(_0x33dc11(0x4d6,0x53f))](2158.757,5014.042,41.473),'rotation':304.753,'speech':_0x33dc11(0x469,0x4a2),'voice':_0x33dc11(0x4d4,0x4f0),'conversation_id':0x5f3,'cam_pos':new mp[(_0x260ef2(0x10,0x5f))](2159.532,5014.457,42.137),'cam_point':new mp[(_0x33dc11(0x5d1,0x53f))](2158.975,5014.159,42.077)},{'name':_0x33dc11(0x54e,0x585),'model':'s_m_m_mariachi_01','position':new mp['Vector3'](-265.099,-2017.407,30.146),'rotation':221.295,'speech':'','voice':'','conversation_id':0x63,'cam_pos':new mp[(_0x260ef2(0x10,0x56))](-264.626,-2017.861,30.794),'cam_point':new mp[(_0x33dc11(0x631,0x53f))](-264.923,-2017.578,30.763)},{'name':_0x260ef2(-0x137,-0x190),'model':_0x260ef2(0x95,0x135),'position':new mp[(_0x260ef2(0x10,0x37))](-2461.885,3268.464,32.828),'rotation':149.146,'speech':'','voice':'','conversation_id':0x70,'cam_pos':new mp[(_0x33dc11(0x585,0x53f))](-2462.214,3267.741,33.476),'cam_point':new mp[(_0x33dc11(0x603,0x53f))](-2462.003,3268.25,33.449)},{'name':_0x260ef2(-0x32,0x2b),'model':_0x260ef2(0x49,-0x63),'position':new mp[(_0x33dc11(0x4e7,0x53f))](-1008.249,-475.082,50.027),'rotation':218.235,'speech':_0x260ef2(-0x7,-0xb5),'voice':_0x33dc11(0x5a4,0x5a2),'conversation_id':0x65,'cam_pos':new mp[(_0x33dc11(0x4c0,0x53f))](-1007.525,-475.922,50.674),'cam_point':new mp[(_0x33dc11(0x5cb,0x53f))](-1008.073,-475.252,50.65)},{'name':_0x260ef2(0xa3,0x158),'model':_0x33dc11(0x527,0x545),'position':new mp[(_0x260ef2(0x10,-0x74))](22.873,-1105.571,29.797),'rotation':160.253,'speech':'PHONE_CONV3_INTRO','voice':_0x33dc11(0x470,0x4a9),'conversation_id':0x66,'cam_pos':new mp[(_0x33dc11(0x460,0x53f))](22.515,-1106.703,30.444),'cam_point':new mp[(_0x260ef2(0x10,-0xca))](22.85,-1105.814,30.421)},{'name':_0x260ef2(-0xd2,-0x135),'model':_0x33dc11(0x477,0x3ed),'position':new mp['Vector3'](956.62,72.689,112.553),'rotation':153.291,'speech':_0x33dc11(0x4f5,0x520),'voice':_0x260ef2(0x73,0xdf),'conversation_id':0x67,'cam_pos':new mp[(_0x33dc11(0x472,0x53f))](956.313,72.096,113.199),'cam_point':new mp[(_0x260ef2(0x10,0x37))](956.52,72.47,113.191)},{'name':_0x33dc11(0x547,0x4e4),'model':_0x260ef2(0x3d,0x89),'position':new mp[(_0x33dc11(0x568,0x53f))](920.1,43.471,111.661),'rotation':51.548,'speech':_0x260ef2(-0xf,-0xe1),'voice':'A_M_M_POLYNESIAN_01_POLYNESIAN_MINI_01','conversation_id':0x67,'cam_pos':new mp['Vector3'](919.518,43.87,112.309),'cam_point':new mp[(_0x33dc11(0x5a2,0x53f))](919.892,43.598,112.288)},{'name':_0x33dc11(0x597,0x4ce),'model':_0x260ef2(0xad,0x34),'position':new mp[(_0x260ef2(0x10,0xfe))](944.554,38.515,112.553),'rotation':330.881,'speech':_0x260ef2(-0xf,0x10),'voice':_0x33dc11(0x66f,0x5a2),'conversation_id':0x67,'cam_pos':new mp['Vector3'](944.912,39.195,113.199),'cam_point':new mp[(_0x260ef2(0x10,-0x6e))](944.657,38.736,113.178)},{'name':_0x33dc11(0x5c2,0x575),'model':_0x33dc11(0x4c8,0x4bc),'position':new mp[(_0x260ef2(0x10,-0x1b))](1782.186,2543.456,45.798),'rotation':270.183,'speech':_0x33dc11(0x557,0x46f),'voice':_0x33dc11(0x3f6,0x46b),'conversation_id':0x69,'cam_pos':new mp[(_0x33dc11(0x5ad,0x53f))](1783.72,2543.396,46.445),'cam_point':new mp[(_0x260ef2(0x10,-0x7))](1783.129,2543.423,46.412)},{'name':_0x260ef2(-0x139,-0xd0),'model':_0x260ef2(-0x53,0x9),'position':new mp[(_0x33dc11(0x44f,0x53f))](-784.166,7.054,41.681),'rotation':-156.875,'speech':_0x33dc11(0x580,0x528),'voice':_0x260ef2(-0xa9,-0x10a),'conversation_id':0x6f,'cam_pos':new mp[(_0x33dc11(0x4de,0x53f))](-783.707,6.272,42.332),'cam_point':new mp['Vector3'](-784.052,6.839,42.309)},{'name':_0x33dc11(0x3a0,0x496),'model':_0x260ef2(-0x10c,-0x4a),'position':new mp[(_0x260ef2(0x10,-0xb3))](3900.17,-4692.846,4.173),'rotation':275.839,'speech':_0x33dc11(0x4e8,0x528),'voice':_0x260ef2(-0x13a,-0x1a6),'conversation_id':0x73,'cam_pos':new mp[(_0x260ef2(0x10,-0xe1))](0xf3d,-4692.705,4.816),'cam_point':new mp['Vector3'](3900.41,-4692.809,4.802)},{'name':'John\x20Goodman','model':_0x260ef2(-0x7b,-0x28),'position':new mp[(_0x260ef2(0x10,0x1c))](4807.419,-4298.137,5.242),'rotation':201.844,'speech':'BUMP','voice':_0x33dc11(0x483,0x3f5),'conversation_id':0x73,'cam_pos':new mp[(_0x33dc11(0x514,0x53f))](4807.633,-4298.686,5.878),'cam_point':new mp[(_0x33dc11(0x5c3,0x53f))](4807.5,-4298.369,5.857)},{'name':_0x33dc11(0x469,0x43a),'model':_0x33dc11(0x5e3,0x54d),'position':new mp[(_0x260ef2(0x10,-0xdf))](5481.471,-5870.355,19.339),'rotation':9.83,'speech':_0x260ef2(-0x7,0x3c),'voice':_0x33dc11(0x326,0x3f5),'conversation_id':0x73,'cam_pos':new mp[(_0x33dc11(0x468,0x53f))](5481.354,-5869.514,19.935),'cam_point':new mp[(_0x260ef2(0x10,-0xca))](5481.469,-5870.109,19.952)},{'name':_0x33dc11(0x4d7,0x465),'model':_0x33dc11(0x526,0x589),'position':new mp[(_0x33dc11(0x5f3,0x53f))](5416.705,-5114.053,13.211),'rotation':170.29,'speech':_0x33dc11(0x55b,0x528),'voice':'A_M_Y_BUSINESS_01_CHINESE_FULL_01','conversation_id':0x73,'cam_pos':new mp[(_0x33dc11(0x57b,0x53f))](5416.578,-5114.689,13.797),'cam_point':new mp[(_0x33dc11(0x5bd,0x53f))](5416.638,-5114.293,13.803)},{'name':_0x260ef2(-0x66,-0x18),'model':_0x33dc11(0x42e,0x44c),'position':new mp[(_0x33dc11(0x49b,0x53f))](-1376.369,-628.516,30.82),'rotation':24.628,'speech':_0x33dc11(0x672,0x590),'voice':_0x33dc11(0x57d,0x5a2),'conversation_id':0x74,'cam_pos':new mp['Vector3'](-1376.741,-627.839,31.466),'cam_point':new mp[(_0x260ef2(0x10,0x109))](-1376.455,-628.285,31.433)},{'name':_0x260ef2(-0x20,0x85),'model':_0x33dc11(0x46c,0x44c),'position':new mp[(_0x260ef2(0x10,-0xa0))](-1392.142,-604.76,30.319),'rotation':97.664,'speech':_0x260ef2(0x61,-0x3c),'voice':'A_M_M_POLYNESIAN_01_POLYNESIAN_MINI_01','conversation_id':0x74,'cam_pos':new mp['Vector3'](-1392.997,-605.027,30.963),'cam_point':new mp[(_0x33dc11(0x510,0x53f))](-1392.377,-604.813,30.954)},{'name':_0x33dc11(0x34b,0x414),'model':_0x33dc11(0x4fb,0x5a5),'position':new mp[(_0x33dc11(0x548,0x53f))](-836.235,-880.989,-54.547),'rotation':172.461,'speech':_0x33dc11(0x590,0x5da),'voice':_0x33dc11(0x5f2,0x5a4),'conversation_id':0x7d0,'cam_pos':new mp[(_0x33dc11(0x5ae,0x53f))](-836.341,-881.867,-53.899),'cam_point':new mp['Vector3'](-836.301,-881.216,-53.896),'dimension':0x32},{'name':_0x33dc11(0x3f5,0x4a5),'model':_0x260ef2(0xa0,0xcf),'position':new mp[(_0x260ef2(0x10,0x7a))](-832.392,-1215.294,6.935),'rotation':-128.795,'speech':_0x33dc11(0x685,0x5da),'voice':_0x260ef2(0x75,0x6f),'conversation_id':0x96,'cam_pos':new mp[(_0x260ef2(0x10,0x63))](-831.849,-1215.72,7.582),'cam_point':new mp[(_0x260ef2(0x10,0x48))](-832.202,-1215.447,7.559),'eng_only':!0x1},{'name':_0x33dc11(0x49a,0x4a5),'model':_0x260ef2(0xa0,0x170),'position':new mp[(_0x260ef2(0x10,0x2b))](-1294.494,273.805,64.391),'rotation':-27.868,'speech':_0x33dc11(0x564,0x5da),'voice':_0x33dc11(0x69b,0x5a4),'conversation_id':0x96,'cam_pos':new mp[(_0x33dc11(0x49b,0x53f))](-1293.865,274.629,65.083),'cam_point':new mp[(_0x260ef2(0x10,-0x21))](-1294.325,273.989,64.952),'eng_only':!0x0,'questionMarker':!0x0},{'name':_0x33dc11(0x549,0x568),'model':_0x33dc11(0x5c3,0x54c),'position':new mp[(_0x33dc11(0x5b9,0x53f))](-893.654,-2262.138,6.763),'rotation':310.107,'speech':_0x33dc11(0x52e,0x590),'voice':_0x33dc11(0x570,0x5a2),'conversation_id':0x75,'cam_pos':new mp[(_0x33dc11(0x4ce,0x53f))](-892.96,-2261.437,7.354),'cam_point':new mp[(_0x33dc11(0x53d,0x53f))](-893.469,-2261.97,7.348)},{'name':_0x33dc11(0x4d3,0x514),'model':_0x260ef2(0x1d,-0x61),'position':new mp[(_0x260ef2(0x10,0x85))](-3006.765,100.157,11.793),'rotation':20.769,'speech':_0x33dc11(0x609,0x590),'voice':_0x33dc11(0x555,0x5a2),'conversation_id':0x76,'cam_pos':new mp[(_0x260ef2(0x10,0x88))](-3007.021,100.859,12.522),'cam_point':new mp[(_0x33dc11(0x5df,0x53f))](-3006.846,100.375,12.455),'questionMarker':!0x0},{'name':_0x33dc11(0x503,0x530),'model':_0x260ef2(0x1d,0x5e),'position':new mp[(_0x33dc11(0x63a,0x53f))](-44.668,6528.3,31.491),'rotation':214.925,'speech':_0x260ef2(0x61,0xbe),'voice':_0x260ef2(0x73,-0x40),'conversation_id':0x77,'cam_pos':new mp[(_0x260ef2(0x10,-0xb4))](-44.232,6527.846,32.138),'cam_point':new mp[(_0x33dc11(0x5f3,0x53f))](-44.505,6528.122,32.126)},{'name':_0x260ef2(-0x13e,-0x215),'model':_0x33dc11(0x47d,0x54c),'position':new mp[(_0x33dc11(0x4c6,0x53f))](1551.507,3789.567,34.241),'rotation':203.345,'speech':_0x33dc11(0x5d3,0x590),'voice':_0x260ef2(0x73,-0x7e),'conversation_id':0x78,'cam_pos':new mp[(_0x260ef2(0x10,-0x1a))](1551.844,3788.863,34.888),'cam_point':new mp['Vector3'](1551.597,3789.341,34.869)},{'name':'Esmond\x20Barber','model':_0x260ef2(0x1d,0x3a),'position':new mp[(_0x33dc11(0x52a,0x53f))](379.201,276.44,103.064),'rotation':211.828,'speech':_0x260ef2(0x61,-0xb),'voice':_0x260ef2(0x73,0xde),'conversation_id':0x79,'cam_pos':new mp[(_0x260ef2(0x10,0x4a))](379.699,275.521,103.699),'cam_point':new mp[(_0x33dc11(0x58a,0x53f))](379.318,276.236,103.72)},{'name':_0x260ef2(0xa6,0x155),'model':'s_m_y_garbage','position':new mp[(_0x260ef2(0x10,-0x45))](-559.615,323.758,84.4),'rotation':299.429,'speech':_0x260ef2(0x61,0xe2),'voice':_0x260ef2(0x73,-0x80),'conversation_id':0x7a,'cam_pos':new mp[(_0x260ef2(0x10,-0x9e))](-559.032,324.185,85.041),'cam_point':new mp[(_0x260ef2(0x10,-0xbe))](-559.415,323.889,85.041)},{'name':_0x260ef2(0x25,-0x55),'model':_0x260ef2(0x1d,-0xc8),'position':new mp[(_0x33dc11(0x54e,0x53f))](-1202.002,-353.863,37.289),'rotation':224.913,'speech':_0x260ef2(0x61,0x143),'voice':_0x33dc11(0x59d,0x5a2),'conversation_id':0x7b,'cam_pos':new mp[(_0x260ef2(0x10,0x95))](-1201.439,-354.502,37.937),'cam_point':new mp[(_0x260ef2(0x10,-0x50))](-1201.857,-354.056,37.924)},{'name':_0x33dc11(0x4c4,0x526),'model':_0x33dc11(0x50f,0x54c),'position':new mp[(_0x260ef2(0x10,0x41))](-447.455,-819.294,30.698),'rotation':105.752,'speech':'GENERIC_HI','voice':_0x33dc11(0x56f,0x5a2),'conversation_id':0x7c,'cam_pos':new mp[(_0x260ef2(0x10,0x9a))](-448.58,-819.543,31.335),'cam_point':new mp[(_0x33dc11(0x45f,0x53f))](-447.689,-819.369,31.314)},{'name':_0x33dc11(0x592,0x4e7),'model':_0x260ef2(0x1d,0xe6),'position':new mp[(_0x33dc11(0x5b6,0x53f))](431.227,-1305.323,30.951),'rotation':290.022,'speech':'GENERIC_HI','voice':_0x260ef2(0x73,0xdb),'conversation_id':0x7d,'cam_pos':new mp[(_0x33dc11(0x472,0x53f))](432.244,-1304.989,31.604),'cam_point':new mp[(_0x260ef2(0x10,0xee))](431.467,-1305.265,31.561),'questionMarker':!0x0},{'name':_0x260ef2(0x29,-0x40),'model':_0x33dc11(0x5c3,0x54c),'position':new mp['Vector3'](-1164.133,-734.712,20.073),'rotation':193.846,'speech':_0x260ef2(0x61,-0x54),'voice':_0x260ef2(0x73,0xe2),'conversation_id':0x7e,'cam_pos':new mp[(_0x260ef2(0x10,0xbf))](-1163.871,-735.665,20.644),'cam_point':new mp[(_0x33dc11(0x504,0x53f))](-1164.063,-734.95,20.676)},{'name':_0x260ef2(-0xf1,-0x1c7),'model':_0x260ef2(0x1d,-0x6f),'position':new mp[(_0x260ef2(0x10,0x10c))](675.864,226.353,94.035),'rotation':220.726,'speech':_0x260ef2(0x61,0x153),'voice':_0x33dc11(0x546,0x5a2),'conversation_id':0x7f,'cam_pos':new mp[(_0x33dc11(0x4af,0x53f))](676.449,225.685,94.596),'cam_point':new mp[(_0x33dc11(0x5e5,0x53f))](676.006,226.149,94.634)},{'name':_0x33dc11(0x476,0x3fd),'model':_0x260ef2(0x1d,-0x8a),'position':new mp[(_0x260ef2(0x10,-0xcb))](191.483,375.055,107.98),'rotation':228.473,'speech':_0x260ef2(0x61,-0x9c),'voice':'A_M_M_POLYNESIAN_01_POLYNESIAN_MINI_01','conversation_id':0x80,'cam_pos':new mp['Vector3'](192.394,374.431,108.512),'cam_point':new mp[(_0x260ef2(0x10,-0x2c))](191.679,374.9,108.561)},{'name':_0x33dc11(0x3ce,0x438),'model':_0x33dc11(0x61b,0x54c),'position':new mp[(_0x260ef2(0x10,-0x12))](-342.758,262.511,85.451),'rotation':261.263,'speech':_0x33dc11(0x616,0x590),'voice':_0x260ef2(0x73,0x25),'conversation_id':0x81,'cam_pos':new mp[(_0x33dc11(0x4be,0x53f))](-341.954,262.39,86.13),'cam_point':new mp[(_0x33dc11(0x461,0x53f))](-342.514,262.468,86.058)},{'name':_0x33dc11(0x517,0x538),'model':'s_m_y_garbage','position':new mp[(_0x260ef2(0x10,-0x90))](-2029.054,-463.628,11.461),'rotation':320.261,'speech':_0x260ef2(0x61,0x91),'voice':_0x33dc11(0x58a,0x5a2),'conversation_id':0x82,'cam_pos':new mp[(_0x260ef2(0x10,0xce))](-2028.619,-463.045,12.118),'cam_point':new mp['Vector3'](-2028.9,-463.438,12.082)},{'name':_0x33dc11(0x3ba,0x440),'model':_0x260ef2(0x1d,-0x64),'position':new mp[(_0x260ef2(0x10,0x3e))](-1064.452,-1403.666,5.398),'rotation':32.501,'speech':_0x260ef2(0x61,-0x25),'voice':_0x260ef2(0x73,0xe6),'conversation_id':0x83,'cam_pos':new mp[(_0x260ef2(0x10,-0x75))](-1065.005,-1402.599,6.005),'cam_point':new mp[(_0x260ef2(0x10,0xc8))](-1064.539,-1403.432,5.971)},{'name':_0x260ef2(0x82,-0x10),'model':'s_m_y_garbage','position':new mp[(_0x33dc11(0x57c,0x53f))](-279.759,-890.147,31.081),'rotation':305.66,'speech':_0x33dc11(0x510,0x590),'voice':_0x33dc11(0x53a,0x5a2),'conversation_id':0x84,'cam_pos':new mp[(_0x33dc11(0x53f,0x53f))](-278.847,-889.498,31.727),'cam_point':new mp[(_0x260ef2(0x10,0x11))](-279.547,-890.017,31.679)},{'name':_0x260ef2(-0x39,-0x137),'model':_0x260ef2(0x1d,0x59),'position':new mp['Vector3'](-346.88,-825.202,31.522),'rotation':121.972,'speech':_0x260ef2(0x61,-0x70),'voice':'A_M_M_POLYNESIAN_01_POLYNESIAN_MINI_01','conversation_id':0x85,'cam_pos':new mp[(_0x260ef2(0x10,-0x8e))](-347.812,-825.8,32.164),'cam_point':new mp[(_0x260ef2(0x10,-0xd1))](-347.087,-825.334,32.14)},{'name':'Steven\x20Ford','model':_0x260ef2(-0xe3,-0x67),'position':new mp[(_0x33dc11(0x58c,0x53f))](-564.824,284.794,85.377),'rotation':268.993,'speech':_0x33dc11(0x604,0x520),'voice':_0x33dc11(0x62a,0x5a2),'conversation_id':0x39,'cam_pos':new mp[(_0x260ef2(0x10,0x38))](-563.809,284.781,86.025),'cam_point':new mp[(_0x33dc11(0x542,0x53f))](-564.578,284.795,85.99)},{'name':'Osborn\x20Dixon','model':_0x33dc11(0x401,0x437),'position':new mp[(_0x33dc11(0x462,0x53f))](-3242.223,1000.013,12.831),'rotation':352.754,'speech':_0x33dc11(0x448,0x478),'voice':'MP_M_SHOPKEEP_01_PAKISTANI_MINI_01','conversation_id':0x88,'cam_pos':new mp[(_0x33dc11(0x53c,0x53f))](-3242.153,1001.025,13.477),'cam_point':new mp[(_0x260ef2(0x10,-0x88))](-3242.201,1000.256,13.455)},{'name':_0x260ef2(-0x55,-0x3),'model':_0x260ef2(-0xf8,-0x118),'position':new mp[(_0x33dc11(0x53a,0x53f))](-3038.797,584.584,7.909),'rotation':25.537,'speech':_0x260ef2(-0xb7,-0x186),'voice':_0x33dc11(0x4c2,0x4aa),'conversation_id':0x89,'cam_pos':new mp[(_0x260ef2(0x10,0x9d))](-3039.082,585.634,8.554),'cam_point':new mp['Vector3'](-3038.839,584.823,8.54)},{'name':_0x260ef2(-0x55,0x96),'model':_0x260ef2(-0xf8,-0x1a9),'position':new mp[(_0x33dc11(0x4ae,0x53f))](372.63,326.976,103.566),'rotation':243.26,'speech':_0x33dc11(0x56f,0x478),'voice':_0x260ef2(-0x85,-0xb2),'conversation_id':0x8a,'cam_pos':new mp[(_0x33dc11(0x4b3,0x53f))](373.687,326.552,104.213),'cam_point':new mp[(_0x260ef2(0x10,-0x86))](372.853,326.872,104.179)},{'name':'Maude\x20Wood','model':'a_f_y_bevhills_02','position':new mp[(_0x33dc11(0x4ba,0x53f))](-1193.718,-766.771,17.316),'rotation':210.67,'speech':_0x33dc11(0x4ea,0x5da),'voice':_0x33dc11(0x4f3,0x5a4),'conversation_id':0x8b,'cam_pos':new mp[(_0x260ef2(0x10,0x23))](-1193.296,-767.866,17.965),'cam_point':new mp[(_0x260ef2(0x10,-0x82))](-1193.644,-767.005,17.932)},{'name':_0x260ef2(-0x55,0x6a),'model':_0x33dc11(0x4ba,0x437),'position':new mp[(_0x33dc11(0x501,0x53f))](1727.977,6415.413,35.037),'rotation':234.928,'speech':'SHOP_GREET','voice':_0x260ef2(-0x85,-0x48),'conversation_id':0x8d,'cam_pos':new mp[(_0x260ef2(0x10,0xfd))](1728.819,6414.956,35.686),'cam_point':new mp[(_0x260ef2(0x10,0x6a))](1728.208,6415.322,35.637)},{'name':_0x33dc11(0x5de,0x4f9),'model':_0x33dc11(0x3f0,0x437),'position':new mp['Vector3'](24.504,-1347.041,29.497),'rotation':271.206,'speech':_0x260ef2(-0xb7,-0xfc),'voice':_0x33dc11(0x3be,0x4aa),'conversation_id':0x8e,'cam_pos':new mp[(_0x260ef2(0x10,0xdd))](25.395,-1346.949,30.278),'cam_point':new mp[(_0x260ef2(0x10,0xbd))](24.721,-1347.009,30.186)},{'name':_0x33dc11(0x42a,0x4f3),'model':'mp_m_shopkeep_01','position':new mp[(_0x33dc11(0x51a,0x53f))](1134.2,-983.045,46.416),'rotation':277.373,'speech':_0x260ef2(-0xb7,-0x19f),'voice':_0x33dc11(0x56c,0x4aa),'conversation_id':0x8f,'cam_pos':new mp[(_0x260ef2(0x10,0x14))](1135.318,-982.878,47.063),'cam_point':new mp[(_0x260ef2(0x10,0x27))](1134.428,-982.976,47.061)},{'name':_0x33dc11(0x452,0x4df),'model':_0x33dc11(0x43a,0x437),'position':new mp[(_0x260ef2(0x10,-0x9))](-1221.473,-907.937,12.326),'rotation':32.91,'speech':'SHOP_GREET','voice':_0x33dc11(0x4f0,0x4aa),'conversation_id':0x90,'cam_pos':new mp['Vector3'](-1222.059,-907.202,12.973),'cam_point':new mp[(_0x33dc11(0x5e0,0x53f))](-1221.651,-907.766,12.933),'questionMarker':!0x0},{'name':_0x260ef2(-0x65,0x52),'model':_0x33dc11(0x573,0x5b3),'position':new mp[(_0x33dc11(0x4a9,0x53f))](73.967,-1393.092,29.376),'rotation':270.698,'speech':_0x33dc11(0x60e,0x5da),'voice':_0x260ef2(0x75,0x0),'conversation_id':0x91,'cam_pos':new mp[(_0x33dc11(0x57f,0x53f))](74.898,-1393.207,30.023),'cam_point':new mp[(_0x260ef2(0x10,0x56))](74.211,-1393.132,29.986)},{'name':_0x260ef2(-0x68,-0x56),'model':_0x33dc11(0x5a7,0x566),'position':new mp[(_0x260ef2(0x10,0xc0))](1193.119,-1462.452,34.89),'rotation':4.795,'speech':_0x260ef2(-0xf,0x39),'voice':_0x260ef2(0x73,0x95),'conversation_id':0x92,'cam_pos':new mp[(_0x260ef2(0x10,-0xbc))](1193.077,-1461.687,35.577),'cam_point':new mp[(_0x260ef2(0x10,-0x93))](1193.066,-1466.056,35.391)},{'name':_0x260ef2(-0x3a,-0x5f),'model':_0x33dc11(0x33f,0x40f),'position':new mp[(_0x33dc11(0x4b4,0x53f))](2513.438,-429.717,94.126),'rotation':-44.719,'speech':_0x33dc11(0x5e4,0x520),'voice':_0x33dc11(0x4f0,0x5a2),'conversation_id':0x94,'cam_pos':new mp['Vector3'](2514.459,-428.711,94.774),'cam_point':new mp[(_0x33dc11(0x522,0x53f))](2511.649,-431.455,94.399)},{'name':_0x260ef2(0x8d,0x174),'model':_0x260ef2(-0x97,0x1d),'position':new mp[(_0x260ef2(0x10,0x10b))](576.67,2739.217,42.139),'rotation':182.848,'speech':'GENERIC_HOWS_IT_GOING','voice':_0x33dc11(0x685,0x5a2),'conversation_id':0x95,'cam_pos':new mp['Vector3'](576.744,2738.212,42.649),'cam_point':new mp[(_0x260ef2(0x10,-0x89))](576.702,2738.969,42.684)},{'name':_0x260ef2(-0x10e,-0x186),'model':'s_m_y_garbage','position':new mp[(_0x33dc11(0x62d,0x53f))](-1246.847,-238.198,40.02),'rotation':340.858,'speech':_0x260ef2(0x61,-0x48),'voice':'A_M_M_POLYNESIAN_01_POLYNESIAN_MINI_01','conversation_id':0x99,'cam_pos':new mp[(_0x33dc11(0x4d2,0x53f))](-1246.586,-237.503,40.579),'cam_point':new mp[(_0x260ef2(0x10,-0x2d))](-1246.75,-237.97,40.626)},{'name':'Elvin\x20Pope','model':_0x260ef2(-0xf8,-0x148),'position':new mp[(_0x260ef2(0x10,0x90))](1697.366,4923.422,42.064),'rotation':-33.913,'speech':_0x260ef2(-0xb7,-0xc6),'voice':_0x260ef2(-0x85,-0x99),'conversation_id':0x9a,'cam_pos':new mp[(_0x260ef2(0x10,-0xa))](1697.915,4924.305,42.77),'cam_point':new mp[(_0x33dc11(0x594,0x53f))](1697.486,4923.626,42.712)},{'name':'Ronald\x20Johns','model':_0x260ef2(-0xf8,-0xe2),'position':new mp[(_0x260ef2(0x10,-0x37))](1392.047,3606.087,34.981),'rotation':-163.516,'speech':_0x33dc11(0x499,0x478),'voice':_0x33dc11(0x577,0x4aa),'conversation_id':0x9b,'cam_pos':new mp['Vector3'](1392.388,3605.246,35.628),'cam_point':new mp[(_0x260ef2(0x10,-0x89))](1392.125,3605.854,35.599)},{'name':_0x260ef2(-0x6,-0x59),'model':_0x33dc11(0x43d,0x437),'position':new mp[(_0x260ef2(0x10,-0x60))](548.975,2671.758,42.156),'rotation':93.53,'speech':_0x260ef2(-0xb7,-0xf6),'voice':_0x260ef2(-0x85,0x39),'conversation_id':0x9c,'cam_pos':new mp[(_0x33dc11(0x506,0x53f))](548.184,2671.717,42.804),'cam_point':new mp[(_0x260ef2(0x10,-0x79))](548.735,2671.759,42.795)},{'name':_0x33dc11(0x503,0x541),'model':_0x33dc11(0x4fe,0x437),'position':new mp[(_0x33dc11(0x4f9,0x53f))](-1486.731,-377.551,40.163),'rotation':137.224,'speech':_0x260ef2(-0xb7,0x3f),'voice':'MP_M_SHOPKEEP_01_PAKISTANI_MINI_01','conversation_id':0x9d,'cam_pos':new mp[(_0x33dc11(0x518,0x53f))](-1487.556,-378.351,40.834),'cam_point':new mp[(_0x260ef2(0x10,0x3b))](-1486.898,-377.721,40.809)},{'name':_0x33dc11(0x537,0x460),'model':_0x260ef2(0x84,0xf2),'position':new mp[(_0x260ef2(0x10,0x6e))](-164.414,-301.469,39.733),'rotation':-113.99,'speech':_0x260ef2(0xab,0x159),'voice':_0x260ef2(0x75,0xb7),'conversation_id':0x9e,'cam_pos':new mp[(_0x260ef2(0x10,0x26))](-163.737,-301.778,40.38),'cam_point':new mp[(_0x33dc11(0x52a,0x53f))](-164.192,-301.565,40.368)},{'name':_0x260ef2(-0x103,-0x3f),'model':_0x33dc11(0x565,0x5b3),'position':new mp[(_0x33dc11(0x520,0x53f))](127.219,-223.417,54.558),'rotation':70.262,'speech':_0x33dc11(0x527,0x5da),'voice':_0x33dc11(0x4d2,0x5a4),'conversation_id':0x9f,'cam_pos':new mp[(_0x33dc11(0x5e3,0x53f))](126.204,-222.982,55.205),'cam_point':new mp[(_0x33dc11(0x5a2,0x53f))](126.988,-223.334,55.176)},{'name':_0x260ef2(-0x102,-0x1ea),'model':_0x260ef2(0x84,0x15a),'position':new mp[(_0x33dc11(0x49c,0x53f))](-1102.666,2711.475,19.108),'rotation':-137.527,'speech':_0x33dc11(0x679,0x5da),'voice':_0x260ef2(0x75,-0x81),'conversation_id':0xa0,'cam_pos':new mp[(_0x33dc11(0x566,0x53f))](-1101.95,2710.455,19.756),'cam_point':new mp['Vector3'](-1102.533,2711.264,19.698)},{'name':_0x260ef2(-0x7e,-0x85),'model':_0x33dc11(0x4cb,0x5b3),'position':new mp[(_0x260ef2(0x10,-0x54))](612.996,2761.734,42.088),'rotation':-89.541,'speech':_0x260ef2(0xab,0x55),'voice':_0x33dc11(0x669,0x5a4),'conversation_id':0xa1,'cam_pos':new mp[(_0x260ef2(0x10,-0xd5))](614.357,2761.663,42.853),'cam_point':new mp[(_0x260ef2(0x10,0x89))](613.233,2761.722,42.736)},{'name':_0x260ef2(-0xfc,-0x1af),'model':_0x260ef2(0x84,0xd),'position':new mp[(_0x33dc11(0x494,0x53f))](1196.428,2711.628,38.223),'rotation':176.047,'speech':_0x33dc11(0x659,0x5da),'voice':_0x260ef2(0x75,0x50),'conversation_id':0xa2,'cam_pos':new mp[(_0x260ef2(0x10,-0x40))](1196.327,2710.739,38.93),'cam_point':new mp[(_0x33dc11(0x5c3,0x53f))](1196.398,2711.392,38.871)},{'name':_0x33dc11(0x531,0x50e),'model':_0x33dc11(0x578,0x545),'position':new mp[(_0x33dc11(0x56e,0x53f))](-331.529,6085.001,31.455),'rotation':-134.221,'speech':_0x33dc11(0x66f,0x5da),'voice':_0x33dc11(0x481,0x4a9),'conversation_id':0xa3,'cam_pos':new mp[(_0x33dc11(0x4db,0x53f))](-330.774,6084.11,32.216),'cam_point':new mp[(_0x260ef2(0x10,0x52))](-331.383,6084.805,32.077)},{'name':_0x260ef2(0x63,-0x5a),'model':_0x33dc11(0x5c2,0x545),'position':new mp[(_0x260ef2(0x10,0xd1))](-1118.876,2699.81,18.554),'rotation':-139.177,'speech':_0x260ef2(0xab,0xa4),'voice':_0x33dc11(0x452,0x4a9),'conversation_id':0xa4,'cam_pos':new mp[(_0x33dc11(0x534,0x53f))](-1118.263,2699.064,19.202),'cam_point':new mp[(_0x260ef2(0x10,0xb2))](-1118.722,2699.62,19.174)},{'name':_0x33dc11(0x50c,0x439),'model':_0x33dc11(0x612,0x545),'position':new mp[(_0x33dc11(0x585,0x53f))](2567.96,292.628,108.735),'rotation':-2.395,'speech':_0x260ef2(0xab,0x19),'voice':_0x260ef2(-0x86,-0x162),'conversation_id':0xa5,'cam_pos':new mp[(_0x260ef2(0x10,0x106))](2567.937,293.812,109.382),'cam_point':new mp[(_0x260ef2(0x10,-0x91))](2567.936,292.876,109.331)},{'name':_0x33dc11(0x68a,0x595),'model':_0x33dc11(0x4bb,0x545),'position':new mp[(_0x260ef2(0x10,-0x6c))](842.139,-1035.263,28.195),'rotation':-0.143,'speech':'PHONE_CONV3_INTRO','voice':_0x33dc11(0x40a,0x4a9),'conversation_id':0xa6,'cam_pos':new mp[(_0x260ef2(0x10,0x6d))](842.13,-1034.131,28.843),'cam_point':new mp[(_0x33dc11(0x53e,0x53f))](842.089,-1035.02,28.794)},{'name':_0x33dc11(0x4e8,0x5c8),'model':_0x260ef2(0x16,-0xb8),'position':new mp[(_0x33dc11(0x62a,0x53f))](253.907,-50.47,69.941),'rotation':76.634,'speech':_0x33dc11(0x5bf,0x5da),'voice':'G_M_Y_ARMGOON_02_WHITE_ARMENIAN_MINI_01','conversation_id':0xa7,'cam_pos':new mp[(_0x260ef2(0x10,0x68))](252.497,-50.003,70.59),'cam_point':new mp[(_0x260ef2(0x10,0x8b))](253.662,-50.434,70.542)},{'name':_0x33dc11(0x3c3,0x484),'model':_0x33dc11(0x56b,0x545),'position':new mp[(_0x33dc11(0x55b,0x53f))](-1304.137,-394.495,36.696),'rotation':70.715,'speech':_0x33dc11(0x6ab,0x5da),'voice':_0x33dc11(0x447,0x4a9),'conversation_id':0xa8,'cam_pos':new mp[(_0x33dc11(0x57d,0x53f))](-1305.34,-394.068,37.343),'cam_point':new mp[(_0x33dc11(0x56b,0x53f))](-1304.378,-394.435,37.291)},{'name':_0x260ef2(-0x7a,-0x140),'model':_0x33dc11(0x3d1,0x4bf),'position':new mp[(_0x33dc11(0x5ec,0x53f))](885.525,-3199.466,-98.196),'rotation':53.944,'speech':_0x33dc11(0x5e9,0x5da),'voice':_0x33dc11(0x4c0,0x3f5),'conversation_id':0x0,'cam_pos':new mp[(_0x260ef2(0x10,0x5))](0x0,0x0,0x0),'cam_point':new mp[(_0x260ef2(0x10,0xd9))](0x0,0x0,0x0),'dimension':-0x1,'bunker_npc':0x1},{'name':_0x260ef2(-0x149,-0x68),'model':_0x33dc11(0x63b,0x55c),'position':new mp[(_0x260ef2(0x10,-0x51))](891.753,-3196.942,-98.196),'rotation':5.415,'speech':_0x260ef2(0xab,0x1a4),'voice':_0x33dc11(0x5fa,0x5a4),'conversation_id':0x0,'cam_pos':new mp[(_0x260ef2(0x10,0xdd))](0x0,0x0,0x0),'cam_point':new mp[(_0x33dc11(0x52c,0x53f))](0x0,0x0,0x0),'dimension':-0x1,'bunker_npc':0x2},{'name':_0x260ef2(0x19,-0xd8),'model':_0x33dc11(0x497,0x4cc),'position':new mp[(_0x33dc11(0x512,0x53f))](884.427,-3207.937,-98.196),'rotation':84.884,'speech':_0x260ef2(0xab,0x183),'voice':_0x260ef2(-0x34,-0xc6),'conversation_id':0x0,'cam_pos':new mp[(_0x33dc11(0x542,0x53f))](0x0,0x0,0x0),'cam_point':new mp[(_0x33dc11(0x452,0x53f))](0x0,0x0,0x0),'dimension':-0x1,'bunker_npc':0x3},{'name':_0x33dc11(0x532,0x596),'model':_0x260ef2(-0x6f,-0x55),'position':new mp[(_0x33dc11(0x467,0x53f))](907.918,-3211.2,-98.222),'rotation':27.651,'speech':_0x260ef2(-0xba,-0x109),'voice':_0x260ef2(-0xd1,-0x1b8),'conversation_id':0x0,'cam_pos':new mp[(_0x260ef2(0x10,0x1f))](0x0,0x0,0x0),'cam_point':new mp[(_0x33dc11(0x57c,0x53f))](0x0,0x0,0x0),'dimension':-0x1,'bunker_npc':0x4},{'name':_0x33dc11(0x4d5,0x405),'model':_0x260ef2(0x16,0xd0),'position':new mp[(_0x260ef2(0x10,-0x11))](889.436,-3206.573,-98.19),'rotation':68.446,'speech':'PHONE_CONV3_INTRO','voice':_0x33dc11(0x412,0x3f5),'conversation_id':0x0,'cam_pos':new mp[(_0x33dc11(0x547,0x53f))](0x0,0x0,0x0),'cam_point':new mp[(_0x260ef2(0x10,0x36))](0x0,0x0,0x0),'dimension':-0x1,'bunker_npc':0x5},{'name':_0x33dc11(0x5c1,0x4d9),'model':_0x33dc11(0x540,0x55c),'position':new mp[(_0x33dc11(0x622,0x53f))](896.569,-3217.448,-98.226),'rotation':64.028,'speech':_0x260ef2(0xab,0xf2),'voice':_0x33dc11(0x535,0x5a4),'conversation_id':0x0,'cam_pos':new mp[(_0x33dc11(0x611,0x53f))](0x0,0x0,0x0),'cam_point':new mp[(_0x260ef2(0x10,0xfc))](0x0,0x0,0x0),'dimension':-0x1,'bunker_npc':0x6},{'name':_0x33dc11(0x4cc,0x464),'model':'mp_m_meth_01','position':new mp['Vector3'](897.937,-3221.314,-98.246),'rotation':-155.833,'speech':_0x33dc11(0x656,0x5da),'voice':'A_M_Y_BUSINESS_03_WHITE_MINI_01','conversation_id':0x0,'cam_pos':new mp[(_0x33dc11(0x61a,0x53f))](0x0,0x0,0x0),'cam_point':new mp[(_0x260ef2(0x10,-0x87))](0x0,0x0,0x0),'dimension':-0x1,'bunker_npc':0x7},{'name':_0x33dc11(0x5f2,0x59b),'model':_0x260ef2(-0x70,-0xcb),'position':new mp[(_0x33dc11(0x44a,0x53f))](899.367,-3223.841,-98.264),'rotation':25.526,'speech':_0x33dc11(0x504,0x475),'voice':'A_M_Y_VINEWOOD_02_WHITE_MINI_01','conversation_id':0x0,'cam_pos':new mp[(_0x33dc11(0x54b,0x53f))](0x0,0x0,0x0),'cam_point':new mp[(_0x33dc11(0x44b,0x53f))](0x0,0x0,0x0),'dimension':-0x1,'bunker_npc':0x8},{'name':_0x33dc11(0x3eb,0x3f2),'model':_0x260ef2(-0x63,0x59),'position':new mp['Vector3'](891.84,-3211.571,-98.2),'rotation':-157.425,'speech':_0x33dc11(0x564,0x5da),'voice':_0x260ef2(-0x34,-0xb7),'conversation_id':0x0,'cam_pos':new mp[(_0x33dc11(0x4c0,0x53f))](0x0,0x0,0x0),'cam_point':new mp[(_0x33dc11(0x469,0x53f))](0x0,0x0,0x0),'dimension':-0x1,'bunker_npc':0x9},{'name':_0x260ef2(0x7,-0x14),'model':_0x33dc11(0x343,0x422),'position':new mp[(_0x260ef2(0x10,0xe6))](2035.097,3460.389,43.759),'rotation':-152.704,'speech':_0x33dc11(0x55f,0x520),'voice':_0x260ef2(0x73,0x119),'conversation_id':0xaa,'cam_pos':new mp[(_0x33dc11(0x47b,0x53f))](2035.532,3459.704,44.362),'cam_point':new mp[(_0x260ef2(0x10,0x94))](2035.219,3460.174,44.367)},{'name':_0x260ef2(0x9d,0x9),'model':_0x260ef2(-0x10d,-0x37),'position':new mp[(_0x260ef2(0x10,-0xe4))](1494.76,-1884.985,71.863),'rotation':-64.887,'speech':_0x260ef2(-0xf,0x6a),'voice':_0x33dc11(0x688,0x5a2),'conversation_id':0xab,'cam_pos':new mp[(_0x33dc11(0x51d,0x53f))](1495.519,-1884.596,72.499),'cam_point':new mp[(_0x260ef2(0x10,0xd3))](1494.981,-1884.883,72.489)},{'name':_0x260ef2(-0x54,-0x16),'model':'s_m_y_construct_02','position':new mp[(_0x33dc11(0x578,0x53f))](2336.101,4859.396,41.808),'rotation':-132.485,'speech':'GENERIC_HOWS_IT_GOING','voice':'A_M_M_POLYNESIAN_01_POLYNESIAN_MINI_01','conversation_id':0xae,'cam_pos':new mp[(_0x33dc11(0x58b,0x53f))](2336.669,4858.882,42.454),'cam_point':new mp[(_0x33dc11(0x5fb,0x53f))](2336.283,4859.238,42.446)},{'name':_0x33dc11(0x53a,0x4a1),'model':_0x260ef2(-0x10d,-0x183),'position':new mp[(_0x33dc11(0x534,0x53f))](1530.678,818.091,77.43),'rotation':61.043,'speech':_0x33dc11(0x4a8,0x520),'voice':'A_M_M_POLYNESIAN_01_POLYNESIAN_MINI_01','conversation_id':0xb0,'cam_pos':new mp[(_0x33dc11(0x5a0,0x53f))](1529.89,818.474,78.076),'cam_point':new mp[(_0x260ef2(0x10,-0x31))](1530.464,818.207,78.059)},{'name':'Peter\x20Fletcher','model':_0x260ef2(-0x10d,-0xf),'position':new mp[(_0x33dc11(0x462,0x53f))](2125.011,1935.309,93.784),'rotation':87.955,'speech':_0x33dc11(0x554,0x520),'voice':_0x33dc11(0x632,0x5a2),'conversation_id':0xb1,'cam_pos':new mp[(_0x260ef2(0x10,-0xbb))](2124.003,1935.254,94.431),'cam_point':new mp[(_0x33dc11(0x519,0x53f))](2124.764,1935.29,94.39)},{'name':'Donald\x20Palmer','model':_0x260ef2(-0x10d,-0xe5),'position':new mp[(_0x260ef2(0x10,-0x38))](2704.058,2777.41,37.878),'rotation':23.893,'speech':_0x260ef2(-0xf,0xd8),'voice':_0x33dc11(0x4a8,0x5a2),'conversation_id':0xb2,'cam_pos':new mp['Vector3'](2703.706,2778.146,38.53),'cam_point':new mp[(_0x260ef2(0x10,-0x18))](2703.962,2777.635,38.497)},{'name':_0x260ef2(0x9b,-0x5a),'model':_0x260ef2(0x16,0xb0),'position':new mp[(_0x33dc11(0x629,0x53f))](897.944,-3173.469,-97.124),'rotation':104.216,'speech':_0x33dc11(0x577,0x5da),'voice':'G_M_Y_ARMGOON_02_WHITE_ARMENIAN_MINI_01','conversation_id':0xb3,'cam_pos':new mp[(_0x33dc11(0x4be,0x53f))](896.854,-3173.842,-96.476),'cam_point':new mp[(_0x33dc11(0x4e7,0x53f))](897.702,-3173.52,-96.517),'dimension':-0x1},{'name':_0x260ef2(-0x6d,0x17),'model':_0x33dc11(0x3c1,0x459),'position':new mp[(_0x260ef2(0x10,-0x8e))](1862.57,3748.522,33.032),'rotation':30.488,'speech':_0x33dc11(0x595,0x4b8),'voice':_0x33dc11(0x543,0x4bb),'conversation_id':0xb4,'cam_pos':new mp['Vector3'](1861.943,3749.507,33.68),'cam_point':new mp[(_0x33dc11(0x5f3,0x53f))](1862.409,3748.712,33.624)},{'name':_0x33dc11(0x53a,0x5db),'model':_0x33dc11(0x63e,0x57d),'position':new mp[(_0x33dc11(0x467,0x53f))](-442.571,-27.582,45.645),'rotation':-58.046,'speech':'GENERIC_HOWS_IT_GOING','voice':_0x260ef2(-0x34,-0x12d),'conversation_id':0xb5,'cam_pos':new mp[(_0x260ef2(0x10,0x7e))](-441.752,-26.996,46.292),'cam_point':new mp[(_0x33dc11(0x4f3,0x53f))](-442.363,-27.451,46.26)},{'name':_0x33dc11(0x485,0x576),'model':_0x33dc11(0x59b,0x4cc),'position':new mp[(_0x33dc11(0x4b1,0x53f))](909.942,-3222.279,-98.266),'rotation':-74.977,'speech':_0x260ef2(0xab,0x11f),'voice':_0x260ef2(-0x34,-0xdd),'conversation_id':0x0,'cam_pos':new mp['Vector3'](0x0,0x0,0x0),'cam_point':new mp['Vector3'](0x0,0x0,0x0),'dimension':-0x1,'bunker_npc':0xa},{'name':_0x33dc11(0x431,0x450),'model':_0x33dc11(0x3cf,0x418),'position':new mp['Vector3'](-3427.261,967.76,8.347),'rotation':-94.624,'speech':_0x260ef2(-0xf,-0xf2),'voice':_0x260ef2(-0x34,0x81),'conversation_id':0xb7,'cam_pos':new mp[(_0x260ef2(0x10,-0xd1))](-3426.42,967.698,8.998),'cam_point':new mp[(_0x33dc11(0x638,0x53f))](-3427.02,967.724,8.972)},{'name':_0x33dc11(0x47e,0x49e),'model':_0x260ef2(-0x63,-0xd5),'position':new mp[(_0x33dc11(0x630,0x53f))](905.807,-3230.671,-98.294),'rotation':-177.754,'speech':_0x260ef2(0xab,0x2d),'voice':'A_M_Y_BUSINESS_03_WHITE_MINI_01','conversation_id':0x0,'cam_pos':new mp[(_0x260ef2(0x10,-0x70))](0x0,0x0,0x0),'cam_point':new mp[(_0x33dc11(0x4eb,0x53f))](0x0,0x0,0x0),'dimension':-0x1,'bunker_npc':0xb},{'name':_0x33dc11(0x4a0,0x4c4),'model':_0x33dc11(0x568,0x4cc),'position':new mp[(_0x260ef2(0x10,0x26))](901.675,-3219.215,-98.242),'rotation':-66.738,'speech':_0x260ef2(0xab,0xaa),'voice':_0x260ef2(-0x34,0x1e),'conversation_id':0x0,'cam_pos':new mp['Vector3'](0x0,0x0,0x0),'cam_point':new mp[(_0x33dc11(0x586,0x53f))](0x0,0x0,0x0),'dimension':-0x1,'bunker_npc':0xc},{'name':_0x33dc11(0x5b0,0x583),'model':_0x33dc11(0x508,0x570),'position':new mp[(_0x33dc11(0x4c6,0x53f))](1232.75,-427.95,67.748),'rotation':125.61,'speech':_0x33dc11(0x601,0x520),'voice':_0x33dc11(0x3b4,0x469),'conversation_id':0xb8,'cam_pos':new mp['Vector3'](1231.926,-428.692,68.248),'cam_point':new mp[(_0x33dc11(0x51b,0x53f))](1232.75,-427.95,68.248)},{'name':'Ethan\x20Shields','model':_0x260ef2(-0x63,-0xbd),'position':new mp[(_0x33dc11(0x493,0x53f))](893.55,-3201.277,-98.19),'rotation':104.284,'speech':_0x260ef2(0xab,0xf0),'voice':_0x260ef2(-0x34,0x7e),'conversation_id':0x0,'cam_pos':new mp[(_0x33dc11(0x511,0x53f))](0x0,0x0,0x0),'cam_point':new mp[(_0x260ef2(0x10,-0x6c))](0x0,0x0,0x0),'dimension':-0x1,'bunker_npc':0xd},{'name':_0x260ef2(-0x12e,-0x15e),'model':_0x260ef2(-0xd6,0x1),'position':new mp[(_0x260ef2(0x10,0x7d))](-1151.846,-1424.159,4.954),'rotation':120.178,'speech':_0x260ef2(-0x77,0x3d),'voice':'U_M_Y_TATTOO_01_WHITE_MINI_01','conversation_id':0xba,'cam_pos':new mp[(_0x260ef2(0x10,0xa0))](-1152.781,-1424.769,5.601),'cam_point':new mp[(_0x260ef2(0x10,0x79))](-1152.053,-1424.292,5.567)},{'name':'Charles\x20Rose','model':_0x260ef2(-0xd6,-0x103),'position':new mp[(_0x33dc11(0x545,0x53f))](320.042,181.509,103.586),'rotation':-110.431,'speech':_0x33dc11(0x3db,0x4b8),'voice':_0x33dc11(0x4b6,0x4bb),'conversation_id':0xbb,'cam_pos':new mp[(_0x33dc11(0x5db,0x53f))](320.801,181.253,104.234),'cam_point':new mp[(_0x33dc11(0x5b9,0x53f))](320.28,181.451,104.204)},{'name':_0x260ef2(-0xe9,-0x18f),'model':_0x260ef2(-0xd6,-0xd1),'position':new mp[(_0x260ef2(0x10,-0x1a))](1324.978,-1650.836,52.275),'rotation':135.35,'speech':_0x260ef2(-0x77,-0xd6),'voice':_0x260ef2(-0x74,-0x122),'conversation_id':0xbc,'cam_pos':new mp[(_0x33dc11(0x459,0x53f))](1324.322,-1651.324,52.923),'cam_point':new mp[(_0x33dc11(0x4da,0x53f))](1324.786,-1650.987,52.898)},{'name':_0x260ef2(0x14,-0x2f),'model':_0x33dc11(0x53f,0x545),'position':new mp[(_0x260ef2(0x10,-0xec))](-2339.196,3220.365,33.076),'rotation':55.801,'speech':_0x260ef2(0xab,0x33),'voice':'G_M_Y_ARMGOON_02_WHITE_ARMENIAN_MINI_01','conversation_id':0xbd,'cam_pos':new mp[(_0x33dc11(0x5fe,0x53f))](-2339.918,3220.857,33.778),'cam_point':new mp[(_0x260ef2(0x10,0x21))](-2339.383,3220.516,33.717),'dimension':-0x1},{'name':_0x33dc11(0x4ae,0x473),'model':_0x260ef2(-0x79,-0x6c),'position':new mp[(_0x33dc11(0x613,0x53f))](141.823,107.404,83.666),'rotation':74.789,'speech':_0x33dc11(0x549,0x520),'voice':_0x33dc11(0x4b5,0x5a2),'conversation_id':0xbe,'cam_pos':new mp[(_0x260ef2(0x10,-0x80))](139.063,108.323,84.313),'cam_point':new mp[(_0x33dc11(0x47f,0x53f))](141.635,107.374,84.419)},{'name':_0x260ef2(-0x25,0x3e),'model':'mp_m_meth_01','position':new mp[(_0x260ef2(0x10,-0xa5))](887.415,-3209.713,-98.196),'rotation':-150.447,'speech':_0x33dc11(0x6c6,0x5da),'voice':_0x33dc11(0x4ba,0x4fb),'conversation_id':0x0,'cam_pos':new mp[(_0x260ef2(0x10,0x6c))](0x0,0x0,0x0),'cam_point':new mp[(_0x33dc11(0x4e8,0x53f))](0x0,0x0,0x0),'dimension':-0x1,'bunker_npc':0xe},{'name':_0x260ef2(-0x58,-0x10d),'model':_0x33dc11(0x460,0x4cc),'position':new mp[(_0x260ef2(0x10,-0x27))](885.301,-3203.379,-98.196),'rotation':-93.65,'speech':_0x33dc11(0x5f6,0x5da),'voice':'A_M_Y_BUSINESS_03_WHITE_MINI_01','conversation_id':0x0,'cam_pos':new mp[(_0x260ef2(0x10,-0xea))](0x0,0x0,0x0),'cam_point':new mp[(_0x260ef2(0x10,-0xab))](0x0,0x0,0x0),'dimension':-0x1,'bunker_npc':0xf},{'name':_0x33dc11(0x44d,0x4fa),'model':_0x33dc11(0x59c,0x545),'position':new mp[(_0x33dc11(0x4cb,0x53f))](-544.977,-584.607,34.682),'rotation':-88.539,'speech':_0x260ef2(0xab,0x134),'voice':_0x260ef2(-0x86,-0xc2),'conversation_id':0xc1,'cam_pos':new mp[(_0x260ef2(0x10,-0x6a))](-544.21,-584.593,35.265),'cam_point':new mp[(_0x33dc11(0x50e,0x53f))](-544.729,-584.622,35.281)},{'name':_0x33dc11(0x56d,0x599),'model':_0x33dc11(0x3c0,0x437),'position':new mp[(_0x260ef2(0x10,0xc8))](-551.75,-583.208,34.682),'rotation':177.64,'speech':_0x260ef2(-0xb7,-0x43),'voice':_0x260ef2(-0x85,-0x13),'conversation_id':0xc2,'cam_pos':new mp[(_0x260ef2(0x10,0x8e))](-551.78,-584.43,35.376),'cam_point':new mp[(_0x33dc11(0x60e,0x53f))](-551.802,-583.453,35.258)},{'name':_0x260ef2(0x5d,-0x98),'model':_0x260ef2(0x84,0x87),'position':new mp['Vector3'](-568.919,-586.574,34.686),'rotation':-92.263,'speech':_0x260ef2(0xab,0x179),'voice':_0x260ef2(0x75,-0x46),'conversation_id':0xc3,'cam_pos':new mp[(_0x260ef2(0x10,0xbb))](-568.125,-586.624,35.288),'cam_point':new mp['Vector3'](-568.674,-586.593,35.301)},{'name':_0x33dc11(0x38f,0x442),'model':_0x260ef2(-0xd6,-0x1cf),'position':new mp[(_0x33dc11(0x5df,0x53f))](-587.57,-604.557,41.43),'rotation':-2.057,'speech':_0x33dc11(0x4a3,0x4b8),'voice':'U_M_Y_TATTOO_01_WHITE_MINI_01','conversation_id':0xc4,'cam_pos':new mp[(_0x33dc11(0x614,0x53f))](-587.534,-603.549,42.017),'cam_point':new mp[(_0x33dc11(0x540,0x53f))](-587.556,-604.308,42.021)},{'name':_0x33dc11(0x606,0x5d8),'model':'a_m_y_business_02','position':new mp[(_0x260ef2(0x10,-0x2e))](-560.466,-583.178,41.43),'rotation':86.402,'speech':_0x260ef2(-0xba,-0x2b),'voice':_0x260ef2(-0xd1,-0x137),'conversation_id':0x31,'cam_pos':new mp[(_0x33dc11(0x4e4,0x53f))](-561.867,-583.119,42.137),'cam_point':new mp[(_0x260ef2(0x10,0x8b))](-561.216,-583.147,42.082)},{'name':_0x260ef2(-0x14,-0xd0),'model':_0x260ef2(-0xe3,-0xc5),'position':new mp[(_0x260ef2(0x10,-0xe3))](-778.566,-395.307,2.059),'rotation':-177.622,'speech':_0x260ef2(0x61,0x73),'voice':_0x33dc11(0x57c,0x5a2),'conversation_id':0xc5,'cam_pos':new mp[(_0x260ef2(0x10,0x92))](-778.563,-396.246,2.68),'cam_point':new mp[(_0x260ef2(0x10,0x3a))](-778.548,-395.552,2.677),'dimension':-0x1},{'name':_0x260ef2(0xa,-0x10),'model':_0x260ef2(-0xe3,-0x1c),'position':new mp['Vector3'](-734.25,-655.267,-60.877),'rotation':-168.736,'speech':_0x260ef2(0x61,-0x80),'voice':_0x260ef2(0x73,0x151),'conversation_id':0xc5,'cam_pos':new mp[(_0x260ef2(0x10,0xc6))](-734.163,-656.206,-60.22),'cam_point':new mp[(_0x33dc11(0x546,0x53f))](-734.244,-655.507,-60.236),'dimension':-0x1},{'name':_0x260ef2(0x5b,0x131),'model':_0x33dc11(0x49e,0x3ed),'position':new mp[(_0x33dc11(0x568,0x53f))](-1857.748,2087.032,140.432),'rotation':3.811,'speech':_0x260ef2(0x61,0x8e),'voice':_0x260ef2(0x73,-0x26),'conversation_id':0xc8,'cam_pos':new mp[(_0x260ef2(0x10,-0x29))](-1858.149,2092.782,141.652),'cam_point':new mp[(_0x33dc11(0x5ce,0x53f))](-1857.82,2086.561,141.326),'dimension':-0x1},{'name':_0x260ef2(-0x13,0x2d),'model':_0x33dc11(0x580,0x4b7),'position':new mp[(_0x33dc11(0x56c,0x53f))](-1851.109,-355.504,49.387),'rotation':143.469,'speech':_0x33dc11(0x524,0x590),'voice':_0x33dc11(0x652,0x5b7),'conversation_id':0xca,'cam_pos':new mp[(_0x33dc11(0x5f8,0x53f))](-1851.463,-355.951,50.034),'cam_point':new mp[(_0x260ef2(0x10,-0x17))](-1851.253,-355.687,50.047),'eng_only':!0x1},{'name':_0x33dc11(0x525,0x472),'model':_0x33dc11(0x505,0x441),'position':new mp['Vector3'](-1216.47,-195.977,39.325),'rotation':63.289,'speech':_0x33dc11(0x501,0x590),'voice':'G_M_Y_LOST_02_LATINO_MINI_01','conversation_id':0xca,'cam_pos':new mp[(_0x33dc11(0x4f5,0x53f))](-1217.057,-195.694,39.973),'cam_point':new mp[(_0x33dc11(0x61f,0x53f))](-1216.671,-195.87,39.998),'eng_only':!0x1},{'name':'Maxim\x20Pakhan','model':_0x260ef2(0x65,0x5a),'position':new mp[(_0x33dc11(0x5a6,0x53f))](444.209,214.18,103.165),'rotation':-18.5,'speech':_0x33dc11(0x64a,0x590),'voice':_0x260ef2(0x88,-0x56),'conversation_id':0xca,'cam_pos':new mp[(_0x260ef2(0x10,0x95))](444.384,214.754,103.811),'cam_point':new mp[(_0x260ef2(0x10,-0xe2))](444.273,214.408,103.816),'eng_only':!0x1},{'name':_0x33dc11(0x5a8,0x4e8),'model':_0x260ef2(-0x133,-0xdc),'position':new mp[(_0x33dc11(0x464,0x53f))](-74.594,140.574,81.494),'rotation':36.761,'speech':_0x33dc11(0x56e,0x590),'voice':_0x33dc11(0x62d,0x5b7),'conversation_id':0xca,'cam_pos':new mp[(_0x33dc11(0x52d,0x53f))](-75.019,141.202,82.152),'cam_point':new mp[(_0x33dc11(0x506,0x53f))](-74.707,140.72,82.233),'eng_only':!0x1},{'name':_0x33dc11(0x4a5,0x457),'model':_0x260ef2(-0xd,0x16),'position':new mp[(_0x33dc11(0x4d5,0x53f))](-708.22,-152.906,37.415),'rotation':120.522,'speech':_0x260ef2(0xab,-0x29),'voice':_0x260ef2(0x38,0x35),'conversation_id':0xcb,'cam_pos':new mp[(_0x260ef2(0x10,0x2e))](-708.998,-153.281,38.063),'cam_point':new mp[(_0x33dc11(0x499,0x53f))](-708.448,-153.003,38.017)},{'name':_0x260ef2(-0xd8,-0xce),'model':_0x33dc11(0x510,0x522),'position':new mp[(_0x33dc11(0x5d8,0x53f))](-525.469,-594.988,41.43),'rotation':178.047,'speech':_0x33dc11(0x5d0,0x5da),'voice':_0x33dc11(0x5df,0x5a4),'conversation_id':0xcc,'cam_pos':new mp['Vector3'](-525.492,-596.281,42.079),'cam_point':new mp[(_0x260ef2(0x10,0xed))](-525.41,-593.977,41.888)},{'name':language[_0x33dc11(0x524,0x55f)][curr_lang],'model':_0x33dc11(0x3e1,0x402),'position':new mp[(_0x260ef2(0x10,0x43))](4509.91,-4507.991,4.052),'rotation':27.634,'speech':_0x260ef2(0xab,0x36),'voice':_0x260ef2(-0x107,-0x1b8),'conversation_id':0xcd,'cam_pos':new mp[(_0x33dc11(0x560,0x53f))](4509.649,-4507.395,4.755),'cam_point':new mp[(_0x33dc11(0x603,0x53f))](4509.835,-4507.806,4.772),'dimension':-0x1,'is_school':!0x0},{'name':language[_0x260ef2(0x91,0x16a)][curr_lang],'model':_0x33dc11(0x55f,0x501),'position':new mp[(_0x33dc11(0x60d,0x53f))](-1016.977,-424.476,39.628),'rotation':24.603,'speech':_0x260ef2(0x61,0x9),'voice':_0x260ef2(0x73,0x102),'conversation_id':0xce,'cam_pos':new mp['Vector3'](-1017.748,-423.35,40.28),'cam_point':new mp[(_0x260ef2(0x10,-0x65))](-1011.821,-434.174,38.61),'dimension':-0x1,'is_school':!0x0},{'name':language[_0x260ef2(0x6e,0x14)][curr_lang],'model':_0x33dc11(0x51d,0x505),'position':new mp['Vector3'](-976.269,-392.174,14.854),'rotation':116.013,'speech':_0x260ef2(0xab,0xb7),'voice':_0x33dc11(0x3b6,0x428),'conversation_id':0xcf,'cam_pos':new mp[(_0x260ef2(0x10,-0x18))](-977.815,-392.984,15.505),'cam_point':new mp[(_0x33dc11(0x5c5,0x53f))](-976.471,-392.321,15.363),'dimension':-0x1,'is_school':!0x0},{'name':language['Преподаватель\x0aИностранного\x20языка'][curr_lang],'model':_0x260ef2(-0x22,0x3a),'position':new mp['Vector3'](-1065.863,-444.101,14.854),'rotation':117.245,'speech':_0x260ef2(0x61,-0x42),'voice':_0x33dc11(0x54d,0x5a2),'conversation_id':0xd0,'cam_pos':new mp[(_0x260ef2(0x10,-0xdd))](-1067.313,-445.055,15.502),'cam_point':new mp[(_0x260ef2(0x10,0xf6))](-1066.05,-444.267,15.417),'dimension':-0x1,'is_school':!0x0},{'name':language[_0x260ef2(-0x12,-0x107)][curr_lang],'model':_0x33dc11(0x4d9,0x490),'position':new mp[(_0x260ef2(0x10,0x66))](-3284.652,991.848,3.939),'rotation':50.965,'speech':_0x260ef2(0x61,0xc0),'voice':_0x33dc11(0x4bb,0x5a2),'conversation_id':0xd1,'cam_pos':new mp['Vector3'](-3285.482,992.347,4.401),'cam_point':new mp[(_0x33dc11(0x526,0x53f))](-3284.898,991.89,4.469),'dimension':-0x1,'is_school':!0x0},{'name':language[_0x33dc11(0x49c,0x41d)][curr_lang],'model':_0x260ef2(-0xa8,-0x5f),'position':new mp[(_0x260ef2(0x10,0xbf))](-1068.133,-440.325,14.858),'rotation':117.692,'speech':_0x33dc11(0x5d6,0x5da),'voice':'A_F_M_BEVHILLS_02_WHITE_FULL_01','conversation_id':0xd2,'cam_pos':new mp[(_0x33dc11(0x584,0x53f))](-1069.579,-441.211,15.503),'cam_point':new mp[(_0x33dc11(0x540,0x53f))](-1068.306,-440.494,15.492),'dimension':-0x1,'is_school':!0x0},{'name':language[_0x33dc11(0x54f,0x531)][curr_lang],'model':_0x260ef2(-0xff,-0x19),'position':new mp[(_0x260ef2(0x10,0x46))](-978.432,-388.624,14.858),'rotation':117.228,'speech':_0x33dc11(0x4e6,0x590),'voice':_0x260ef2(0x73,-0x59),'conversation_id':0xd3,'cam_pos':new mp[(_0x33dc11(0x61e,0x53f))](-979.817,-389.521,15.502),'cam_point':new mp[(_0x33dc11(0x5d7,0x53f))](-978.597,-388.808,15.465),'dimension':-0x1,'is_school':!0x0},{'name':language[_0x260ef2(-0x5a,0x90)][curr_lang],'model':_0x33dc11(0x40d,0x4c3),'position':new mp[(_0x33dc11(0x52a,0x53f))](-969.842,-405.602,14.84),'rotation':151.433,'speech':_0x33dc11(0x615,0x590),'voice':_0x260ef2(0x73,-0x1e),'conversation_id':0xd4,'cam_pos':new mp[(_0x33dc11(0x4ec,0x53f))](-970.051,-406.235,15.487),'cam_point':new mp[(_0x260ef2(0x10,-0xbf))](-969.907,-405.822,15.51),'dimension':-0x1,'is_school':!0x0},{'name':language[_0x260ef2(0x8c,-0x58)][curr_lang],'model':_0x33dc11(0x583,0x5b0),'position':new mp[(_0x33dc11(0x549,0x53f))](-986.845,-374.224,14.874),'rotation':118.316,'speech':_0x33dc11(0x4f6,0x590),'voice':_0x33dc11(0x52d,0x5a2),'conversation_id':0xd5,'cam_pos':new mp[(_0x260ef2(0x10,0x2))](-987.971,-374.957,15.52),'cam_point':new mp[(_0x260ef2(0x10,-0x74))](-986.317,-374.072,15.542),'dimension':-0x1,'is_school':!0x0},{'name':language[_0x260ef2(-0xec,-0x6d)][curr_lang],'model':_0x260ef2(-0x111,-0xf8),'position':new mp[(_0x260ef2(0x10,-0xc4))](-1076.403,-425.983,14.874),'rotation':117.159,'speech':_0x33dc11(0x497,0x590),'voice':_0x260ef2(0x73,-0x24),'conversation_id':0xd6,'cam_pos':new mp[(_0x260ef2(0x10,0x80))](-1077.821,-426.92,15.521),'cam_point':new mp[(_0x33dc11(0x5dc,0x53f))](-1074.817,-425.308,15.395),'dimension':-0x1,'is_school':!0x0},{'name':language[_0x260ef2(-0xda,-0xf8)][curr_lang],'model':_0x260ef2(-0x2e,0xc4),'position':new mp['Vector3'](-1057.745,-458.301,14.838),'rotation':113.985,'speech':_0x33dc11(0x5ab,0x590),'voice':_0x33dc11(0x5df,0x5a2),'conversation_id':0xd7,'cam_pos':new mp[(_0x33dc11(0x58f,0x53f))](-1059.221,-459.241,15.485),'cam_point':new mp[(_0x260ef2(0x10,0x53))](-1056.206,-457.544,15.304),'dimension':-0x1,'is_school':!0x0},{'name':_0x260ef2(0x4c,0x1c),'model':'s_m_m_marine_01','position':new mp[(_0x260ef2(0x10,-0xe8))](-2315.044,3439.795,31.474),'rotation':14.256,'speech':_0x260ef2(-0xf,0x42),'voice':_0x33dc11(0x607,0x5a2),'conversation_id':0xda,'cam_pos':new mp[(_0x260ef2(0x10,-0x80))](-2315.351,3441.002,32.119),'cam_point':new mp[(_0x260ef2(0x10,-0xdd))](-2315.107,3440.029,32.105)},{'name':_0x33dc11(0x48a,0x4cd),'model':_0x33dc11(0x4f5,0x40f),'position':new mp[(_0x33dc11(0x49e,0x53f))](2587.265,-295.118,93.078),'rotation':-93.157,'speech':_0x260ef2(-0xf,0x86),'voice':_0x33dc11(0x636,0x5a2),'conversation_id':0xdb,'cam_pos':new mp[(_0x33dc11(0x532,0x53f))](2588.552,-295.148,93.78),'cam_point':new mp[(_0x33dc11(0x5b6,0x53f))](2587.504,-295.117,93.72)},{'name':'Winifred\x20Anderson','model':_0x33dc11(0x5e8,0x5cf),'position':new mp['Vector3'](291.656,-564.903,43.263),'rotation':68.824,'speech':_0x260ef2(0xab,-0x13),'voice':_0x33dc11(0x565,0x5a4),'conversation_id':0x1388,'cam_pos':new mp[(_0x33dc11(0x620,0x53f))](289.891,-564.235,43.763),'cam_point':new mp[(_0x260ef2(0x10,0x2d))](291.656,-564.903,43.763),'questionMarker':!0x0},{'name':_0x33dc11(0x421,0x4a5),'model':_0x33dc11(0x688,0x5cf),'position':new mp['Vector3'](1845.905,3667.701,33.742),'rotation':137.986,'speech':_0x260ef2(0xab,-0x36),'voice':_0x260ef2(0x75,0x16c),'conversation_id':0x1388,'cam_pos':new mp[(_0x33dc11(0x528,0x53f))](1844.655,3666.151,34.344),'cam_point':new mp[(_0x33dc11(0x526,0x53f))](1845.905,3667.701,34.344),'questionMarker':!0x0},{'name':'Winifred\x20Anderson','model':_0x260ef2(0xa0,0x7a),'position':new mp[(_0x33dc11(0x578,0x53f))](130.635,85.199,81.961),'rotation':-22.608,'speech':'PHONE_CONV3_INTRO','voice':_0x33dc11(0x4be,0x5a4),'conversation_id':0x1388,'cam_pos':new mp[(_0x260ef2(0x10,0x8d))](131.573,87.287,82.461),'cam_point':new mp[(_0x260ef2(0x10,-0xd8))](130.635,85.199,82.461),'questionMarker':!0x0},{'name':'','model':'','position':new mp[(_0x260ef2(0x10,0x5e))](-1646.569,-156.665,57.633),'rotation':-29.673,'speech':_0x260ef2(0x4f,-0x10),'voice':'','conversation_id':0xc7,'cam_pos':new mp[(_0x33dc11(0x50f,0x53f))](-1647.519,-157.613,60.246),'cam_point':new mp[(_0x33dc11(0x4c4,0x53f))](-1646.364,-156.076,59.959),'is_halloween':!0x0},{'name':_0x33dc11(0x575,0x559),'model':_0x33dc11(0x64b,0x561),'position':new mp[(_0x33dc11(0x4a9,0x53f))](861.962,-2365.853,30.346),'rotation':37.661,'speech':_0x260ef2(-0xf,-0x41),'voice':'A_M_M_POLYNESIAN_01_POLYNESIAN_MINI_01','conversation_id':0x138a,'cam_pos':new mp[(_0x260ef2(0x10,0x10e))](861.017,-2364.583,30.846),'cam_point':new mp[(_0x33dc11(0x584,0x53f))](861.962,-2365.853,30.846)},{'name':_0x33dc11(0x4c5,0x5bf),'model':_0x260ef2(-0x12d,-0x31),'position':new mp[(_0x260ef2(0x10,-0x86))](-276.745,6290.26,31.414),'rotation':-135.573,'speech':_0x33dc11(0x4ee,0x5da),'voice':_0x260ef2(0x38,0xb9),'conversation_id':0x1394,'cam_pos':new mp[(_0x33dc11(0x474,0x53f))](-275.843,6289.39,31.914),'cam_point':new mp[(_0x33dc11(0x4ff,0x53f))](-276.745,6290.26,31.914)},{'name':_0x33dc11(0x35d,0x42b),'model':_0x260ef2(0x32,-0xac),'position':new mp[(_0x33dc11(0x486,0x53f))](-199.597,-34.7,50.643),'rotation':159.884,'speech':_0x260ef2(0xab,0x162),'voice':_0x33dc11(0x45c,0x4fb),'conversation_id':0x1395,'cam_pos':new mp[(_0x33dc11(0x53f,0x53f))](-199.821,-35.999,51.143),'cam_point':new mp[(_0x33dc11(0x618,0x53f))](-199.597,-34.7,51.143)},{'name':_0x33dc11(0x455,0x479),'model':_0x33dc11(0x32d,0x406),'position':new mp[(_0x260ef2(0x10,0x107))](1368.471,6550.302,14.91),'rotation':-85.153,'speech':'PHONE_CONV3_INTRO','voice':_0x33dc11(0x501,0x4fb),'conversation_id':0x1396,'cam_pos':new mp[(_0x33dc11(0x538,0x53f))](1370.062,6550.458,15.41),'cam_point':new mp[(_0x260ef2(0x10,0x10c))](1368.471,6550.302,15.41)},{'name':_0x33dc11(0x42a,0x493),'model':_0x33dc11(0x461,0x47d),'position':new mp[(_0x260ef2(0x10,-0x1b))](1282.091,-2563.021,43.954),'rotation':-50.271,'speech':_0x260ef2(0xab,0x160),'voice':_0x33dc11(0x436,0x4fb),'conversation_id':0x1399,'cam_pos':new mp[(_0x33dc11(0x464,0x53f))](1282.942,-2562.284,44.568),'cam_point':new mp[(_0x260ef2(0x10,0x45))](1282.27,-2562.846,44.398)},{'name':'James\x20Miller','model':_0x260ef2(-0xd4,-0x186),'position':new mp[(_0x260ef2(0x10,-0x49))](211.444,-932.078,29.623),'rotation':100.451,'speech':_0x260ef2(-0xf,-0xad),'voice':_0x33dc11(0x614,0x577),'conversation_id':0x139d,'cam_pos':new mp['Vector3'](210.363,-932.202,30.123),'cam_point':new mp[(_0x33dc11(0x535,0x53f))](211.444,-932.078,30.123),'speechParams':_0x260ef2(-0x8b,-0x103),'ru_only':!0x0},{'name':_0x260ef2(-0x93,-0x132),'model':_0x33dc11(0x3f7,0x3f9),'position':new mp[(_0x33dc11(0x5f1,0x53f))](186.651,-966.316,47.038),'rotation':31.565,'speech':_0x260ef2(0xab,0xbf),'voice':_0x260ef2(-0x34,0x86),'conversation_id':0x139e,'cam_pos':new mp[(_0x260ef2(0x10,0x81))](186.092,-965.293,47.538),'cam_point':new mp[(_0x33dc11(0x495,0x53f))](186.651,-966.316,47.538),'bSummer2025':!0x0},{'name':_0x33dc11(0x6bf,0x5e0),'model':_0x260ef2(-0x15,0x18),'position':new mp[(_0x33dc11(0x53d,0x53f))](-770.109,-26.187,41.08),'rotation':-101.115,'speech':_0x33dc11(0x559,0x5da),'voice':'A_M_Y_BUSINESS_03_WHITE_MINI_01','conversation_id':0x139f,'cam_pos':new mp[(_0x33dc11(0x4b9,0x53f))](-769.21,-26.42,41.58),'cam_point':new mp[(_0x260ef2(0x10,0xdd))](-770.109,-26.187,41.58)},{'name':_0x260ef2(0x7e,-0x66),'model':_0x260ef2(-0xaa,-0x196),'position':new mp[(_0x33dc11(0x4e4,0x53f))](-159.405,917.556,235.656),'rotation':-45.636,'speech':_0x33dc11(0x58a,0x5da),'voice':_0x260ef2(-0x34,0x27),'conversation_id':0x13a0,'cam_pos':new mp[(_0x260ef2(0x10,-0x6f))](-158.801,918.123,236.156),'cam_point':new mp[(_0x33dc11(0x4a4,0x53f))](-159.405,917.556,236.156),'enServer':0x3},{'name':language[_0x260ef2(0x68,-0x51)][curr_lang],'model':_0x260ef2(-0xe1,-0x92),'position':new mp[(_0x260ef2(0x10,-0x79))](1788.054,2597.74,45.798),'rotation':173.011,'speech':_0x260ef2(0x61,0xce),'voice':'A_M_M_POLYNESIAN_01_POLYNESIAN_MINI_01','conversation_id':0x1770,'cam_pos':new mp[(_0x33dc11(0x5bc,0x53f))](1788.051,2596.931,46.35),'cam_point':new mp[(_0x33dc11(0x496,0x53f))](1788.054,2597.74,46.4)},{'name':_0x33dc11(0x396,0x41b),'model':_0x260ef2(-0xc5,-0x127),'position':new mp['Vector3'](372.822,-574.376,28.842),'rotation':166.044,'speech':_0x33dc11(0x59d,0x590),'voice':_0x33dc11(0x69c,0x5a2),'conversation_id':0x1771,'cam_pos':new mp[(_0x260ef2(0x10,0xe4))](372.571,-575.504,29.546),'cam_point':new mp[(_0x33dc11(0x4e1,0x53f))](372.822,-574.376,29.546),'dimension':0x0},{'name':_0x33dc11(0x40e,0x444),'model':_0x33dc11(0x507,0x46a),'position':new mp[(_0x33dc11(0x5bc,0x53f))](1836.493,3668.946,33.678),'rotation':-179.301,'speech':_0x260ef2(0x61,0x21),'voice':_0x33dc11(0x517,0x5a2),'conversation_id':0x1772,'cam_pos':new mp[(_0x33dc11(0x5f9,0x53f))](1836.588,3667.125,34.378),'cam_point':new mp[(_0x260ef2(0x10,-0xa0))](1836.493,3668.946,34.378),'dimension':0x0},{'name':_0x260ef2(-0x13c,-0x144),'model':_0x33dc11(0x37f,0x46a),'position':new mp[(_0x33dc11(0x5cc,0x53f))](439.818,-0x3f5,28.609),'rotation':157.701,'speech':_0x260ef2(0x61,0x25),'voice':_0x260ef2(0x73,-0x7a),'conversation_id':0x1773,'cam_pos':new mp[(_0x260ef2(0x10,0x10d))](439.439,-1014.002,29.351),'cam_point':new mp[(_0x33dc11(0x45a,0x53f))](439.818,-0x3f5,29.351),'dimension':0x0},{'name':_0x260ef2(0xaf,0x16c),'model':_0x33dc11(0x43f,0x46a),'position':new mp[(_0x33dc11(0x55f,0x53f))](2516.929,-373.902,93.141),'rotation':-133.504,'speech':_0x260ef2(0x61,0x65),'voice':_0x33dc11(0x4a5,0x5a2),'conversation_id':0x1774,'cam_pos':new mp[(_0x260ef2(0x10,0x24))](2517.713,-374.793,93.841),'cam_point':new mp[(_0x260ef2(0x10,0xaf))](2516.929,-373.902,93.841),'dimension':0x0},{'name':_0x260ef2(-0x1,0x7a),'model':_0x33dc11(0x389,0x46a),'position':new mp[(_0x33dc11(0x592,0x53f))](-459.075,6031.561,31.341),'rotation':125.26,'speech':'GENERIC_HI','voice':_0x260ef2(0x73,0xfe),'conversation_id':0x1775,'cam_pos':new mp['Vector3'](-459.728,6030.932,32.041),'cam_point':new mp[(_0x33dc11(0x52b,0x53f))](-459.075,6031.561,32.041),'dimension':0x0},{'name':_0x260ef2(0x80,-0x4c),'model':'s_m_m_highsec_04','position':new mp[(_0x260ef2(0x10,0x3d))](-1840.168,3262.094,32.942),'rotation':89.095,'speech':_0x33dc11(0x5ba,0x590),'voice':_0x33dc11(0x67d,0x5a2),'conversation_id':0x1776,'cam_pos':new mp[(_0x33dc11(0x4f5,0x53f))](-1841.45,3262.031,33.642),'cam_point':new mp[(_0x33dc11(0x53c,0x53f))](-1840.168,3262.094,33.642),'dimension':0x0},{'name':_0x260ef2(-0xa6,-0x134),'model':_0x260ef2(-0xc5,-0xa3),'position':new mp[(_0x33dc11(0x5e8,0x53f))](-1094.794,-260.308,37.701),'rotation':123.049,'speech':_0x260ef2(0x61,0x98),'voice':_0x260ef2(0x73,-0x6d),'conversation_id':0x1777,'cam_pos':new mp[(_0x33dc11(0x62a,0x53f))](-1095.816,-261.037,38.393),'cam_point':new mp[(_0x33dc11(0x4f0,0x53f))](-1094.794,-260.308,38.393),'dimension':0x0},{'name':_0x33dc11(0x589,0x4e2),'model':_0x260ef2(-0xc5,0x27),'position':new mp[(_0x33dc11(0x626,0x53f))](-559.944,-158.694,30.424),'rotation':108.461,'speech':_0x260ef2(0x61,0x11e),'voice':_0x33dc11(0x50e,0x5a2),'conversation_id':0x1778,'cam_pos':new mp[(_0x260ef2(0x10,-0xaf))](-561.105,-159.243,31.125),'cam_point':new mp[(_0x260ef2(0x10,0x14))](-559.944,-158.694,31.124),'dimension':0x0},{'name':_0x33dc11(0x49a,0x52f),'model':_0x33dc11(0x42b,0x46a),'position':new mp[(_0x260ef2(0x10,0x86))](1805.473,2614.807,45.568),'rotation':151.863,'speech':_0x33dc11(0x5f7,0x590),'voice':_0x33dc11(0x4cd,0x5a2),'conversation_id':0x1779,'cam_pos':new mp[(_0x33dc11(0x555,0x53f))](1804.207,2612.541,46.327),'cam_point':new mp[(_0x33dc11(0x5e6,0x53f))](1805.473,2614.807,46.327),'dimension':0x0},{'name':_0x260ef2(-0x3,-0x7b),'model':_0x33dc11(0x48d,0x3e5),'position':new mp[(_0x260ef2(0x10,0x94))](88.71,-1961.267,20.747),'rotation':-134.874,'speech':_0x260ef2(0x61,0x11e),'voice':_0x33dc11(0x680,0x5a2),'conversation_id':0x177a,'cam_pos':new mp[(_0x33dc11(0x5f1,0x53f))](89.84,-1962.223,21.4),'cam_point':new mp[(_0x33dc11(0x620,0x53f))](88.71,-1961.267,21.4),'dimension':0x0},{'name':_0x33dc11(0x413,0x506),'model':_0x33dc11(0x56d,0x4ae),'position':new mp[(_0x260ef2(0x10,0x8a))](-144.099,-1651.257,32.694),'rotation':5.111,'speech':_0x33dc11(0x573,0x590),'voice':_0x33dc11(0x62f,0x5a2),'conversation_id':0x177b,'cam_pos':new mp[(_0x33dc11(0x558,0x53f))](-144.241,-1650.024,33.4),'cam_point':new mp[(_0x260ef2(0x10,-0xe0))](-144.099,-1651.257,33.4),'dimension':0x0},{'name':'Pedro\x20Gutierrez','model':_0x260ef2(-0x52,-0x4a),'position':new mp[(_0x260ef2(0x10,0x3c))](-1066.204,-1667.372,4.537),'rotation':119.972,'speech':_0x33dc11(0x49a,0x590),'voice':_0x260ef2(0x73,0x97),'conversation_id':0x177c,'cam_pos':new mp[(_0x260ef2(0x10,0x88))](-1067.339,-1668.187,5.2),'cam_point':new mp[(_0x260ef2(0x10,0x21))](-1066.204,-1667.372,5.2),'dimension':0x0},{'name':_0x33dc11(0x56c,0x4a3),'model':_0x33dc11(0x57b,0x549),'position':new mp[(_0x260ef2(0x10,-0xbf))](412.418,-1507.573,29.318),'rotation':118.167,'speech':_0x260ef2(0x61,-0x15),'voice':_0x260ef2(0x73,-0x56),'conversation_id':0x177d,'cam_pos':new mp['Vector3'](411.412,-1508.234,0x1e),'cam_point':new mp[(_0x260ef2(0x10,0x109))](412.418,-1507.573,0x1e),'dimension':0x0},{'name':_0x33dc11(0x351,0x3f4),'model':_0x260ef2(0x5,-0x60),'position':new mp[(_0x33dc11(0x4aa,0x53f))](816.754,-2114.187,29.385),'rotation':172.266,'speech':_0x33dc11(0x530,0x590),'voice':_0x260ef2(0x73,0x12a),'conversation_id':0x177e,'cam_pos':new mp[(_0x260ef2(0x10,0x69))](816.707,-2115.597,30.068),'cam_point':new mp[(_0x33dc11(0x507,0x53f))](816.754,-2114.187,30.068),'dimension':0x0},{'name':_0x33dc11(0x491,0x492),'model':_0x33dc11(0x5fa,0x5ba),'position':new mp[(_0x260ef2(0x10,-0xaa))](1115.065,-663.869,56.813),'rotation':-170.082,'speech':_0x260ef2(0x61,0x53),'voice':_0x33dc11(0x643,0x5a2),'conversation_id':0x1784,'cam_pos':new mp[(_0x33dc11(0x4a6,0x53f))](1115.308,-665.32,57.513),'cam_point':new mp['Vector3'](1115.065,-663.869,57.513),'dimension':0x0,'bChristmas2025':!0x0},{'name':_0x33dc11(0x4b0,0x581),'model':_0x33dc11(0x50e,0x5ba),'position':new mp[(_0x33dc11(0x52c,0x53f))](-79.613,-2502.014,6.025),'rotation':-116.596,'speech':_0x260ef2(0x61,0x54),'voice':_0x260ef2(0x73,0x6d),'conversation_id':0x1785,'cam_pos':new mp[(_0x260ef2(0x10,0x37))](-77.169,-2502.95,6.806),'cam_point':new mp[(_0x260ef2(0x10,-0xc3))](-85.57,-2499.469,5.666),'dimension':0x0,'bChristmas2025':!0x0},{'name':_0x260ef2(-0xd5,-0x1b5),'model':_0x260ef2(-0xe6,-0x1e2),'position':new mp[(_0x33dc11(0x459,0x53f))](-1608.134,-1129.54,2.148),'rotation':-128.995,'speech':_0x260ef2(0x61,-0x39),'voice':_0x33dc11(0x5a1,0x5a2),'conversation_id':0x1786,'cam_pos':new mp[(_0x33dc11(0x495,0x53f))](-1606.841,-1130.568,2.844),'cam_point':new mp['Vector3'](-1608.134,-1129.54,2.848),'dimension':0x0,'bSummer2026':!0x0},{'name':_0x33dc11(0x3eb,0x429),'model':'u_m_m_vince','position':new mp[(_0x260ef2(0x10,0xc5))](1087.236,221.163,-49.2),'rotation':178.683,'speech':_0x33dc11(0x495,0x590),'voice':_0x33dc11(0x511,0x5a2),'conversation_id':0x1787,'cam_pos':new mp[(_0x260ef2(0x10,0xb3))](1087.385,218.936,-48.496),'cam_point':new mp[(_0x260ef2(0x10,-0xd2))](1087.331,223.176,-48.721),'dimension':0x0}],global[_0x260ef2(-0xf9,-0x18f)]=[],mp[_0x33dc11(0x500,0x57a)][_0x260ef2(0x31,0xce)](_0x33dc11(0x49a,0x557),_0x1493b4=>{const _0x18f159={_0x4cab58:0x3c,_0x57d091:0x2bf,_0x4f39ab:0xad,_0x5cada9:0x23f,_0x197ba2:0x5d,_0x26b5ca:0x2d9,_0x35fc4a:0x53,_0xbcabb8:0x109,_0x4d4e69:0x3e2,_0x401990:0x277,_0x38710f:0x316,_0x93fcce:0xaa,_0x5120c0:0x480,_0x5f0a62:0x14b,_0x12700c:0x3cb,_0x194861:0x3d8,_0x45e10c:0x1ee,_0x37fbec:0x2a9,_0x1aaf50:0x2b9,_0x712947:0x414,_0x1ba1b2:0x45b,_0x455a5b:0x16f,_0x1c1681:0x87,_0x198f16:0xc3,_0x1959b6:0xc0},_0x4f6df4={_0x2fe12f:0x219},_0x12c09c={_0x173186:0xf2};function _0x313a66(_0x479e50,_0x1c11f2){return _0x4575(_0x479e50-_0x12c09c._0x173186,_0x1c11f2);}function _0x5daa02(_0x192fb1,_0x3c25f9){return _0x4575(_0x3c25f9- -_0x4f6df4._0x2fe12f,_0x192fb1);}if(mp[_0x5daa02(-0xe,-_0x18f159._0x4cab58)][_0x5daa02(-0x12f,-0x3b)](_0x1493b4)&&0x1==_0x1493b4[_0x313a66(_0x18f159._0x57d091,0x305)]){if(main_browser[_0x5daa02(0x112,_0x18f159._0x4f39ab)](_0x313a66(_0x18f159._0x5cada9,0x283)),_0x1493b4[_0x5daa02(-0x93,_0x18f159._0x197ba2)]>0x0?at_bunker_interact=_0x1493b4[_0x313a66(0x368,_0x18f159._0x26b5ca)]:at_npc_bot=_0x1493b4[_0x5daa02(_0x18f159._0x35fc4a,_0x18f159._0xbcabb8)]+0x1,_0x313a66(0x3c2,_0x18f159._0x4d4e69)==npc_options[_0x1493b4[_0x313a66(0x414,0x4f3)]][_0x313a66(0x322,_0x18f159._0x401990)])StartCustomSound(_0x313a66(0x276,_0x18f159._0x38710f),_0x313a66(0x22e,0x322),0.2);else{let _0x870ccd=npc_bots[_0x1493b4[_0x5daa02(0x1f0,0x109)]];_0x1493b4[_0x5daa02(_0x18f159._0x93fcce,0x9e)]&&npc_bots_story[_0x1493b4[_0x313a66(0x414,_0x18f159._0x5120c0)]]&&(_0x870ccd=npc_bots_story[_0x1493b4[_0x5daa02(_0x18f159._0x5f0a62,_0x18f159._0xbcabb8)]]),_0x870ccd&&mp[_0x313a66(_0x18f159._0x12700c,_0x18f159._0x194861)][_0x313a66(0x22d,_0x18f159._0x45e10c)]['playAmbientSpeechWithVoice'](_0x870ccd[_0x313a66(0x296,_0x18f159._0x37fbec)],npc_options[_0x1493b4[_0x5daa02(0xcf,0x109)]][_0x313a66(0x322,0x31e)],npc_options[_0x1493b4[_0x5daa02(0x23,_0x18f159._0xbcabb8)]][_0x313a66(0x24c,_0x18f159._0x1aaf50)],npc_options[_0x1493b4[_0x313a66(_0x18f159._0x712947,_0x18f159._0x1ba1b2)]][_0x5daa02(0x3b,0x87)]?npc_options[_0x1493b4[_0x5daa02(_0x18f159._0x455a5b,_0x18f159._0xbcabb8)]][_0x5daa02(0x66,_0x18f159._0x1c1681)]:_0x5daa02(-_0x18f159._0x198f16,-_0x18f159._0x1959b6),!0x1);}}else;}),mp[_0x33dc11(0x5aa,0x57a)]['add']('playerExitColshape',_0x4cb566=>{const _0x5eed49={_0x4e70d0:0x1e8,_0x2138ae:0x1d7,_0x143e3f:0x9e,_0x1dd987:0x2f1,_0x25a742:0x209},_0x186792={_0x2e3bb7:0x228},_0x575a5b={_0x5425cd:0xa};function _0x3044be(_0x160360,_0x123326){return _0x4575(_0x123326-_0x575a5b._0x5425cd,_0x160360);}function _0x1a0d34(_0x4bb8e8,_0x4bb379){return _0x4575(_0x4bb8e8- -_0x186792._0x2e3bb7,_0x4bb379);}if(mp['colshapes'][_0x3044be(0x13b,_0x5eed49._0x4e70d0)](_0x4cb566)&&0x1==_0x4cb566[_0x3044be(0x18f,_0x5eed49._0x2138ae)])return main_browser[_0x1a0d34(_0x5eed49._0x143e3f,0x148)](_0x1a0d34(0x2a,-0x9a)),at_npc_bot=0x0,null!=localcamera&&(localcamera[_0x3044be(_0x5eed49._0x1dd987,_0x5eed49._0x25a742)](),localcamera=null),void(at_bunker_interact>0x0&&_0x4cb566[_0x3044be(0x287,0x280)]==at_bunker_interact&&(at_bunker_interact=0x0));});const gangNpcsToLoad=[{'model':_0x260ef2(-0x1a,0x6),'pos':[-1108.6722412109375,-1636.678466796875,4.615959167480469],'rot':8.737934112548828},{'model':_0x33dc11(0x4c7,0x46e),'pos':[-1043.8704833984375,-1592.55029296875,4.930212497711182],'rot':256.0360107421875},{'model':_0x260ef2(-0x131,-0x49),'pos':[-1103.4351806640625,-1493.380615234375,4.879530429840088],'rot':210.32579040527344},{'model':_0x260ef2(-0xd4,-0x23),'pos':[-1165.1162109375,-1551.06982421875,4.3993940353393555],'rot':299.82135009765625},{'model':_0x33dc11(0x64b,0x56d),'pos':[-1126.1629638671875,-1453.7943115234375,4.939870357513428],'rot':109.40074157714844},{'model':_0x260ef2(-0x10b,-0x8f),'pos':[-131.85787963867188,-1618.043212890625,32.7634162902832],'rot':210.2216033935547},{'model':_0x260ef2(-0x130,-0xeb),'pos':[-33.98107147216797,-1495.95703125,30.767967224121094],'rot':185.28067016601562},{'model':_0x33dc11(0x3e0,0x4d1),'pos':[66.91033172607422,-1623.060302734375,30.672636032104492],'rot':47.628997802734375},{'model':_0x260ef2(0x2c,0x2a),'pos':[142.75648498535156,-1520.0406494140625,29.83696746826172],'rot':35.15830993652344},{'model':_0x260ef2(-0xac,-0xb),'pos':[318.540771484375,-1476.3328857421875,29.962385177612305],'rot':251.35662841796875},{'model':_0x33dc11(0x525,0x5a6),'pos':[455.5941162109375,-1498.0113525390625,28.188175201416016],'rot':198.24050903320312},{'model':_0x260ef2(-0xfe,-0x17c),'pos':[308.81011962890625,-1641.8128662109375,32.531211853027344],'rot':58.391475677490234},{'model':_0x260ef2(-0x113,-0x202),'pos':[187.3758544921875,-1679.7261962890625,29.739999771118164],'rot':329.3995056152344},{'model':_0x260ef2(-0xc3,-0x72),'pos':[250.4381561279297,-1769.7596435546875,28.917165756225586],'rot':268.357666015625},{'model':_0x33dc11(0x4c1,0x515),'pos':[113.81,-1764.824,29.335],'rot':332.287},{'model':_0x260ef2(-0x19,-0x102),'pos':[82.48138427734375,-1953.7777099609375,20.755666732788086],'rot':326.97283935546875},{'model':_0x33dc11(0x2f6,0x3ec),'pos':[188.88558959960938,-1844.8231201171875,27.20120620727539],'rot':200.6105499267578},{'model':_0x260ef2(-0x12b,-0x6c),'pos':[246.74111938476562,-1964.9779052734375,21.961580276489258],'rot':222.9695281982422},{'model':_0x33dc11(0x4e2,0x4f7),'pos':[349.117431640625,-2068.77001953125,20.938215255737305],'rot':291.50897216796875},{'model':_0x260ef2(-0x5c,0x7f),'pos':[355.3297424316406,-1854.523193359375,27.636150360107422],'rot':279.781982421875},{'model':_0x260ef2(0x98,0x152),'pos':[458.4259948730469,-1731.6048583984375,29.05591583251953],'rot':43.93742370605469},{'model':_0x33dc11(0x5e1,0x4f7),'pos':[542.6640625,-1648.8433837890625,28.49718475341797],'rot':180.8772735595703},{'model':_0x260ef2(0x18,0x6c),'pos':[1224.7757568359375,-1511.0101318359375,34.838165283203125],'rot':173.3780517578125},{'model':_0x33dc11(0x46e,0x495),'pos':[1286.4425048828125,-1713.974609375,55.041080474853516],'rot':233.46224975585938},{'model':'a_m_m_genfat_01','pos':[1271.5621337890625,-1904.3458251953125,38.50891876220703],'rot':339.7949523925781},{'model':_0x33dc11(0x4b6,0x49f),'pos':[1350.843505859375,-1551.6375732421875,53.97150421142578],'rot':31.946435928344727},{'model':'a_m_o_genstreet_01','pos':[-1223.6798095703125,-1310.6204833984375,4.4863739013671875],'rot':276.18988037109375},{'model':_0x33dc11(0x484,0x499),'pos':[-1277.672119140625,-1334.9801025390625,4.249084949493408],'rot':282.6983337402344},{'model':_0x33dc11(0x533,0x494),'pos':[-1252.8426513671875,-1219.192626953125,5.412266731262207],'rot':104.78567504882812},{'model':_0x260ef2(-0xb8,-0x19e),'pos':[-1313.29150390625,-1242.8865966796875,4.621341705322266],'rot':271.40264892578125},{'model':'ig_hao','pos':[-957.8803100585938,-1105.600830078125,2.15031099319458],'rot':30.72016143798828},{'model':_0x260ef2(0x79,-0x1a),'pos':[-1010.8307495117188,-1012.8524780273438,2.150193452835083],'rot':39.21086502075195},{'model':_0x33dc11(0x5ee,0x51e),'pos':[-1111.4188232421875,-1045.8843994140625,2.150357723236084],'rot':200.98556518554688},{'model':_0x33dc11(0x5b7,0x4fe),'pos':[-1044.2698974609375,-1155.4039306640625,2.158597230911255],'rot':23.576723098754883},{'model':_0x260ef2(0x93,0x118),'pos':[-354.9808349609375,-1513.6822509765625,27.717214584350586],'rot':177.81964111328125},{'model':_0x260ef2(0x1c,-0x48),'pos':[-313.538818359375,-1341.9691162109375,31.330848693847656],'rot':79.57408905029297},{'model':_0x260ef2(-0x11c,-0x200),'pos':[-176.2452850341797,-1312.12451171875,32.29771041870117],'rot':112.44860076904297},{'model':_0x260ef2(-0x84,-0x104),'pos':[-19.242460250854492,-1309.8909912109375,29.259878158569336],'rot':348.4241027832031},{'model':_0x260ef2(0x7d,-0x8),'pos':[136.77371215820312,-1295.080810546875,29.23272705078125],'rot':218.5988311767578},{'model':_0x260ef2(0xa8,0x45),'pos':[265.2451477050781,-1377.4698486328125,30.555580139160156],'rot':286.2606506347656},{'model':_0x33dc11(0x53e,0x53c),'pos':[459.78765869140625,-1315.0107421875,29.282398223876953],'rot':291.779296875},{'model':_0x260ef2(-0x101,-0xf9),'pos':[703.7060546875,-1539.5950927734375,9.708629608154297],'rot':100.36161041259766},{'model':_0x33dc11(0x5cb,0x519),'pos':[1161.489501953125,-1312.933349609375,34.74275588989258],'rot':172.50514221191406},{'model':_0x33dc11(0x47a,0x435),'pos':[980.360595703125,-1812.9693603515625,31.3209171295166],'rot':217.693603515625},{'model':_0x33dc11(0x4be,0x54a),'pos':[992.7223510742188,-1912.45751953125,31.152734756469727],'rot':157.1504669189453},{'model':_0x33dc11(0x4af,0x4e5),'pos':[946.0223999023438,-2044.9317626953125,30.170137405395508],'rot':91.29329681396484},{'model':'a_m_y_juggalo_01','pos':[888.493408203125,-2001.9373779296875,30.58584976196289],'rot':359.9994812011719},{'model':_0x260ef2(0x21,-0x1a),'pos':[1002.8483276367188,-2159.4501953125,30.55156135559082],'rot':158.1061553955078},{'model':_0x33dc11(0x341,0x425),'pos':[847.7052612304688,-2190.67236328125,30.30517578125],'rot':4.957050800323486},{'model':_0x260ef2(0x94,0xb1),'pos':[827.0266723632812,-2340.332275390625,30.334304809570312],'rot':170.22422790527344},{'model':_0x33dc11(0x51e,0x584),'pos':[972.9524536132812,-2413.80908203125,31.489017486572266],'rot':293.47027587890625}];function SpawnQuestionMarker(_0x1aba7e,_0x3dcfc0){const _0x1f58d2={_0x4816ea:0x11d,_0x124115:0x41e,_0x39604f:0x4c6,_0x555756:0x1a7,_0x4a6885:0x87,_0x412827:0x87},_0x1abe70={_0x272f72:0x270};function _0x345966(_0x5de0b2,_0x54865d){return _0x4575(_0x54865d-_0x1abe70._0x272f72,_0x5de0b2);}function _0x3f0c8c(_0x16818b,_0x7c69c2){return _0x4575(_0x16818b- -0x19b,_0x7c69c2);}if(_0x1aba7e[_0x3f0c8c(0x182,_0x1f58d2._0x4816ea)]&&story_quest_progress)return mp[_0x345966(0x407,_0x1f58d2._0x124115)][_0x345966(0x4a4,_0x1f58d2._0x39604f)](0x20,new mp[(_0x3f0c8c(0xf6,_0x1f58d2._0x555756))](_0x1aba7e[_0x3f0c8c(_0x1f58d2._0x4a6885,0x12)]['x'],_0x1aba7e[_0x3f0c8c(_0x1f58d2._0x4a6885,0x3a)]['y'],_0x1aba7e[_0x3f0c8c(_0x1f58d2._0x412827,-0x5a)]['z']+1.3),0.5,{'color':[0xff,0xe1,0x0,0xff],'visible':!0x0,'dimension':_0x3dcfc0});}function SpawnQuestionMarkers(){const _0xa5e1cf={_0x1dbcf4:0x64f},_0x516792={_0x43f619:0x4b5,_0x357a5b:0x106,_0x2ec8a5:0x1ec},_0xe4e8ec={_0x41fd35:0x2a2},_0x2d1780={_0x51ff87:0x133},_0x5bba87={_0x275974:0x3bc};function _0x263c36(_0x5f5468,_0x2327e4){return _0x4575(_0x5f5468-_0x5bba87._0x275974,_0x2327e4);}npc_options[_0x263c36(0x602,_0xa5e1cf._0x1dbcf4)]((_0x365551,_0x1684f6)=>{function _0x56e80e(_0x2cd823,_0x5003e7){return _0x4575(_0x2cd823- -_0x2d1780._0x51ff87,_0x5003e7);}if(!npc_colshapes[_0x1684f6])return;if(npc_markers[_0x1684f6]&&mp[_0x1d1e1c(_0x516792._0x43f619,0x450)][_0x1d1e1c(0x4d5,0x480)](npc_markers[_0x1684f6]))return;let _0x32c0fd=0x0;function _0x1d1e1c(_0x43f8ed,_0x990a16){return _0x4575(_0x990a16-_0xe4e8ec._0x41fd35,_0x43f8ed);}null!=_0x365551[_0x56e80e(0x1ec,_0x516792._0x357a5b)]&&(_0x32c0fd=_0x365551[_0x56e80e(_0x516792._0x2ec8a5,0x259)]),0x1!=new_version&&(_0x32c0fd=0x0),npc_markers[_0x1684f6]=SpawnQuestionMarker(_0x365551,_0x32c0fd);});}function DestroyQuestionMarkers(){const _0x179c17={_0x8dcda5:0x700,_0x193c22:0x56b,_0x3fe5ae:0x5ce,_0x9bfdb7:0x59b,_0x35de58:0x539},_0x4cc006={_0x489c57:0x3bd};function _0x402ed0(_0x4e514b,_0x11188c){return _0x4575(_0x11188c-0x396,_0x4e514b);}function _0x57cb5d(_0x1a8b6a,_0x5db984){return _0x4575(_0x1a8b6a-_0x4cc006._0x489c57,_0x5db984);}for(let _0x5d4c5f=0x0;_0x5d4c5f<npc_markers[_0x402ed0(_0x179c17._0x8dcda5,0x645)];_0x5d4c5f++)npc_markers[_0x5d4c5f]&&mp[_0x57cb5d(_0x179c17._0x193c22,_0x179c17._0x3fe5ae)][_0x57cb5d(_0x179c17._0x9bfdb7,0x51b)](npc_markers[_0x5d4c5f])&&npc_markers[_0x5d4c5f][_0x57cb5d(0x5bc,_0x179c17._0x35de58)]();npc_markers=[];}function _0x4575(_0x38ab3c,_0x2c35f0){_0x38ab3c=_0x38ab3c-0x137;const _0x4e6906=_0x5e99();let _0x2041f3=_0x4e6906[_0x38ab3c];if(_0x4575['gigISp']===undefined){var _0x808d8b=function(_0x4f4a54){const _0x515a85='abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789+/=';let _0x4b73e0='',_0xf12ee9='',_0x1f8801=_0x4b73e0+_0x808d8b;for(let _0x9e389b=0x0,_0x14df7a,_0x4aa45d,_0x27996b=0x0;_0x4aa45d=_0x4f4a54['charAt'](_0x27996b++);~_0x4aa45d&&(_0x14df7a=_0x9e389b%0x4?_0x14df7a*0x40+_0x4aa45d:_0x4aa45d,_0x9e389b++%0x4)?_0x4b73e0+=_0x1f8801['charCodeAt'](_0x27996b+0xa)-0xa!==0x0?String['fromCharCode'](0xff&_0x14df7a>>(-0x2*_0x9e389b&0x6)):_0x9e389b:0x0){_0x4aa45d=_0x515a85['indexOf'](_0x4aa45d);}for(let _0x5c87eb=0x0,_0x381154=_0x4b73e0['length'];_0x5c87eb<_0x381154;_0x5c87eb++){_0xf12ee9+='%'+('00'+_0x4b73e0['charCodeAt'](_0x5c87eb)['toString'](0x10))['slice'](-0x2);}return decodeURIComponent(_0xf12ee9);};_0x4575['OoYlNx']=_0x808d8b,_0x4575['uWfOaR']={},_0x4575['gigISp']=!![];}const _0x5e99bc=_0x4e6906[0x0],_0x457521=_0x38ab3c+_0x5e99bc,_0x428c2a=_0x4575['uWfOaR'][_0x457521];if(!_0x428c2a){const _0x75962c=function(_0x477824){this['dQSYNK']=_0x477824,this['kYASOK']=[0x1,0x0,0x0],this['xwEtqD']=function(){return'newState';},this['BmsuAA']='\x5cw+\x20*\x5c(\x5c)\x20*{\x5cw+\x20*',this['ZqiSHR']='[\x27|\x22].+[\x27|\x22];?\x20*}';};_0x75962c['prototype']['jCmEfm']=function(){const _0x23353f=new RegExp(this['BmsuAA']+this['ZqiSHR']),_0x40816f=_0x23353f['test'](this['xwEtqD']['toString']())?--this['kYASOK'][0x1]:--this['kYASOK'][0x0];return this['XhenzA'](_0x40816f);},_0x75962c['prototype']['XhenzA']=function(_0x9b3b45){if(!Boolean(~_0x9b3b45))return _0x9b3b45;return this['cNImLG'](this['dQSYNK']);},_0x75962c['prototype']['cNImLG']=function(_0x370ab9){for(let _0xe9e2e4=0x0,_0x57ecf7=this['kYASOK']['length'];_0xe9e2e4<_0x57ecf7;_0xe9e2e4++){this['kYASOK']['push'](Math['round'](Math['random']())),_0x57ecf7=this['kYASOK']['length'];}return _0x370ab9(this['kYASOK'][0x0]);},new _0x75962c(_0x4575)['jCmEfm'](),_0x2041f3=_0x4575['OoYlNx'](_0x2041f3),_0x4575['uWfOaR'][_0x457521]=_0x2041f3;}else _0x2041f3=_0x428c2a;return _0x2041f3;}function SpawnStoryDimensionNpcs(){const _0x3fecd0={_0x465108:0x235,_0x2a0e37:0x164,_0x2e5760:0xfa,_0x2dd3c8:0xbc},_0xcab124={_0x26abf2:0x4cb,_0x2b325d:0x2c7,_0xbdce4b:0x35c,_0x211e61:0x43f,_0x50d3a2:0x3d0,_0x448a15:0x4b7,_0x12c7da:0x538,_0x1f3f6d:0x3c5,_0x4bf31c:0x478,_0x58667c:0x59b,_0x9b05b8:0x5f6,_0x4d2fcd:0x5b4,_0x396120:0x687,_0x387bc2:0x5b4,_0x4f331c:0x3e3,_0x115b93:0x536,_0x351e9e:0x526,_0x323c50:0x58d,_0x6179b9:0x4b7,_0xdb8971:0x52a,_0x1bddaa:0x3b4,_0x4dc103:0x4a4,_0x5b013d:0x374,_0x3bdbe9:0x476,_0x279336:0x511,_0x13460d:0x4d7,_0x444da5:0x4ba,_0x17c69c:0x3a1,_0xd0e887:0x536,_0x2d3d1c:0x528,_0x324e57:0x41d,_0x4a3aef:0x37b,_0x8acd76:0x4a4,_0x5907cf:0x465,_0x44e5ed:0x36a,_0x17ba57:0x336,_0x21d2ae:0x39f,_0x100fd2:0x424,_0x2c44cd:0x336},_0x3e0ca1={_0x108c02:0x38f};function _0x52d977(_0x4790e1,_0x5b0e5){return _0x4575(_0x5b0e5- -0x18a,_0x4790e1);}if(story_npc_spawned)return;function _0x1f1b0c(_0x555b9c,_0x151028){return _0x4575(_0x555b9c-_0x3e0ca1._0x108c02,_0x151028);}let _0x2dfa4c=localplayer[_0x52d977(_0x3fecd0._0x465108,_0x3fecd0._0x2a0e37)](_0x52d977(0x133,_0x3fecd0._0x2e5760))+0x1;npc_options[_0x52d977(-0x38,_0x3fecd0._0x2dd3c8)]((_0x2acb30,_0x20aca9)=>{const _0x2389fe={_0x142117:0x1ae};function _0x2ad420(_0x32a112,_0x391325){return _0x4575(_0x391325-_0x2389fe._0x142117,_0x32a112);}function _0x5f4f72(_0x17a017,_0x5016f2){return _0x4575(_0x17a017-0x295,_0x5016f2);}if(_0x5f4f72(0x4ea,0x57c)===_0x2ad420(0x4b7,0x49f)){if(_0x8b65da[_0x2ad420(0x542,_0xcab124._0x26abf2)]&&_0x332610)return _0x38962f[_0x2ad420(_0xcab124._0x2b325d,_0xcab124._0xbdce4b)][_0x5f4f72(0x4eb,0x5e0)](0x20,new _0x4195dc[(_0x2ad420(0x4c6,_0xcab124._0x211e61))](_0x18139d[_0x2ad420(0x466,_0xcab124._0x50d3a2)]['x'],_0x36fd1f[_0x5f4f72(_0xcab124._0x448a15,_0xcab124._0x12c7da)]['y'],_0x1609df[_0x2ad420(0x41f,0x3d0)]['z']+1.3),0.5,{'color':[0xff,0xe1,0x0,0xff],'visible':!0x0,'dimension':_0x529318});}else{if(!_0x2acb30[_0x5f4f72(0x5b2,0x4bc)])return;if(!is_school&&_0x2acb30[_0x2ad420(0x2d8,0x33c)])return;if(!is_halloween&&_0x2acb30[_0x2ad420(0x444,0x3eb)])return;if(!bSummer2025&&_0x2acb30[_0x2ad420(_0xcab124._0x1f3f6d,0x35f)])return;if(!bChristmas2025&&_0x2acb30[_0x5f4f72(0x40e,_0xcab124._0x4bf31c)])return;if(void 0x0!==_0x2acb30[_0x5f4f72(_0xcab124._0x58667c,_0xcab124._0x9b05b8)]&&'ru'==curr_lang&&0x1==_0x2acb30['eng_only']||void 0x0!==_0x2acb30[_0x5f4f72(_0xcab124._0x58667c,0x50f)]&&'ru'!=curr_lang&&0x0==_0x2acb30[_0x2ad420(0x4e8,0x4b4)])return;if(_0x2acb30[_0x5f4f72(0x401,0x431)]&&'ru'!=curr_lang)return;if(_0x2acb30[_0x5f4f72(0x563,0x606)]&&'en'!=curr_lang&&_0x2acb30[_0x5f4f72(0x563,0x4af)]!=server_number)return;let _0x2ad13e=0x0;null!=_0x2acb30[_0x5f4f72(_0xcab124._0x4d2fcd,_0xcab124._0x396120)]&&(_0x2ad13e=_0x2acb30[_0x5f4f72(_0xcab124._0x387bc2,0x5d1)]),0x1!=new_version&&(_0x2ad13e=0x0),0x0==_0x2ad13e&&(npc_labels_story[_0x20aca9]=mp[_0x2ad420(0x451,_0xcab124._0x4f331c)]['new'](_0x2acb30[_0x5f4f72(_0xcab124._0x115b93,0x4a5)],new mp[(_0x5f4f72(_0xcab124._0x351e9e,_0xcab124._0x323c50))](_0x2acb30[_0x5f4f72(_0xcab124._0x6179b9,_0xcab124._0xdb8971)]['x'],_0x2acb30[_0x2ad420(_0xcab124._0x1bddaa,0x3d0)]['y'],_0x2acb30[_0x5f4f72(0x4b7,0x471)]['z']+0x1),{'los':!0x0,'font':0x0,'drawDistance':0x6,'color':[0xff,0xff,0xff,0xff],'dimension':_0x2dfa4c}),_0x2acb30[_0x2ad420(_0xcab124._0x4dc103,0x442)]&&(npc_bots_story[_0x20aca9]=mp[_0x2ad420(0x3f8,_0xcab124._0x5b013d)][_0x5f4f72(0x4eb,0x476)](mp[_0x2ad420(_0xcab124._0x3bdbe9,0x487)][_0x5f4f72(_0xcab124._0x279336,0x5b0)](_0x2acb30[_0x5f4f72(0x529,_0xcab124._0x13460d)]),_0x2acb30[_0x5f4f72(_0xcab124._0x448a15,0x3e2)],_0x2acb30[_0x5f4f72(0x465,0x42a)],_0x2dfa4c),null!=_0x2acb30[_0x5f4f72(0x4b2,_0xcab124._0x444da5)]&&(npc_bots_story[_0x20aca9][_0x5f4f72(0x4b2,0x56e)]=!0x0)),npc_colshapes_story[_0x20aca9]=mp[_0x2ad420(_0xcab124._0x17c69c,0x38b)]['newSphere'](_0x2acb30[_0x5f4f72(_0xcab124._0x448a15,0x4c8)]['x'],_0x2acb30[_0x5f4f72(0x4b7,_0xcab124._0xd0e887)]['y'],_0x2acb30[_0x5f4f72(0x4b7,_0xcab124._0x2d3d1c)]['z'],2.5,_0x2dfa4c),npc_colshapes_story[_0x20aca9][_0x2ad420(0x4dd,0x4d0)]=_0x20aca9,npc_colshapes_story[_0x20aca9][_0x2ad420(_0xcab124._0x324e57,_0xcab124._0x4a3aef)]=!0x0,npc_colshapes_story[_0x20aca9][_0x2ad420(_0xcab124._0x8acd76,_0xcab124._0x5907cf)]=!0x0,null!=_0x2acb30[_0x2ad420(_0xcab124._0x44e5ed,_0xcab124._0x17ba57)]&&(npc_colshapes_story[_0x20aca9][_0x2ad420(_0xcab124._0x21d2ae,_0xcab124._0x100fd2)]=_0x2acb30[_0x2ad420(0x3c5,_0xcab124._0x2c44cd)]),npc_markers_story[_0x20aca9]=SpawnQuestionMarker(_0x2acb30,_0x2dfa4c));}}),story_npc_spawned=!0x0;}function _0x33dc11(_0x3ab06c,_0x32fea7){return _0x4575(_0x32fea7-0x2ae,_0x3ab06c);}setTimeout(()=>{const _0x2bd57a={_0x2cbf52:0x40b},_0x4f5582={_0x2dab9c:0x1d6,_0x35e90e:0x12c,_0x1137dd:0x14b,_0x5d13c2:0x4c2,_0x1beeae:0x4ce,_0x25da4a:0x493,_0x2c8e66:0x54c,_0x5b4fca:0x493},_0x425d10={_0x4d146b:0x1b4,_0x3c2fd2:0x2b1,_0x385b1f:0x1c9,_0x1078f5:0x424,_0x813cd9:0x34e,_0x5cab2f:0x1d6,_0x2e99b4:0x316,_0x517118:0x2d6,_0x4ab209:0x3f,_0xff11b7:0xf3,_0x510d00:0x27d,_0x1a62c2:0x223,_0x1d9a79:0x29e,_0x449a91:0xdd,_0x23bc9f:0x120,_0x31f35b:0x24,_0x31f298:0xae,_0x3d0987:0x12c,_0x87c529:0x17c,_0x1cffb4:0x321,_0x462f69:0x2eb,_0x512eb0:0xe8,_0x3c493a:0xc6,_0x17406b:0x26a,_0x39cb61:0x218,_0x941be8:0x1e9,_0x2cfd3b:0x125,_0x359dcc:0x273,_0x2079e4:0x3cd,_0x1fe27e:0x2c5,_0x573252:0x120,_0x206f00:0x215,_0x5f0370:0x2d5,_0x330f77:0x1d0,_0x330010:0x165,_0x2b8e65:0x340,_0x5a2240:0x1a1};function _0x29cc88(_0x4a7de0,_0x2ab367){return _0x4575(_0x2ab367-0x1c5,_0x4a7de0);}npc_options['forEach']((_0x4a2615,_0x56e672)=>{const _0x99c20d={_0x12865d:0x48};if(!is_school&&_0x4a2615[_0x5e509f(-0x19e,-_0x425d10._0x4d146b)])return;if(!is_halloween&&_0x4a2615['is_halloween'])return;if(!bSummer2025&&_0x4a2615[_0x197956(0x1f9,0x233)])return;if(!bChristmas2025&&_0x4a2615[_0x5e509f(-_0x425d10._0x3c2fd2,-_0x425d10._0x385b1f)])return;if(void 0x0!==_0x4a2615[_0x197956(0x34e,_0x425d10._0x1078f5)]&&'ru'==curr_lang&&0x1==_0x4a2615[_0x197956(0x34e,0x32e)]||void 0x0!==_0x4a2615[_0x5e509f(0xc0,-0x3c)]&&'ru'!=curr_lang&&0x0==_0x4a2615[_0x197956(_0x425d10._0x813cd9,0x299)])return;function _0x5e509f(_0x11f393,_0x5172c4){return _0x4575(_0x5172c4- -0x342,_0x11f393);}if(_0x4a2615[_0x5e509f(-0x175,-_0x425d10._0x5cab2f)]&&'ru'!=curr_lang)return;if(_0x4a2615[_0x197956(_0x425d10._0x2e99b4,_0x425d10._0x517118)]&&'en'!=curr_lang&&_0x4a2615[_0x5e509f(-_0x425d10._0x4ab209,-0x74)]!=server_number)return;function _0x197956(_0x32e2e5,_0x493e65){return _0x4575(_0x32e2e5-_0x99c20d._0x12865d,_0x493e65);}let _0x1909b7=0x0;null!=_0x4a2615['dimension']&&(_0x1909b7=_0x4a2615[_0x5e509f(-_0x425d10._0xff11b7,-0x23)]),0x1!=new_version&&(_0x1909b7=0x0),mp[_0x197956(_0x425d10._0x510d00,_0x425d10._0x1a62c2)][_0x197956(_0x425d10._0x1d9a79,0x1bd)](_0x4a2615['name'],new mp['Vector3'](_0x4a2615['position']['x'],_0x4a2615[_0x5e509f(-_0x425d10._0x449a91,-_0x425d10._0x23bc9f)]['y'],_0x4a2615[_0x197956(0x26a,0x2f7)]['z']+0x1),{'los':!0x0,'font':0x0,'drawDistance':0x6,'color':[0xff,0xff,0xff,0xff],'dimension':_0x1909b7}),_0x4a2615[_0x5e509f(_0x425d10._0x31f35b,-_0x425d10._0x31f298)]&&(npc_bots[_0x56e672]=mp[_0x5e509f(-_0x425d10._0x3d0987,-_0x425d10._0x87c529)][_0x197956(_0x425d10._0x1d9a79,0x277)](mp[_0x197956(_0x425d10._0x1cffb4,_0x425d10._0x462f69)][_0x5e509f(-_0x425d10._0x512eb0,-_0x425d10._0x3c493a)](_0x4a2615[_0x5e509f(-0xc5,-0xae)]),_0x4a2615[_0x197956(_0x425d10._0x17406b,0x354)],_0x4a2615[_0x197956(_0x425d10._0x39cb61,0x126)],_0x1909b7),null!=_0x4a2615[_0x5e509f(-0x183,-0x125)]&&(npc_bots[_0x56e672][_0x5e509f(-_0x425d10._0x941be8,-_0x425d10._0x2cfd3b)]=!0x0),null!=_0x4a2615[_0x197956(0x1d0,_0x425d10._0x359dcc)]&&bunker_npc[_0x197956(0x2d7,_0x425d10._0x2079e4)](npc_bots[_0x56e672])),npc_colshapes[_0x56e672]=mp[_0x5e509f(-0x1d3,-0x165)][_0x197956(0x286,_0x425d10._0x1fe27e)](_0x4a2615[_0x5e509f(-0x1c8,-_0x425d10._0x573252)]['x'],_0x4a2615[_0x5e509f(-0x199,-0x120)]['y'],_0x4a2615[_0x5e509f(-0x9f,-0x120)]['z'],2.5,_0x1909b7),npc_colshapes[_0x56e672][_0x5e509f(-0xa8,-0x20)]=_0x56e672,npc_colshapes[_0x56e672][_0x197956(_0x425d10._0x206f00,_0x425d10._0x5f0370)]=!0x0,null!=_0x4a2615[_0x197956(_0x425d10._0x330f77,_0x425d10._0x330010)]&&(npc_colshapes[_0x56e672][_0x197956(0x2be,_0x425d10._0x2b8e65)]=_0x4a2615[_0x197956(0x1d0,_0x425d10._0x5a2240)]);}),SpawnQuestionMarkers(),gangNpcsToLoad[_0x29cc88(0x337,_0x2bd57a._0x2cbf52)](_0x1af1b3=>{function _0x564a5d(_0x5c43c8,_0x7162c6){return _0x4575(_0x5c43c8- -0x168,_0x7162c6);}function _0x502f6a(_0x2fe5b5,_0x36cbbd){return _0x4575(_0x2fe5b5-0x231,_0x36cbbd);}mp[_0x502f6a(0x3f7,0x3af)][_0x502f6a(0x487,0x47d)](mp['game'][_0x564a5d(0x114,_0x4f5582._0x2dab9c)](_0x1af1b3[_0x564a5d(_0x4f5582._0x35e90e,_0x4f5582._0x1137dd)]),new mp[(_0x502f6a(_0x4f5582._0x5d13c2,_0x4f5582._0x1beeae))](_0x1af1b3[_0x502f6a(0x493,0x505)][0x0],_0x1af1b3[_0x502f6a(_0x4f5582._0x25da4a,_0x4f5582._0x2c8e66)][0x1],_0x1af1b3[_0x502f6a(_0x4f5582._0x5b4fca,0x3a7)][0x2]),_0x1af1b3[_0x564a5d(0xf1,0x19c)],_0x90b1bf=>{},0x0);});},0x1f4),global[_0x260ef2(-0xae,-0x1a2)]=function(){const _0x43a2b9={_0x209550:0xc2,_0x117231:0x7e,_0x2c4a1a:0x1,_0x382b1f:0xb0,_0x52aec9:0x14f,_0x200d4f:0x1ba,_0x2d2b22:0x206,_0x597ddd:0x150,_0x331ef7:0x35,_0x426b4a:0x44,_0x5939c9:0x39,_0x2cf4a1:0xc6,_0x4ec368:0x98,_0x137897:0x110,_0xd33b65:0x11c,_0x4aba03:0x1c0,_0x4e3d54:0xe5,_0x54ffaf:0x1ab,_0x10cf18:0x12e};for(let _0x4c6b71=0x0;_0x4c6b71<npc_bots_story[_0x2fc8c4(-_0x43a2b9._0x209550,-_0x43a2b9._0x117231)];_0x4c6b71++)npc_bots_story[_0x4c6b71]&&mp[_0x2849d4(_0x43a2b9._0x2c4a1a,-_0x43a2b9._0x382b1f)][_0x2fc8c4(-0x5a,-_0x43a2b9._0x52aec9)](npc_bots_story[_0x4c6b71])&&npc_bots_story[_0x4c6b71][_0x2fc8c4(-_0x43a2b9._0x200d4f,-0x12e)]();for(let _0x2e936c=0x0;_0x2e936c<npc_colshapes_story[_0x2fc8c4(-0xf6,-_0x43a2b9._0x117231)];_0x2e936c++)npc_colshapes_story[_0x2e936c]&&mp[_0x2fc8c4(-_0x43a2b9._0x2d2b22,-_0x43a2b9._0x597ddd)][_0x2fc8c4(-0x242,-0x14f)](npc_colshapes_story[_0x2e936c])&&npc_colshapes_story[_0x2e936c][_0x2fc8c4(-_0x43a2b9._0x331ef7,-0x12e)]();function _0x2849d4(_0x413e21,_0x38f358){return _0x4575(_0x38f358- -0x276,_0x413e21);}function _0x2fc8c4(_0x4b2c39,_0x293f9d){return _0x4575(_0x293f9d- -0x32d,_0x4b2c39);}for(let _0xdbc0bc=0x0;_0xdbc0bc<npc_labels_story[_0x2849d4(_0x43a2b9._0x426b4a,_0x43a2b9._0x5939c9)];_0xdbc0bc++)npc_labels_story[_0xdbc0bc]&&mp[_0x2849d4(-_0x43a2b9._0x2cf4a1,-0x41)][_0x2849d4(-0x35,-_0x43a2b9._0x4ec368)](npc_labels_story[_0xdbc0bc])&&npc_labels_story[_0xdbc0bc][_0x2849d4(-_0x43a2b9._0x137897,-0x77)]();for(let _0x4e9d7a=0x0;_0x4e9d7a<npc_markers_story[_0x2fc8c4(-_0x43a2b9._0xd33b65,-0x7e)];_0x4e9d7a++)npc_markers_story[_0x4e9d7a]&&mp[_0x2fc8c4(-_0x43a2b9._0x4aba03,-0x17f)][_0x2fc8c4(-_0x43a2b9._0x4e3d54,-_0x43a2b9._0x52aec9)](npc_markers_story[_0x4e9d7a])&&npc_markers_story[_0x4e9d7a][_0x2fc8c4(-_0x43a2b9._0x54ffaf,-_0x43a2b9._0x10cf18)]();npc_bots_story=[],npc_colshapes_story=[],npc_labels_story=[],npc_markers_story=[],story_npc_spawned=!0x1,DestroyQuestionMarkers();},global[_0x260ef2(0x6,0xc2)]=function(){const _0x1125df={_0x131193:0x631,_0x43b091:0x6b0};function _0x27824f(_0x55e286,_0x271f34){return _0x4575(_0x55e286-0x343,_0x271f34);}function _0xf6f81b(_0x2d3674,_0x4fe319){return _0x4575(_0x4fe319-0x1f3,_0x2d3674);}loggedin&&0x0!=story_quest_progress&&(SpawnQuestionMarkers(),localplayer[_0x27824f(0x662,0x72b)]==localplayer[_0x27824f(_0x1125df._0x131193,_0x1125df._0x43b091)](_0xf6f81b(0x512,0x477))+0x1&&SpawnStoryDimensionNpcs());};
+global.at_bunker_interact = 0;
+global.at_npc_bot = 0;
+global.at_secret_npc = 0;
+var npc_bots = [];
+var npc_colshapes = [];
+var npc_markers = [];
+var npc_bots_story = [];
+var npc_colshapes_story = [];
+var npc_labels_story = [];
+var npc_markers_story = [];
+var story_npc_spawned = false;
+global.npc_options = [{
+  name: "Pamela Fletcher",
+  model: "a_f_m_bevhills_01",
+  position: new mp.Vector3(426.994, -806.161, 29.491),
+  rotation: 89.399,
+  speech: "PHONE_CONV3_INTRO",
+  voice: "A_F_M_BEVHILLS_01_WHITE_FULL_01",
+  conversation_id: 45,
+  cam_pos: new mp.Vector3(426.43951416015625, -806.1426391601562, 30.13971710205078),
+  cam_point: new mp.Vector3(426.7630615234375, -806.1445922851562, 30.155384063720703)
+}, {
+  name: "Stefania Backer",
+  model: "a_f_y_bevhills_01",
+  position: new mp.Vector3(-823.163, -1072.387, 11.328),
+  rotation: 209.391,
+  speech: "PHONE_CONV3_INTRO",
+  voice: "A_F_Y_BEVHILLS_01_WHITE_FULL_01",
+  conversation_id: 46,
+  cam_pos: new mp.Vector3(-822.9155883789062, -1072.82373046875, 11.976861953735352),
+  cam_point: new mp.Vector3(-823.0587768554688, -1072.59423828125, 11.991195678710938)
+}, {
+  name: "Melissa Shoper",
+  model: "a_f_y_bevhills_01",
+  position: new mp.Vector3(-1449.914, -239.067, 49.813),
+  rotation: 47.144,
+  speech: "PHONE_CONV3_INTRO",
+  voice: "A_F_Y_BEVHILLS_01_WHITE_FULL_01",
+  conversation_id: 77,
+  cam_pos: new mp.Vector3(-1450.583, -238.467, 50.464),
+  cam_point: new mp.Vector3(-1450.082, -238.898, 50.458)
+}, {
+  name: "Norman Young",
+  model: "a_m_y_business_03",
+  position: new mp.Vector3(-2961.072, 482.971, 15.697),
+  rotation: 93.467,
+  speech: "GENERIC_HOWS_IT_GOING",
+  voice: "A_M_Y_BUSINESS_03_WHITE_MINI_01",
+  conversation_id: 49,
+  cam_pos: new mp.Vector3(-2962.67236328125, 482.9619445800781, 16.861875534057617),
+  cam_point: new mp.Vector3(-2959.664794921875, 482.8644714355469, 15.84337043762207)
+}, {
+  name: "Roger Gill",
+  model: "a_m_y_business_02",
+  position: new mp.Vector3(-1211.899, -331.946, 37.781),
+  rotation: 28.107,
+  speech: "PHONE_CONV2_INTRO",
+  voice: "A_M_Y_BUSINESS_02_WHITE_FULL_01",
+  conversation_id: 49,
+  cam_pos: new mp.Vector3(-1212.747802734375, -330.2837219238281, 39.11846160888672),
+  cam_point: new mp.Vector3(-1212.283935546875, -331.24664306640625, 38.73263931274414)
+}, {
+  name: "Victor Bishop",
+  model: "ig_bankman",
+  position: new mp.Vector3(-351.363, -51.257, 49.036),
+  rotation: 335.794,
+  speech: "BUMP",
+  voice: "A_M_Y_BUSINESS_01_CHINESE_FULL_01",
+  conversation_id: 49,
+  cam_pos: new mp.Vector3(-350.8448181152344, -49.473331451416016, 50.109214782714844),
+  cam_point: new mp.Vector3(-351.17071533203125, -50.4981575012207, 49.91487121582031)
+}, {
+  name: "Douglas Fairy",
+  model: "cs_barry",
+  position: new mp.Vector3(313.769, -280.456, 54.165),
+  rotation: 336.628,
+  speech: "PHONE_CONV4_INTRO",
+  voice: "A_M_Y_BUSINESS_03_WHITE_MINI_01",
+  conversation_id: 49,
+  cam_pos: new mp.Vector3(314.4437561035156, -278.6194763183594, 55.49787902832031),
+  cam_point: new mp.Vector3(314.0486145019531, -279.709716796875, 55.14384078979492)
+}, {
+  name: "Elvin Thomas",
+  model: "ig_bankman",
+  position: new mp.Vector3(149.417, -1042.156, 29.368),
+  rotation: 334.128,
+  speech: "PHONE_CONV3_INTRO",
+  voice: "A_M_Y_BUSINESS_01_CHINESE_FULL_01",
+  conversation_id: 49,
+  cam_pos: new mp.Vector3(150.03981018066406, -1040.2921142578125, 30.493932723999023),
+  cam_point: new mp.Vector3(149.65371704101562, -1041.3203125, 30.239933013916016)
+}, {
+  name: "Gerald Robin",
+  model: "cs_barry",
+  position: new mp.Vector3(1174.925, 2708.257, 38.088),
+  rotation: 178.149,
+  speech: "PHONE_CONV3_INTRO",
+  voice: "A_M_Y_BUSINESS_03_WHITE_MINI_01",
+  conversation_id: 49,
+  cam_pos: new mp.Vector3(1175.064208984375, 2706.396484375, 39.19147491455078),
+  cam_point: new mp.Vector3(1175.0697021484375, 2707.443603515625, 38.99085998535156)
+}, {
+  name: "Kent Peacock",
+  model: "a_m_y_business_02",
+  position: new mp.Vector3(-111.26, 6470.051, 31.627),
+  rotation: 133.355,
+  speech: "PHONE_CONV4_INTRO",
+  voice: "A_M_Y_VINEWOOD_02_WHITE_MINI_01",
+  conversation_id: 49,
+  cam_pos: new mp.Vector3(-112.25797271728516, 6469.005859375, 32.29395294189453),
+  cam_point: new mp.Vector3(-110.36817169189453, 6470.8193359375, 32.253910064697266)
+}, {
+  name: "Adel Craft",
+  model: "s_f_y_cop_01",
+  position: new mp.Vector3(-447.101, 6011.323, 31.716),
+  rotation: 320.376,
+  speech: "CHALLENGE_ACCEPTED_GENERIC",
+  voice: "S_F_Y_BAYWATCH_01_WHITE_FULL_02",
+  conversation_id: 5,
+  cam_pos: new mp.Vector3(-446.641, 6011.762, 32.368),
+  cam_point: new mp.Vector3(-446.924, 6011.499, 32.305)
+}, {
+  name: "Tracey Smith",
+  model: "s_f_y_cop_01",
+  position: new mp.Vector3(440.95684814453125, -978.852294921875, 30.68960189819336),
+  rotation: 175.62255859375,
+  speech: "ARREST_PLAYER",
+  voice: "S_F_Y_COP_01_WHITE_FULL_02",
+  conversation_id: 147,
+  cam_pos: new mp.Vector3(440.7910461425781, -980.78515625, 31.299785614013672),
+  cam_point: new mp.Vector3(440.9488220214844, -979.1021728515625, 31.12557029724121)
+}, {
+  name: "Ada Clinton",
+  model: "s_f_y_scrubs_01",
+  position: new mp.Vector3(-1002.715, 3621.841, -57.441),
+  rotation: 17.134,
+  speech: "GENERIC_HOWS_IT_GOING",
+  voice: "A_F_Y_BEVHILLS_04_WHITE_FULL_01",
+  conversation_id: 6,
+  cam_pos: new mp.Vector3(-1002.95, 3622.656, -56.791),
+  cam_point: new mp.Vector3(-1002.8, 3622.076, -56.865),
+  dimension: -1
+}, {
+  name: "Berenice Bennett",
+  model: "s_f_y_scrubs_01",
+  position: new mp.Vector3(324.431, -600.033, 43.268),
+  rotation: 19.464,
+  speech: "GENERIC_HOWS_IT_GOING",
+  voice: "A_F_Y_BEVHILLS_04_WHITE_FULL_01",
+  conversation_id: 6,
+  cam_pos: new mp.Vector3(324.262, -599.516, 43.914),
+  cam_point: new mp.Vector3(324.356, -599.804, 43.906)
+}, {
+  name: "Marcus Collins",
+  model: "s_m_y_construct_02",
+  position: new mp.Vector3(451.158, -1146.043, 29.341),
+  rotation: 78.695,
+  speech: "CHALLENGE_ACCEPTED_HIT_CAR",
+  voice: "G_M_Y_FAMDNF_01_BLACK_MINI_03",
+  conversation_id: 7,
+  cam_pos: new mp.Vector3(450.466, -1145.918, 30),
+  cam_point: new mp.Vector3(450.915, -1146.008, 29.956)
+}, {
+  name: "John Richard",
+  model: "s_m_y_construct_02",
+  position: new mp.Vector3(-1.848, 6308.265, 31.376),
+  rotation: 26.969,
+  speech: "CHALLENGE_ACCEPTED_HIT_CAR",
+  voice: "G_M_Y_FAMDNF_01_BLACK_MINI_03",
+  conversation_id: 104,
+  cam_pos: new mp.Vector3(-2.182, 6308.915, 32.023),
+  cam_point: new mp.Vector3(-1.954, 6308.486, 31.995)
+}, {
+  name: "George House",
+  model: "s_m_m_autoshop_02",
+  position: new mp.Vector3(797.2205200195312, -2988.744384765625, 6.020936489105225),
+  rotation: 84.75740051269531,
+  speech: "RESCUE_INJURED_BUDDY",
+  voice: "S_M_M_CIASEC_01_WHITE_MINI_01",
+  conversation_id: 9,
+  cam_pos: new mp.Vector3(796.4632568359375, -2988.70849609375, 6.667823791503906),
+  cam_point: new mp.Vector3(796.9854125976562, -2988.713134765625, 6.6701507568359375)
+}, {
+  name: "Adam Miller",
+  model: "s_m_y_armymech_01",
+  position: new mp.Vector3(454.150390625, -980.0173950195312, 30.689584732055664),
+  rotation: 81.18248748779297,
+  speech: "GUNSH_GREET0",
+  voice: "S_M_Y_AMMUCITY_01_WHITE_01",
+  conversation_id: 10,
+  cam_pos: new mp.Vector3(453.1055908203125, -980.0362548828125, 31.537811279296875),
+  cam_point: new mp.Vector3(453.3627624511719, -980.0302124023438, 31.481552124023438)
+}, {
+  name: "Bob Gunner",
+  model: "s_m_y_armymech_01",
+  position: new mp.Vector3(-443.04, 5989.102, 27.804),
+  rotation: 240.81,
+  speech: "GUNSH_GREET0",
+  voice: "S_M_M_AMMUCOUNTRY_01_WHITE_01",
+  conversation_id: 11,
+  cam_pos: new mp.Vector3(-442.375, 5988.812, 28.452),
+  cam_point: new mp.Vector3(-442.81, 5989.012, 28.414)
+}, {
+  name: "Harry Gunner",
+  model: "s_m_y_armymech_01",
+  position: new mp.Vector3(2500.779, -415.758, 94.126),
+  rotation: -135.785,
+  speech: "SHOP_BROWSE_GUN",
+  voice: "S_M_Y_AMMUCITY_01_WHITE_MINI_01",
+  conversation_id: 12,
+  cam_pos: new mp.Vector3(2502.88, -417.799, 94.874),
+  cam_point: new mp.Vector3(2501.706, -416.734, 94.771)
+}, {
+  name: "Carl Murphy",
+  model: "s_m_y_armymech_01",
+  position: new mp.Vector3(-1867.226, 3250.498, 32.909),
+  rotation: 62.142,
+  speech: "PHONE_CONV4_INTRO",
+  voice: "S_M_Y_BAYWATCH_01_BLACK_FULL_01",
+  conversation_id: 13,
+  cam_pos: new mp.Vector3(-1868.215, 3251.095, 33.409),
+  cam_point: new mp.Vector3(-1867.226, 3250.498, 33.409)
+}, {
+  name: "Cliff Birds",
+  model: "u_m_y_baygor",
+  position: new mp.Vector3(-1033.387, 3639.993, -60.803),
+  rotation: 352.364,
+  speech: "PHONE_CONV4_INTRO",
+  voice: "A_M_Y_VINEWOOD_04_WHITE_FULL_01",
+  conversation_id: 14,
+  cam_pos: new mp.Vector3(-1033.324, 3640.989, -59.996),
+  cam_point: new mp.Vector3(-1033.368, 3640.228, -60.15),
+  dimension: -1
+}, {
+  name: "Jared Jackson",
+  model: "u_m_y_baygor",
+  position: new mp.Vector3(311.609, -597.796, 43.268),
+  rotation: -17.99,
+  speech: "PHONE_CONV4_INTRO",
+  voice: "A_M_Y_VINEWOOD_04_WHITE_FULL_01",
+  conversation_id: 14,
+  cam_pos: new mp.Vector3(311.742, -597.219, 43.916),
+  cam_point: new mp.Vector3(311.666, -597.576, 43.943)
+}, {
+  name: "Josh Deagler",
+  model: "u_m_y_burgerdrug_01",
+  position: new mp.Vector3(1692.8111572265625, 3761.60205078125, 34.7),
+  rotation: 221.2316436767578,
+  speech: "PHONE_CONV1_INTRO",
+  voice: "A_M_Y_VINEWOOD_04_WHITE_MINI_01",
+  conversation_id: 20,
+  cam_pos: new mp.Vector3(1693.283447265625, 3761.11572265625, 35.361961364746094),
+  cam_point: new mp.Vector3(1692.954833984375, 3761.42138671875, 35.365875244140625)
+}, {
+  name: "Stephen Mason",
+  model: "g_m_m_armlieut_01",
+  position: new mp.Vector3(-3173.22705078125, 1089.2110595703125, 20.83),
+  rotation: 241.19839477539062,
+  speech: "PHONE_CONV2_INTRO",
+  voice: "G_M_M_ARMLIEUT_01_WHITE_ARMENIAN_MINI_01",
+  conversation_id: 21,
+  cam_pos: new mp.Vector3(-3172.59619140625, 1088.9287109375, 21.486093521118164),
+  cam_point: new mp.Vector3(-3173.02392578125, 1089.1055908203125, 21.500446319580078)
+}, {
+  name: "Paul Sheldon",
+  model: "g_m_m_armgoon_01",
+  position: new mp.Vector3(-661.5018310546875, -933.5473022460938, 21.82),
+  rotation: 174.2127685546875,
+  speech: "PHONE_CONV3_INTRO",
+  voice: "G_M_Y_ARMGOON_02_WHITE_ARMENIAN_MINI_01",
+  conversation_id: 22,
+  cam_pos: new mp.Vector3(-661.544677734375, -934.4356079101562, 22.475540161132812),
+  cam_point: new mp.Vector3(-661.532470703125, -933.7714233398438, 22.496492385864258)
+}, {
+  name: "George Nash",
+  model: "s_m_y_autopsy_01",
+  position: new mp.Vector3(-971.589, 3644.539, -51.001),
+  rotation: 133.6,
+  speech: "PHONE_CONV4_INTRO",
+  voice: "G_M_M_MEXBOSS_02_LATINO_MINI_02",
+  conversation_id: 23,
+  cam_pos: new mp.Vector3(-972.077, 3644.02, -50.354),
+  cam_point: new mp.Vector3(-971.73, 3644.355, -50.337),
+  dimension: -1
+}, {
+  name: "Thomas Powell",
+  model: "s_m_y_autopsy_01",
+  position: new mp.Vector3(317.603, -596.072, 43.268),
+  rotation: -114.224,
+  speech: "PHONE_CONV4_INTRO",
+  voice: "G_M_M_MEXBOSS_02_LATINO_MINI_02",
+  conversation_id: 198,
+  cam_pos: new mp.Vector3(318.129, -596.276, 43.915),
+  cam_point: new mp.Vector3(317.816, -596.164, 43.931)
+}, {
+  name: "John Smith",
+  model: "s_m_m_doctor_01",
+  position: new mp.Vector3(-1000.201, 3620.414, -60.803),
+  rotation: 346.751,
+  speech: "PHONE_CONV2_INTRO",
+  voice: "A_M_Y_VINEWOOD_01_BLACK_MINI_01",
+  conversation_id: 24,
+  cam_pos: new mp.Vector3(-1000.153, 3621.14, -60.157),
+  cam_point: new mp.Vector3(-1000.192, 3620.654, -60.163),
+  dimension: -1
+}, {
+  name: "Russell King",
+  model: "s_m_m_doctor_01",
+  position: new mp.Vector3(350.03, -588.744, 28.847),
+  rotation: -108.907,
+  speech: "PHONE_CONV2_INTRO",
+  voice: "A_M_Y_VINEWOOD_01_BLACK_MINI_01",
+  conversation_id: 24,
+  cam_pos: new mp.Vector3(351.457, -589.186, 29.495),
+  cam_point: new mp.Vector3(350.269, -588.815, 29.441)
+}, {
+  name: "Brandon Nelson",
+  model: "s_m_m_doctor_01",
+  position: new mp.Vector3(310.535, -585.871, 43.268),
+  rotation: 83.87,
+  speech: "PHONE_CONV2_INTRO",
+  voice: "A_M_Y_VINEWOOD_01_BLACK_MINI_01",
+  conversation_id: 24,
+  cam_pos: new mp.Vector3(309.092, -585.923, 43.914),
+  cam_point: new mp.Vector3(310.286, -585.891, 43.845)
+}, {
+  name: "Willis Reed",
+  model: "s_m_m_doctor_01",
+  position: new mp.Vector3(-981.249, 3620.614, -54.241),
+  rotation: 354.547,
+  speech: "PHONE_CONV2_INTRO",
+  voice: "A_M_Y_VINEWOOD_01_BLACK_MINI_01",
+  conversation_id: 24,
+  cam_pos: new mp.Vector3(-981.17, 3621.242, -53.595),
+  cam_point: new mp.Vector3(-981.207, 3620.851, -53.604),
+  dimension: -1
+}, {
+  name: "Edward Banks",
+  model: "s_m_m_doctor_01",
+  position: new mp.Vector3(-1020.517, 3625.692, -54.241),
+  rotation: 347.942,
+  speech: "PHONE_CONV2_INTRO",
+  voice: "A_M_Y_VINEWOOD_01_BLACK_MINI_01",
+  conversation_id: 24,
+  cam_pos: new mp.Vector3(-1020.382, 3626.351, -53.594),
+  cam_point: new mp.Vector3(-1020.45, 3625.92, -53.594),
+  dimension: -1
+}, {
+  name: "Will Rider",
+  model: "ig_andreas",
+  position: new mp.Vector3(-700.215087890625, -1401.41015625, 5.495285987854004),
+  rotation: 142.1859893798828,
+  speech: "PHONE_CONV3_INTRO",
+  voice: "A_M_Y_BUSINESS_02_WHITE_FULL_01",
+  conversation_id: 33,
+  cam_pos: new mp.Vector3(-700.9990234375, -1402.4017333984375, 6.144380569458008),
+  cam_point: new mp.Vector3(-700.0304565429688, -1400.950927734375, 6.1117353439331055),
+  questionMarker: true
+}, {
+  name: "Philip Grocer",
+  model: "ig_bestmen",
+  position: new mp.Vector3(-1343.697, -1444.671, 4.332),
+  rotation: -92.767,
+  speech: "PHONE_CONV3_INTRO",
+  voice: "A_M_Y_VINEWOOD_01_BLACK_FULL_01",
+  conversation_id: 34,
+  cam_pos: new mp.Vector3(-1342.057, -1444.704, 4.827),
+  cam_point: new mp.Vector3(-1343.697, -1444.671, 4.827)
+}, {
+  name: "Richard Rich",
+  model: "u_m_y_antonb",
+  position: new mp.Vector3(-54.087, -1219.718, 28.702),
+  rotation: 89.097,
+  speech: "PHONE_CONV3_INTRO",
+  voice: "A_M_Y_VINEWOOD_01_BLACK_FULL_01",
+  conversation_id: 113,
+  cam_pos: new mp.Vector3(-54.82, -1219.798, 29.35),
+  cam_point: new mp.Vector3(-54.332, -1219.714, 29.32)
+}, {
+  name: "Robert Arms",
+  model: "g_m_y_strpunk_01",
+  position: new mp.Vector3(1077.463, -1980.421, 31.471),
+  rotation: 341.177,
+  speech: "GENERIC_HI",
+  voice: "A_M_Y_SUNBATHE_01_BLACK_FULL_01",
+  conversation_id: 39,
+  cam_pos: new mp.Vector3(1077.738, -1979.689, 32.119),
+  cam_point: new mp.Vector3(1077.523, -1980.201, 32.144)
+}, {
+  name: "Abigail Realtor",
+  model: "ig_abigail",
+  position: new mp.Vector3(-1906.769, -574.849, 19.097),
+  rotation: 309.401,
+  speech: "RAMPAGEHIPSTER",
+  voice: "A_F_Y_VINEWOOD_01_WHITE_MINI_01",
+  conversation_id: 40,
+  cam_pos: new mp.Vector3(-1906.113, -574.396, 19.747),
+  cam_point: new mp.Vector3(-1906.554, -574.721, 19.668)
+}, {
+  name: "Roger Crimson",
+  model: "u_m_m_bankman",
+  position: new mp.Vector3(-583.532, -209.86, 38.169),
+  rotation: 26.546,
+  speech: "BUMP",
+  voice: "A_M_Y_STWHI_02_WHITE_FULL_01",
+  conversation_id: 41,
+  cam_pos: new mp.Vector3(-584.083, -208.843, 38.796),
+  cam_point: new mp.Vector3(-583.641, -209.636, 38.762)
+}, {
+  name: "Bruce Robertson",
+  model: "u_m_y_tattoo_01",
+  position: new mp.Vector3(-292.043, 6199.771, 31.487),
+  rotation: 221.425,
+  speech: "SHOP_BANTER",
+  voice: "U_M_Y_TATTOO_01_WHITE_MINI_01",
+  conversation_id: 42,
+  cam_pos: new mp.Vector3(-291.4229431152344, 6199.06982421875, 32.13512420654297),
+  cam_point: new mp.Vector3(-291.88525390625, 6199.5869140625, 32.11873245239258)
+}, {
+  name: "Terry Butler",
+  model: "u_m_y_tattoo_01",
+  position: new mp.Vector3(-3170.51, 1073.091, 20.829),
+  rotation: 332.45,
+  speech: "SHOP_BANTER",
+  voice: "U_M_Y_TATTOO_01_WHITE_MINI_01",
+  conversation_id: 43,
+  cam_pos: new mp.Vector3(-3170.1474609375, 1073.79296875, 21.476131439208984),
+  cam_point: new mp.Vector3(-3170.39892578125, 1073.302734375, 21.47116470336914)
+}, {
+  name: "Claudia Sinclair",
+  model: "a_f_m_bevhills_02",
+  position: new mp.Vector3(-623.293, -230.413, 38.057),
+  rotation: 128.125,
+  speech: "WON_DISPUTE",
+  voice: "A_F_Y_TOURIST_01_WHITE_MINI_01",
+  conversation_id: 44,
+  cam_pos: new mp.Vector3(-623.839111328125, -230.7606201171875, 38.70592498779297),
+  cam_point: new mp.Vector3(-623.4913330078125, -230.52554321289062, 38.72953796386719)
+}, {
+  name: "Ethan Butler",
+  model: "s_m_y_barman_01",
+  position: new mp.Vector3(129.137, -1283.2, 29.272),
+  rotation: 95.189,
+  speech: "GENERIC_HI",
+  voice: "A_M_M_POLYNESIAN_01_POLYNESIAN_MINI_01",
+  conversation_id: 56,
+  cam_pos: new mp.Vector3(128.156, -1283.506, 29.937),
+  cam_point: new mp.Vector3(128.896, -1283.236, 29.9)
+}, {
+  name: "Archie Murphy",
+  model: "s_m_y_barman_01",
+  position: new mp.Vector3(-561.781, 286.681, 82.176),
+  rotation: 265.399,
+  speech: "GENERIC_HOWS_IT_GOING",
+  voice: "A_M_M_POLYNESIAN_01_POLYNESIAN_MINI_01",
+  conversation_id: 57,
+  cam_pos: new mp.Vector3(-560.919, 286.57, 82.821),
+  cam_point: new mp.Vector3(-561.55, 286.629, 82.825)
+}, {
+  name: "Steve Postal",
+  model: "s_m_m_postal_02",
+  position: new mp.Vector3(140.01, 102.417, 83.666),
+  rotation: 73.093,
+  speech: "PHONE_CONV3_INTRO",
+  voice: "A_M_M_MALIBU_01_WHITE_FULL_01",
+  conversation_id: 50,
+  cam_pos: new mp.Vector3(137.306, 103.208, 84.275),
+  cam_point: new mp.Vector3(139.786, 102.305, 84.24),
+  questionMarker: true
+}, {
+  name: "Mike Postal",
+  model: "a_m_o_soucent_02",
+  position: new mp.Vector3(1103.828, -3101.24, -39),
+  rotation: 57.855,
+  speech: "PHONE_CONV2_INTRO",
+  voice: "A_M_M_INDIAN_01_INDIAN_MINI_01",
+  conversation_id: 50,
+  cam_pos: new mp.Vector3(1102.264, -3100.748, -38.316),
+  cam_point: new mp.Vector3(1105.497, -3102.52, -38.308)
+}, {
+  name: "Agatha Gumble",
+  model: "IG_Agatha",
+  position: new mp.Vector3(930.966, 35.908, 81.096),
+  rotation: 3.428,
+  speech: "PHONE_CONV3_INTRO",
+  voice: "A_F_M_BEVHILLS_02_WHITE_FULL_01",
+  conversation_id: 52,
+  cam_pos: new mp.Vector3(930.9327392578125, 36.72564697265625, 81.74324035644531),
+  cam_point: new mp.Vector3(930.9630737304688, 36.15220260620117, 81.7194595336914)
+}, {
+  name: "Akeno Hattori",
+  model: "IG_TaosTranslator2",
+  position: new mp.Vector3(950.04, 19.081, 116.164),
+  rotation: 6.541,
+  speech: "GENERIC_HOWS_IT_GOING",
+  voice: "A_M_Y_BEACH_01_CHINESE_FULL_01",
+  conversation_id: 53,
+  cam_pos: new mp.Vector3(949.9564819335938, 19.761140823364258, 116.8121337890625),
+  cam_point: new mp.Vector3(950.0177001953125, 19.321123123168945, 116.79991149902344)
+}, {
+  name: "Ben Tiger",
+  model: "g_m_y_ballaorig_01",
+  position: new mp.Vector3(90.431, -1985.338, 20.437),
+  rotation: -44.123,
+  speech: "PHONE_CONV3_INTRO",
+  voice: "G_M_Y_BALLAORIG_01_BLACK_FULL_01",
+  conversation_id: 15,
+  cam_pos: new mp.Vector3(91.401, -1983.625, 21.279),
+  cam_point: new mp.Vector3(90.599, -1985.153, 20.929)
+}, {
+  name: "Quentin Stage",
+  model: "mp_m_famdd_01",
+  position: new mp.Vector3(-171.95, -1659.348, 33.455),
+  rotation: 84.846,
+  speech: "PHONE_CONV4_INTRO",
+  voice: "G_M_Y_FAMCA_01_BLACK_FULL_01",
+  conversation_id: 16,
+  cam_pos: new mp.Vector3(-173.03, -1659.257, 34.075),
+  cam_point: new mp.Vector3(-172.199, -1659.325, 34.024)
+}, {
+  name: "Maximiliano Loco",
+  model: "g_m_y_mexgoon_03",
+  position: new mp.Vector3(-1082.782, -1647.696, 4.435),
+  rotation: 121.255,
+  speech: "GENERIC_HI",
+  voice: "G_M_Y_LOST_02_LATINO_MINI_01",
+  conversation_id: 172,
+  cam_pos: new mp.Vector3(-1083.52, -1648.105, 5.069),
+  cam_point: new mp.Vector3(-1083.001, -1647.808, 5.048),
+  eng_only: true
+}, {
+  name: "Clement Espado",
+  model: "g_m_y_strpunk_02",
+  position: new mp.Vector3(-1072.069580078125, -1661.8663330078125, 4.43),
+  rotation: 86.22147369384766,
+  speech: "GENERIC_HI",
+  voice: "G_M_Y_LOST_02_LATINO_MINI_01",
+  conversation_id: 17,
+  cam_pos: new mp.Vector3(-1072.72216796875, -1661.860595703125, 5.05925989151001),
+  cam_point: new mp.Vector3(-1072.308837890625, -1661.856689453125, 5.0716166496276855),
+  eng_only: true
+}, {
+  name: "Clement Espado",
+  model: "g_m_y_strpunk_02",
+  position: new mp.Vector3(1343.285, -1529.908, 54.187),
+  rotation: 70.211,
+  speech: "GENERIC_HI",
+  voice: "G_M_Y_LOST_02_LATINO_MINI_01",
+  conversation_id: 17,
+  cam_pos: new mp.Vector3(1342.837, -1529.85, 54.959),
+  cam_point: new mp.Vector3(1342.929, -1529.87, 54.948),
+  eng_only: false
+}, {
+  name: "Maximiliano Loco",
+  model: "g_m_y_mexgoon_03",
+  position: new mp.Vector3(1442.635, -1491.972, 60.163),
+  rotation: 72.05,
+  speech: "GENERIC_HI",
+  voice: "G_M_Y_LOST_02_LATINO_MINI_01",
+  conversation_id: 172,
+  cam_pos: new mp.Vector3(1441.14, -1491.636, 60.7),
+  cam_point: new mp.Vector3(1444.162, -1492.508, 61.039),
+  eng_only: false
+}, {
+  name: "Bob Smith",
+  model: "ig_claypain",
+  position: new mp.Vector3(429.7893371582031, -1557.313720703125, 32.79),
+  rotation: 228.23782348632812,
+  speech: "PHONE_CONV4_INTRO",
+  voice: "A_M_M_SOUCENT_04_BLACK_FULL_01",
+  conversation_id: 18,
+  cam_pos: new mp.Vector3(430.3969421386719, -1557.7857666015625, 33.438751220703125),
+  cam_point: new mp.Vector3(429.96978759765625, -1557.4599609375, 33.45243453979492)
+}, {
+  name: "Julian Despacido",
+  model: "g_m_y_strpunk_01",
+  position: new mp.Vector3(843.806, -2118.413, 30.521),
+  rotation: 169.837,
+  speech: "GENERIC_HI",
+  voice: "A_M_M_TRANVEST_02_LATINO_MINI_01",
+  conversation_id: 19,
+  cam_pos: new mp.Vector3(843.775, -2119.285, 31.175),
+  cam_point: new mp.Vector3(843.834, -2118.656, 31.144)
+}, {
+  name: "Josh Benny",
+  model: "g_m_y_ballasout_01",
+  position: new mp.Vector3(104.515, -1961.599, 20.858),
+  rotation: 25.915,
+  speech: "PHONE_CONV3_INTRO",
+  voice: "G_M_Y_BALLAORIG_01_BLACK_FULL_01",
+  conversation_id: 152,
+  cam_pos: new mp.Vector3(103.804, -1960.406, 21.508),
+  cam_point: new mp.Vector3(104.387, -1961.384, 21.406)
+}, {
+  name: "Jeffrey Smoke",
+  model: "g_m_y_famdnf_01",
+  position: new mp.Vector3(-152.21, -1659.414, 32.856),
+  rotation: 46.004,
+  speech: "PHONE_CONV4_INTRO",
+  voice: "G_M_Y_FAMCA_01_BLACK_FULL_01",
+  conversation_id: 169,
+  cam_pos: new mp.Vector3(-152.775, -1658.892, 33.493),
+  cam_point: new mp.Vector3(-152.367, -1659.232, 33.494)
+}, {
+  name: "David McLaren",
+  model: "a_m_y_stbla_01",
+  position: new mp.Vector3(416.859, -1547.565, 29.242),
+  rotation: 287.003,
+  speech: "PHONE_CONV4_INTRO",
+  voice: "A_M_M_SOUCENT_04_BLACK_FULL_01",
+  conversation_id: 182,
+  cam_pos: new mp.Vector3(417.506, -1547.36, 29.89),
+  cam_point: new mp.Vector3(417.096, -1547.512, 29.871)
+}, {
+  name: "Emiliano Garcia",
+  model: "a_m_m_soucent_03",
+  position: new mp.Vector3(798.272, -2135.576, 29.519),
+  rotation: 354.574,
+  speech: "GENERIC_HI",
+  voice: "A_M_M_TRANVEST_02_LATINO_MINI_01",
+  conversation_id: 192,
+  cam_pos: new mp.Vector3(798.289, -2134.634, 30.158),
+  cam_point: new mp.Vector3(798.271, -2135.334, 30.153)
+}, {
+  name: "Brian Shipper",
+  model: "mp_m_boatstaff_01",
+  position: new mp.Vector3(-846.4028930664062, -1316.76708984375, 5.000180721282959),
+  rotation: 288.1474609375,
+  speech: "BUMP",
+  voice: "A_M_M_POLYNESIAN_01_POLYNESIAN_MINI_01",
+  conversation_id: 2,
+  cam_pos: new mp.Vector3(-844.3689575195312, -1315.95849609375, 5.817755699157715),
+  cam_point: new mp.Vector3(-846.1693115234375, -1316.7086181640625, 5.6375226974487305)
+}, {
+  name: "Mike Winder",
+  model: "s_m_y_airworker",
+  position: new mp.Vector3(-1032.149, -3013.898, 13.947),
+  rotation: 51.166,
+  speech: "PHONE_CONV1_INTRO",
+  voice: "S_M_Y_AIRWORKER_LATINO_FULL_02",
+  conversation_id: 110,
+  cam_pos: new mp.Vector3(-1032.954, -3013.326, 14.593),
+  cam_point: new mp.Vector3(-1032.349, -3013.753, 14.554)
+}, {
+  name: "Mitchell Watts",
+  model: "mp_m_shopkeep_01",
+  position: new mp.Vector3(-2966.462, 390.608, 15.043),
+  rotation: 82.123,
+  speech: "SHOP_GREET",
+  voice: "MP_M_SHOPKEEP_01_PAKISTANI_MINI_01",
+  conversation_id: 66,
+  cam_pos: new mp.Vector3(-2967.184, 390.686, 15.776),
+  cam_point: new mp.Vector3(-2966.677, 390.636, 15.737)
+}, {
+  name: "Donald Stafford",
+  model: "mp_m_shopkeep_01",
+  position: new mp.Vector3(-47.333, -1758.576, 29.421),
+  rotation: 50.216,
+  speech: "SHOP_GREET",
+  voice: "MP_M_SHOPKEEP_01_PAKISTANI_MINI_01",
+  conversation_id: 67,
+  cam_pos: new mp.Vector3(-48.073, -1757.939, 30.22),
+  cam_point: new mp.Vector3(-47.507, -1758.439, 30.107)
+}, {
+  name: "David Carr",
+  model: "mp_m_shopkeep_01",
+  position: new mp.Vector3(-706.139, -914.512, 19.216),
+  rotation: 84.129,
+  speech: "SHOP_GREET",
+  voice: "MP_M_SHOPKEEP_01_PAKISTANI_MINI_01",
+  conversation_id: 68,
+  cam_pos: new mp.Vector3(-706.981, -914.502, 19.862),
+  cam_point: new mp.Vector3(-706.374, -914.501, 19.87)
+}, {
+  name: "Jeremy Williamson",
+  model: "mp_m_shopkeep_01",
+  position: new mp.Vector3(1164.904, -323.667, 69.205),
+  rotation: 94.461,
+  speech: "SHOP_GREET",
+  voice: "MP_M_SHOPKEEP_01_PAKISTANI_MINI_01",
+  conversation_id: 69,
+  cam_pos: new mp.Vector3(1164.139, -323.785, 69.851),
+  cam_point: new mp.Vector3(1164.671, -323.681, 69.863)
+}, {
+  name: "James Murphy",
+  model: "mp_m_shopkeep_01",
+  position: new mp.Vector3(2555.464, 380.861, 108.623),
+  rotation: 348.45,
+  speech: "SHOP_GREET",
+  voice: "MP_M_SHOPKEEP_01_PAKISTANI_MINI_01",
+  conversation_id: 70,
+  cam_pos: new mp.Vector3(2555.563, 381.729, 109.268),
+  cam_point: new mp.Vector3(2555.513, 381.091, 109.279)
+}, {
+  name: "John Porter",
+  model: "mp_m_shopkeep_01",
+  position: new mp.Vector3(-1819.566, 793.535, 138.087),
+  rotation: 134.071,
+  speech: "SHOP_GREET",
+  voice: "MP_M_SHOPKEEP_01_PAKISTANI_MINI_01",
+  conversation_id: 71,
+  cam_pos: new mp.Vector3(-1820.32, 792.832, 138.756),
+  cam_point: new mp.Vector3(-1819.741, 793.39, 138.761)
+}, {
+  name: "Thomas Gardner",
+  model: "mp_m_shopkeep_01",
+  position: new mp.Vector3(1165.186, 2710.816, 38.158),
+  rotation: 183.601,
+  speech: "SHOP_GREET",
+  voice: "MP_M_SHOPKEEP_01_PAKISTANI_MINI_01",
+  conversation_id: 72,
+  cam_pos: new mp.Vector3(1165.244, 2709.925, 38.9),
+  cam_point: new mp.Vector3(1165.189, 2710.599, 38.852)
+}, {
+  name: "Christopher Miller",
+  model: "mp_m_shopkeep_01",
+  position: new mp.Vector3(2676.558, 3280.268, 55.241),
+  rotation: 320.006,
+  speech: "SHOP_GREET",
+  voice: "MP_M_SHOPKEEP_01_PAKISTANI_MINI_01",
+  conversation_id: 73,
+  cam_pos: new mp.Vector3(2677.095, 3281.015, 55.888),
+  cam_point: new mp.Vector3(2676.702, 3280.452, 55.901)
+}, {
+  name: "Nigel Powers",
+  model: "mp_m_shopkeep_01",
+  position: new mp.Vector3(1959.247, 3741.452, 32.344),
+  rotation: 296.315,
+  speech: "SHOP_GREET",
+  voice: "MP_M_SHOPKEEP_01_PAKISTANI_MINI_01",
+  conversation_id: 93,
+  cam_pos: new mp.Vector3(1959.867, 3741.81, 32.99),
+  cam_point: new mp.Vector3(1959.455, 3741.563, 32.997)
+}, {
+  name: "Steve Jackson",
+  model: "u_m_y_gunvend_01",
+  position: new mp.Vector3(-67.288, 74.555, 71.9),
+  rotation: 160.36,
+  speech: "PHONE_CONV2_INTRO",
+  voice: "A_M_Y_BUSINESS_02_WHITE_FULL_01",
+  conversation_id: 59,
+  cam_pos: new mp.Vector3(-67.751, 73.434, 72.546),
+  cam_point: new mp.Vector3(-67.402, 74.336, 72.511)
+}, {
+  name: "Jeremy Clark",
+  model: "s_m_o_busker_01",
+  position: new mp.Vector3(3819.298, 4455.246, 3.514),
+  rotation: 40.947,
+  speech: "PHONE_CONV4_INTRO",
+  voice: "G_M_M_MEXBOSS_02_LATINO_MINI_02",
+  conversation_id: 61,
+  cam_pos: new mp.Vector3(3818.61, 4455.946, 4.227),
+  cam_point: new mp.Vector3(3819.165, 4455.43, 4.19)
+}, {
+  name: "Mark Corporal",
+  model: "s_m_y_airworker",
+  position: new mp.Vector3(1758.252, 3297.072, 41.146),
+  rotation: 143.704,
+  speech: "PHONE_CONV1_INTRO",
+  voice: "S_M_Y_AIRWORKER_LATINO_FULL_02",
+  conversation_id: 65,
+  cam_pos: new mp.Vector3(1757.789, 3296.282, 41.812),
+  cam_point: new mp.Vector3(1758.13, 3296.884, 41.827)
+}, {
+  name: "Mike Changer",
+  model: "s_m_y_prismuscl_01",
+  position: new mp.Vector3(1763.315, 2597.438, 45.798),
+  rotation: 233.379,
+  speech: "PHONE_CONV1_INTRO",
+  voice: "S_M_Y_AIRWORKER_LATINO_FULL_02",
+  conversation_id: 74,
+  cam_pos: new mp.Vector3(1763.827, 2597.003, 46.446),
+  cam_point: new mp.Vector3(1763.498, 2597.274, 46.413),
+  dimension: -1
+}, {
+  name: "John Changer",
+  model: "cs_drfriedlander",
+  position: new mp.Vector3(-555.915, -185.843, 38.221),
+  rotation: -155.179,
+  speech: "BUMP",
+  voice: "A_M_M_POLYNESIAN_01_POLYNESIAN_MINI_01",
+  conversation_id: 97,
+  cam_pos: new mp.Vector3(-555.403, -186.775, 38.909),
+  cam_point: new mp.Vector3(-555.824, -186.069, 38.846)
+}, {
+  name: "Steve Money",
+  model: "ig_paper",
+  position: new mp.Vector3(-139.152, -633.854, 168.82),
+  rotation: -1.197,
+  speech: "BUMP",
+  voice: "A_M_M_POLYNESIAN_01_POLYNESIAN_MINI_01",
+  conversation_id: 75,
+  cam_pos: new mp.Vector3(-139.176, -633.021, 169.596),
+  cam_point: new mp.Vector3(-139.132, -633.622, 169.481)
+}, {
+  name: "Landon Roberts",
+  model: "csb_cop",
+  position: new mp.Vector3(-445.218, 6024.293, 31.49),
+  rotation: 304.599,
+  speech: "BUMP",
+  voice: "A_M_M_POLYNESIAN_01_POLYNESIAN_MINI_01",
+  conversation_id: 76,
+  cam_pos: new mp.Vector3(-444.576, 6024.803, 32.137),
+  cam_point: new mp.Vector3(-445.014, 6024.424, 32.12)
+}, {
+  name: "Luke Walton",
+  model: "a_m_m_socenlat_01",
+  position: new mp.Vector3(286.969, 2843.46, 44.704),
+  rotation: 29.234,
+  speech: "BUMP",
+  voice: "A_M_M_POLYNESIAN_01_POLYNESIAN_MINI_01",
+  conversation_id: 78,
+  cam_pos: new mp.Vector3(286.668, 2843.905, 45.356),
+  cam_point: new mp.Vector3(286.842, 2843.662, 45.35)
+}, {
+  name: "Samuel Shepherd",
+  model: "a_m_m_socenlat_01",
+  position: new mp.Vector3(1093.252, -2251.934, 31.234),
+  rotation: 173.792,
+  speech: "BUMP",
+  voice: "A_M_M_POLYNESIAN_01_POLYNESIAN_MINI_01",
+  conversation_id: 79,
+  cam_pos: new mp.Vector3(1093.187, -2252.624, 31.884),
+  cam_point: new mp.Vector3(1093.222, -2252.169, 31.884),
+  questionMarker: true
+}, {
+  name: "Luke Walton",
+  model: "a_m_m_socenlat_01",
+  position: new mp.Vector3(-272.121, -2496.399, 7.296),
+  rotation: 141.946,
+  speech: "BUMP",
+  voice: "A_M_M_POLYNESIAN_01_POLYNESIAN_MINI_01",
+  conversation_id: 80,
+  cam_pos: new mp.Vector3(-272.503, -2496.968, 7.948),
+  cam_point: new mp.Vector3(-272.25, -2496.595, 7.951)
+}, {
+  name: "Mark Townsend",
+  model: "ig_casey",
+  position: new mp.Vector3(2491.156, -404.381, 100.1),
+  rotation: 133.981,
+  speech: "GUNSH_GREET0",
+  voice: "S_M_M_AMMUCOUNTRY_01_WHITE_01",
+  conversation_id: 9006,
+  cam_pos: new mp.Vector3(2490.447, -405.323, 100.747),
+  cam_point: new mp.Vector3(2491.057, -404.598, 100.744)
+}, {
+  name: "Anthony Tyler",
+  model: "a_m_m_farmer_01",
+  position: new mp.Vector3(2527.306, 4357.743, 40.13),
+  rotation: 61.193,
+  speech: "PHONE_CONV1_INTRO",
+  voice: "S_M_Y_AIRWORKER_LATINO_FULL_02",
+  conversation_id: 1501,
+  cam_pos: new mp.Vector3(2526.582, 4358.277, 40.685),
+  cam_point: new mp.Vector3(2527.102, 4357.887, 40.696)
+}, {
+  name: "Shannon Rogers",
+  model: "a_m_m_mexcntry_01",
+  position: new mp.Vector3(2591.899, 4418.257, 40.588),
+  rotation: 40.619,
+  speech: "PHONE_CONV1_INTRO",
+  voice: "S_M_Y_AIRWORKER_LATINO_FULL_02",
+  conversation_id: 1502,
+  cam_pos: new mp.Vector3(2591.538, 4418.771, 41.212),
+  cam_point: new mp.Vector3(2591.775, 4418.464, 41.223)
+}, {
+  name: "Roger Strickland",
+  model: "a_m_y_vinewood_03",
+  position: new mp.Vector3(2644.772, 4442.331, 40.631),
+  rotation: 311.979,
+  speech: "PHONE_CONV1_INTRO",
+  voice: "S_M_Y_AIRWORKER_LATINO_FULL_02",
+  conversation_id: 1503,
+  cam_pos: new mp.Vector3(2645.337, 4442.975, 41.264),
+  cam_point: new mp.Vector3(2644.941, 4442.509, 41.251)
+}, {
+  name: "Emery Cannon",
+  model: "a_m_m_farmer_01",
+  position: new mp.Vector3(2613.338, 4480.031, 37.556),
+  rotation: 45.315,
+  speech: "PHONE_CONV1_INTRO",
+  voice: "S_M_Y_AIRWORKER_LATINO_FULL_02",
+  conversation_id: 1504,
+  cam_pos: new mp.Vector3(2612.913, 4480.605, 38.159),
+  cam_point: new mp.Vector3(2613.186, 4480.228, 38.151)
+}, {
+  name: "Herbert Preston",
+  model: "a_m_y_vinewood_03",
+  position: new mp.Vector3(2551.128, 4537.528, 35.677),
+  rotation: 213.215,
+  speech: "PHONE_CONV1_INTRO",
+  voice: "S_M_Y_AIRWORKER_LATINO_FULL_02",
+  conversation_id: 1505,
+  cam_pos: new mp.Vector3(2551.474, 4536.836, 36.469),
+  cam_point: new mp.Vector3(2551.204, 4537.323, 36.368)
+}, {
+  name: "Joshua McGee",
+  model: "a_m_m_mexcntry_01",
+  position: new mp.Vector3(2636.986, 4581.696, 36.779),
+  rotation: 317.831,
+  speech: "PHONE_CONV1_INTRO",
+  voice: "S_M_Y_AIRWORKER_LATINO_FULL_02",
+  conversation_id: 1506,
+  cam_pos: new mp.Vector3(2637.645, 4582.233, 37.445),
+  cam_point: new mp.Vector3(2637.19, 4581.818, 37.425)
+}, {
+  name: "Michael Shepherd",
+  model: "a_m_m_farmer_01",
+  position: new mp.Vector3(2640.428, 4708.851, 35.337),
+  rotation: 317.832,
+  speech: "PHONE_CONV1_INTRO",
+  voice: "S_M_Y_AIRWORKER_LATINO_FULL_02",
+  conversation_id: 1507,
+  cam_pos: new mp.Vector3(2641.107, 4709.498, 35.987),
+  cam_point: new mp.Vector3(2640.612, 4709.011, 35.963)
+}, {
+  name: "Daniel Short",
+  model: "a_m_y_vinewood_03",
+  position: new mp.Vector3(2545.019, 4807.945, 33.532),
+  rotation: 129.899,
+  speech: "PHONE_CONV1_INTRO",
+  voice: "S_M_Y_AIRWORKER_LATINO_FULL_02",
+  conversation_id: 1508,
+  cam_pos: new mp.Vector3(2544.59, 4807.511, 34.178),
+  cam_point: new mp.Vector3(2544.848, 4807.774, 34.166)
+}, {
+  name: "Blaze Newton",
+  model: "a_m_m_mexcntry_01",
+  position: new mp.Vector3(2491.265, 4851.136, 36.22),
+  rotation: 93.744,
+  speech: "PHONE_CONV1_INTRO",
+  voice: "S_M_Y_AIRWORKER_LATINO_FULL_02",
+  conversation_id: 1509,
+  cam_pos: new mp.Vector3(2490.628, 4851.073, 36.868),
+  cam_point: new mp.Vector3(2491.026, 4851.121, 36.863)
+}, {
+  name: "Garry Wilkinson",
+  model: "a_m_m_farmer_01",
+  position: new mp.Vector3(2308.368, 5124.455, 49.725),
+  rotation: 43.029,
+  speech: "PHONE_CONV1_INTRO",
+  voice: "S_M_Y_AIRWORKER_LATINO_FULL_02",
+  conversation_id: 1510,
+  cam_pos: new mp.Vector3(2307.82, 5125.194, 50.465),
+  cam_point: new mp.Vector3(2308.225, 5124.659, 50.319)
+}, {
+  name: "Edward Griffin",
+  model: "a_m_y_vinewood_03",
+  position: new mp.Vector3(2234.698, 5067.105, 46.859),
+  rotation: 42.062,
+  speech: "PHONE_CONV1_INTRO",
+  voice: "S_M_Y_AIRWORKER_LATINO_FULL_02",
+  conversation_id: 1511,
+  cam_pos: new mp.Vector3(2234.19, 5067.708, 47.72),
+  cam_point: new mp.Vector3(2234.582, 5067.287, 47.555)
+}, {
+  name: "Jeremy Conley",
+  model: "a_m_m_mexcntry_01",
+  position: new mp.Vector3(2143.298, 5160.792, 53.017),
+  rotation: 46.236,
+  speech: "PHONE_CONV1_INTRO",
+  voice: "S_M_Y_AIRWORKER_LATINO_FULL_02",
+  conversation_id: 1512,
+  cam_pos: new mp.Vector3(2142.649, 5161.553, 53.771),
+  cam_point: new mp.Vector3(2143.165, 5160.989, 53.662)
+}, {
+  name: "Richard Page",
+  model: "a_m_m_farmer_01",
+  position: new mp.Vector3(1955.675, 4797.982, 43.577),
+  rotation: 223.987,
+  speech: "PHONE_CONV1_INTRO",
+  voice: "S_M_Y_AIRWORKER_LATINO_FULL_02",
+  conversation_id: 1513,
+  cam_pos: new mp.Vector3(1956.22, 4797.245, 44.189),
+  cam_point: new mp.Vector3(1955.818, 4797.779, 44.177)
+}, {
+  name: "Ronald McCarthy",
+  model: "a_m_y_vinewood_03",
+  position: new mp.Vector3(1915.717, 4760.938, 42.757),
+  rotation: 43.827,
+  speech: "PHONE_CONV1_INTRO",
+  voice: "S_M_Y_AIRWORKER_LATINO_FULL_02",
+  conversation_id: 1514,
+  cam_pos: new mp.Vector3(1915.051, 4761.501, 43.397),
+  cam_point: new mp.Vector3(1915.529, 4761.098, 43.368)
+}, {
+  name: "Richard Sutton",
+  model: "a_m_y_vinewood_03",
+  position: new mp.Vector3(1874.775, 4805.188, 45.063),
+  rotation: 133.875,
+  speech: "PHONE_CONV1_INTRO",
+  voice: "S_M_Y_AIRWORKER_LATINO_FULL_02",
+  conversation_id: 1515,
+  cam_pos: new mp.Vector3(1874.244, 4804.661, 45.618),
+  cam_point: new mp.Vector3(1874.585, 4805.028, 45.661)
+}, {
+  name: "Michael Allen",
+  model: "s_m_y_airworker",
+  position: new mp.Vector3(1047.069, 3071.548, 41.753),
+  rotation: 288.536,
+  speech: "PHONE_CONV1_INTRO",
+  voice: "S_M_Y_AIRWORKER_LATINO_FULL_02",
+  conversation_id: 89,
+  cam_pos: new mp.Vector3(1047.663, 3071.701, 42.37),
+  cam_point: new mp.Vector3(1047.304, 3071.614, 42.378)
+}, {
+  name: "Charla Morgan",
+  model: "a_f_m_bevhills_01",
+  position: new mp.Vector3(5.975, 6511.497, 31.878),
+  rotation: 40.845,
+  speech: "PHONE_CONV3_INTRO",
+  voice: "A_F_M_BEVHILLS_01_WHITE_FULL_01",
+  conversation_id: 90,
+  cam_pos: new mp.Vector3(5.494, 6512.076, 32.524),
+  cam_point: new mp.Vector3(5.826, 6511.69, 32.502)
+}, {
+  name: "Emily Thomas",
+  model: "csb_anita",
+  position: new mp.Vector3(-3169.086, 1044.085, 20.863),
+  rotation: 64.467,
+  speech: "PHONE_CONV3_INTRO",
+  voice: "A_F_M_BEVHILLS_01_WHITE_FULL_01",
+  conversation_id: 91,
+  cam_pos: new mp.Vector3(-3169.681, 1044.453, 21.513),
+  cam_point: new mp.Vector3(-3169.291, 1044.219, 21.483)
+}, {
+  name: "Madeline Sullivan",
+  model: "a_f_y_bevhills_02",
+  position: new mp.Vector3(1695.271, 4823.132, 42.063),
+  rotation: 98.528,
+  speech: "PHONE_CONV3_INTRO",
+  voice: "A_F_M_BEVHILLS_01_WHITE_FULL_01",
+  conversation_id: 92,
+  cam_pos: new mp.Vector3(1694.72, 4823.08, 42.711),
+  cam_point: new mp.Vector3(1695.031, 4823.119, 42.702)
+}, {
+  name: "Justin Logan",
+  model: "ig_beverly",
+  position: new mp.Vector3(-1077.92, -260.64, 37.81),
+  rotation: -158.944,
+  speech: "PHONE_CONV2_INTRO",
+  voice: "A_M_Y_BUSINESS_02_WHITE_FULL_01",
+  conversation_id: 94,
+  cam_pos: new mp.Vector3(-1077.554, -261.437, 38.491),
+  cam_point: new mp.Vector3(-1077.829, -260.864, 38.443)
+}, {
+  name: "Kory Boone",
+  model: "ig_benny",
+  position: new mp.Vector3(540.627, -172.474, 54.481),
+  rotation: 92.737,
+  speech: "GENERIC_HI",
+  voice: "A_M_Y_SUNBATHE_01_BLACK_FULL_01",
+  conversation_id: 95,
+  cam_pos: new mp.Vector3(539.758, -172.574, 55.132),
+  cam_point: new mp.Vector3(540.392, -172.49, 55.134)
+}, {
+  name: "Easter Ross",
+  model: "s_f_y_casino_01",
+  position: new mp.Vector3(1117.276, 219.923, -49.435),
+  rotation: 81.495,
+  speech: "PHONE_CONV3_INTRO",
+  voice: "A_F_Y_BEVHILLS_01_WHITE_FULL_01",
+  conversation_id: 96,
+  cam_pos: new mp.Vector3(1115.617, 219.986, -48.785),
+  cam_point: new mp.Vector3(1116.492, 219.952, -48.877)
+}, {
+  name: "Alvin Sparks",
+  model: "a_m_m_mexcntry_01",
+  position: new mp.Vector3(2504.148, 4744.339, 34.304),
+  rotation: 132.136,
+  speech: "PHONE_CONV1_INTRO",
+  voice: "S_M_Y_AIRWORKER_LATINO_FULL_02",
+  conversation_id: 1516,
+  cam_pos: new mp.Vector3(2503.342, 4743.519, 34.951),
+  cam_point: new mp.Vector3(2503.989, 4744.151, 34.918)
+}, {
+  name: "Gerard Robbins",
+  model: "a_m_m_farmer_01",
+  position: new mp.Vector3(2456.81, 4769.172, 34.375),
+  rotation: 132.288,
+  speech: "PHONE_CONV1_INTRO",
+  voice: "S_M_Y_AIRWORKER_LATINO_FULL_02",
+  conversation_id: 1517,
+  cam_pos: new mp.Vector3(2456.003, 4768.352, 35.004),
+  cam_point: new mp.Vector3(2456.639, 4768.996, 34.995)
+}, {
+  name: "Samuel Hodges",
+  model: "a_m_y_vinewood_03",
+  position: new mp.Vector3(2425.555, 4761.442, 34.315),
+  rotation: 307.139,
+  speech: "PHONE_CONV1_INTRO",
+  voice: "S_M_Y_AIRWORKER_LATINO_FULL_02",
+  conversation_id: 1518,
+  cam_pos: new mp.Vector3(2426.345, 4762.092, 34.967),
+  cam_point: new mp.Vector3(2425.741, 4761.598, 34.944)
+}, {
+  name: "Randall Rogers",
+  model: "a_m_m_mexcntry_01",
+  position: new mp.Vector3(2256.428, 4842.934, 40.657),
+  rotation: 310.862,
+  speech: "PHONE_CONV1_INTRO",
+  voice: "S_M_Y_AIRWORKER_LATINO_FULL_02",
+  conversation_id: 1519,
+  cam_pos: new mp.Vector3(2257.157, 4843.539, 41.301),
+  cam_point: new mp.Vector3(2256.628, 4843.07, 41.288)
+}, {
+  name: "Erick Fields",
+  model: "a_m_m_farmer_01",
+  position: new mp.Vector3(2236.263, 4891.014, 40.695),
+  rotation: 312.897,
+  speech: "PHONE_CONV1_INTRO",
+  voice: "S_M_Y_AIRWORKER_LATINO_FULL_02",
+  conversation_id: 1520,
+  cam_pos: new mp.Vector3(2237.095, 4891.643, 41.365),
+  cam_point: new mp.Vector3(2236.466, 4891.152, 41.312)
+}, {
+  name: "John Hubbard",
+  model: "a_m_y_vinewood_03",
+  position: new mp.Vector3(2247.761, 4903.328, 40.71),
+  rotation: 135.066,
+  speech: "PHONE_CONV1_INTRO",
+  voice: "S_M_Y_AIRWORKER_LATINO_FULL_02",
+  conversation_id: 1521,
+  cam_pos: new mp.Vector3(2247.219, 4902.651, 41.357),
+  cam_point: new mp.Vector3(2247.607, 4903.137, 41.328)
+}, {
+  name: "George Garrett",
+  model: "a_m_m_mexcntry_01",
+  position: new mp.Vector3(2192.607, 4979.481, 41.533),
+  rotation: 316.392,
+  speech: "PHONE_CONV1_INTRO",
+  voice: "S_M_Y_AIRWORKER_LATINO_FULL_02",
+  conversation_id: 1522,
+  cam_pos: new mp.Vector3(2193.249, 4980.127, 42.204),
+  cam_point: new mp.Vector3(2192.781, 4979.648, 42.166)
+}, {
+  name: "Charles Hoover",
+  model: "a_m_m_farmer_01",
+  position: new mp.Vector3(2158.757, 5014.042, 41.473),
+  rotation: 304.753,
+  speech: "PHONE_CONV1_INTRO",
+  voice: "S_M_Y_AIRWORKER_LATINO_FULL_02",
+  conversation_id: 1523,
+  cam_pos: new mp.Vector3(2159.532, 5014.457, 42.137),
+  cam_point: new mp.Vector3(2158.975, 5014.159, 42.077)
+}, {
+  name: "Brian Hunter",
+  model: "s_m_m_mariachi_01",
+  position: new mp.Vector3(-265.099, -2017.407, 30.146),
+  rotation: 221.295,
+  speech: "",
+  voice: "",
+  conversation_id: 99,
+  cam_pos: new mp.Vector3(-264.626, -2017.861, 30.794),
+  cam_point: new mp.Vector3(-264.923, -2017.578, 30.763)
+}, {
+  name: "Preston Cunningham",
+  model: "s_m_y_blackops_01",
+  position: new mp.Vector3(-2461.885, 3268.464, 32.828),
+  rotation: 149.146,
+  speech: "",
+  voice: "",
+  conversation_id: 112,
+  cam_pos: new mp.Vector3(-2462.214, 3267.741, 33.476),
+  cam_point: new mp.Vector3(-2462.003, 3268.25, 33.449)
+}, {
+  name: "James Builder",
+  model: "ig_paper",
+  position: new mp.Vector3(-1008.249, -475.082, 50.027),
+  rotation: 218.235,
+  speech: "BUMP",
+  voice: "A_M_M_POLYNESIAN_01_POLYNESIAN_MINI_01",
+  conversation_id: 101,
+  cam_pos: new mp.Vector3(-1007.525, -475.922, 50.674),
+  cam_point: new mp.Vector3(-1008.073, -475.252, 50.65)
+}, {
+  name: "Joseph McDowell",
+  model: "g_m_m_armgoon_01",
+  position: new mp.Vector3(22.873, -1105.571, 29.797),
+  rotation: 160.253,
+  speech: "PHONE_CONV3_INTRO",
+  voice: "G_M_Y_ARMGOON_02_WHITE_ARMENIAN_MINI_01",
+  conversation_id: 102,
+  cam_pos: new mp.Vector3(22.515, -1106.703, 30.444),
+  cam_point: new mp.Vector3(22.85, -1105.814, 30.421)
+}, {
+  name: "Harry Douglas",
+  model: "s_m_y_busboy_01",
+  position: new mp.Vector3(956.62, 72.689, 112.553),
+  rotation: 153.291,
+  speech: "GENERIC_HOWS_IT_GOING",
+  voice: "A_M_M_POLYNESIAN_01_POLYNESIAN_MINI_01",
+  conversation_id: 103,
+  cam_pos: new mp.Vector3(956.313, 72.096, 113.199),
+  cam_point: new mp.Vector3(956.52, 72.47, 113.191)
+}, {
+  name: "Kenneth Goodwin",
+  model: "s_m_y_waiter_01",
+  position: new mp.Vector3(920.1, 43.471, 111.661),
+  rotation: 51.548,
+  speech: "GENERIC_HOWS_IT_GOING",
+  voice: "A_M_M_POLYNESIAN_01_POLYNESIAN_MINI_01",
+  conversation_id: 103,
+  cam_pos: new mp.Vector3(919.518, 43.87, 112.309),
+  cam_point: new mp.Vector3(919.892, 43.598, 112.288)
+}, {
+  name: "Elwin Skinner",
+  model: "u_m_m_spyactor",
+  position: new mp.Vector3(944.554, 38.515, 112.553),
+  rotation: 330.881,
+  speech: "GENERIC_HOWS_IT_GOING",
+  voice: "A_M_M_POLYNESIAN_01_POLYNESIAN_MINI_01",
+  conversation_id: 103,
+  cam_pos: new mp.Vector3(944.912, 39.195, 113.199),
+  cam_point: new mp.Vector3(944.657, 38.736, 113.178)
+}, {
+  name: "Mark Dean",
+  model: "s_m_y_armymech_01",
+  position: new mp.Vector3(1782.186, 2543.456, 45.798),
+  rotation: 270.183,
+  speech: "GUNSH_GREET0",
+  voice: "S_M_Y_AMMUCITY_01_WHITE_01",
+  conversation_id: 105,
+  cam_pos: new mp.Vector3(1783.72, 2543.396, 46.445),
+  cam_point: new mp.Vector3(1783.129, 2543.423, 46.412)
+}, {
+  name: "Juniper Todd",
+  model: "ig_priest",
+  position: new mp.Vector3(-784.166, 7.054, 41.681),
+  rotation: -156.875,
+  speech: "BUMP",
+  voice: "A_M_Y_STWHI_02_WHITE_FULL_01",
+  conversation_id: 111,
+  cam_pos: new mp.Vector3(-783.707, 6.272, 42.332),
+  cam_point: new mp.Vector3(-784.052, 6.839, 42.309)
+}, {
+  name: "Victor Lindsey",
+  model: "ig_gustavo",
+  position: new mp.Vector3(3900.17, -4692.846, 4.173),
+  rotation: 275.839,
+  speech: "BUMP",
+  voice: "A_M_Y_BUSINESS_01_CHINESE_FULL_01",
+  conversation_id: 115,
+  cam_pos: new mp.Vector3(3901, -4692.705, 4.816),
+  cam_point: new mp.Vector3(3900.41, -4692.809, 4.802)
+}, {
+  name: "John Goodman",
+  model: "ig_helmsmanpavel",
+  position: new mp.Vector3(4807.419, -4298.137, 5.242),
+  rotation: 201.844,
+  speech: "BUMP",
+  voice: "A_M_Y_BUSINESS_01_CHINESE_FULL_01",
+  conversation_id: 115,
+  cam_pos: new mp.Vector3(4807.633, -4298.686, 5.878),
+  cam_point: new mp.Vector3(4807.5, -4298.369, 5.857)
+}, {
+  name: "Harry Craig",
+  model: "ig_isldj_00",
+  position: new mp.Vector3(5481.471, -5870.355, 19.339),
+  rotation: 9.83,
+  speech: "BUMP",
+  voice: "A_M_Y_BUSINESS_01_CHINESE_FULL_01",
+  conversation_id: 115,
+  cam_pos: new mp.Vector3(5481.354, -5869.514, 19.935),
+  cam_point: new mp.Vector3(5481.469, -5870.109, 19.952)
+}, {
+  name: "Joshua Wilson",
+  model: "ig_isldj_01",
+  position: new mp.Vector3(5416.705, -5114.053, 13.211),
+  rotation: 170.29,
+  speech: "BUMP",
+  voice: "A_M_Y_BUSINESS_01_CHINESE_FULL_01",
+  conversation_id: 115,
+  cam_pos: new mp.Vector3(5416.578, -5114.689, 13.797),
+  cam_point: new mp.Vector3(5416.638, -5114.293, 13.803)
+}, {
+  name: "Jack Williams",
+  model: "s_m_y_barman_01",
+  position: new mp.Vector3(-1376.369, -628.516, 30.82),
+  rotation: 24.628,
+  speech: "GENERIC_HI",
+  voice: "A_M_M_POLYNESIAN_01_POLYNESIAN_MINI_01",
+  conversation_id: 116,
+  cam_pos: new mp.Vector3(-1376.741, -627.839, 31.466),
+  cam_point: new mp.Vector3(-1376.455, -628.285, 31.433)
+}, {
+  name: "Jacob Patterson",
+  model: "s_m_y_barman_01",
+  position: new mp.Vector3(-1392.142, -604.76, 30.319),
+  rotation: 97.664,
+  speech: "GENERIC_HI",
+  voice: "A_M_M_POLYNESIAN_01_POLYNESIAN_MINI_01",
+  conversation_id: 116,
+  cam_pos: new mp.Vector3(-1392.997, -605.027, 30.963),
+  cam_point: new mp.Vector3(-1392.377, -604.813, 30.954)
+}, {
+  name: "Olivia Johnson",
+  model: "a_f_y_business_04",
+  position: new mp.Vector3(-836.235, -880.989, -54.547),
+  rotation: 172.461,
+  speech: "PHONE_CONV3_INTRO",
+  voice: "A_F_M_BEVHILLS_01_WHITE_FULL_01",
+  conversation_id: 2000,
+  cam_pos: new mp.Vector3(-836.341, -881.867, -53.899),
+  cam_point: new mp.Vector3(-836.301, -881.216, -53.896),
+  dimension: 50
+}, {
+  name: "Winifred Anderson",
+  model: "s_f_y_airhostess_01",
+  position: new mp.Vector3(-832.392, -1215.294, 6.935),
+  rotation: -128.795,
+  speech: "PHONE_CONV3_INTRO",
+  voice: "A_F_M_BEVHILLS_01_WHITE_FULL_01",
+  conversation_id: 150,
+  cam_pos: new mp.Vector3(-831.849, -1215.72, 7.582),
+  cam_point: new mp.Vector3(-832.202, -1215.447, 7.559),
+  eng_only: false
+}, {
+  name: "Winifred Anderson",
+  model: "s_f_y_airhostess_01",
+  position: new mp.Vector3(-1294.494, 273.805, 64.391),
+  rotation: -27.868,
+  speech: "PHONE_CONV3_INTRO",
+  voice: "A_F_M_BEVHILLS_01_WHITE_FULL_01",
+  conversation_id: 150,
+  cam_pos: new mp.Vector3(-1293.865, 274.629, 65.083),
+  cam_point: new mp.Vector3(-1294.325, 273.989, 64.952),
+  eng_only: true,
+  questionMarker: true
+}, {
+  name: "Cornelius Blair",
+  model: "s_m_y_garbage",
+  position: new mp.Vector3(-893.654, -2262.138, 6.763),
+  rotation: 310.107,
+  speech: "GENERIC_HI",
+  voice: "A_M_M_POLYNESIAN_01_POLYNESIAN_MINI_01",
+  conversation_id: 117,
+  cam_pos: new mp.Vector3(-892.96, -2261.437, 7.354),
+  cam_point: new mp.Vector3(-893.469, -2261.97, 7.348)
+}, {
+  name: "Christopher Matthews",
+  model: "s_m_y_garbage",
+  position: new mp.Vector3(-3006.765, 100.157, 11.793),
+  rotation: 20.769,
+  speech: "GENERIC_HI",
+  voice: "A_M_M_POLYNESIAN_01_POLYNESIAN_MINI_01",
+  conversation_id: 118,
+  cam_pos: new mp.Vector3(-3007.021, 100.859, 12.522),
+  cam_point: new mp.Vector3(-3006.846, 100.375, 12.455),
+  questionMarker: true
+}, {
+  name: "Buck Griffith",
+  model: "s_m_y_garbage",
+  position: new mp.Vector3(-44.668, 6528.3, 31.491),
+  rotation: 214.925,
+  speech: "GENERIC_HI",
+  voice: "A_M_M_POLYNESIAN_01_POLYNESIAN_MINI_01",
+  conversation_id: 119,
+  cam_pos: new mp.Vector3(-44.232, 6527.846, 32.138),
+  cam_point: new mp.Vector3(-44.505, 6528.122, 32.126)
+}, {
+  name: "Andrew Jackson",
+  model: "s_m_y_garbage",
+  position: new mp.Vector3(1551.507, 3789.567, 34.241),
+  rotation: 203.345,
+  speech: "GENERIC_HI",
+  voice: "A_M_M_POLYNESIAN_01_POLYNESIAN_MINI_01",
+  conversation_id: 120,
+  cam_pos: new mp.Vector3(1551.844, 3788.863, 34.888),
+  cam_point: new mp.Vector3(1551.597, 3789.341, 34.869)
+}, {
+  name: "Esmond Barber",
+  model: "s_m_y_garbage",
+  position: new mp.Vector3(379.201, 276.44, 103.064),
+  rotation: 211.828,
+  speech: "GENERIC_HI",
+  voice: "A_M_M_POLYNESIAN_01_POLYNESIAN_MINI_01",
+  conversation_id: 121,
+  cam_pos: new mp.Vector3(379.699, 275.521, 103.699),
+  cam_point: new mp.Vector3(379.318, 276.236, 103.72)
+}, {
+  name: "Ethan Henry",
+  model: "s_m_y_garbage",
+  position: new mp.Vector3(-559.615, 323.758, 84.4),
+  rotation: 299.429,
+  speech: "GENERIC_HI",
+  voice: "A_M_M_POLYNESIAN_01_POLYNESIAN_MINI_01",
+  conversation_id: 122,
+  cam_pos: new mp.Vector3(-559.032, 324.185, 85.041),
+  cam_point: new mp.Vector3(-559.415, 323.889, 85.041)
+}, {
+  name: "Noel Ramsey",
+  model: "s_m_y_garbage",
+  position: new mp.Vector3(-1202.002, -353.863, 37.289),
+  rotation: 224.913,
+  speech: "GENERIC_HI",
+  voice: "A_M_M_POLYNESIAN_01_POLYNESIAN_MINI_01",
+  conversation_id: 123,
+  cam_pos: new mp.Vector3(-1201.439, -354.502, 37.937),
+  cam_point: new mp.Vector3(-1201.857, -354.056, 37.924)
+}, {
+  name: "Jack Melton",
+  model: "s_m_y_garbage",
+  position: new mp.Vector3(-447.455, -819.294, 30.698),
+  rotation: 105.752,
+  speech: "GENERIC_HI",
+  voice: "A_M_M_POLYNESIAN_01_POLYNESIAN_MINI_01",
+  conversation_id: 124,
+  cam_pos: new mp.Vector3(-448.58, -819.543, 31.335),
+  cam_point: new mp.Vector3(-447.689, -819.369, 31.314)
+}, {
+  name: "Matthew Preston",
+  model: "s_m_y_garbage",
+  position: new mp.Vector3(431.227, -1305.323, 30.951),
+  rotation: 290.022,
+  speech: "GENERIC_HI",
+  voice: "A_M_M_POLYNESIAN_01_POLYNESIAN_MINI_01",
+  conversation_id: 125,
+  cam_pos: new mp.Vector3(432.244, -1304.989, 31.604),
+  cam_point: new mp.Vector3(431.467, -1305.265, 31.561),
+  questionMarker: true
+}, {
+  name: "Peter Rodgers",
+  model: "s_m_y_garbage",
+  position: new mp.Vector3(-1164.133, -734.712, 20.073),
+  rotation: 193.846,
+  speech: "GENERIC_HI",
+  voice: "A_M_M_POLYNESIAN_01_POLYNESIAN_MINI_01",
+  conversation_id: 126,
+  cam_pos: new mp.Vector3(-1163.871, -735.665, 20.644),
+  cam_point: new mp.Vector3(-1164.063, -734.95, 20.676)
+}, {
+  name: "Charles Francis",
+  model: "s_m_y_garbage",
+  position: new mp.Vector3(675.864, 226.353, 94.035),
+  rotation: 220.726,
+  speech: "GENERIC_HI",
+  voice: "A_M_M_POLYNESIAN_01_POLYNESIAN_MINI_01",
+  conversation_id: 127,
+  cam_pos: new mp.Vector3(676.449, 225.685, 94.596),
+  cam_point: new mp.Vector3(676.006, 226.149, 94.634)
+}, {
+  name: "Francis Garrison",
+  model: "s_m_y_garbage",
+  position: new mp.Vector3(191.483, 375.055, 107.98),
+  rotation: 228.473,
+  speech: "GENERIC_HI",
+  voice: "A_M_M_POLYNESIAN_01_POLYNESIAN_MINI_01",
+  conversation_id: 128,
+  cam_pos: new mp.Vector3(192.394, 374.431, 108.512),
+  cam_point: new mp.Vector3(191.679, 374.9, 108.561)
+}, {
+  name: "Thomas Day",
+  model: "s_m_y_garbage",
+  position: new mp.Vector3(-342.758, 262.511, 85.451),
+  rotation: 261.263,
+  speech: "GENERIC_HI",
+  voice: "A_M_M_POLYNESIAN_01_POLYNESIAN_MINI_01",
+  conversation_id: 129,
+  cam_pos: new mp.Vector3(-341.954, 262.39, 86.13),
+  cam_point: new mp.Vector3(-342.514, 262.468, 86.058)
+}, {
+  name: "George Stokes",
+  model: "s_m_y_garbage",
+  position: new mp.Vector3(-2029.054, -463.628, 11.461),
+  rotation: 320.261,
+  speech: "GENERIC_HI",
+  voice: "A_M_M_POLYNESIAN_01_POLYNESIAN_MINI_01",
+  conversation_id: 130,
+  cam_pos: new mp.Vector3(-2028.619, -463.045, 12.118),
+  cam_point: new mp.Vector3(-2028.9, -463.438, 12.082)
+}, {
+  name: "Philip Golden",
+  model: "s_m_y_garbage",
+  position: new mp.Vector3(-1064.452, -1403.666, 5.398),
+  rotation: 32.501,
+  speech: "GENERIC_HI",
+  voice: "A_M_M_POLYNESIAN_01_POLYNESIAN_MINI_01",
+  conversation_id: 131,
+  cam_pos: new mp.Vector3(-1065.005, -1402.599, 6.005),
+  cam_point: new mp.Vector3(-1064.539, -1403.432, 5.971)
+}, {
+  name: "Lenard Fitzgerald",
+  model: "s_m_y_garbage",
+  position: new mp.Vector3(-279.759, -890.147, 31.081),
+  rotation: 305.66,
+  speech: "GENERIC_HI",
+  voice: "A_M_M_POLYNESIAN_01_POLYNESIAN_MINI_01",
+  conversation_id: 132,
+  cam_pos: new mp.Vector3(-278.847, -889.498, 31.727),
+  cam_point: new mp.Vector3(-279.547, -890.017, 31.679)
+}, {
+  name: "Tracy Matthews",
+  model: "s_m_y_garbage",
+  position: new mp.Vector3(-346.88, -825.202, 31.522),
+  rotation: 121.972,
+  speech: "GENERIC_HI",
+  voice: "A_M_M_POLYNESIAN_01_POLYNESIAN_MINI_01",
+  conversation_id: 133,
+  cam_pos: new mp.Vector3(-347.812, -825.8, 32.164),
+  cam_point: new mp.Vector3(-347.087, -825.334, 32.14)
+}, {
+  name: "Steven Ford",
+  model: "s_m_y_barman_01",
+  position: new mp.Vector3(-564.824, 284.794, 85.377),
+  rotation: 268.993,
+  speech: "GENERIC_HOWS_IT_GOING",
+  voice: "A_M_M_POLYNESIAN_01_POLYNESIAN_MINI_01",
+  conversation_id: 57,
+  cam_pos: new mp.Vector3(-563.809, 284.781, 86.025),
+  cam_point: new mp.Vector3(-564.578, 284.795, 85.99)
+}, {
+  name: "Osborn Dixon",
+  model: "mp_m_shopkeep_01",
+  position: new mp.Vector3(-3242.223, 1000.013, 12.831),
+  rotation: 352.754,
+  speech: "SHOP_GREET",
+  voice: "MP_M_SHOPKEEP_01_PAKISTANI_MINI_01",
+  conversation_id: 136,
+  cam_pos: new mp.Vector3(-3242.153, 1001.025, 13.477),
+  cam_point: new mp.Vector3(-3242.201, 1000.256, 13.455)
+}, {
+  name: "Mark Grant",
+  model: "mp_m_shopkeep_01",
+  position: new mp.Vector3(-3038.797, 584.584, 7.909),
+  rotation: 25.537,
+  speech: "SHOP_GREET",
+  voice: "MP_M_SHOPKEEP_01_PAKISTANI_MINI_01",
+  conversation_id: 137,
+  cam_pos: new mp.Vector3(-3039.082, 585.634, 8.554),
+  cam_point: new mp.Vector3(-3038.839, 584.823, 8.54)
+}, {
+  name: "Mark Grant",
+  model: "mp_m_shopkeep_01",
+  position: new mp.Vector3(372.63, 326.976, 103.566),
+  rotation: 243.26,
+  speech: "SHOP_GREET",
+  voice: "MP_M_SHOPKEEP_01_PAKISTANI_MINI_01",
+  conversation_id: 138,
+  cam_pos: new mp.Vector3(373.687, 326.552, 104.213),
+  cam_point: new mp.Vector3(372.853, 326.872, 104.179)
+}, {
+  name: "Maude Wood",
+  model: "a_f_y_bevhills_02",
+  position: new mp.Vector3(-1193.718, -766.771, 17.316),
+  rotation: 210.67,
+  speech: "PHONE_CONV3_INTRO",
+  voice: "A_F_M_BEVHILLS_01_WHITE_FULL_01",
+  conversation_id: 139,
+  cam_pos: new mp.Vector3(-1193.296, -767.866, 17.965),
+  cam_point: new mp.Vector3(-1193.644, -767.005, 17.932)
+}, {
+  name: "Mark Grant",
+  model: "mp_m_shopkeep_01",
+  position: new mp.Vector3(1727.977, 6415.413, 35.037),
+  rotation: 234.928,
+  speech: "SHOP_GREET",
+  voice: "MP_M_SHOPKEEP_01_PAKISTANI_MINI_01",
+  conversation_id: 141,
+  cam_pos: new mp.Vector3(1728.819, 6414.956, 35.686),
+  cam_point: new mp.Vector3(1728.208, 6415.322, 35.637)
+}, {
+  name: "Steven Parker",
+  model: "mp_m_shopkeep_01",
+  position: new mp.Vector3(24.504, -1347.041, 29.497),
+  rotation: 271.206,
+  speech: "SHOP_GREET",
+  voice: "MP_M_SHOPKEEP_01_PAKISTANI_MINI_01",
+  conversation_id: 142,
+  cam_pos: new mp.Vector3(25.395, -1346.949, 30.278),
+  cam_point: new mp.Vector3(24.721, -1347.009, 30.186)
+}, {
+  name: "Ronald Holland",
+  model: "mp_m_shopkeep_01",
+  position: new mp.Vector3(1134.2, -983.045, 46.416),
+  rotation: 277.373,
+  speech: "SHOP_GREET",
+  voice: "MP_M_SHOPKEEP_01_PAKISTANI_MINI_01",
+  conversation_id: 143,
+  cam_pos: new mp.Vector3(1135.318, -982.878, 47.063),
+  cam_point: new mp.Vector3(1134.428, -982.976, 47.061)
+}, {
+  name: "Bartholomew Brooks",
+  model: "mp_m_shopkeep_01",
+  position: new mp.Vector3(-1221.473, -907.937, 12.326),
+  rotation: 32.91,
+  speech: "SHOP_GREET",
+  voice: "MP_M_SHOPKEEP_01_PAKISTANI_MINI_01",
+  conversation_id: 144,
+  cam_pos: new mp.Vector3(-1222.059, -907.202, 12.973),
+  cam_point: new mp.Vector3(-1221.651, -907.766, 12.933),
+  questionMarker: true
+}, {
+  name: "Prudence Hill",
+  model: "a_f_y_bevhills_02",
+  position: new mp.Vector3(73.967, -1393.092, 29.376),
+  rotation: 270.698,
+  speech: "PHONE_CONV3_INTRO",
+  voice: "A_F_M_BEVHILLS_01_WHITE_FULL_01",
+  conversation_id: 145,
+  cam_pos: new mp.Vector3(74.898, -1393.207, 30.023),
+  cam_point: new mp.Vector3(74.211, -1393.132, 29.986)
+}, {
+  name: "Mike Cornsweet",
+  model: "s_m_y_fireman_01",
+  position: new mp.Vector3(1193.119, -1462.452, 34.89),
+  rotation: 4.795,
+  speech: "GENERIC_HOWS_IT_GOING",
+  voice: "A_M_M_POLYNESIAN_01_POLYNESIAN_MINI_01",
+  conversation_id: 146,
+  cam_pos: new mp.Vector3(1193.077, -1461.687, 35.577),
+  cam_point: new mp.Vector3(1193.066, -1466.056, 35.391)
+}, {
+  name: "Gilbert Murphy",
+  model: "ig_fbisuit_01",
+  position: new mp.Vector3(2513.438, -429.717, 94.126),
+  rotation: -44.719,
+  speech: "GENERIC_HOWS_IT_GOING",
+  voice: "A_M_M_POLYNESIAN_01_POLYNESIAN_MINI_01",
+  conversation_id: 148,
+  cam_pos: new mp.Vector3(2514.459, -428.711, 94.774),
+  cam_point: new mp.Vector3(2511.649, -431.455, 94.399)
+}, {
+  name: "George Page",
+  model: "ig_casey",
+  position: new mp.Vector3(576.67, 2739.217, 42.139),
+  rotation: 182.848,
+  speech: "GENERIC_HOWS_IT_GOING",
+  voice: "A_M_M_POLYNESIAN_01_POLYNESIAN_MINI_01",
+  conversation_id: 149,
+  cam_pos: new mp.Vector3(576.744, 2738.212, 42.649),
+  cam_point: new mp.Vector3(576.702, 2738.969, 42.684)
+}, {
+  name: "Wilfrid Flynn",
+  model: "s_m_y_garbage",
+  position: new mp.Vector3(-1246.847, -238.198, 40.02),
+  rotation: 340.858,
+  speech: "GENERIC_HI",
+  voice: "A_M_M_POLYNESIAN_01_POLYNESIAN_MINI_01",
+  conversation_id: 153,
+  cam_pos: new mp.Vector3(-1246.586, -237.503, 40.579),
+  cam_point: new mp.Vector3(-1246.75, -237.97, 40.626)
+}, {
+  name: "Elvin Pope",
+  model: "mp_m_shopkeep_01",
+  position: new mp.Vector3(1697.366, 4923.422, 42.064),
+  rotation: -33.913,
+  speech: "SHOP_GREET",
+  voice: "MP_M_SHOPKEEP_01_PAKISTANI_MINI_01",
+  conversation_id: 154,
+  cam_pos: new mp.Vector3(1697.915, 4924.305, 42.77),
+  cam_point: new mp.Vector3(1697.486, 4923.626, 42.712)
+}, {
+  name: "Ronald Johns",
+  model: "mp_m_shopkeep_01",
+  position: new mp.Vector3(1392.047, 3606.087, 34.981),
+  rotation: -163.516,
+  speech: "SHOP_GREET",
+  voice: "MP_M_SHOPKEEP_01_PAKISTANI_MINI_01",
+  conversation_id: 155,
+  cam_pos: new mp.Vector3(1392.388, 3605.246, 35.628),
+  cam_point: new mp.Vector3(1392.125, 3605.854, 35.599)
+}, {
+  name: "Piers Harper",
+  model: "mp_m_shopkeep_01",
+  position: new mp.Vector3(548.975, 2671.758, 42.156),
+  rotation: 93.53,
+  speech: "SHOP_GREET",
+  voice: "MP_M_SHOPKEEP_01_PAKISTANI_MINI_01",
+  conversation_id: 156,
+  cam_pos: new mp.Vector3(548.184, 2671.717, 42.804),
+  cam_point: new mp.Vector3(548.735, 2671.759, 42.795)
+}, {
+  name: "John Hopkins",
+  model: "mp_m_shopkeep_01",
+  position: new mp.Vector3(-1486.731, -377.551, 40.163),
+  rotation: 137.224,
+  speech: "SHOP_GREET",
+  voice: "MP_M_SHOPKEEP_01_PAKISTANI_MINI_01",
+  conversation_id: 157,
+  cam_pos: new mp.Vector3(-1487.556, -378.351, 40.834),
+  cam_point: new mp.Vector3(-1486.898, -377.721, 40.809)
+}, {
+  name: "Jocelin Fox",
+  model: "a_f_y_bevhills_02",
+  position: new mp.Vector3(-164.414, -301.469, 39.733),
+  rotation: -113.99,
+  speech: "PHONE_CONV3_INTRO",
+  voice: "A_F_M_BEVHILLS_01_WHITE_FULL_01",
+  conversation_id: 158,
+  cam_pos: new mp.Vector3(-163.737, -301.778, 40.38),
+  cam_point: new mp.Vector3(-164.192, -301.565, 40.368)
+}, {
+  name: "Georgiana Hensley",
+  model: "a_f_y_bevhills_02",
+  position: new mp.Vector3(127.219, -223.417, 54.558),
+  rotation: 70.262,
+  speech: "PHONE_CONV3_INTRO",
+  voice: "A_F_M_BEVHILLS_01_WHITE_FULL_01",
+  conversation_id: 159,
+  cam_pos: new mp.Vector3(126.204, -222.982, 55.205),
+  cam_point: new mp.Vector3(126.988, -223.334, 55.176)
+}, {
+  name: "Donna Stevens",
+  model: "a_f_y_bevhills_02",
+  position: new mp.Vector3(-1102.666, 2711.475, 19.108),
+  rotation: -137.527,
+  speech: "PHONE_CONV3_INTRO",
+  voice: "A_F_M_BEVHILLS_01_WHITE_FULL_01",
+  conversation_id: 160,
+  cam_pos: new mp.Vector3(-1101.95, 2710.455, 19.756),
+  cam_point: new mp.Vector3(-1102.533, 2711.264, 19.698)
+}, {
+  name: "Katherine Jacobs",
+  model: "a_f_y_bevhills_02",
+  position: new mp.Vector3(612.996, 2761.734, 42.088),
+  rotation: -89.541,
+  speech: "PHONE_CONV3_INTRO",
+  voice: "A_F_M_BEVHILLS_01_WHITE_FULL_01",
+  conversation_id: 161,
+  cam_pos: new mp.Vector3(614.357, 2761.663, 42.853),
+  cam_point: new mp.Vector3(613.233, 2761.722, 42.736)
+}, {
+  name: "Vanessa McKinney",
+  model: "a_f_y_bevhills_02",
+  position: new mp.Vector3(1196.428, 2711.628, 38.223),
+  rotation: 176.047,
+  speech: "PHONE_CONV3_INTRO",
+  voice: "A_F_M_BEVHILLS_01_WHITE_FULL_01",
+  conversation_id: 162,
+  cam_pos: new mp.Vector3(1196.327, 2710.739, 38.93),
+  cam_point: new mp.Vector3(1196.398, 2711.392, 38.871)
+}, {
+  name: "Richard Alexander",
+  model: "g_m_m_armgoon_01",
+  position: new mp.Vector3(-331.529, 6085.001, 31.455),
+  rotation: -134.221,
+  speech: "PHONE_CONV3_INTRO",
+  voice: "G_M_Y_ARMGOON_02_WHITE_ARMENIAN_MINI_01",
+  conversation_id: 163,
+  cam_pos: new mp.Vector3(-330.774, 6084.11, 32.216),
+  cam_point: new mp.Vector3(-331.383, 6084.805, 32.077)
+}, {
+  name: "Peter Henry",
+  model: "g_m_m_armgoon_01",
+  position: new mp.Vector3(-1118.876, 2699.81, 18.554),
+  rotation: -139.177,
+  speech: "PHONE_CONV3_INTRO",
+  voice: "G_M_Y_ARMGOON_02_WHITE_ARMENIAN_MINI_01",
+  conversation_id: 164,
+  cam_pos: new mp.Vector3(-1118.263, 2699.064, 19.202),
+  cam_point: new mp.Vector3(-1118.722, 2699.62, 19.174)
+}, {
+  name: "Samuel Holmes",
+  model: "g_m_m_armgoon_01",
+  position: new mp.Vector3(2567.96, 292.628, 108.735),
+  rotation: -2.395,
+  speech: "PHONE_CONV3_INTRO",
+  voice: "G_M_Y_ARMGOON_02_WHITE_ARMENIAN_MINI_01",
+  conversation_id: 165,
+  cam_pos: new mp.Vector3(2567.937, 293.812, 109.382),
+  cam_point: new mp.Vector3(2567.936, 292.876, 109.331)
+}, {
+  name: "Thomas Davis",
+  model: "g_m_m_armgoon_01",
+  position: new mp.Vector3(842.139, -1035.263, 28.195),
+  rotation: -0.143,
+  speech: "PHONE_CONV3_INTRO",
+  voice: "G_M_Y_ARMGOON_02_WHITE_ARMENIAN_MINI_01",
+  conversation_id: 166,
+  cam_pos: new mp.Vector3(842.13, -1034.131, 28.843),
+  cam_point: new mp.Vector3(842.089, -1035.02, 28.794)
+}, {
+  name: "Bartholomew McBride",
+  model: "g_m_m_armgoon_01",
+  position: new mp.Vector3(253.907, -50.47, 69.941),
+  rotation: 76.634,
+  speech: "PHONE_CONV3_INTRO",
+  voice: "G_M_Y_ARMGOON_02_WHITE_ARMENIAN_MINI_01",
+  conversation_id: 167,
+  cam_pos: new mp.Vector3(252.497, -50.003, 70.59),
+  cam_point: new mp.Vector3(253.662, -50.434, 70.542)
+}, {
+  name: "Arthur Flowers",
+  model: "g_m_m_armgoon_01",
+  position: new mp.Vector3(-1304.137, -394.495, 36.696),
+  rotation: 70.715,
+  speech: "PHONE_CONV3_INTRO",
+  voice: "G_M_Y_ARMGOON_02_WHITE_ARMENIAN_MINI_01",
+  conversation_id: 168,
+  cam_pos: new mp.Vector3(-1305.34, -394.068, 37.343),
+  cam_point: new mp.Vector3(-1304.378, -394.435, 37.291)
+}, {
+  name: "Mark Hunt",
+  model: "s_m_m_scientist_01",
+  position: new mp.Vector3(885.525, -3199.466, -98.196),
+  rotation: 53.944,
+  speech: "PHONE_CONV3_INTRO",
+  voice: "A_M_Y_BUSINESS_01_CHINESE_FULL_01",
+  conversation_id: 0,
+  cam_pos: new mp.Vector3(0, 0, 0),
+  cam_point: new mp.Vector3(0, 0, 0),
+  dimension: -1,
+  bunker_npc: 1
+}, {
+  name: "Cori Scott",
+  model: "mp_f_meth_01",
+  position: new mp.Vector3(891.753, -3196.942, -98.196),
+  rotation: 5.415,
+  speech: "PHONE_CONV3_INTRO",
+  voice: "A_F_M_BEVHILLS_01_WHITE_FULL_01",
+  conversation_id: 0,
+  cam_pos: new mp.Vector3(0, 0, 0),
+  cam_point: new mp.Vector3(0, 0, 0),
+  dimension: -1,
+  bunker_npc: 2
+}, {
+  name: "Bertram Dorsey",
+  model: "mp_m_meth_01",
+  position: new mp.Vector3(884.427, -3207.937, -98.196),
+  rotation: 84.884,
+  speech: "PHONE_CONV3_INTRO",
+  voice: "A_M_Y_BUSINESS_03_WHITE_MINI_01",
+  conversation_id: 0,
+  cam_pos: new mp.Vector3(0, 0, 0),
+  cam_point: new mp.Vector3(0, 0, 0),
+  dimension: -1,
+  bunker_npc: 3
+}, {
+  name: "Nicholas Nash",
+  model: "mp_m_waremech_01",
+  position: new mp.Vector3(907.918, -3211.2, -98.222),
+  rotation: 27.651,
+  speech: "PHONE_CONV4_INTRO",
+  voice: "A_M_Y_VINEWOOD_02_WHITE_MINI_01",
+  conversation_id: 0,
+  cam_pos: new mp.Vector3(0, 0, 0),
+  cam_point: new mp.Vector3(0, 0, 0),
+  dimension: -1,
+  bunker_npc: 4
+}, {
+  name: "Kelley Dennis",
+  model: "g_m_m_armgoon_01",
+  position: new mp.Vector3(889.436, -3206.573, -98.19),
+  rotation: 68.446,
+  speech: "PHONE_CONV3_INTRO",
+  voice: "A_M_Y_BUSINESS_01_CHINESE_FULL_01",
+  conversation_id: 0,
+  cam_pos: new mp.Vector3(0, 0, 0),
+  cam_point: new mp.Vector3(0, 0, 0),
+  dimension: -1,
+  bunker_npc: 5
+}, {
+  name: "Sophie Douglas",
+  model: "mp_f_meth_01",
+  position: new mp.Vector3(896.569, -3217.448, -98.226),
+  rotation: 64.028,
+  speech: "PHONE_CONV3_INTRO",
+  voice: "A_F_M_BEVHILLS_01_WHITE_FULL_01",
+  conversation_id: 0,
+  cam_pos: new mp.Vector3(0, 0, 0),
+  cam_point: new mp.Vector3(0, 0, 0),
+  dimension: -1,
+  bunker_npc: 6
+}, {
+  name: "Neal Rogers",
+  model: "mp_m_meth_01",
+  position: new mp.Vector3(897.937, -3221.314, -98.246),
+  rotation: -155.833,
+  speech: "PHONE_CONV3_INTRO",
+  voice: "A_M_Y_BUSINESS_03_WHITE_MINI_01",
+  conversation_id: 0,
+  cam_pos: new mp.Vector3(0, 0, 0),
+  cam_point: new mp.Vector3(0, 0, 0),
+  dimension: -1,
+  bunker_npc: 7
+}, {
+  name: "Stuart Jordan",
+  model: "s_m_m_scientist_01",
+  position: new mp.Vector3(899.367, -3223.841, -98.264),
+  rotation: 25.526,
+  speech: "PHONE_CONV4_INTRO",
+  voice: "A_M_Y_VINEWOOD_02_WHITE_MINI_01",
+  conversation_id: 0,
+  cam_pos: new mp.Vector3(0, 0, 0),
+  cam_point: new mp.Vector3(0, 0, 0),
+  dimension: -1,
+  bunker_npc: 8
+}, {
+  name: "Piers McBride",
+  model: "mp_m_meth_01",
+  position: new mp.Vector3(891.84, -3211.571, -98.2),
+  rotation: -157.425,
+  speech: "PHONE_CONV3_INTRO",
+  voice: "A_M_Y_BUSINESS_03_WHITE_MINI_01",
+  conversation_id: 0,
+  cam_pos: new mp.Vector3(0, 0, 0),
+  cam_point: new mp.Vector3(0, 0, 0),
+  dimension: -1,
+  bunker_npc: 9
+}, {
+  name: "Simon Black",
+  model: "s_m_y_construct_02",
+  position: new mp.Vector3(2035.097, 3460.389, 43.759),
+  rotation: -152.704,
+  speech: "GENERIC_HOWS_IT_GOING",
+  voice: "A_M_M_POLYNESIAN_01_POLYNESIAN_MINI_01",
+  conversation_id: 170,
+  cam_pos: new mp.Vector3(2035.532, 3459.704, 44.362),
+  cam_point: new mp.Vector3(2035.219, 3460.174, 44.367)
+}, {
+  name: "Godwin Dorsey",
+  model: "s_m_y_construct_02",
+  position: new mp.Vector3(1494.76, -1884.985, 71.863),
+  rotation: -64.887,
+  speech: "GENERIC_HOWS_IT_GOING",
+  voice: "A_M_M_POLYNESIAN_01_POLYNESIAN_MINI_01",
+  conversation_id: 171,
+  cam_pos: new mp.Vector3(1495.519, -1884.596, 72.499),
+  cam_point: new mp.Vector3(1494.981, -1884.883, 72.489)
+}, {
+  name: "Paul Griffin",
+  model: "s_m_y_construct_02",
+  position: new mp.Vector3(2336.101, 4859.396, 41.808),
+  rotation: -132.485,
+  speech: "GENERIC_HOWS_IT_GOING",
+  voice: "A_M_M_POLYNESIAN_01_POLYNESIAN_MINI_01",
+  conversation_id: 174,
+  cam_pos: new mp.Vector3(2336.669, 4858.882, 42.454),
+  cam_point: new mp.Vector3(2336.283, 4859.238, 42.446)
+}, {
+  name: "Steven Nelson",
+  model: "s_m_y_construct_02",
+  position: new mp.Vector3(1530.678, 818.091, 77.43),
+  rotation: 61.043,
+  speech: "GENERIC_HOWS_IT_GOING",
+  voice: "A_M_M_POLYNESIAN_01_POLYNESIAN_MINI_01",
+  conversation_id: 176,
+  cam_pos: new mp.Vector3(1529.89, 818.474, 78.076),
+  cam_point: new mp.Vector3(1530.464, 818.207, 78.059)
+}, {
+  name: "Peter Fletcher",
+  model: "s_m_y_construct_02",
+  position: new mp.Vector3(2125.011, 1935.309, 93.784),
+  rotation: 87.955,
+  speech: "GENERIC_HOWS_IT_GOING",
+  voice: "A_M_M_POLYNESIAN_01_POLYNESIAN_MINI_01",
+  conversation_id: 177,
+  cam_pos: new mp.Vector3(2124.003, 1935.254, 94.431),
+  cam_point: new mp.Vector3(2124.764, 1935.29, 94.39)
+}, {
+  name: "Donald Palmer",
+  model: "s_m_y_construct_02",
+  position: new mp.Vector3(2704.058, 2777.41, 37.878),
+  rotation: 23.893,
+  speech: "GENERIC_HOWS_IT_GOING",
+  voice: "A_M_M_POLYNESIAN_01_POLYNESIAN_MINI_01",
+  conversation_id: 178,
+  cam_pos: new mp.Vector3(2703.706, 2778.146, 38.53),
+  cam_point: new mp.Vector3(2703.962, 2777.635, 38.497)
+}, {
+  name: "John Golden",
+  model: "g_m_m_armgoon_01",
+  position: new mp.Vector3(897.944, -3173.469, -97.124),
+  rotation: 104.216,
+  speech: "PHONE_CONV3_INTRO",
+  voice: "G_M_Y_ARMGOON_02_WHITE_ARMENIAN_MINI_01",
+  conversation_id: 179,
+  cam_pos: new mp.Vector3(896.854, -3173.842, -96.476),
+  cam_point: new mp.Vector3(897.702, -3173.52, -96.517),
+  dimension: -1
+}, {
+  name: "Gavin Barnett",
+  model: "u_m_y_tattoo_01",
+  position: new mp.Vector3(1862.57, 3748.522, 33.032),
+  rotation: 30.488,
+  speech: "SHOP_BANTER",
+  voice: "U_M_Y_TATTOO_01_WHITE_MINI_01",
+  conversation_id: 180,
+  cam_pos: new mp.Vector3(1861.943, 3749.507, 33.68),
+  cam_point: new mp.Vector3(1862.409, 3748.712, 33.624)
+}, {
+  name: "Anthony Hines",
+  model: "cs_beverly",
+  position: new mp.Vector3(-442.571, -27.582, 45.645),
+  rotation: -58.046,
+  speech: "GENERIC_HOWS_IT_GOING",
+  voice: "A_M_Y_BUSINESS_03_WHITE_MINI_01",
+  conversation_id: 181,
+  cam_pos: new mp.Vector3(-441.752, -26.996, 46.292),
+  cam_point: new mp.Vector3(-442.363, -27.451, 46.26)
+}, {
+  name: "Peter Floyd",
+  model: "mp_m_meth_01",
+  position: new mp.Vector3(909.942, -3222.279, -98.266),
+  rotation: -74.977,
+  speech: "PHONE_CONV3_INTRO",
+  voice: "A_M_Y_BUSINESS_03_WHITE_MINI_01",
+  conversation_id: 0,
+  cam_pos: new mp.Vector3(0, 0, 0),
+  cam_point: new mp.Vector3(0, 0, 0),
+  dimension: -1,
+  bunker_npc: 10
+}, {
+  name: "Daniel Craig",
+  model: "hc_gunman",
+  position: new mp.Vector3(-3427.261, 967.76, 8.347),
+  rotation: -94.624,
+  speech: "GENERIC_HOWS_IT_GOING",
+  voice: "A_M_Y_BUSINESS_03_WHITE_MINI_01",
+  conversation_id: 183,
+  cam_pos: new mp.Vector3(-3426.42, 967.698, 8.998),
+  cam_point: new mp.Vector3(-3427.02, 967.724, 8.972)
+}, {
+  name: "Paul Bell",
+  model: "mp_m_meth_01",
+  position: new mp.Vector3(905.807, -3230.671, -98.294),
+  rotation: -177.754,
+  speech: "PHONE_CONV3_INTRO",
+  voice: "A_M_Y_BUSINESS_03_WHITE_MINI_01",
+  conversation_id: 0,
+  cam_pos: new mp.Vector3(0, 0, 0),
+  cam_point: new mp.Vector3(0, 0, 0),
+  dimension: -1,
+  bunker_npc: 11
+}, {
+  name: "James Logan",
+  model: "mp_m_meth_01",
+  position: new mp.Vector3(901.675, -3219.215, -98.242),
+  rotation: -66.738,
+  speech: "PHONE_CONV3_INTRO",
+  voice: "A_M_Y_BUSINESS_03_WHITE_MINI_01",
+  conversation_id: 0,
+  cam_pos: new mp.Vector3(0, 0, 0),
+  cam_point: new mp.Vector3(0, 0, 0),
+  dimension: -1,
+  bunker_npc: 12
+}, {
+  name: "Gyles Bradford",
+  model: "a_m_m_beach_01",
+  position: new mp.Vector3(1232.75, -427.95, 67.748),
+  rotation: 125.61,
+  speech: "GENERIC_HOWS_IT_GOING",
+  voice: "A_M_M_BEACH_01_BLACK_MINI_01",
+  conversation_id: 184,
+  cam_pos: new mp.Vector3(1231.926, -428.692, 68.248),
+  cam_point: new mp.Vector3(1232.75, -427.95, 68.248)
+}, {
+  name: "Ethan Shields",
+  model: "mp_m_meth_01",
+  position: new mp.Vector3(893.55, -3201.277, -98.19),
+  rotation: 104.284,
+  speech: "PHONE_CONV3_INTRO",
+  voice: "A_M_Y_BUSINESS_03_WHITE_MINI_01",
+  conversation_id: 0,
+  cam_pos: new mp.Vector3(0, 0, 0),
+  cam_point: new mp.Vector3(0, 0, 0),
+  dimension: -1,
+  bunker_npc: 13
+}, {
+  name: "Ethan Harmon",
+  model: "u_m_y_tattoo_01",
+  position: new mp.Vector3(-1151.846, -1424.159, 4.954),
+  rotation: 120.178,
+  speech: "SHOP_BANTER",
+  voice: "U_M_Y_TATTOO_01_WHITE_MINI_01",
+  conversation_id: 186,
+  cam_pos: new mp.Vector3(-1152.781, -1424.769, 5.601),
+  cam_point: new mp.Vector3(-1152.053, -1424.292, 5.567)
+}, {
+  name: "Charles Rose",
+  model: "u_m_y_tattoo_01",
+  position: new mp.Vector3(320.042, 181.509, 103.586),
+  rotation: -110.431,
+  speech: "SHOP_BANTER",
+  voice: "U_M_Y_TATTOO_01_WHITE_MINI_01",
+  conversation_id: 187,
+  cam_pos: new mp.Vector3(320.801, 181.253, 104.234),
+  cam_point: new mp.Vector3(320.28, 181.451, 104.204)
+}, {
+  name: "John Todd",
+  model: "u_m_y_tattoo_01",
+  position: new mp.Vector3(1324.978, -1650.836, 52.275),
+  rotation: 135.35,
+  speech: "SHOP_BANTER",
+  voice: "U_M_Y_TATTOO_01_WHITE_MINI_01",
+  conversation_id: 188,
+  cam_pos: new mp.Vector3(1324.322, -1651.324, 52.923),
+  cam_point: new mp.Vector3(1324.786, -1650.987, 52.898)
+}, {
+  name: "Harry Lloyd",
+  model: "g_m_m_armgoon_01",
+  position: new mp.Vector3(-2339.196, 3220.365, 33.076),
+  rotation: 55.801,
+  speech: "PHONE_CONV3_INTRO",
+  voice: "G_M_Y_ARMGOON_02_WHITE_ARMENIAN_MINI_01",
+  conversation_id: 189,
+  cam_pos: new mp.Vector3(-2339.918, 3220.857, 33.778),
+  cam_point: new mp.Vector3(-2339.383, 3220.516, 33.717),
+  dimension: -1
+}, {
+  name: "Christopher Montgomery",
+  model: "s_m_m_postal_01",
+  position: new mp.Vector3(141.823, 107.404, 83.666),
+  rotation: 74.789,
+  speech: "GENERIC_HOWS_IT_GOING",
+  voice: "A_M_M_POLYNESIAN_01_POLYNESIAN_MINI_01",
+  conversation_id: 190,
+  cam_pos: new mp.Vector3(139.063, 108.323, 84.313),
+  cam_point: new mp.Vector3(141.635, 107.374, 84.419)
+}, {
+  name: "Brian Poole",
+  model: "mp_m_meth_01",
+  position: new mp.Vector3(887.415, -3209.713, -98.196),
+  rotation: -150.447,
+  speech: "PHONE_CONV3_INTRO",
+  voice: "A_M_Y_BUSINESS_03_WHITE_MINI_01",
+  conversation_id: 0,
+  cam_pos: new mp.Vector3(0, 0, 0),
+  cam_point: new mp.Vector3(0, 0, 0),
+  dimension: -1,
+  bunker_npc: 14
+}, {
+  name: "Ryan Cooper",
+  model: "mp_m_meth_01",
+  position: new mp.Vector3(885.301, -3203.379, -98.196),
+  rotation: -93.65,
+  speech: "PHONE_CONV3_INTRO",
+  voice: "A_M_Y_BUSINESS_03_WHITE_MINI_01",
+  conversation_id: 0,
+  cam_pos: new mp.Vector3(0, 0, 0),
+  cam_point: new mp.Vector3(0, 0, 0),
+  dimension: -1,
+  bunker_npc: 15
+}, {
+  name: "Rudolph Wood",
+  model: "g_m_m_armgoon_01",
+  position: new mp.Vector3(-544.977, -584.607, 34.682),
+  rotation: -88.539,
+  speech: "PHONE_CONV3_INTRO",
+  voice: "G_M_Y_ARMGOON_02_WHITE_ARMENIAN_MINI_01",
+  conversation_id: 193,
+  cam_pos: new mp.Vector3(-544.21, -584.593, 35.265),
+  cam_point: new mp.Vector3(-544.729, -584.622, 35.281)
+}, {
+  name: "Harry Curtis",
+  model: "mp_m_shopkeep_01",
+  position: new mp.Vector3(-551.75, -583.208, 34.682),
+  rotation: 177.64,
+  speech: "SHOP_GREET",
+  voice: "MP_M_SHOPKEEP_01_PAKISTANI_MINI_01",
+  conversation_id: 194,
+  cam_pos: new mp.Vector3(-551.78, -584.43, 35.376),
+  cam_point: new mp.Vector3(-551.802, -583.453, 35.258)
+}, {
+  name: "Agatha Stokes",
+  model: "a_f_y_bevhills_02",
+  position: new mp.Vector3(-568.919, -586.574, 34.686),
+  rotation: -92.263,
+  speech: "PHONE_CONV3_INTRO",
+  voice: "A_F_M_BEVHILLS_01_WHITE_FULL_01",
+  conversation_id: 195,
+  cam_pos: new mp.Vector3(-568.125, -586.624, 35.288),
+  cam_point: new mp.Vector3(-568.674, -586.593, 35.301)
+}, {
+  name: "Francis Davidson",
+  model: "u_m_y_tattoo_01",
+  position: new mp.Vector3(-587.57, -604.557, 41.43),
+  rotation: -2.057,
+  speech: "SHOP_BANTER",
+  voice: "U_M_Y_TATTOO_01_WHITE_MINI_01",
+  conversation_id: 196,
+  cam_pos: new mp.Vector3(-587.534, -603.549, 42.017),
+  cam_point: new mp.Vector3(-587.556, -604.308, 42.021)
+}, {
+  name: "Charles Oliver",
+  model: "a_m_y_business_02",
+  position: new mp.Vector3(-560.466, -583.178, 41.43),
+  rotation: 86.402,
+  speech: "PHONE_CONV4_INTRO",
+  voice: "A_M_Y_VINEWOOD_02_WHITE_MINI_01",
+  conversation_id: 49,
+  cam_pos: new mp.Vector3(-561.867, -583.119, 42.137),
+  cam_point: new mp.Vector3(-561.216, -583.147, 42.082)
+}, {
+  name: "William Gallagher",
+  model: "s_m_y_barman_01",
+  position: new mp.Vector3(-778.566, -395.307, 2.059),
+  rotation: -177.622,
+  speech: "GENERIC_HI",
+  voice: "A_M_M_POLYNESIAN_01_POLYNESIAN_MINI_01",
+  conversation_id: 197,
+  cam_pos: new mp.Vector3(-778.563, -396.246, 2.68),
+  cam_point: new mp.Vector3(-778.548, -395.552, 2.677),
+  dimension: -1
+}, {
+  name: "Johnathan Cannon",
+  model: "s_m_y_barman_01",
+  position: new mp.Vector3(-734.25, -655.267, -60.877),
+  rotation: -168.736,
+  speech: "GENERIC_HI",
+  voice: "A_M_M_POLYNESIAN_01_POLYNESIAN_MINI_01",
+  conversation_id: 197,
+  cam_pos: new mp.Vector3(-734.163, -656.206, -60.22),
+  cam_point: new mp.Vector3(-734.244, -655.507, -60.236),
+  dimension: -1
+}, {
+  name: "Jon Dionis",
+  model: "s_m_y_busboy_01",
+  position: new mp.Vector3(-1857.748, 2087.032, 140.432),
+  rotation: 3.811,
+  speech: "GENERIC_HI",
+  voice: "A_M_M_POLYNESIAN_01_POLYNESIAN_MINI_01",
+  conversation_id: 200,
+  cam_pos: new mp.Vector3(-1858.149, 2092.782, 141.652),
+  cam_point: new mp.Vector3(-1857.82, 2086.561, 141.326),
+  dimension: -1
+}, {
+  name: "Antonio Greco",
+  model: "s_m_m_movprem_01",
+  position: new mp.Vector3(-1851.109, -355.504, 49.387),
+  rotation: 143.469,
+  speech: "GENERIC_HI",
+  voice: "G_M_Y_LOST_02_LATINO_MINI_01",
+  conversation_id: 202,
+  cam_pos: new mp.Vector3(-1851.463, -355.951, 50.034),
+  cam_point: new mp.Vector3(-1851.253, -355.687, 50.047),
+  eng_only: false
+}, {
+  name: "Benjiro Harada",
+  model: "ig_hao",
+  position: new mp.Vector3(-1216.47, -195.977, 39.325),
+  rotation: 63.289,
+  speech: "GENERIC_HI",
+  voice: "G_M_Y_LOST_02_LATINO_MINI_01",
+  conversation_id: 202,
+  cam_pos: new mp.Vector3(-1217.057, -195.694, 39.973),
+  cam_point: new mp.Vector3(-1216.671, -195.87, 39.998),
+  eng_only: false
+}, {
+  name: "Maxim Pakhan",
+  model: "ig_isldj_03",
+  position: new mp.Vector3(444.209, 214.18, 103.165),
+  rotation: -18.5,
+  speech: "GENERIC_HI",
+  voice: "G_M_Y_LOST_02_LATINO_MINI_01",
+  conversation_id: 202,
+  cam_pos: new mp.Vector3(444.384, 214.754, 103.811),
+  cam_point: new mp.Vector3(444.273, 214.408, 103.816),
+  eng_only: false
+}, {
+  name: "Rafael Guajardo",
+  model: "u_m_y_mani",
+  position: new mp.Vector3(-74.594, 140.574, 81.494),
+  rotation: 36.761,
+  speech: "GENERIC_HI",
+  voice: "G_M_Y_LOST_02_LATINO_MINI_01",
+  conversation_id: 202,
+  cam_pos: new mp.Vector3(-75.019, 141.202, 82.152),
+  cam_point: new mp.Vector3(-74.707, 140.72, 82.233),
+  eng_only: false
+}, {
+  name: "Mary Sutton",
+  model: "u_f_y_spyactress",
+  position: new mp.Vector3(-708.22, -152.906, 37.415),
+  rotation: 120.522,
+  speech: "PHONE_CONV3_INTRO",
+  voice: "A_F_Y_BEVHILLS_01_WHITE_FULL_01",
+  conversation_id: 203,
+  cam_pos: new mp.Vector3(-708.998, -153.281, 38.063),
+  cam_point: new mp.Vector3(-708.448, -153.003, 38.017)
+}, {
+  name: "Mary Sutton",
+  model: "u_f_y_spyactress",
+  position: new mp.Vector3(-525.469, -594.988, 41.43),
+  rotation: 178.047,
+  speech: "PHONE_CONV3_INTRO",
+  voice: "A_F_M_BEVHILLS_01_WHITE_FULL_01",
+  conversation_id: 204,
+  cam_pos: new mp.Vector3(-525.492, -596.281, 42.079),
+  cam_point: new mp.Vector3(-525.41, -593.977, 41.888)
+}, {
+  name: language["Преподаватель\nИстории"][curr_lang],
+  model: "s_f_y_shop_mid",
+  position: new mp.Vector3(4509.91, -4507.991, 4.052),
+  rotation: 27.634,
+  speech: "PHONE_CONV3_INTRO",
+  voice: "A_F_M_BEVHILLS_02_WHITE_FULL_01",
+  conversation_id: 205,
+  cam_pos: new mp.Vector3(4509.649, -4507.395, 4.755),
+  cam_point: new mp.Vector3(4509.835, -4507.806, 4.772),
+  dimension: -1,
+  is_school: true
+}, {
+  name: language.Директор[curr_lang],
+  model: "mp_g_m_pros_01",
+  position: new mp.Vector3(-1016.977, -424.476, 39.628),
+  rotation: 24.603,
+  speech: "GENERIC_HI",
+  voice: "A_M_M_POLYNESIAN_01_POLYNESIAN_MINI_01",
+  conversation_id: 206,
+  cam_pos: new mp.Vector3(-1017.748, -423.35, 40.28),
+  cam_point: new mp.Vector3(-1011.821, -434.174, 38.61),
+  dimension: -1,
+  is_school: true
+}, {
+  name: language["Преподаватель\nЛитературы"][curr_lang],
+  model: "a_f_y_bevhills_01",
+  position: new mp.Vector3(-976.269, -392.174, 14.854),
+  rotation: 116.013,
+  speech: "PHONE_CONV3_INTRO",
+  voice: "A_F_M_BEVHILLS_02_WHITE_FULL_01",
+  conversation_id: 207,
+  cam_pos: new mp.Vector3(-977.815, -392.984, 15.505),
+  cam_point: new mp.Vector3(-976.471, -392.321, 15.363),
+  dimension: -1,
+  is_school: true
+}, {
+  name: language["Преподаватель\nИностранного языка"][curr_lang],
+  model: "cs_movpremmale",
+  position: new mp.Vector3(-1065.863, -444.101, 14.854),
+  rotation: 117.245,
+  speech: "GENERIC_HI",
+  voice: "A_M_M_POLYNESIAN_01_POLYNESIAN_MINI_01",
+  conversation_id: 208,
+  cam_pos: new mp.Vector3(-1067.313, -445.055, 15.502),
+  cam_point: new mp.Vector3(-1066.05, -444.267, 15.417),
+  dimension: -1,
+  is_school: true
+}, {
+  name: language["Преподаватель\nГеологии"][curr_lang],
+  model: "g_m_m_chigoon_01",
+  position: new mp.Vector3(-3284.652, 991.848, 3.939),
+  rotation: 50.965,
+  speech: "GENERIC_HI",
+  voice: "A_M_M_POLYNESIAN_01_POLYNESIAN_MINI_01",
+  conversation_id: 209,
+  cam_pos: new mp.Vector3(-3285.482, 992.347, 4.401),
+  cam_point: new mp.Vector3(-3284.898, 991.89, 4.469),
+  dimension: -1,
+  is_school: true
+}, {
+  name: language["Преподаватель\nМатематики"][curr_lang],
+  model: "a_f_m_soucentmc_01",
+  position: new mp.Vector3(-1068.133, -440.325, 14.858),
+  rotation: 117.692,
+  speech: "PHONE_CONV3_INTRO",
+  voice: "A_F_M_BEVHILLS_02_WHITE_FULL_01",
+  conversation_id: 210,
+  cam_pos: new mp.Vector3(-1069.579, -441.211, 15.503),
+  cam_point: new mp.Vector3(-1068.306, -440.494, 15.492),
+  dimension: -1,
+  is_school: true
+}, {
+  name: language["Преподаватель\nГеографии"][curr_lang],
+  model: "a_m_m_business_01",
+  position: new mp.Vector3(-978.432, -388.624, 14.858),
+  rotation: 117.228,
+  speech: "GENERIC_HI",
+  voice: "A_M_M_POLYNESIAN_01_POLYNESIAN_MINI_01",
+  conversation_id: 211,
+  cam_pos: new mp.Vector3(-979.817, -389.521, 15.502),
+  cam_point: new mp.Vector3(-978.597, -388.808, 15.465),
+  dimension: -1,
+  is_school: true
+}, {
+  name: language["Преподаватель\nСоциологии"][curr_lang],
+  model: "cs_martinmadrazo",
+  position: new mp.Vector3(-969.842, -405.602, 14.84),
+  rotation: 151.433,
+  speech: "GENERIC_HI",
+  voice: "A_M_M_POLYNESIAN_01_POLYNESIAN_MINI_01",
+  conversation_id: 212,
+  cam_pos: new mp.Vector3(-970.051, -406.235, 15.487),
+  cam_point: new mp.Vector3(-969.907, -405.822, 15.51),
+  dimension: -1,
+  is_school: true
+}, {
+  name: language["Преподаватель\nФизкультуры"][curr_lang],
+  model: "u_m_y_babyd",
+  position: new mp.Vector3(-986.845, -374.224, 14.874),
+  rotation: 118.316,
+  speech: "GENERIC_HI",
+  voice: "A_M_M_POLYNESIAN_01_POLYNESIAN_MINI_01",
+  conversation_id: 213,
+  cam_pos: new mp.Vector3(-987.971, -374.957, 15.52),
+  cam_point: new mp.Vector3(-986.317, -374.072, 15.542),
+  dimension: -1,
+  is_school: true
+}, {
+  name: language["Преподаватель\nФилософии"][curr_lang],
+  model: "a_m_y_hipster_01",
+  position: new mp.Vector3(-1076.403, -425.983, 14.874),
+  rotation: 117.159,
+  speech: "GENERIC_HI",
+  voice: "A_M_M_POLYNESIAN_01_POLYNESIAN_MINI_01",
+  conversation_id: 214,
+  cam_pos: new mp.Vector3(-1077.821, -426.92, 15.521),
+  cam_point: new mp.Vector3(-1074.817, -425.308, 15.395),
+  dimension: -1,
+  is_school: true
+}, {
+  name: language["Преподаватель\nЭтики"][curr_lang],
+  model: "mp_g_m_pros_01",
+  position: new mp.Vector3(-1057.745, -458.301, 14.838),
+  rotation: 113.985,
+  speech: "GENERIC_HI",
+  voice: "A_M_M_POLYNESIAN_01_POLYNESIAN_MINI_01",
+  conversation_id: 215,
+  cam_pos: new mp.Vector3(-1059.221, -459.241, 15.485),
+  cam_point: new mp.Vector3(-1056.206, -457.544, 15.304),
+  dimension: -1,
+  is_school: true
+}, {
+  name: "John Goldberg",
+  model: "s_m_m_marine_01",
+  position: new mp.Vector3(-2315.044, 3439.795, 31.474),
+  rotation: 14.256,
+  speech: "GENERIC_HOWS_IT_GOING",
+  voice: "A_M_M_POLYNESIAN_01_POLYNESIAN_MINI_01",
+  conversation_id: 218,
+  cam_pos: new mp.Vector3(-2315.351, 3441.002, 32.119),
+  cam_point: new mp.Vector3(-2315.107, 3440.029, 32.105)
+}, {
+  name: "Nathan Murphy",
+  model: "ig_fbisuit_01",
+  position: new mp.Vector3(2587.265, -295.118, 93.078),
+  rotation: -93.157,
+  speech: "GENERIC_HOWS_IT_GOING",
+  voice: "A_M_M_POLYNESIAN_01_POLYNESIAN_MINI_01",
+  conversation_id: 219,
+  cam_pos: new mp.Vector3(2588.552, -295.148, 93.78),
+  cam_point: new mp.Vector3(2587.504, -295.117, 93.72)
+}, {
+  name: "Winifred Anderson",
+  model: "s_f_y_airhostess_01",
+  position: new mp.Vector3(291.656, -564.903, 43.263),
+  rotation: 68.824,
+  speech: "PHONE_CONV3_INTRO",
+  voice: "A_F_M_BEVHILLS_01_WHITE_FULL_01",
+  conversation_id: 5000,
+  cam_pos: new mp.Vector3(289.891, -564.235, 43.763),
+  cam_point: new mp.Vector3(291.656, -564.903, 43.763),
+  questionMarker: true
+}, {
+  name: "Winifred Anderson",
+  model: "s_f_y_airhostess_01",
+  position: new mp.Vector3(1845.905, 3667.701, 33.742),
+  rotation: 137.986,
+  speech: "PHONE_CONV3_INTRO",
+  voice: "A_F_M_BEVHILLS_01_WHITE_FULL_01",
+  conversation_id: 5000,
+  cam_pos: new mp.Vector3(1844.655, 3666.151, 34.344),
+  cam_point: new mp.Vector3(1845.905, 3667.701, 34.344),
+  questionMarker: true
+}, {
+  name: "Winifred Anderson",
+  model: "s_f_y_airhostess_01",
+  position: new mp.Vector3(130.635, 85.199, 81.961),
+  rotation: -22.608,
+  speech: "PHONE_CONV3_INTRO",
+  voice: "A_F_M_BEVHILLS_01_WHITE_FULL_01",
+  conversation_id: 5000,
+  cam_pos: new mp.Vector3(131.573, 87.287, 82.461),
+  cam_point: new mp.Vector3(130.635, 85.199, 82.461),
+  questionMarker: true
+}, {
+  name: "",
+  model: "",
+  position: new mp.Vector3(-1646.569, -156.665, 57.633),
+  rotation: -29.673,
+  speech: "witch1",
+  voice: "",
+  conversation_id: 199,
+  cam_pos: new mp.Vector3(-1647.519, -157.613, 60.246),
+  cam_point: new mp.Vector3(-1646.364, -156.076, 59.959),
+  is_halloween: true
+}, {
+  name: "Dominic Richardson",
+  model: "a_m_y_business_03",
+  position: new mp.Vector3(861.962, -2365.853, 30.346),
+  rotation: 37.661,
+  speech: "GENERIC_HOWS_IT_GOING",
+  voice: "A_M_M_POLYNESIAN_01_POLYNESIAN_MINI_01",
+  conversation_id: 5002,
+  cam_pos: new mp.Vector3(861.017, -2364.583, 30.846),
+  cam_point: new mp.Vector3(861.962, -2365.853, 30.846)
+}, {
+  name: "Molly Boone",
+  model: "s_f_y_shop_mid",
+  position: new mp.Vector3(-276.745, 6290.26, 31.414),
+  rotation: -135.573,
+  speech: "PHONE_CONV3_INTRO",
+  voice: "A_F_Y_BEVHILLS_01_WHITE_FULL_01",
+  conversation_id: 5012,
+  cam_pos: new mp.Vector3(-275.843, 6289.39, 31.914),
+  cam_point: new mp.Vector3(-276.745, 6290.26, 31.914)
+}, {
+  name: "John Smith",
+  model: "a_m_y_business_03",
+  position: new mp.Vector3(-199.597, -34.7, 50.643),
+  rotation: 159.884,
+  speech: "PHONE_CONV3_INTRO",
+  voice: "A_M_Y_BUSINESS_03_WHITE_MINI_01",
+  conversation_id: 5013,
+  cam_pos: new mp.Vector3(-199.821, -35.999, 51.143),
+  cam_point: new mp.Vector3(-199.597, -34.7, 51.143)
+}, {
+  name: "James Caravan",
+  model: "ig_lazlow",
+  position: new mp.Vector3(1368.471, 6550.302, 14.91),
+  rotation: -85.153,
+  speech: "PHONE_CONV3_INTRO",
+  voice: "A_M_Y_BUSINESS_03_WHITE_MINI_01",
+  conversation_id: 5014,
+  cam_pos: new mp.Vector3(1370.062, 6550.458, 15.41),
+  cam_point: new mp.Vector3(1368.471, 6550.302, 15.41)
+}, {
+  name: "Bob Jackson",
+  model: "ig_oneil",
+  position: new mp.Vector3(1282.091, -2563.021, 43.954),
+  rotation: -50.271,
+  speech: "PHONE_CONV3_INTRO",
+  voice: "A_M_Y_BUSINESS_03_WHITE_MINI_01",
+  conversation_id: 5017,
+  cam_pos: new mp.Vector3(1282.942, -2562.284, 44.568),
+  cam_point: new mp.Vector3(1282.27, -2562.846, 44.398)
+}, {
+  name: "James Miller",
+  model: "a_m_y_downtown_01",
+  position: new mp.Vector3(211.444, -932.078, 29.623),
+  rotation: 100.451,
+  speech: "GENERIC_HOWS_IT_GOING",
+  voice: "A_M_Y_GENSTREET_02_BLACK_FULL_01",
+  conversation_id: 5021,
+  cam_pos: new mp.Vector3(210.363, -932.202, 30.123),
+  cam_point: new mp.Vector3(211.444, -932.078, 30.123),
+  speechParams: "Speech_Params_Force",
+  ru_only: true
+}, {
+  name: "Michael Johnson",
+  model: "s_m_m_pilot_02",
+  position: new mp.Vector3(186.651, -966.316, 47.038),
+  rotation: 31.565,
+  speech: "PHONE_CONV3_INTRO",
+  voice: "A_M_Y_BUSINESS_03_WHITE_MINI_01",
+  conversation_id: 5022,
+  cam_pos: new mp.Vector3(186.092, -965.293, 47.538),
+  cam_point: new mp.Vector3(186.651, -966.316, 47.538),
+  bSummer2025: true
+}, {
+  name: "Luke Burns",
+  model: "a_m_y_smartcaspat_01",
+  position: new mp.Vector3(-770.109, -26.187, 41.08),
+  rotation: -101.115,
+  speech: "PHONE_CONV3_INTRO",
+  voice: "A_M_Y_BUSINESS_03_WHITE_MINI_01",
+  conversation_id: 5023,
+  cam_pos: new mp.Vector3(-769.21, -26.42, 41.58),
+  cam_point: new mp.Vector3(-770.109, -26.187, 41.58)
+}, {
+  name: "Josh Cook",
+  model: "ig_davenorton",
+  position: new mp.Vector3(-159.405, 917.556, 235.656),
+  rotation: -45.636,
+  speech: "PHONE_CONV3_INTRO",
+  voice: "A_M_Y_BUSINESS_03_WHITE_MINI_01",
+  conversation_id: 5024,
+  cam_pos: new mp.Vector3(-158.801, 918.123, 236.156),
+  cam_point: new mp.Vector3(-159.405, 917.556, 236.156),
+  enServer: 3
+}, {
+  name: language.Начальник[curr_lang],
+  model: "mp_s_m_armoured_01",
+  position: new mp.Vector3(1788.054, 2597.74, 45.798),
+  rotation: 173.011,
+  speech: "GENERIC_HI",
+  voice: "A_M_M_POLYNESIAN_01_POLYNESIAN_MINI_01",
+  conversation_id: 6000,
+  cam_pos: new mp.Vector3(1788.051, 2596.931, 46.35),
+  cam_point: new mp.Vector3(1788.054, 2597.74, 46.4)
+}, {
+  name: "Marcus Cole",
+  model: "s_m_m_highsec_04",
+  position: new mp.Vector3(372.822, -574.376, 28.842),
+  rotation: 166.044,
+  speech: "GENERIC_HI",
+  voice: "A_M_M_POLYNESIAN_01_POLYNESIAN_MINI_01",
+  conversation_id: 6001,
+  cam_pos: new mp.Vector3(372.571, -575.504, 29.546),
+  cam_point: new mp.Vector3(372.822, -574.376, 29.546),
+  dimension: 0
+}, {
+  name: "Daniel Brooks",
+  model: "s_m_m_highsec_04",
+  position: new mp.Vector3(1836.493, 3668.946, 33.678),
+  rotation: -179.301,
+  speech: "GENERIC_HI",
+  voice: "A_M_M_POLYNESIAN_01_POLYNESIAN_MINI_01",
+  conversation_id: 6002,
+  cam_pos: new mp.Vector3(1836.588, 3667.125, 34.378),
+  cam_point: new mp.Vector3(1836.493, 3668.946, 34.378),
+  dimension: 0
+}, {
+  name: "Derrick Lawson",
+  model: "s_m_m_highsec_04",
+  position: new mp.Vector3(439.818, -1013, 28.609),
+  rotation: 157.701,
+  speech: "GENERIC_HI",
+  voice: "A_M_M_POLYNESIAN_01_POLYNESIAN_MINI_01",
+  conversation_id: 6003,
+  cam_pos: new mp.Vector3(439.439, -1014.002, 29.351),
+  cam_point: new mp.Vector3(439.818, -1013, 29.351),
+  dimension: 0
+}, {
+  name: "Steven McCoy",
+  model: "s_m_m_highsec_04",
+  position: new mp.Vector3(2516.929, -373.902, 93.141),
+  rotation: -133.504,
+  speech: "GENERIC_HI",
+  voice: "A_M_M_POLYNESIAN_01_POLYNESIAN_MINI_01",
+  conversation_id: 6004,
+  cam_pos: new mp.Vector3(2517.713, -374.793, 93.841),
+  cam_point: new mp.Vector3(2516.929, -373.902, 93.841),
+  dimension: 0
+}, {
+  name: "Caleb Turner",
+  model: "s_m_m_highsec_04",
+  position: new mp.Vector3(-459.075, 6031.561, 31.341),
+  rotation: 125.26,
+  speech: "GENERIC_HI",
+  voice: "A_M_M_POLYNESIAN_01_POLYNESIAN_MINI_01",
+  conversation_id: 6005,
+  cam_pos: new mp.Vector3(-459.728, 6030.932, 32.041),
+  cam_point: new mp.Vector3(-459.075, 6031.561, 32.041),
+  dimension: 0
+}, {
+  name: "Jordan Reese",
+  model: "s_m_m_highsec_04",
+  position: new mp.Vector3(-1840.168, 3262.094, 32.942),
+  rotation: 89.095,
+  speech: "GENERIC_HI",
+  voice: "A_M_M_POLYNESIAN_01_POLYNESIAN_MINI_01",
+  conversation_id: 6006,
+  cam_pos: new mp.Vector3(-1841.45, 3262.031, 33.642),
+  cam_point: new mp.Vector3(-1840.168, 3262.094, 33.642),
+  dimension: 0
+}, {
+  name: "Victor Hernandez",
+  model: "s_m_m_highsec_04",
+  position: new mp.Vector3(-1094.794, -260.308, 37.701),
+  rotation: 123.049,
+  speech: "GENERIC_HI",
+  voice: "A_M_M_POLYNESIAN_01_POLYNESIAN_MINI_01",
+  conversation_id: 6007,
+  cam_pos: new mp.Vector3(-1095.816, -261.037, 38.393),
+  cam_point: new mp.Vector3(-1094.794, -260.308, 38.393),
+  dimension: 0
+}, {
+  name: "Isaac Howard",
+  model: "s_m_m_highsec_04",
+  position: new mp.Vector3(-559.944, -158.694, 30.424),
+  rotation: 108.461,
+  speech: "GENERIC_HI",
+  voice: "A_M_M_POLYNESIAN_01_POLYNESIAN_MINI_01",
+  conversation_id: 6008,
+  cam_pos: new mp.Vector3(-561.105, -159.243, 31.125),
+  cam_point: new mp.Vector3(-559.944, -158.694, 31.124),
+  dimension: 0
+}, {
+  name: "Andre Mitchell",
+  model: "s_m_m_highsec_04",
+  position: new mp.Vector3(1805.473, 2614.807, 45.568),
+  rotation: 151.863,
+  speech: "GENERIC_HI",
+  voice: "A_M_M_POLYNESIAN_01_POLYNESIAN_MINI_01",
+  conversation_id: 6009,
+  cam_pos: new mp.Vector3(1804.207, 2612.541, 46.327),
+  cam_point: new mp.Vector3(1805.473, 2614.807, 46.327),
+  dimension: 0
+}, {
+  name: "Derrick Rose",
+  model: "g_m_y_ballaeast_01",
+  position: new mp.Vector3(88.71, -1961.267, 20.747),
+  rotation: -134.874,
+  speech: "GENERIC_HI",
+  voice: "A_M_M_POLYNESIAN_01_POLYNESIAN_MINI_01",
+  conversation_id: 6010,
+  cam_pos: new mp.Vector3(89.84, -1962.223, 21.4),
+  cam_point: new mp.Vector3(88.71, -1961.267, 21.4),
+  dimension: 0
+}, {
+  name: "Keisha Brown",
+  model: "g_f_y_families_01",
+  position: new mp.Vector3(-144.099, -1651.257, 32.694),
+  rotation: 5.111,
+  speech: "GENERIC_HI",
+  voice: "A_M_M_POLYNESIAN_01_POLYNESIAN_MINI_01",
+  conversation_id: 6011,
+  cam_pos: new mp.Vector3(-144.241, -1650.024, 33.4),
+  cam_point: new mp.Vector3(-144.099, -1651.257, 33.4),
+  dimension: 0
+}, {
+  name: "Pedro Gutierrez",
+  model: "g_m_y_mexgoon_02",
+  position: new mp.Vector3(-1066.204, -1667.372, 4.537),
+  rotation: 119.972,
+  speech: "GENERIC_HI",
+  voice: "A_M_M_POLYNESIAN_01_POLYNESIAN_MINI_01",
+  conversation_id: 6012,
+  cam_pos: new mp.Vector3(-1067.339, -1668.187, 5.2),
+  cam_point: new mp.Vector3(-1066.204, -1667.372, 5.2),
+  dimension: 0
+}, {
+  name: "Lamar Johnson",
+  model: "a_m_m_afriamer_01",
+  position: new mp.Vector3(412.418, -1507.573, 29.318),
+  rotation: 118.167,
+  speech: "GENERIC_HI",
+  voice: "A_M_M_POLYNESIAN_01_POLYNESIAN_MINI_01",
+  conversation_id: 6013,
+  cam_pos: new mp.Vector3(411.412, -1508.234, 30),
+  cam_point: new mp.Vector3(412.418, -1507.573, 30),
+  dimension: 0
+}, {
+  name: "Carlos Medina",
+  model: "a_m_m_soucent_03",
+  position: new mp.Vector3(816.754, -2114.187, 29.385),
+  rotation: 172.266,
+  speech: "GENERIC_HI",
+  voice: "A_M_M_POLYNESIAN_01_POLYNESIAN_MINI_01",
+  conversation_id: 6014,
+  cam_pos: new mp.Vector3(816.707, -2115.597, 30.068),
+  cam_point: new mp.Vector3(816.754, -2114.187, 30.068),
+  dimension: 0
+}, {
+  name: "Ice Johnson",
+  model: "csb_prologuedriver",
+  position: new mp.Vector3(1115.065, -663.869, 56.813),
+  rotation: -170.082,
+  speech: "GENERIC_HI",
+  voice: "A_M_M_POLYNESIAN_01_POLYNESIAN_MINI_01",
+  conversation_id: 6020,
+  cam_pos: new mp.Vector3(1115.308, -665.32, 57.513),
+  cam_point: new mp.Vector3(1115.065, -663.869, 57.513),
+  dimension: 0,
+  bChristmas2025: true
+}, {
+  name: "Kevin Brown",
+  model: "csb_prologuedriver",
+  position: new mp.Vector3(-79.613, -2502.014, 6.025),
+  rotation: -116.596,
+  speech: "GENERIC_HI",
+  voice: "A_M_M_POLYNESIAN_01_POLYNESIAN_MINI_01",
+  conversation_id: 6021,
+  cam_pos: new mp.Vector3(-77.169, -2502.95, 6.806),
+  cam_point: new mp.Vector3(-85.57, -2499.469, 5.666),
+  dimension: 0,
+  bChristmas2025: true
+}, {
+  name: "Matthew Carter",
+  model: "a_m_y_musclbeac_01",
+  position: new mp.Vector3(-1608.134, -1129.54, 2.148),
+  rotation: -128.995,
+  speech: "GENERIC_HI",
+  voice: "A_M_M_POLYNESIAN_01_POLYNESIAN_MINI_01",
+  conversation_id: 6022,
+  cam_pos: new mp.Vector3(-1606.841, -1130.568, 2.844),
+  cam_point: new mp.Vector3(-1608.134, -1129.54, 2.848),
+  dimension: 0,
+  bSummer2026: true
+}, {
+  name: "Darius Douglas",
+  model: "u_m_m_vince",
+  position: new mp.Vector3(1087.236, 221.163, -49.2),
+  rotation: 178.683,
+  speech: "GENERIC_HI",
+  voice: "A_M_M_POLYNESIAN_01_POLYNESIAN_MINI_01",
+  conversation_id: 6023,
+  cam_pos: new mp.Vector3(1087.385, 218.936, -48.496),
+  cam_point: new mp.Vector3(1087.331, 223.176, -48.721),
+  dimension: 0
+}];
+global.bunker_npc = [];
+mp.events.add("playerEnterColshape", _0x1493b4 => {
+  if (mp.colshapes.exists(_0x1493b4) && _0x1493b4.interact_npc == 1) {
+    main_browser.execute("APPS.state.hud.interact = true;");
+    if (_0x1493b4.bunker_interact > 0) {
+      at_bunker_interact = _0x1493b4.bunker_interact;
+    } else {
+      at_npc_bot = _0x1493b4.index + 1;
+    }
+    if (npc_options[_0x1493b4.index].speech == "witch1") {
+      StartCustomSound("witch_intro", "sounds/halloween/witch.ogg", 0.2);
+    } else {
+      let _0x870ccd = npc_bots[_0x1493b4.index];
+      if (_0x1493b4.story_npc && npc_bots_story[_0x1493b4.index]) {
+        _0x870ccd = npc_bots_story[_0x1493b4.index];
+      }
+      if (_0x870ccd) {
+        mp.game.audio.playAmbientSpeechWithVoice(_0x870ccd.handle, npc_options[_0x1493b4.index].speech, npc_options[_0x1493b4.index].voice, npc_options[_0x1493b4.index].speechParams ? npc_options[_0x1493b4.index].speechParams : "SPEECH_PARAMS_FORCE_NORMAL", false);
+      }
+    }
+  } else {
+    ;
+  }
+});
+mp.events.add("playerExitColshape", _0x4cb566 => {
+  if (mp.colshapes.exists(_0x4cb566) && _0x4cb566.interact_npc == 1) {
+    main_browser.execute("APPS.state.hud.interact = false;");
+    at_npc_bot = 0;
+    if (localcamera != null) {
+      localcamera.destroy();
+      localcamera = null;
+    }
+    if (at_bunker_interact > 0 && _0x4cb566.bunker_interact == at_bunker_interact) {
+      at_bunker_interact = 0;
+    }
+    return;
+  }
+});
+const gangNpcsToLoad = [{
+  model: "a_m_m_fatlatin_01",
+  pos: [-1108.6722412109375, -1636.678466796875, 4.615959167480469],
+  rot: 8.737934112548828
+}, {
+  model: "s_m_y_dealer_01",
+  pos: [-1043.8704833984375, -1592.55029296875, 4.930212497711182],
+  rot: 256.0360107421875
+}, {
+  model: "a_m_y_cyclist_01",
+  pos: [-1103.4351806640625, -1493.380615234375, 4.879530429840088],
+  rot: 210.32579040527344
+}, {
+  model: "a_m_y_downtown_01",
+  pos: [-1165.1162109375, -1551.06982421875, 4.3993940353393555],
+  rot: 299.82135009765625
+}, {
+  model: "s_m_y_dwservice_01",
+  pos: [-1126.1629638671875, -1453.7943115234375, 4.939870357513428],
+  rot: 109.40074157714844
+}, {
+  model: "a_m_m_eastsa_02",
+  pos: [-131.85787963867188, -1618.043212890625, 32.7634162902832],
+  rot: 210.2216033935547
+}, {
+  model: "a_m_y_eastsa_02",
+  pos: [-33.98107147216797, -1495.95703125, 30.767967224121094],
+  rot: 185.28067016601562
+}, {
+  model: "u_m_m_edtoh",
+  pos: [66.91033172607422, -1623.060302734375, 30.672636032104492],
+  rot: 47.628997802734375
+}, {
+  model: "a_m_y_epsilon_01",
+  pos: [142.75648498535156, -1520.0406494140625, 29.83696746826172],
+  rot: 35.15830993652344
+}, {
+  model: "a_m_y_epsilon_02",
+  pos: [318.540771484375, -1476.3328857421875, 29.962385177612305],
+  rot: 251.35662841796875
+}, {
+  model: "mp_m_exarmy_01",
+  pos: [455.5941162109375, -1498.0113525390625, 28.188175201416016],
+  rot: 198.24050903320312
+}, {
+  model: "g_m_y_famdnf_01",
+  pos: [308.81011962890625, -1641.8128662109375, 32.531211853027344],
+  rot: 58.391475677490234
+}, {
+  model: "g_m_y_famfor_01",
+  pos: [187.3758544921875, -1679.7261962890625, 29.739999771118164],
+  rot: 329.3995056152344
+}, {
+  model: "a_m_m_farmer_01",
+  pos: [250.4381561279297, -1769.7596435546875, 28.917165756225586],
+  rot: 268.357666015625
+}, {
+  model: "a_m_m_fatlatin_01",
+  pos: [113.81, -1764.824, 29.335],
+  rot: 332.287
+}, {
+  model: "a_m_o_tramp_01",
+  pos: [82.48138427734375, -1953.7777099609375, 20.755666732788086],
+  rot: 326.97283935546875
+}, {
+  model: "u_m_y_fibmugger_01",
+  pos: [188.88558959960938, -1844.8231201171875, 27.20120620727539],
+  rot: 200.6105499267578
+}, {
+  model: "u_m_m_filmdirector",
+  pos: [246.74111938476562, -1964.9779052734375, 21.961580276489258],
+  rot: 222.9695281982422
+}, {
+  model: "ig_g",
+  pos: [349.117431640625, -2068.77001953125, 20.938215255737305],
+  rot: 291.50897216796875
+}, {
+  model: "g_m_y_lost_03",
+  pos: [355.3297424316406, -1854.523193359375, 27.636150360107422],
+  rot: 279.781982421875
+}, {
+  model: "csb_fos_rep",
+  pos: [458.4259948730469, -1731.6048583984375, 29.05591583251953],
+  rot: 43.93742370605469
+}, {
+  model: "ig_g",
+  pos: [542.6640625, -1648.8433837890625, 28.49718475341797],
+  rot: 180.8772735595703
+}, {
+  model: "s_m_m_gaffer_01",
+  pos: [1224.7757568359375, -1511.0101318359375, 34.838165283203125],
+  rot: 173.3780517578125
+}, {
+  model: "csb_g",
+  pos: [1286.4425048828125, -1713.974609375, 55.041080474853516],
+  rot: 233.46224975585938
+}, {
+  model: "a_m_m_genfat_01",
+  pos: [1271.5621337890625, -1904.3458251953125, 38.50891876220703],
+  rot: 339.7949523925781
+}, {
+  model: "a_m_m_genfat_02",
+  pos: [1350.843505859375, -1551.6375732421875, 53.97150421142578],
+  rot: 31.946435928344727
+}, {
+  model: "a_m_o_genstreet_01",
+  pos: [-1223.6798095703125, -1310.6204833984375, 4.4863739013671875],
+  rot: 276.18988037109375
+}, {
+  model: "a_m_y_genstreet_01",
+  pos: [-1277.672119140625, -1334.9801025390625, 4.249084949493408],
+  rot: 282.6983337402344
+}, {
+  model: "a_m_y_genstreet_02",
+  pos: [-1252.8426513671875, -1219.192626953125, 5.412266731262207],
+  rot: 104.78567504882812
+}, {
+  model: "hc_hacker",
+  pos: [-1313.29150390625, -1242.8865966796875, 4.621341705322266],
+  rot: 271.40264892578125
+}, {
+  model: "ig_hao",
+  pos: [-957.8803100585938, -1105.600830078125, 2.15031099319458],
+  rot: 30.72016143798828
+}, {
+  model: "a_m_m_hasjew_01",
+  pos: [-1010.8307495117188, -1012.8524780273438, 2.150193452835083],
+  rot: 39.21086502075195
+}, {
+  model: "a_m_y_hiker_01",
+  pos: [-1111.4188232421875, -1045.8843994140625, 2.150357723236084],
+  rot: 200.98556518554688
+}, {
+  model: "a_m_m_hillbilly_01",
+  pos: [-1044.2698974609375, -1155.4039306640625, 2.158597230911255],
+  rot: 23.576723098754883
+}, {
+  model: "a_m_m_hillbilly_02",
+  pos: [-354.9808349609375, -1513.6822509765625, 27.717214584350586],
+  rot: 177.81964111328125
+}, {
+  model: "u_m_y_hippie_01",
+  pos: [-313.538818359375, -1341.9691162109375, 31.330848693847656],
+  rot: 79.57408905029297
+}, {
+  model: "a_m_y_hipster_02",
+  pos: [-176.2452850341797, -1312.12451171875, 32.29771041870117],
+  rot: 112.44860076904297
+}, {
+  model: "csb_hugh",
+  pos: [-19.242460250854492, -1309.8909912109375, 29.259878158569336],
+  rot: 348.4241027832031
+}, {
+  model: "csb_imran",
+  pos: [136.77371215820312, -1295.080810546875, 29.23272705078125],
+  rot: 218.5988311767578
+}, {
+  model: "a_m_m_indian_01",
+  pos: [265.2451477050781, -1377.4698486328125, 30.555580139160156],
+  rot: 286.2606506347656
+}, {
+  model: "a_m_y_indian_01",
+  pos: [459.78765869140625, -1315.0107421875, 29.282398223876953],
+  rot: 291.779296875
+}, {
+  model: "csb_jackhowitzer",
+  pos: [703.7060546875, -1539.5950927734375, 9.708629608154297],
+  rot: 100.36161041259766
+}, {
+  model: "ig_jay_norris",
+  pos: [1161.489501953125, -1312.933349609375, 34.74275588989258],
+  rot: 172.50514221191406
+}, {
+  model: "ig_jimmyboston",
+  pos: [980.360595703125, -1812.9693603515625, 31.3209171295166],
+  rot: 217.693603515625
+}, {
+  model: "ig_joeminuteman",
+  pos: [992.7223510742188, -1912.45751953125, 31.152734756469727],
+  rot: 157.1504669189453
+}, {
+  model: "ig_josef",
+  pos: [946.0223999023438, -2044.9317626953125, 30.170137405395508],
+  rot: 91.29329681396484
+}, {
+  model: "a_m_y_juggalo_01",
+  pos: [888.493408203125, -2001.9373779296875, 30.58584976196289],
+  rot: 359.9994812011719
+}, {
+  model: "g_m_y_korean_01",
+  pos: [1002.8483276367188, -2159.4501953125, 30.55156135559082],
+  rot: 158.1061553955078
+}, {
+  model: "a_m_m_ktown_01",
+  pos: [847.7052612304688, -2190.67236328125, 30.30517578125],
+  rot: 4.957050800323486
+}, {
+  model: "a_m_o_ktown_01",
+  pos: [827.0266723632812, -2340.332275390625, 30.334304809570312],
+  rot: 170.22422790527344
+}, {
+  model: "a_m_y_latino_01",
+  pos: [972.9524536132812, -2413.80908203125, 31.489017486572266],
+  rot: 293.47027587890625
+}];
+function SpawnQuestionMarker(_0x1aba7e, _0x3dcfc0) {
+  if (_0x1aba7e.questionMarker && story_quest_progress) {
+    return mp.markers.new(32, new mp.Vector3(_0x1aba7e.position.x, _0x1aba7e.position.y, _0x1aba7e.position.z + 1.3), 0.5, {
+      color: [255, 225, 0, 255],
+      visible: true,
+      dimension: _0x3dcfc0
+    });
+  }
+}
+function SpawnQuestionMarkers() {
+  npc_options.forEach((_0x365551, _0x1684f6) => {
+    if (!npc_colshapes[_0x1684f6]) {
+      return;
+    }
+    if (npc_markers[_0x1684f6] && mp.markers.exists(npc_markers[_0x1684f6])) {
+      return;
+    }
+    let _0x32c0fd = 0;
+    if (_0x365551.dimension != null) {
+      _0x32c0fd = _0x365551.dimension;
+    }
+    if (new_version != 1) {
+      _0x32c0fd = 0;
+    }
+    npc_markers[_0x1684f6] = SpawnQuestionMarker(_0x365551, _0x32c0fd);
+  });
+}
+function DestroyQuestionMarkers() {
+  for (let _0x5d4c5f = 0; _0x5d4c5f < npc_markers.length; _0x5d4c5f++) {
+    if (npc_markers[_0x5d4c5f] && mp.markers.exists(npc_markers[_0x5d4c5f])) {
+      npc_markers[_0x5d4c5f].destroy();
+    }
+  }
+  npc_markers = [];
+}
+function SpawnStoryDimensionNpcs() {
+  if (story_npc_spawned) {
+    return;
+  }
+  let _0x2dfa4c = localplayer.getVariable("REMOTE_ID") + 1;
+  npc_options.forEach((_0x2acb30, _0x20aca9) => {
+    if (!_0x2acb30.questionMarker) {
+      return;
+    }
+    if (!is_school && _0x2acb30.is_school) {
+      return;
+    }
+    if (!is_halloween && _0x2acb30.is_halloween) {
+      return;
+    }
+    if (!bSummer2025 && _0x2acb30.bSummer2025) {
+      return;
+    }
+    if (!bChristmas2025 && _0x2acb30.bChristmas2025) {
+      return;
+    }
+    if (_0x2acb30.eng_only !== undefined && curr_lang == "ru" && _0x2acb30.eng_only == 1 || _0x2acb30.eng_only !== undefined && curr_lang != "ru" && _0x2acb30.eng_only == 0) {
+      return;
+    }
+    if (_0x2acb30.ru_only && curr_lang != "ru") {
+      return;
+    }
+    if (_0x2acb30.enServer && curr_lang != "en" && _0x2acb30.enServer != server_number) {
+      return;
+    }
+    let _0x2ad13e = 0;
+    if (_0x2acb30.dimension != null) {
+      _0x2ad13e = _0x2acb30.dimension;
+    }
+    if (new_version != 1) {
+      _0x2ad13e = 0;
+    }
+    if (_0x2ad13e == 0) {
+      npc_labels_story[_0x20aca9] = mp.labels.new(_0x2acb30.name, new mp.Vector3(_0x2acb30.position.x, _0x2acb30.position.y, _0x2acb30.position.z + 1), {
+        los: true,
+        font: 0,
+        drawDistance: 6,
+        color: [255, 255, 255, 255],
+        dimension: _0x2dfa4c
+      });
+      if (_0x2acb30.model) {
+        npc_bots_story[_0x20aca9] = mp.peds.new(mp.game.joaat(_0x2acb30.model), _0x2acb30.position, _0x2acb30.rotation, _0x2dfa4c);
+        if (_0x2acb30.santavillage != null) {
+          npc_bots_story[_0x20aca9].santavillage = true;
+        }
+      }
+      npc_colshapes_story[_0x20aca9] = mp.colshapes.newSphere(_0x2acb30.position.x, _0x2acb30.position.y, _0x2acb30.position.z, 2.5, _0x2dfa4c);
+      npc_colshapes_story[_0x20aca9].index = _0x20aca9;
+      npc_colshapes_story[_0x20aca9].interact_npc = true;
+      npc_colshapes_story[_0x20aca9].story_npc = true;
+      if (_0x2acb30.bunker_npc != null) {
+        npc_colshapes_story[_0x20aca9].bunker_interact = _0x2acb30.bunker_npc;
+      }
+      npc_markers_story[_0x20aca9] = SpawnQuestionMarker(_0x2acb30, _0x2dfa4c);
+    }
+  });
+  story_npc_spawned = true;
+}
+setTimeout(() => {
+  npc_options.forEach((_0x4a2615, _0x56e672) => {
+    if (!is_school && _0x4a2615.is_school) {
+      return;
+    }
+    if (!is_halloween && _0x4a2615.is_halloween) {
+      return;
+    }
+    if (!bSummer2025 && _0x4a2615.bSummer2025) {
+      return;
+    }
+    if (!bChristmas2025 && _0x4a2615.bChristmas2025) {
+      return;
+    }
+    if (_0x4a2615.eng_only !== undefined && curr_lang == "ru" && _0x4a2615.eng_only == 1 || _0x4a2615.eng_only !== undefined && curr_lang != "ru" && _0x4a2615.eng_only == 0) {
+      return;
+    }
+    if (_0x4a2615.ru_only && curr_lang != "ru") {
+      return;
+    }
+    if (_0x4a2615.enServer && curr_lang != "en" && _0x4a2615.enServer != server_number) {
+      return;
+    }
+    let _0x1909b7 = 0;
+    if (_0x4a2615.dimension != null) {
+      _0x1909b7 = _0x4a2615.dimension;
+    }
+    if (new_version != 1) {
+      _0x1909b7 = 0;
+    }
+    mp.labels.new(_0x4a2615.name, new mp.Vector3(_0x4a2615.position.x, _0x4a2615.position.y, _0x4a2615.position.z + 1), {
+      los: true,
+      font: 0,
+      drawDistance: 6,
+      color: [255, 255, 255, 255],
+      dimension: _0x1909b7
+    });
+    if (_0x4a2615.model) {
+      npc_bots[_0x56e672] = mp.peds.new(mp.game.joaat(_0x4a2615.model), _0x4a2615.position, _0x4a2615.rotation, _0x1909b7);
+      if (_0x4a2615.santavillage != null) {
+        npc_bots[_0x56e672].santavillage = true;
+      }
+      if (_0x4a2615.bunker_npc != null) {
+        bunker_npc.push(npc_bots[_0x56e672]);
+      }
+    }
+    npc_colshapes[_0x56e672] = mp.colshapes.newSphere(_0x4a2615.position.x, _0x4a2615.position.y, _0x4a2615.position.z, 2.5, _0x1909b7);
+    npc_colshapes[_0x56e672].index = _0x56e672;
+    npc_colshapes[_0x56e672].interact_npc = true;
+    if (_0x4a2615.bunker_npc != null) {
+      npc_colshapes[_0x56e672].bunker_interact = _0x4a2615.bunker_npc;
+    }
+  });
+  SpawnQuestionMarkers();
+  gangNpcsToLoad.forEach(_0x1af1b3 => {
+    mp.peds.new(mp.game.joaat(_0x1af1b3.model), new mp.Vector3(_0x1af1b3.pos[0], _0x1af1b3.pos[1], _0x1af1b3.pos[2]), _0x1af1b3.rot, _0x90b1bf => {}, 0);
+  });
+}, 500);
+global.DestroyStoryDimensionNpcs = function () {
+  for (let _0x4c6b71 = 0; _0x4c6b71 < npc_bots_story.length; _0x4c6b71++) {
+    if (npc_bots_story[_0x4c6b71] && mp.peds.exists(npc_bots_story[_0x4c6b71])) {
+      npc_bots_story[_0x4c6b71].destroy();
+    }
+  }
+  for (let _0x2e936c = 0; _0x2e936c < npc_colshapes_story.length; _0x2e936c++) {
+    if (npc_colshapes_story[_0x2e936c] && mp.colshapes.exists(npc_colshapes_story[_0x2e936c])) {
+      npc_colshapes_story[_0x2e936c].destroy();
+    }
+  }
+  for (let _0xdbc0bc = 0; _0xdbc0bc < npc_labels_story.length; _0xdbc0bc++) {
+    if (npc_labels_story[_0xdbc0bc] && mp.labels.exists(npc_labels_story[_0xdbc0bc])) {
+      npc_labels_story[_0xdbc0bc].destroy();
+    }
+  }
+  for (let _0x4e9d7a = 0; _0x4e9d7a < npc_markers_story.length; _0x4e9d7a++) {
+    if (npc_markers_story[_0x4e9d7a] && mp.markers.exists(npc_markers_story[_0x4e9d7a])) {
+      npc_markers_story[_0x4e9d7a].destroy();
+    }
+  }
+  npc_bots_story = [];
+  npc_colshapes_story = [];
+  npc_labels_story = [];
+  npc_markers_story = [];
+  story_npc_spawned = false;
+  DestroyQuestionMarkers();
+};
+global.UpdateStoryDimensionNpcs = function () {
+  if (loggedin && story_quest_progress != 0) {
+    SpawnQuestionMarkers();
+    if (localplayer.dimension == localplayer.getVariable("REMOTE_ID") + 1) {
+      SpawnStoryDimensionNpcs();
+    }
+  }
+};

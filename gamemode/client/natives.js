@@ -1,1 +1,258 @@
-function _0x2562c6(_0x24870c,_0x22416a){var _0x1b3289={_0x1fe730:0x19c};return _0x159a(_0x22416a- -_0x1b3289._0x1fe730,_0x24870c);}(function(_0x311ebd,_0x288122){var _0x23c3b2={_0x3ac89b:0x140,_0xd502d:0x223,_0x404c91:0x11f,_0x9e0cb2:0x21f,_0x11e482:0xf2};function _0x20883a(_0x493edd,_0x2c5d6b){return _0x159a(_0x2c5d6b- -0x1d7,_0x493edd);}var _0x5f5de9=_0x311ebd();function _0x1be449(_0x3d927f,_0x4dd5b9){return _0x159a(_0x3d927f-0x192,_0x4dd5b9);}while(!![]){try{var _0x44ab41=parseInt(_0x20883a(-0x150,-_0x23c3b2._0x3ac89b))/0x1*(-parseInt(_0x1be449(_0x23c3b2._0xd502d,0x262))/0x2)+-parseInt(_0x1be449(0x263,0x28b))/0x3*(parseInt(_0x20883a(-0x101,-_0x23c3b2._0x404c91))/0x4)+parseInt(_0x1be449(0x21c,0x247))/0x5+parseInt(_0x20883a(-0x10e,-0x155))/0x6+-parseInt(_0x1be449(0x282,0x2c7))/0x7+-parseInt(_0x1be449(0x205,0x1d8))/0x8*(-parseInt(_0x1be449(0x24c,_0x23c3b2._0x9e0cb2))/0x9)+-parseInt(_0x20883a(-0xd2,-_0x23c3b2._0x11e482))/0xa;if(_0x44ab41===_0x288122)break;else _0x5f5de9['push'](_0x5f5de9['shift']());}catch(_0x106d0b){_0x5f5de9['push'](_0x5f5de9['shift']());}}}(_0x2a28,0xacc5a));var _0x5841c3=(function(){var _0x104165={_0x36d6d5:0x24a},_0x59fad3=!![];return function(_0x2f8ad0,_0x4c7a15){var _0x59a108=_0x59fad3?function(){var _0x6436c7={_0x628952:0xf0};function _0x18999f(_0x56fde8,_0x4fbfd4){return _0x159a(_0x4fbfd4-_0x6436c7._0x628952,_0x56fde8);}function _0x41d97a(_0x2215c9,_0x3e2615){return _0x159a(_0x3e2615-0x181,_0x2215c9);}if(_0x4c7a15){if(_0x18999f(0x165,0x15f)===_0x18999f(0x18b,0x164)){if(_0x4bab5a){var _0x59f85f=_0x1446eb['apply'](_0x5ae914,arguments);return _0x349384=null,_0x59f85f;}}else{var _0x33e299=_0x4c7a15[_0x41d97a(_0x104165._0x36d6d5,0x24f)](_0x2f8ad0,arguments);return _0x4c7a15=null,_0x33e299;}}}:function(){};return _0x59fad3=![],_0x59a108;};}()),_0x1ecce7=_0x5841c3(this,function(){var _0x4b923c={_0x1d7878:0x30e,_0x18fdb6:0x138,_0x42b579:0x300,_0x360afb:0xf7,_0x3f6e0b:0xee},_0x53bcf6={_0x3bb0dc:0xe};function _0x5a64cc(_0x586bf4,_0x299e40){return _0x159a(_0x586bf4- -0x398,_0x299e40);}function _0x3bb15f(_0x4abd9d,_0x3449dd){return _0x159a(_0x4abd9d-_0x53bcf6._0x3bb0dc,_0x3449dd);}return _0x1ecce7[_0x5a64cc(-0x2e3,-0x2de)]()[_0x5a64cc(-0x2df,-_0x4b923c._0x1d7878)](_0x3bb15f(0xf7,_0x4b923c._0x18fdb6))[_0x3bb15f(0xc3,0x9d)]()[_0x5a64cc(-0x2f3,-_0x4b923c._0x42b579)](_0x1ecce7)[_0x3bb15f(0xc7,0xb6)](_0x3bb15f(_0x4b923c._0x360afb,_0x4b923c._0x3f6e0b));});function _0x2a28(){var _0x5e87b8=['mhHendm2qtzdruiXnejbqZy2','mhHbqtC1qZq1qKm0ndq5qtqW','mhGZqJKYmem1mJHcntrgqJvg','BejICMS','mhHfqJq3rum0rtm0rKi3ruuX','mhG1qta3ndrenta0q0m3mdvg','mhHgmJHbodffmZmXqtngmZm3','mZG4nZjrz1H6tfa','AgTmq1K','mhHgmdjboumZmZbcqKzdnum3','mhG4rJK5m0qYnKuWq0e1rtHf','mhGXmdu1qumZqty2n0yWouq5','mhGYmeffmZngm0fdoumWmdmZ','mhG1rKy5n0i3mum1nZzfrJuZ','mhHeq0qYqtKZneq2nuncndK3','mhHbmZuYqZfcody0q0fgrdmZ','mhHenuq5qJq4ruiXmezbmKmW','mhHendjgnta0nJDfn0fendze','mhHdodiWn0m0mum2rdffm0ng','mhG1rJG1mendnZK5otK5ndDb','mhGZmdrbrtqYrtm1n0i4qZDf','mhG2qZK3ruvdnJmZouzcndvd','ndy1nJi3mhfIEvDUAW','mhHemti5qtrdntLcruiZoui4','mhHcntuZm0mWqZHbmKi5qKyY','mhGWqtzeqJq5nJu2nZremJqZ','mhHcneveremXotuZmKjgqJG1','mhGXndG5mJq3ndG5muuWouvc','mhHdrta3qJLgnZGXn0fbreeZ','mhGWqJuXnJC2odq2rdDdntDc','ndu4otmWmevoB1DotG','mhG4rtbbntGYmJa5qtyYnJK1','mhHgndGXnJndndKZnta2mKu1','mhGWnJbeotm1rdm5odfbmJC1','mhGYrdGZqKmWmtfdqte0qtnd','mhG5m0eZotK2mZy4qZK0mtu4','mhHbndHgntKZq0m3qtCXrKnd','mtaYmde0BNvyueTm','mhHcqZaZotaXqte1mta3mZe3','mhHbnte2qZe5oei3renbmuuX','mhHgmJverJKXnuzbmZHdnuyZ','mhG5mdyZremXnZKXoeqZndzb','mhHemJiWqKremJiYqum0qtff','mtj2sfDhrwG','mhG1oee2mKrfqZG0rdfgqJzg','mhGYoemZqJqYmtq4nZCYmZnb','mhGWmKi3oee2n0zemZK2qtqY','mhG1mdG4q0y3nZrerJzeotm1','mhGYmJa2qKy5qtm3qJDgnZi0','mhG2nJC4qZe0mKzbqZG4mujb','mhHgn0yYnKm2rtLdqZLfqKi4','mhG5rtq3qtGZqKfcnZjemKm0','mhG5odbdndjcodmZrda3qKi0','mhG1qtrgouverJe2nZngnZa0','mhGYnda2qtLdoerbotLem0y0','mhG5rKfbqtrgnezdnZfgodDg','mhG2qti1mJqXqZm0meqZodiY','y29UC3rYDwn0B3i','mhHdnKyYntK3mZffmtbbrKeX','mhHdree5odC4qKfdnum2rdy4','mhGXnuqZqtC5rdrfndrcoteZ','mhG0odK5q0iWodHfrey1oui4','tKfusvzfuW','mhGXotK2ndbgntvfmey3ntK2','mhHfoefgnZDdnemWnKfeqZKZ','mhG2m0q0mZa0ndq2muy0meje','mhHfrKvbmtHeq0yXmey4rJC1','mhHcrJbgrdzfntzdoty0rKnc','mhHbmJaZntneqJfemKfgodiW','mhG5rta1ode1mtCYnKu1oerf','mhGXndjbmdi0mJvgrJaYqKq5','mhHgneeWrKnfoty0odDbmtbc','mhG5nZe5mJCWodzdrKqYmtu4','Dg9tDhjPBMC','mhHgrdu1rtq5ntu1rtaXn0ng','mhG4nKvfrtLbmKffrJzfqZG4','mZG3odeYDerNtw1u','C2vHCMnO','mtCWmujvrerLua','mhG1nJzcmZjdqtKWqZi4rdjd','mhG0mJHcrencourbntHeqtuZ','mhHcmtq1ntiZodnemZLdrtnf','mhGXreiWm0m3rdneqZq5mda2','mhG1ote3qKjbmZjemdzdmJmW','mhHentmYqufgnZeZnZzcnuu4','mhHgmJa4ntDfnencmZjbmKi3','mhG0odbdoey0qZuZm0i5nZq4','mhG4mKy2nJyYnJa4qZC5mZu5','z2v0tMf0AxzL','mhHgmuu5rtrdqKe3nZy4muqZ','mhHbnJe5qJe2oei4qtG1nZbg','mhHcnKu2rKjbotvdnZmYnefd','mhHcrdvdm0e4qZqYneq2otjg','mhHeqZbfqKzdnZCZmefbmJi2','mhG0rKe1otm5nZy0m0zcmde2','mhHgntfdqJu4rdrbrdK0qJrd','mhHerJCZntyWmee0nJK2refg','mhHgqtnemJi2mZLgnufbndKZ','yxbWBhK','mhGZnKfem0u2otbeqtvbq0vc','mhGZnJHfntG3ntiZodrfmei0','m1zvEenguq','mhHdrKe4mJGZodLbmem1qJzc','mhG3rde1nei4ndbcrdaZrdaW','mhHgrtK5qJy2rda3oungnKjd','mhHdote1nKrdmte0mtfbouvb','mhG0nuzgotC0ruvfmum4nZm0','mhGWmdy2m0uXmJngq0i1mdqX','mhHfrdCXmKnbmZi3otaWqZHb','mhHbqKjfrJjfqum3neeWmKvc','mhHdndmWmuu1mtiXqtbfrdCZ','mhGYnergndK3nty2rurcmuyW','mhHem0nenKzemJK3quu4n0nd','mhHgnKjfrtDfodbfqZvdqtqW','mhHfodm4mZK5mdHbmJqWrdjf','mhG0rdaWoezgota4qJyYm0uY','mhHfqJKZneeWnKreqtuWmJDe','mhG5ntvgrJe3mdG5quy2mdCY','mhGXneu1nKjdnui1rei2qte5','mhHfrdDgn0vgrtLgqujgmZqW','mhHbmZndrendree2nJmXntLf','mtq3odC1me9otwTAzq','mhGZqJGXnue2rtG1mZbem0e1','mhHcntLfnejemZDbrti5mKrc','mhGXn0uZntzbrJrgotmWqtjd','kcGOlISPkYKRksSK','mhGXoevdode0rdu3n0i5mKnf','mhHbnJvdouiWmKvfmZu5nKzf','mhGXnJzfn0ngnJG1otDeoei1','mhG2muy5otC3qJm3oem0m0jg','mhHcotG0rtq0ntu2ndveodyY','mhG5oteYntfbrKmZotGXrJG0','nZmZmZy5mhjsr0jeqW','mhHcrtiYmtq5mtu3ndjbmeu4','mhHemKq1n0yXrdC2ndeXn0iX','mhHgodC2odndrey3m0mZrJzf','mhGWqZCXqZHfmJC2rtnfqZu0','mhG0qJqWndbbmevdn0rcqtGX','mhG2rJbgnZDgqKe5qtHgmKu2','mhG4otbem0q4rJe5qtKYm0nd','mhHeque2muzdm0fbrezbrtfe','mhGZm0m5rdbcmZKYmtbcmZvf','mhGZq0zfmdLdrKvcntm2qZne','mhHfrKqZrtrbmJaYqtbeourb'];_0x2a28=function(){return _0x5e87b8;};return _0x2a28();}function _0xea095f(_0x206edc,_0x37566c){var _0x4e8cdc={_0x44e1f3:0x38a};return _0x159a(_0x37566c-_0x4e8cdc._0x44e1f3,_0x206edc);}function _0x159a(_0x7a04d2,_0x122fb3){_0x7a04d2=_0x7a04d2-0x6a;var _0xd163eb=_0x2a28();var _0x1ecce7=_0xd163eb[_0x7a04d2];if(_0x159a['VYtfat']===undefined){var _0x5841c3=function(_0x2006d8){var _0x2470fc='abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789+/=';var _0x77e9a4='',_0x102699='',_0x5cf6ee=_0x77e9a4+_0x5841c3;for(var _0x11fa7e=0x0,_0x1ad48b,_0x360acf,_0x4c93bc=0x0;_0x360acf=_0x2006d8['charAt'](_0x4c93bc++);~_0x360acf&&(_0x1ad48b=_0x11fa7e%0x4?_0x1ad48b*0x40+_0x360acf:_0x360acf,_0x11fa7e++%0x4)?_0x77e9a4+=_0x5cf6ee['charCodeAt'](_0x4c93bc+0xa)-0xa!==0x0?String['fromCharCode'](0xff&_0x1ad48b>>(-0x2*_0x11fa7e&0x6)):_0x11fa7e:0x0){_0x360acf=_0x2470fc['indexOf'](_0x360acf);}for(var _0x5f015a=0x0,_0x3e1562=_0x77e9a4['length'];_0x5f015a<_0x3e1562;_0x5f015a++){_0x102699+='%'+('00'+_0x77e9a4['charCodeAt'](_0x5f015a)['toString'](0x10))['slice'](-0x2);}return decodeURIComponent(_0x102699);};_0x159a['OJjRsg']=_0x5841c3,_0x159a['KVIzNG']={},_0x159a['VYtfat']=!![];}var _0x2a28d3=_0xd163eb[0x0],_0x159a13=_0x7a04d2+_0x2a28d3,_0x3421f7=_0x159a['KVIzNG'][_0x159a13];if(!_0x3421f7){var _0x3f4440=function(_0x38e6d2){this['MqUSoT']=_0x38e6d2,this['FxQAFd']=[0x1,0x0,0x0],this['KYzlFL']=function(){return'newState';},this['nQbiSb']='\x5cw+\x20*\x5c(\x5c)\x20*{\x5cw+\x20*',this['aEqknR']='[\x27|\x22].+[\x27|\x22];?\x20*}';};_0x3f4440['prototype']['aNSRIp']=function(){var _0xad7908=new RegExp(this['nQbiSb']+this['aEqknR']),_0x173868=_0xad7908['test'](this['KYzlFL']['toString']())?--this['FxQAFd'][0x1]:--this['FxQAFd'][0x0];return this['MCRECK'](_0x173868);},_0x3f4440['prototype']['MCRECK']=function(_0x5a8edf){if(!Boolean(~_0x5a8edf))return _0x5a8edf;return this['mSeDoX'](this['MqUSoT']);},_0x3f4440['prototype']['mSeDoX']=function(_0x16f945){for(var _0x15cbd1=0x0,_0x18af14=this['FxQAFd']['length'];_0x15cbd1<_0x18af14;_0x15cbd1++){this['FxQAFd']['push'](Math['round'](Math['random']())),_0x18af14=this['FxQAFd']['length'];}return _0x16f945(this['FxQAFd'][0x0]);},new _0x3f4440(_0x159a)['aNSRIp'](),_0x1ecce7=_0x159a['OJjRsg'](_0x1ecce7),_0x159a['KVIzNG'][_0x159a13]=_0x1ecce7;}else _0x1ecce7=_0x3421f7;return _0x1ecce7;}_0x1ecce7(),(global['GTA_VER']=0xa,global[_0xea095f(0x44b,0x44e)]=function(_0x412634){return NATIVES[_0x412634][GTA_VER];},global[_0xea095f(0x44d,0x434)]={'SET_BLIP_FLASHES':{0xa:_0xea095f(0x489,0x447)},'SET_BLIP_SECONDARY_COLOUR':{0xa:_0xea095f(0x418,0x411)},'SET_BLIP_SPRITE':{0xa:_0x2562c6(-0xa5,-0xd0),0x0:_0xea095f(0x4af,0x470),0x1:_0xea095f(0x48b,0x453),0x2:_0xea095f(0x48e,0x47f)},'SET_BLIP_ALPHA':{0xa:_0xea095f(0x46e,0x460),0x0:_0xea095f(0x451,0x474),0x1:_0x2562c6(-0xff,-0xde),0x2:_0x2562c6(-0xee,-0xdb)},'SET_BLIP_COLOUR':{0xa:'0x03D7FB09E75D6B7E',0x0:_0xea095f(0x4aa,0x46a),0x1:'0x71925FF3194E84CE',0x2:_0x2562c6(-0x67,-0xa8)},'SET_BLIP_FLASH_TIMER':{0xa:_0x2562c6(-0xf3,-0xc0),0x0:_0xea095f(0x42c,0x44d),0x1:_0xea095f(0x45f,0x482),0x2:_0xea095f(0x40f,0x3f7)},'SET_BLIP_ROTATION':{0xa:_0x2562c6(-0xca,-0xa9),0x0:_0xea095f(0x4a9,0x481),0x1:_0x2562c6(-0xb9,-0xcf),0x2:_0xea095f(0x445,0x468)},'REQUEST_ADDITIONAL_COLLISION_AT_COORD':{0xa:_0xea095f(0x41f,0x45f),0x0:_0x2562c6(-0x11a,-0x110),0x1:_0xea095f(0x473,0x435),0x2:_0xea095f(0x470,0x445)},'SET_FOLLOW_PED_CAM_VIEW_MODE':{0xa:_0x2562c6(-0xf1,-0xfb),0x0:_0xea095f(0x43c,0x452),0x1:_0xea095f(0x445,0x43a),0x2:_0xea095f(0x426,0x413)},'SET_PED_AMMO':{0xa:_0x2562c6(-0xf5,-0xba),0x0:_0xea095f(0x401,0x424),0x1:_0x2562c6(-0x12c,-0x11e),0x2:_0xea095f(0x3dc,0x3fc)},'SET_AMMO_IN_CLIP':{0xa:_0x2562c6(-0x158,-0x122)},'REMOVE_ALL_PED_WEAPONS':{0xa:_0xea095f(0x447,0x41e)},'GET_SELECTED_PED_WEAPON':{0xa:_0xea095f(0x42c,0x40f),0x0:_0xea095f(0x432,0x422),0x1:_0xea095f(0x409,0x427),0x2:_0x2562c6(-0xef,-0xbd)},'GIVE_WEAPON_TO_PED':{0xa:_0x2562c6(-0x11a,-0xed),0x0:_0xea095f(0x3f9,0x406),0x1:_0x2562c6(-0xf6,-0xc9),0x2:_0x2562c6(-0x112,-0xeb)},'REMOVE_WEAPON_FROM_PED':{0xa:_0xea095f(0x40c,0x433),0x0:_0xea095f(0x3e9,0x429),0x1:_0xea095f(0x454,0x41a),0x2:_0x2562c6(-0x9b,-0xc3)},'IS_CUTSCENE_ACTIVE':{0xa:_0xea095f(0x49d,0x479),0x0:_0x2562c6(-0x134,-0x107),0x1:_0x2562c6(-0xeb,-0xaf),0x2:_0x2562c6(-0xf1,-0x11b)},'STOP_CUTSCENE_IMMEDIATELY':{0xa:_0x2562c6(-0x14b,-0x106),0x0:_0xea095f(0x486,0x455),0x1:_0x2562c6(-0x130,-0xf5),0x2:_0x2562c6(-0xe4,-0xca)},'GET_RANDOM_EVENT_FLAG':{0xa:_0x2562c6(-0xe3,-0xaa),0x0:_0xea095f(0x433,0x441),0x1:_0xea095f(0x3e3,0x3f6),0x2:_0x2562c6(-0xf9,-0xb4)},'SET_RANDOM_EVENT_FLAG':{0xa:_0x2562c6(-0x124,-0xe8),0x0:_0xea095f(0x47e,0x454),0x1:_0xea095f(0x3e6,0x407),0x2:_0x2562c6(-0xbf,-0xfc)},'GET_MISSION_FLAG':{0xa:_0xea095f(0x463,0x46e),0x0:_0xea095f(0x483,0x44a),0x1:_0x2562c6(-0x139,-0x131),0x2:_0x2562c6(-0x12a,-0x12b)},'SET_MISSION_FLAG':{0xa:_0x2562c6(-0xfb,-0xc2),0x0:_0xea095f(0x3ca,0x40e),0x1:_0x2562c6(-0xa2,-0xbb),0x2:_0xea095f(0x455,0x41c)},'REMOVE_ALL_PED_WEAPONS':{0xa:_0x2562c6(-0x14c,-0x108),0x0:_0xea095f(0x3cd,0x40d),0x1:_0x2562c6(-0x120,-0x123),0x2:'0x7346A36E01E18FEC'},'GET_AMMO_IN_PED_WEAPON':{0xa:'0x015A522136D7F951',0x0:_0xea095f(0x44b,0x437),0x1:_0xea095f(0x426,0x42c),0x2:_0xea095f(0x45d,0x425)},'SET_PED_ENABLE_WEAPON_BLOCKING':{0xa:'0x97A790315D3831FD',0x0:_0x2562c6(-0xdc,-0xc1),0x1:_0x2562c6(-0xf0,-0xab),0x2:_0xea095f(0x41e,0x45a)},'SET_PED_CAN_SWITCH_WEAPON':{0xa:_0xea095f(0x441,0x46d),0x0:_0xea095f(0x476,0x461),0x1:_0x2562c6(-0x110,-0xf6),0x2:_0x2562c6(-0x79,-0xb1)},'MAKE_PED_RELOAD':{0xa:_0x2562c6(-0x133,-0x124),0x0:_0x2562c6(-0xdc,-0xae),0x1:_0xea095f(0x442,0x44c),0x2:_0x2562c6(-0x118,-0x12e)},'_SET_VEHICLE_ENGINE_POWER_MULTIPLIER':{0xa:_0xea095f(0x429,0x419),0x0:_0x2562c6(-0x129,-0x11d),0x1:_0xea095f(0x460,0x44f),0x2:_0x2562c6(-0xdb,-0x103)},'_SET_VEHICLE_ENGINE_TORQUE_MULTIPLIER':{0xa:_0xea095f(0x443,0x471),0x0:_0x2562c6(-0x114,-0x132),0x1:_0xea095f(0x456,0x483),0x2:_0x2562c6(-0xec,-0xe9)},'GET_PLAYER_RADIO_STATION_INDEX':{0xa:_0x2562c6(-0xa9,-0xf0)},'SET_FRONTEND_RADIO_ACTIVE':{0xa:_0x2562c6(-0xe1,-0xfe)},'SET_RADIO_TO_STATION_INDEX':{0xa:_0x2562c6(-0xb8,-0xd6)},'GET_ENTITY_ATTACHED_TO_TOW_TRUCK':{0xa:_0xea095f(0x446,0x438)},'SET_CAM_MOTION_BLUR_STRENGTH':{0xa:_0x2562c6(-0x8e,-0xa6)},'SHAKE_CAM':{0xa:_0xea095f(0x470,0x42e)},'SHAKE_GAMEPLAY_CAM':{0xa:_0xea095f(0x47f,0x440)},'_START_SCREEN_EFFECT':{0xa:_0xea095f(0x42a,0x426)},'_STOP_ALL_SCREEN_EFFECTS':{0xa:_0xea095f(0x3d0,0x410)},'_GET_SCREEN_EFFECT_IS_ACTIVE':{0xa:_0xea095f(0x479,0x459)},'_CLAMP_GAMEPLAY_CAM_YAW':{0xa:_0xea095f(0x41a,0x400)},'_CLAMP_GAMEPLAY_CAM_PITCH':{0xa:_0x2562c6(-0xde,-0x109)},'_SET_VEHICLE_NEON_LIGHTS_COLOUR':{0xa:_0xea095f(0x3d5,0x415)},'SET_PLAYER_WEAPON_DEFENSE_MODIFIER':{0xa:_0xea095f(0x3f2,0x418)},'SET_PLAYER_WEAPON_DAMAGE_MODIFIER':{0xa:_0xea095f(0x434,0x412)},'RESTORE_PLAYER_STAMINA':{0xa:_0xea095f(0x41a,0x405)},'TASK_FOLLOW_TO_OFFSET_OF_ENTITY':{0xa:_0x2562c6(-0x150,-0x11c)},'TASK_FOLLOW_NAV_MESH_TO_COORD':{0xa:_0x2562c6(-0x136,-0xf4)},'SET_SCRIPTED_ANIM_SEAT_OFFSET':{0xa:_0x2562c6(-0x9a,-0xdd)},'TASK_START_SCENARIO_IN_PLACE':{0xa:_0x2562c6(-0x106,-0xea)},'SET_SCENARIO_TYPE_ENABLED':{0xa:_0xea095f(0x3ec,0x3fa)},'_SET_DOOR_AJAR_ANGLE':{0xa:_0x2562c6(-0xd4,-0xd5)},'SET_ENTITY_MAX_HEALTH':{0xa:_0x2562c6(-0x78,-0xb0)},'_ADD_CLAN_DECAL_TO_VEHICLE':{0xa:_0x2562c6(-0xef,-0xe0)},'_DOES_VEHICLE_HAVE_DECAL':{0xa:_0xea095f(0x43e,0x417)},'NETWORK_CLAN_JOIN':{0xa:_0x2562c6(-0xf1,-0xf9)},'SET_WEATHER_TYPE_NOW_PERSIST':{0xa:_0xea095f(0x454,0x462)},'SET_WEATHER_TYPE_NOW':{0xa:'0x29B487C359E19889'},'SET_WEAPON_ANIMATION_OVERRIDE':{0xa:_0x2562c6(-0x117,-0x125)},'_SET_SNOW_COVERAGE_TYPE':{0xa:_0xea095f(0x432,0x3ff)},'_SET_SNOW_LEVEL':{0xa:_0x2562c6(-0x89,-0xbf)},'DISABLE_CONTROL_ACTION':{0xa:_0xea095f(0x469,0x45e)}});
+global.GTA_VER = 10;
+global.getNative = function (_0x412634) {
+  return NATIVES[_0x412634][GTA_VER];
+};
+global.NATIVES = {
+  SET_BLIP_FLASHES: {
+    10: "0xB14552383D39CE3E"
+  },
+  SET_BLIP_SECONDARY_COLOUR: {
+    10: "0x14892474891E09EB"
+  },
+  SET_BLIP_SPRITE: {
+    10: "0xDF735600A4696DAF",
+    0: "0x3B815A6E8530D3A5",
+    1: "0xDC0EBFC7730AA226",
+    2: "0x4B4040A0EC7DBA81"
+  },
+  SET_BLIP_ALPHA: {
+    10: "0x45FF974EEE1C8734",
+    0: "0x18EC814D577B92CE",
+    1: "0x1DB03C7D3DC49006",
+    2: "0xF20857E4CB32A2B7"
+  },
+  SET_BLIP_COLOUR: {
+    10: "0x03D7FB09E75D6B7E",
+    0: "0xEB934A06DDA5027D",
+    1: "0x71925FF3194E84CE",
+    2: "0x0C71C8E276E3EC54"
+  },
+  SET_BLIP_FLASH_TIMER: {
+    10: "0xD3CD6FD297AE87CC",
+    0: "0x82F6662608C79359",
+    1: "0xDAA61FC3AADFAE1D",
+    2: "0xAA75C45BC4449A40"
+  },
+  SET_BLIP_ROTATION: {
+    10: "0xF87683CDF73C3F6E",
+    0: "0x890D3D8F19A923CC",
+    1: "0xFA3D22639F5AA493",
+    2: "0xE83839908A240D2E"
+  },
+  REQUEST_ADDITIONAL_COLLISION_AT_COORD: {
+    10: "0xC9156DC11411A9EA",
+    0: "0xF48163C4935062E5",
+    1: "0x199640F55E0F7596",
+    2: "0x566B32CA90C28D2C"
+  },
+  SET_FOLLOW_PED_CAM_VIEW_MODE: {
+    10: "0x5A4F9EDF1673F704",
+    0: "0xBD5C3A8C424D692F",
+    1: "0xA20353DB1D2AF820",
+    2: "0x0B51676846D7C57B"
+  },
+  SET_PED_AMMO: {
+    10: "0x14E56BC5B5DB6A19",
+    0: "0x02B78A67FD396A42",
+    1: "0xC8207C41C6D1E3CF",
+    2: "0xF28A81E331A3F337"
+  },
+  SET_AMMO_IN_CLIP: {
+    10: "0xDCD2A934D65CB497"
+  },
+  REMOVE_ALL_PED_WEAPONS: {
+    10: "0xF25DF915FA38C5F3"
+  },
+  GET_SELECTED_PED_WEAPON: {
+    10: "0x0A6DB4965674D243",
+    0: "0x58A62DEC84D1FB6F",
+    1: "0x6678C142FAC881BA",
+    2: "0x4D008FF908B623E2"
+  },
+  GIVE_WEAPON_TO_PED: {
+    10: "0xBF0FD6E56C964FCB",
+    0: "0xD5D9B48EB10FA2C0",
+    1: "0x7D154B840BD03D00",
+    2: "0x9E058151726E58DE"
+  },
+  REMOVE_WEAPON_FROM_PED: {
+    10: "0x4899CB088EDF59B8",
+    0: "0x9E47A83BAB72D2C4",
+    1: "0xA48F593CC7A71FCC",
+    2: "0xABBEF2EAC74A02EB"
+  },
+  IS_CUTSCENE_ACTIVE: {
+    10: "0x991251AFC3981F84",
+    0: "0x9063DC17918D346A",
+    1: "0x61F9977B378C43BF",
+    2: "0x6C97EEC6339FB45C"
+  },
+  STOP_CUTSCENE_IMMEDIATELY: {
+    10: "0xD220BDD222AC4A1E",
+    0: "0xF51CB58D4AD94B4C",
+    1: "0xCDA9878BAC5C6D68",
+    2: "0xCFA828389A0C5B6B"
+  },
+  GET_RANDOM_EVENT_FLAG: {
+    10: "0xD2D57F1D764117B1",
+    0: "0x86EEE9A2AEF6EC88",
+    1: "0xD436A6CEB14BAC66",
+    2: "0x17E356AF4F930A2C"
+  },
+  SET_RANDOM_EVENT_FLAG: {
+    10: "0x971927086CFD2158",
+    0: "0x4FA59397643FB016",
+    1: "0xD42F50467E7AD46D",
+    2: "0x980C42B833D07BB4"
+  },
+  GET_MISSION_FLAG: {
+    10: "0xA33CDCCDA663159E",
+    0: "0xD532AAF71376B5E8",
+    1: "0xEFD3E4A202A0D9DA",
+    2: "0x5A0744D504CC705F"
+  },
+  SET_MISSION_FLAG: {
+    10: "0xC4301E5121A0ED73",
+    0: "0xB5533C0C8A2B9BF2",
+    1: "0x955FF17089AF6072",
+    2: "0xBC03901A15107317"
+  },
+  REMOVE_ALL_PED_WEAPONS: {
+    10: "0xF25DF915FA38C5F3",
+    0: "0xD129A4C59BEB39B8",
+    1: "0x5FF97B71C576EF53",
+    2: "0x7346A36E01E18FEC"
+  },
+  GET_AMMO_IN_PED_WEAPON: {
+    10: "0x015A522136D7F951",
+    0: "0x63D43044461F40BD",
+    1: "0x2406A9C8DA99D3F4",
+    2: "0x5088CF774DF6D935"
+  },
+  SET_PED_ENABLE_WEAPON_BLOCKING: {
+    10: "0x97A790315D3831FD",
+    0: "0x24DF497566EDB1F0",
+    1: "0xBE2214915742A0E8",
+    2: "0x368E58752384E0B4"
+  },
+  SET_PED_CAN_SWITCH_WEAPON: {
+    10: "0xED7F7EFE9FABF340",
+    0: "0x00663E123FCB5041",
+    1: "0xC6F259731E10AFA1",
+    2: "0xA65C9B02EE3596FE"
+  },
+  MAKE_PED_RELOAD: {
+    10: "0x20AE33F3AC9C0033",
+    0: "0xB984E4455645D862",
+    1: "0x480C8F4C533B9748",
+    2: "0x3B920C528B54FB5F"
+  },
+  _SET_VEHICLE_ENGINE_POWER_MULTIPLIER: {
+    10: "0x93A3996368C94158",
+    0: "0x5F850CC79999947A",
+    1: "0xF1E9E4CBA77681D3",
+    2: "0x28C3B4214877233A"
+  },
+  _SET_VEHICLE_ENGINE_TORQUE_MULTIPLIER: {
+    10: "0xB59E4BD37AE292DB",
+    0: "0x3CFE09CFEB536C3D",
+    1: "0x33C9D0B39210B35E",
+    2: "0xF4A0FCE96487A10B"
+  },
+  GET_PLAYER_RADIO_STATION_INDEX: {
+    10: "0xE8AF77C4C06ADC93"
+  },
+  SET_FRONTEND_RADIO_ACTIVE: {
+    10: "0xF7F26C6E9CC9EBB8"
+  },
+  SET_RADIO_TO_STATION_INDEX: {
+    10: "0xA619B168B8A8570F"
+  },
+  GET_ENTITY_ATTACHED_TO_TOW_TRUCK: {
+    10: "0xEFEA18DCF10F8F75"
+  },
+  SET_CAM_MOTION_BLUR_STRENGTH: {
+    10: "0x6F0F77FBA9A8F2E6"
+  },
+  SHAKE_CAM: {
+    10: "0x6A25241C340D3822"
+  },
+  SHAKE_GAMEPLAY_CAM: {
+    10: "0xFD55E49555E017CF"
+  },
+  _START_SCREEN_EFFECT: {
+    10: "0x2206BF9A37B7F724"
+  },
+  _STOP_ALL_SCREEN_EFFECTS: {
+    10: "0xB4EDDC19532BFB85"
+  },
+  _GET_SCREEN_EFFECT_IS_ACTIVE: {
+    10: "0x36AD3E690DA5ACEB"
+  },
+  _CLAMP_GAMEPLAY_CAM_YAW: {
+    10: "0x8F993D26E0CA5E8E"
+  },
+  _CLAMP_GAMEPLAY_CAM_PITCH: {
+    10: "0xA516C198B7DCA1E1"
+  },
+  _SET_VEHICLE_NEON_LIGHTS_COLOUR: {
+    10: "0x8E0A582209A62695"
+  },
+  SET_PLAYER_WEAPON_DEFENSE_MODIFIER: {
+    10: "0x2D83BC011CA14A3C"
+  },
+  SET_PLAYER_WEAPON_DAMAGE_MODIFIER: {
+    10: "0xCE07B9F7817AADA3"
+  },
+  RESTORE_PLAYER_STAMINA: {
+    10: "0xA352C1B864CAFD33"
+  },
+  TASK_FOLLOW_TO_OFFSET_OF_ENTITY: {
+    10: "0x304AE42E357B8C7E"
+  },
+  TASK_FOLLOW_NAV_MESH_TO_COORD: {
+    10: "0x15D3A79D4E44B913"
+  },
+  SET_SCRIPTED_ANIM_SEAT_OFFSET: {
+    10: "0x5917BBA32D06C230"
+  },
+  TASK_START_SCENARIO_IN_PLACE: {
+    10: "0x142A02425FF02BD9"
+  },
+  SET_SCENARIO_TYPE_ENABLED: {
+    10: "0xEB47EC4E34FB7EE1"
+  },
+  _SET_DOOR_AJAR_ANGLE: {
+    10: "0xB6E6FBA95C7324AC"
+  },
+  SET_ENTITY_MAX_HEALTH: {
+    10: "0x166E7CF68597D8B5"
+  },
+  _ADD_CLAN_DECAL_TO_VEHICLE: {
+    10: "0x428BDCB9DA58DA53"
+  },
+  _DOES_VEHICLE_HAVE_DECAL: {
+    10: "0x060D935D3981A275"
+  },
+  NETWORK_CLAN_JOIN: {
+    10: "0x9FAAA4F4FC71F87F"
+  },
+  SET_WEATHER_TYPE_NOW_PERSIST: {
+    10: "0xED712CA327900C8A"
+  },
+  SET_WEATHER_TYPE_NOW: {
+    10: "0x29B487C359E19889"
+  },
+  SET_WEAPON_ANIMATION_OVERRIDE: {
+    10: "0x1055AC3A667F09D9"
+  },
+  _SET_SNOW_COVERAGE_TYPE: {
+    10: "0xF02A9C330BBFC5C7"
+  },
+  _SET_SNOW_LEVEL: {
+    10: "0xF6BEE7E80EC5CA40"
+  },
+  DISABLE_CONTROL_ACTION: {
+    10: "0xFE99B66D079CF6BC"
+  }
+};
